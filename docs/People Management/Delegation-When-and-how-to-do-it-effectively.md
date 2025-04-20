@@ -1,3 +1,5 @@
+# Delegation: When and how to d it effectively
+
 ## The Art of Letting Go: Effective Delegation for Engineering Managers
 
 Stepping into a management role often means shifting from *doing* the work to *enabling* others to do their best work. This transition can be surprisingly difficult, especially for those who previously thrived as individual contributors. One of the most crucial skills for a new manager is effective delegation – and it’s often the hardest to master. It requires trust, patience, and a willingness to relinquish control. But the rewards – a stronger team, a more sustainable workload, and a more fulfilling leadership experience – are well worth the effort.
