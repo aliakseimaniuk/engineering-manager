@@ -12,13 +12,12 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}
-      description="Proven strategies and community support for engineering managers.">
+      description="Inspiration, strategy, and community for engineering managers.">
       <Hero />
       <main>
         <KeyBenefits />
         <ForWho />
-        <Community />
-        <FinalCTA />
+        <CommunityCTA />
       </main>
     </Layout>
   );
@@ -30,17 +29,16 @@ function Hero() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          Level Up Your Leadership
+          Level Up Your Engineering Leadership
         </Heading>
         <p className="hero__subtitle">
-          Practical Guidance for Engineering Managers & Future Leaders.
-          Access proven strategies, frameworks, and a supportive community to help you navigate the challenges of leading engineering teams.
+          Navigate the challenges of leading teams with confidence. Access proven strategies, real-world advice, and a supportive peer community.
         </p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/docs/Introduction">
             Explore the Knowledge Base 📚
           </Link>
-          <Link className="button button--outline button--lg" to="https://discord.gg/test" style={{ marginLeft: '1rem' }}>
+          <Link className="button button--outline button--lg" to="https://discord.gg" style={{ marginLeft: '1rem' }}>
             Join the Community 💬
           </Link>
         </div>
@@ -55,50 +53,42 @@ function KeyBenefits() {
     {
       title: 'Team Building',
       emoji: '👥',
-      description: 'Foster trust, set clear goals, and create a culture where people thrive.',
-      link: '/docs/Introduction',
+      description: 'Foster trust, set goals, and build high-performing teams.',
     },
     {
       title: 'Effective 1:1s',
       emoji: '💬',
-      description: 'Build alignment, give feedback, and support your team’s development.',
-      link: '/docs/Introduction',
+      description: 'Have meaningful conversations and support career growth.',
     },
     {
       title: 'Technical Strategy',
       emoji: '🧠',
-      description: 'Drive architectural decisions and align engineering with business goals.',
-      link: '/docs/Introduction',
+      description: 'Drive decisions that align engineering with business outcomes.',
     },
     {
       title: 'Performance Management',
       emoji: '📊',
-      description: 'Set expectations, measure outcomes, and have growth-oriented reviews.',
-      link: '/docs/Introduction',
+      description: 'Give feedback, evaluate outcomes, and support improvement.',
     },
     {
-      title: 'Career Growth & Mentorship',
+      title: 'Mentorship & Growth',
       emoji: '🌱',
-      description: 'Help engineers grow through coaching, sponsorship, and clear paths.',
-      link: '/docs/Introduction',
+      description: 'Coach engineers and design clear growth paths.',
     },
     {
       title: 'Cross-Functional Collaboration',
       emoji: '🤝',
-      description: 'Work effectively with Product, Design, and other stakeholders.',
-      link: '/docs/Introduction',
+      description: 'Work smoothly with Product, Design, and stakeholders.',
     },
     {
-      title: 'Scaling Teams & Processes',
+      title: 'Scaling Teams',
       emoji: '📈',
-      description: 'Evolve org structure, onboard effectively, and reduce operational overhead.',
-      link: '/docs/Introduction',
+      description: 'Grow your org without losing alignment and culture.',
     },
     {
       title: 'Handling Conflict',
       emoji: '🔥',
-      description: 'Resolve tensions constructively and build psychological safety.',
-      link: '/docs/Introduction',
+      description: 'Create psychological safety and resolve tensions productively.',
     },
   ];
 
@@ -107,13 +97,9 @@ function KeyBenefits() {
       <div className="container">
         <h2 className={styles.sectionTitle}>🔓 Unlock Your Potential as an Engineering Leader</h2>
         <div className={styles.cardGrid}>
-          {topics.map(({ title, description, link, emoji }) => (
+          {topics.map(({ title, description, emoji }) => (
             <div key={title} className={styles.card}>
-              <h3>
-                <Link to={link} className="clean-link">
-                  {emoji} {title}
-                </Link>
-              </h3>
+              <h3>{emoji} {title}</h3>
               <p>{description}</p>
             </div>
           ))}
@@ -123,20 +109,20 @@ function KeyBenefits() {
   );
 }
 
-// Engineering Managers & Aspiring Leaders
+// Target Audience Section
 function ForWho() {
   return (
     <section className={styles.altSection}>
       <div className="container">
-        <h2 className={styles.sectionTitle}>🙌 For Engineering Managers & Aspiring Leaders</h2>
+        <h2 className={styles.sectionTitle}>🙌 Who This is For</h2>
         <div className={styles.columns}>
           <div className={styles.column}>
             <h3>👩‍💼 Engineering Managers</h3>
-            <p>Dig into frameworks, metrics, and leadership strategies to level up your org and your impact.</p>
+            <p>Gain tools and insights to lead effectively, grow your team, and drive outcomes.</p>
           </div>
           <div className={styles.column}>
-            <h3>🌱 Aspiring Engineering Managers</h3>
-            <p>Prepare for the transition with guides on mindset, communication, and building trust from day one.</p>
+            <h3>🌱 Aspiring Managers</h3>
+            <p>Start your leadership journey with the right mindset, habits, and frameworks.</p>
           </div>
         </div>
       </div>
@@ -144,38 +130,18 @@ function ForWho() {
   );
 }
 
-// Community Section
-function Community() {
+// Community & Final CTA
+function CommunityCTA() {
   return (
-    <section className={styles.section}>
-      <div className="container">
-        <h2 className={styles.sectionTitle}>💬 Join the Conversation</h2>
-        <p style={{ textAlign: 'center' }}>Connect with other engineering leaders, ask questions, and share your journey.</p>
-        <div className={styles.buttons} style={{ justifyContent: 'center' }}>
-          <Link className="button button--secondary button--lg" to="https://discord.gg/test">
-            Join Discord
-          </Link>
-          <Link className="button button--outline button--lg" to="https://slack.com/test" style={{ marginLeft: '1rem' }}>
-            Join Slack
-          </Link>
-        </div>
-      </div>
-    </section>
-  );
-}
-
-// Final CTA
-function FinalCTA() {
-  return (
-    <section className={clsx(styles.altSection, styles.ctaSection)}>
+    <section className={clsx(styles.section, styles.ctaSection)}>
       <div className="container" style={{ textAlign: 'center' }}>
-        <h2 className={styles.sectionTitle}>Ready to Lead with Confidence?</h2>
-        <p>Start learning now or join the community to grow with others.</p>
+        <h2 className={styles.sectionTitle}>Ready to Grow with a Community of Leaders?</h2>
+        <p>Learn from others, ask questions, and share your story in our active Discord group.</p>
         <div className={styles.buttons} style={{ justifyContent: 'center' }}>
           <Link className="button button--primary button--lg" to="/docs/Introduction">
-            Explore the Knowledge Base
+            Start Learning
           </Link>
-          <Link className="button button--outline button--lg" to="https://discord.gg/test" style={{ marginLeft: '1rem' }}>
+          <Link className="button button--secondary button--lg" to="https://discord.gg" style={{ marginLeft: '1rem' }}>
             Join the Community
           </Link>
         </div>

@@ -1,3 +1,4 @@
+/* --- Hero Section --- */
 .heroBanner {
   padding: 4rem 2rem;
   text-align: center;
@@ -35,25 +36,34 @@
   gap: 1rem;
 }
 
-/* Section styling */
-.section {
+/* --- Section Base --- */
+.section,
+.altSection,
+.ctaSection {
   padding: 4rem 1rem;
+  text-align: center;
+}
+
+.section {
   background-color: var(--ifm-background-color);
 }
 
-.altSection {
-  padding: 4rem 1rem;
+.altSection,
+.ctaSection {
   background-color: var(--ifm-background-surface-color);
 }
 
 .sectionTitle {
-  text-align: center;
   font-size: 2rem;
   margin-bottom: 2rem;
   color: var(--ifm-heading-color);
 }
 
-/* Grid cards */
+.ctaSection .sectionTitle {
+  margin-bottom: 1rem;
+}
+
+/* --- Card Grid --- */
 .cardGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -88,11 +98,17 @@
   line-height: 1.5;
 }
 
-/* Columns for "Engineering Managers & Aspiring" */
+/* --- Columns (ForWho Section) --- */
 .columns {
   display: flex;
   flex-direction: column;
   gap: 2rem;
+}
+
+@media (min-width: 768px) {
+  .columns {
+    flex-direction: row;
+  }
 }
 
 .column {
@@ -107,21 +123,4 @@
 .column h3 {
   margin-top: 0;
   color: var(--ifm-heading-color);
-}
-
-@media (min-width: 768px) {
-  .columns {
-    flex-direction: row;
-  }
-}
-
-/* Final CTA */
-.ctaSection {
-  background-color: var(--ifm-background-surface-color);
-  text-align: center;
-  padding: 4rem 1rem;
-}
-
-.ctaSection .sectionTitle {
-  margin-bottom: 1rem;
 }

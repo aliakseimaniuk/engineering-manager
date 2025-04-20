@@ -80,44 +80,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Introduction',
-                to: '/docs/Introduction',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/engineering-manager',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/engineering-manager',
-              },
-              {
-                label: 'Slack',
-                href: 'https://slack.com/community',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/aliakseimaniuk/engineering-manager',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Engineering Manager. Built with ❤️.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Engineering Manager. Built with ❤️ on Planet Earth.`,
       },
       prism: {
         theme: prismThemes.github,
