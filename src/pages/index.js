@@ -37,7 +37,7 @@ function Hero() {
           Access proven strategies, frameworks, and a supportive community to help you navigate the challenges of leading engineering teams.
         </p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs/intro">
+          <Link className="button button--secondary button--lg" to="/docs/Introduction">
             Explore the Knowledge Base 📚
           </Link>
           <Link className="button button--outline button--lg" to="https://discord.gg/test" style={{ marginLeft: '1rem' }}>
@@ -56,49 +56,49 @@ function KeyBenefits() {
       title: 'Team Building',
       emoji: '👥',
       description: 'Foster trust, set clear goals, and create a culture where people thrive.',
-      link: '/docs/team-building',
+      link: '/docs/Introduction',
     },
     {
       title: 'Effective 1:1s',
       emoji: '💬',
       description: 'Build alignment, give feedback, and support your team’s development.',
-      link: '/docs/effective-1-1s',
+      link: '/docs/Introduction',
     },
     {
       title: 'Technical Strategy',
       emoji: '🧠',
       description: 'Drive architectural decisions and align engineering with business goals.',
-      link: '/docs/technical-strategy',
+      link: '/docs/Introduction',
     },
     {
       title: 'Performance Management',
       emoji: '📊',
       description: 'Set expectations, measure outcomes, and have growth-oriented reviews.',
-      link: '/docs/performance-management',
+      link: '/docs/Introduction',
     },
     {
       title: 'Career Growth & Mentorship',
       emoji: '🌱',
       description: 'Help engineers grow through coaching, sponsorship, and clear paths.',
-      link: '/docs/career-growth',
+      link: '/docs/Introduction',
     },
     {
       title: 'Cross-Functional Collaboration',
       emoji: '🤝',
       description: 'Work effectively with Product, Design, and other stakeholders.',
-      link: '/docs/collaboration',
+      link: '/docs/Introduction',
     },
     {
       title: 'Scaling Teams & Processes',
       emoji: '📈',
       description: 'Evolve org structure, onboard effectively, and reduce operational overhead.',
-      link: '/docs/scaling-teams',
+      link: '/docs/Introduction',
     },
     {
       title: 'Handling Conflict',
       emoji: '🔥',
       description: 'Resolve tensions constructively and build psychological safety.',
-      link: '/docs/handling-conflict',
+      link: '/docs/Introduction',
     },
   ];
 
@@ -172,7 +172,7 @@ function FinalCTA() {
         <h2 className={styles.sectionTitle}>Ready to Lead with Confidence?</h2>
         <p>Start learning now or join the community to grow with others.</p>
         <div className={styles.buttons} style={{ justifyContent: 'center' }}>
-          <Link className="button button--primary button--lg" to="/docs/intro">
+          <Link className="button button--primary button--lg" to="/docs/Introduction">
             Explore the Knowledge Base
           </Link>
           <Link className="button button--outline button--lg" to="https://discord.gg/test" style={{ marginLeft: '1rem' }}>
