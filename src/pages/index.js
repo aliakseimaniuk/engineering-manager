@@ -32,7 +32,7 @@ function Hero() {
           Level Up Your Engineering Leadership
         </Heading>
         <p className="hero__subtitle">
-          Navigate the challenges of leading teams with confidence. Access proven strategies, real-world advice, and a supportive peer community.
+        Practical Guidance for Engineering Managers & Future Leaders. Access proven strategies, frameworks, and a supportive community to help you navigate the challenges of leading engineering teams.
         </p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/docs/Introduction">
