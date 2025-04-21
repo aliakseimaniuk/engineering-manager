@@ -56,8 +56,4 @@ Balancing technical and managerial responsibilities isn’t a one-time fix. It�
 
 Sometimes, team members may *expect* you to solve problems directly, especially if that’s been the pattern in the past. When this happens, gently guide them through the problem-solving process instead of immediately offering a solution. Ask questions, encourage them to explore different approaches, and provide support without taking over.
 
-## Visualizing Your Time Allocation
-
-[Image depicting a pie chart showing time allocation: 60% People Management, 30% Strategic Initiatives, 10% Technical Contribution]
-
 Finally, remember that leadership is a journey, not a destination.  Embrace the challenges, learn from your mistakes, and continuously strive to empower your team to achieve its full potential.

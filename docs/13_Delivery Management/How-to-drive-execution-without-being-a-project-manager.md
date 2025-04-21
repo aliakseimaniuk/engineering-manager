@@ -76,7 +76,3 @@ Shifting from a “doer” to a “leader” requires a change in mindset. It's 
 *   **More time for strategic initiatives.**
 
 Ultimately, effective leadership is about building a system that empowers your team to succeed, even when you're not directly involved. It's about creating an environment where they can thrive, innovate, and achieve extraordinary things.
-
-
-
-**[Image: A simple diagram illustrating the shift from "Doer" (individual contributor focused on tasks) to "Leader" (empowering team, focusing on systems and outcomes).]**

@@ -67,12 +67,6 @@ All the strategies outlined above are ineffective if leaders don't model the beh
 * **Be Vulnerable:** Share your own challenges and struggles to create a more authentic and supportive environment.
 * **Celebrate Successes:** Recognize and appreciate the contributions of your team members.
 
-
-
-
-**[Image: A simple illustration of a balanced scale, representing work-life balance]**
-
-
 ## The Path to Sustainable Productivity
 
 Building a healthy, resilient engineering team isn’t just about avoiding burnout; it’s about creating a culture of sustainable productivity, where individuals can thrive, innovate, and deliver their best work. By prioritizing wellbeing, fostering psychological safety, and leading by example, you can create a team that is not only productive but also happy, engaged, and committed to long-term success.
