@@ -1,4 +1,4 @@
-# Beyond Agile: Establishing a Scalable Software Development Life Cycle
+# Establishing a Scalable Software Development Life Cycle
 
 Most software projects quickly outgrow the capacity of a single person, necessitating effective teamwork. This article explores how to build a scalable Software Development Life Cycle (SDLC) that empowers your team to deliver high-quality software, even as your organization grows.
 

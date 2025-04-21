@@ -1,4 +1,4 @@
-# Beyond 'Good Job': Delivering Meaningful Feedback That Fuels Growth
+# Delivering Meaningful Feedback That Fuels Growth
 
 How many times have you given feedback that felt…flat? Or received feedback that left you feeling confused or defensive? We’ve all been there. Moving beyond superficial praise or criticism is crucial for building a high-performing team. This article will equip you with actionable strategies to deliver feedback that truly resonates with your engineering team, fostering growth and improving performance.
 

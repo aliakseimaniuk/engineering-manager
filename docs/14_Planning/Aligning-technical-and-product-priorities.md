@@ -1,4 +1,4 @@
-# Bridging the Gap: Aligning Technical and Product Priorities
+# Aligning Technical and Product Priorities
 
 This article is for engineering leaders who want to foster better collaboration and deliver impactful software. It addresses the common challenge of misalignment between technical and product priorities and proposes a system for building a more collaborative and effective team.
 

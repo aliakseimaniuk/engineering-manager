@@ -1,4 +1,4 @@
-# Beyond Shipping Code: What is Engineering Delivery, and Why Does It Matter?
+# What is Engineering Delivery, and Why Does It Matter?
 
 Every year, countless software projects fail or are delivered late and over budget. A significant contributor to these failures isn't a lack of technical skill, but a lack of focus on *how* we deliver software. This article explores the concept of “engineering delivery” – a strategic capability that goes beyond simply “getting features out the door” – and why investing in it is crucial for building a sustainable, high-performing engineering organization.
 

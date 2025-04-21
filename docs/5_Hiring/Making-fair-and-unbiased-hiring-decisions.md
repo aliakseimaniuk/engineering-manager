@@ -1,4 +1,4 @@
-# Beyond Skills: Building a Fair and Unbiased Hiring Process
+# Building a Fair and Unbiased Hiring Process
 
 Studies show that diverse teams are 35% more likely to outperform homogenous ones, yet engineering remains one of the least diverse fields. This article provides a practical guide to overcoming unconscious bias and building a team that truly reflects the talent available. 
 

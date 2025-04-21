@@ -1,4 +1,4 @@
-# Beyond the Buddy: Building a Structured Onboarding Framework
+# Building a Structured Onboarding Framework
 
 It’s a common scenario: a new engineer joins your team, and you pair them with a “buddy” to help them get up to speed. While helpful, relying solely on this informal approach quickly becomes unsustainable as your engineering organization grows. This article outlines a structured onboarding framework that moves beyond the buddy system, leading to increased productivity, higher employee engagement, and a stronger team.
 

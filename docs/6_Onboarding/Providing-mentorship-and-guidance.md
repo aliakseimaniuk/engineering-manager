@@ -1,4 +1,4 @@
-# The Often-Overlooked Key to Onboarding: Intentional Mentorship
+# Intentional Mentorship
 
 Imagine a talented new engineer joining your team, brimming with potential. They’re eager to contribute, but quickly become overwhelmed by the complexities of the codebase, internal processes, and team dynamics. Without guidance, their initial enthusiasm wanes, their productivity stalls, and, after months of struggle, they quietly leave. This scenario is far too common – and often preventable. The key? Intentional mentorship.
 

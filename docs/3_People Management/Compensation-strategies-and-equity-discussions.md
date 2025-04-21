@@ -1,4 +1,4 @@
-# Beyond the Number: Navigating Compensation & Equity Discussions with Your Team
+# Navigating Compensation & Equity Discussions with Your Team
 
 This article provides practical advice for engineering managers on how to navigate sensitive compensation and equity discussions with their teams. It covers important ground and aims to equip you with the tools to foster a motivated, engaged, and high-performing team.
 

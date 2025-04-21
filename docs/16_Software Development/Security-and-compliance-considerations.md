@@ -1,4 +1,4 @@
-# Beyond Code: Integrating Security and Compliance into Your SDLC
+# Integrating Security and Compliance into Your SDLC
 
 As engineering managers, we're constantly focused on building innovative and valuable software. But innovation can't come at the expense of security and compliance. A reactive approach – fixing vulnerabilities *after* they’re discovered – is costly, time-consuming, and can damage your organization’s reputation. This article outlines a proactive approach to integrating security and compliance throughout the entire Software Development Lifecycle (SDLC), fostering a culture where security is everyone’s responsibility.
 

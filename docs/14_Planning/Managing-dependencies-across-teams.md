@@ -1,4 +1,4 @@
-# The Tightrope Walk: Managing Dependencies Across Engineering Teams
+# Managing Dependencies Across Engineering Teams
 
 As engineering organizations grow, so too does the complexity of their systems and the interdependencies between teams. This often leads to a precarious situation – a “tightrope walk” where changes in one area can unexpectedly impact others. Effectively managing these dependencies is crucial for maintaining velocity, stability, and ultimately, delivering value. This article explores the challenges of cross-team dependencies and provides practical strategies for navigating them.
 

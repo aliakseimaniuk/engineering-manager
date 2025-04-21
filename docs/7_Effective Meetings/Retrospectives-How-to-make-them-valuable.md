@@ -1,4 +1,4 @@
-# Beyond Blameless Post-Mortems: Building Truly Effective Team Retrospectives
+# Building Truly Effective Team Retrospectives
 
 Ineffective retrospectives can lead to recurring problems, frustrated teams, and lost productivity. But when done right, they're a powerful engine for continuous improvement and team empowerment. This article provides practical guidance for engineering leaders looking to improve the effectiveness of their team’s retrospectives, moving beyond the limitations of solely focusing on “blameless post-mortems.”
 

@@ -1,4 +1,4 @@
-# Beyond Logs: Building Observability into Your Engineering Culture
+# Building Observability into Your Engineering Culture
 
 In today’s complex, distributed systems – built on microservices, cloud-native architectures, and rapid deployments – understanding *how* your software is behaving in production is more critical than ever. Simply knowing *if* something is broken isn’t enough; you need deep insight into *why* and *how* to fix it quickly. This requires moving beyond basic logging to embrace observability – a proactive approach to understanding system health and performance. This article isn’t about the *tools* of observability, but rather how to build it into the very fabric of your engineering culture.
 

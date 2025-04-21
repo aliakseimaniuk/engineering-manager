@@ -1,4 +1,4 @@
-# The Invisible Tech Lead: Why Documentation is *Your* Most Important Work
+# Why Documentation is *Your* Most Important Work
 
 As an engineering leader, you’re constantly looking for ways to maximize your team’s impact. You focus on technical strategy, process improvement, and individual growth. But there’s one often-overlooked area that can dramatically improve velocity, resilience, and overall team health: documentation. Not just *having* documentation, but actively prioritizing it and making it a core leadership responsibility.  Poor documentation isn't just a nuisance; it's a costly drain on productivity, leading to duplicated effort, miscommunication, and ultimately, stalled innovation.  This article will show you how to become an *invisible* tech lead – quietly enabling your team to succeed, even when you’re not there.
 

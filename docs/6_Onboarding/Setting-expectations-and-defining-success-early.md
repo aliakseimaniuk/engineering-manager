@@ -1,4 +1,4 @@
-# Onboarding: Setting Expectations and Defining Success Early
+# Setting Expectations and Defining Success Early
 
 Studies show that companies with a structured onboarding process experience up to 50% higher new hire retention. In today’s competitive engineering landscape, a strong onboarding experience isn’t just about paperwork and introductions – it’s a critical investment in your team’s success. This article provides actionable advice for engineering leaders on how to set clear expectations and empower new hires to thrive.
 

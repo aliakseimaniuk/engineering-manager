@@ -1,4 +1,4 @@
-# Beyond Keywords: Why a Well-Defined Job Description is Your First Line of Defense in Hiring
+# Why a Well-Defined Job Description is Your First Line of Defense in Hiring
 
 This article addresses a frequently overlooked but critical aspect of hiring: crafting a robust job description. In a competitive talent market, it’s tempting to cut corners, but investing the time to define the role clearly is a foundational step towards building a high-performing engineering team. It's not just about filling a seat; it’s about setting the stage for long-term success and, ultimately, demonstrating respect for both your team and prospective candidates.
 

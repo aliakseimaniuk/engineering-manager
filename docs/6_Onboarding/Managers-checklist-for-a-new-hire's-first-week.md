@@ -1,4 +1,4 @@
-# Beyond the Paperwork: A Manager’s Checklist for a New Hire’s First Week
+# A Manager’s Checklist for a New Hire’s First Week
 
 This article provides a practical checklist for engineering managers to create a welcoming and productive onboarding experience for new hires. By going beyond the administrative tasks, you can set your team members up for success and foster long-term engagement.
 

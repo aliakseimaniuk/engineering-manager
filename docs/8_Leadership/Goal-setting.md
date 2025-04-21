@@ -1,4 +1,4 @@
-# Beyond SMART: Goal Setting That Actually Drives Engineering Performance
+# Goal Setting That Actually Drives Engineering Performance
 
 This article offers a fresh perspective on goal setting, moving beyond traditional “SMART” goals to focus on process, people, and sustainable growth for engineering teams.
 

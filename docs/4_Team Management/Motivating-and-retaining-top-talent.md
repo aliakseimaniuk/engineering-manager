@@ -1,4 +1,4 @@
-# Beyond Perks: Motivating and Retaining Top Engineering Talent
+# Motivating and Retaining Top Engineering Talent
 
 Employee turnover in the tech industry is costly – estimates suggest replacing a single employee can exceed $100,000.  Beyond competitive salaries, what truly motivates and retains top engineering talent? This article moves beyond superficial solutions and focuses on the core drivers of a thriving engineering culture.
 

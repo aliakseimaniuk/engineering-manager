@@ -1,4 +1,4 @@
-# Beyond the Resume: Mastering Behavioral Interviews for Engineering Leaders
+# Mastering Behavioral Interviews for Engineering Leaders
 
 As leaders, we’ve all faced the challenge of hiring technically brilliant candidates who ultimately aren't a great fit for our teams. They might be coding wizards, but lack the communication skills, collaborative spirit, or problem-solving approach needed to thrive. This article will provide you with the tools and techniques to move beyond the resume and identify candidates who not only *can* code, but who *will* thrive within your team – and help you build something truly exceptional.
 

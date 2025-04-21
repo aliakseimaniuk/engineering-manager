@@ -1,4 +1,4 @@
-# Beyond the Rating: Conducting Performance Reviews That Actually *Improve* Performance
+# Conducting Performance Reviews That Actually *Improve* Performance
 
 Are you dreading performance review season? Does it feel like a bureaucratic exercise that leaves both you and your team feeling demoralized? You're not alone. Traditional performance reviews often fall short, wasting valuable time, damaging morale, and ultimately failing to drive meaningful improvement. This article offers a shift in perspective, providing actionable steps to conduct performance reviews that actually foster growth, build trust, and unlock your team’s full potential.
 

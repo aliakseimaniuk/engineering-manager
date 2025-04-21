@@ -1,4 +1,4 @@
-# Beyond Buzzwords: Building Truly Accessible and Inclusive Engineering Teams
+# Building Truly Accessible and Inclusive Engineering Teams
 
 The tech industry has long talked about diversity and inclusion. But simply *having* a diverse team isn't enough. True success comes from cultivating an environment where *everyone* feels valued, respected, and empowered to contribute their best work. This means moving beyond buzzwords and implementing practical strategies to build genuinely accessible and inclusive engineering teams. A recent study by Deloitte found that inclusive teams are 80% more innovative and 6x more likely to be high-performing. This isn’t just a moral imperative; it’s a business advantage.
 

@@ -1,4 +1,4 @@
-# Beyond Gut Check: How to Estimate Effort Without Overpromising
+# How to Estimate Effort Without Overpromising
 
 Inaccurate estimates are a common source of project delays, frustrated teams, and strained stakeholder relationships. This article offers a practical approach for engineering leaders to move beyond guesswork and establish a more reliable process for effort estimation.
 

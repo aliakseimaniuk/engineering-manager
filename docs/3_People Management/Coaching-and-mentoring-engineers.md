@@ -1,4 +1,4 @@
-# Beyond Onboarding: Building a Culture of Coaching and Mentorship in Engineering
+# Building a Culture of Coaching and Mentorship in Engineering
 
 Investing in coaching and mentorship isn’t just a "soft skill;" it's a strategic imperative. It's the key to building a resilient, innovative, and ultimately, *successful* engineering team. Studies show that companies with robust mentorship programs experience higher employee retention and increased productivity – a compelling argument in today’s competitive landscape. This article explores how to move beyond basic onboarding to cultivate a thriving mentorship culture within your engineering organization.
 

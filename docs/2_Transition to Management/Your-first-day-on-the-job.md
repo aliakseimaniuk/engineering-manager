@@ -1,4 +1,4 @@
-# The First Day: Setting the Stage for Long-Term Success (For New Engineering Managers)
+# The First Day, Setting the Stage for Long-Term Success (For New Engineering Managers)
 
 This article offers practical, empathetic advice for new engineering managers, focusing on the crucial “soft skills” – building trust, listening, understanding – that underpin long-term success. The advice is grounded in experience, and this framework offers a useful structuring device for the first 90 days.
 

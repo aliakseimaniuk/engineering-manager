@@ -1,4 +1,4 @@
-# The Invisible Work: Common Mistakes New Managers Make (and How to Avoid Them)
+# Common Mistakes New Managers Make (and How to Avoid Them)
 
 Stepping into management is a significant transition. Engineers are often rewarded for independent problem-solving; management requires a shift in focus – from *doing* the work to enabling others to do their best work. This article outlines common pitfalls for new engineering managers and offers practical advice for success.
 

@@ -1,4 +1,4 @@
-# Beyond Blame: Building a Culture of Learning with Post-Mortems & Retrospectives
+# Building a Culture of Learning with Post-Mortems & Retrospectives
 
 Engineering teams face inevitable failures. But the true measure of a high-performing team isn't the *absence* of failures, but how effectively they learn from them. All too often, post-incident reviews devolve into blame games, hindering growth and stifling innovation. This can lead to a hidden tax on engineering productivity: repeated mistakes, eroded trust, and a reluctance to take risks. This article explores how to move beyond blame and build a culture of learning through effective post-mortems and retrospectives.
 

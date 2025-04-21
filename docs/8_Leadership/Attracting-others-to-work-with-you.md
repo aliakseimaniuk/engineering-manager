@@ -1,4 +1,4 @@
-# Beyond the Perks: Attracting Top Talent by Being Someone People *Want* to Work With
+# Attracting Top Talent by Being Someone People *Want* to Work With
 
 Attracting and retaining top engineering talent is more challenging than ever. In today's competitive landscape, salary and traditional perks are no longer enough. Engineers are seeking more than just a job; they want to be part of a thriving, supportive culture where they feel valued and can grow. This article explores how focusing on leadership and creating a positive environment—being someone people *want* to work with—is crucial for building a high-performing team.
 

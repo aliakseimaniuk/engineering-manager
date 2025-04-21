@@ -1,4 +1,4 @@
-# Beyond Sprint Speed: Cultivating Continuous Improvement in Engineering Team Velocity
+# Cultivating Continuous Improvement in Engineering Team Velocity
 
 Is your team struggling to maintain velocity as it grows? Many engineering organizations fall into the trap of simply adding more people to solve problems, only to find that productivity *decreases*. This isn’t a people problem; it’s a system problem. This post explores how to move beyond just “doing more” and build a sustainable culture of continuous improvement to truly accelerate your engineering organization.
 

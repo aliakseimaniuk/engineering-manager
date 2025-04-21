@@ -1,4 +1,4 @@
-# Beyond Happy Hours: Truly Understanding Team Health and Morale
+# Truly Understanding Team Health and Morale
 
 It’s easy to fall into the trap of thinking team building means happy hours and offsites. But what if those efforts are masking deeper issues impacting performance, innovation, and retention? A disengaged team, even one enjoying perks, is a costly liability. Prioritizing genuine *team health* – a foundation of psychological safety, trust, and shared purpose – is no longer a “nice-to-have,” but a critical business imperative. This article explores how engineering leaders can move beyond superficial gestures and build truly thriving teams.
 

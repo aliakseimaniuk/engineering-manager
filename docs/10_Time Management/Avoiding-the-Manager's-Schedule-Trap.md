@@ -1,10 +1,8 @@
-# Avoiding the Manager's Schedule Trap
-
-## Reclaiming Your Calendar: Prioritizing 1:1s for Engineering Team Success
+# Reclaiming Your Calendar: Prioritizing 1:1s for Engineering Team Success
 
 Are you an engineering manager constantly juggling competing priorities, feeling like you’re always putting out fires? If so, you're likely sacrificing valuable time with your team. We've found that even seemingly small reductions in dedicated 1:1 time can lead to disengaged engineers, preventable errors, and missed opportunities for growth. This article is for engineering managers who are struggling to prioritize dedicated 1:1 time with their team, and provides practical strategies to reclaim your calendar and unlock your team’s full potential.
 
-### The Cost of a Packed Calendar
+## The Cost of a Packed Calendar
 
 A constantly overbooked schedule isn’t just a symptom of being busy – it’s a drain on your team’s performance and morale. Here’s what’s at stake:
 
@@ -13,7 +11,7 @@ A constantly overbooked schedule isn’t just a symptom of being busy – it’s
 *   **Missed Growth Opportunities:** Without dedicated time for career conversations, engineers struggle to develop their skills and reach their full potential. 
 *   **Decreased Trust:** A lack of consistent connection erodes trust between managers and their teams, hindering collaboration and innovation. 
 
-### Reclaiming Your Time: The Power of Consistent 1:1s
+## Reclaiming Your Time: The Power of Consistent 1:1s
 
 The key to mitigating these costs is prioritizing consistent, high-quality 1:1 meetings. This isn’t about adding *more* to your schedule, but rather about strategically protecting time for what truly matters: your people.
 
@@ -44,9 +42,7 @@ While allowing flexibility, a little structure can ensure productive conversatio
 *   **Project Updates & Challenges:** “What roadblocks are you currently facing, and how can I help?” “What’s going well on your current projects?”
 *   **Team Dynamics:** “How are things going with [team member]? Are there any areas where we can improve collaboration?” “Is there anything happening within the team that I should be aware of?”
 
-
-
-### Adapting to Different Contexts
+## Adapting to Different Contexts
 
 Every team and organization is unique. Here's how to adjust these strategies:
 
@@ -58,7 +54,7 @@ Every team and organization is unique. Here's how to adjust these strategies:
 
 
 
-### Beyond Time Management: Investing in Your People
+## Beyond Time Management: Investing in Your People
 
 Reclaiming your calendar isn’t just about efficiency; it's about investing in your most valuable asset: your team. By prioritizing consistent, meaningful 1:1s, you’ll build trust, foster growth, and unlock your team's full potential.  
 

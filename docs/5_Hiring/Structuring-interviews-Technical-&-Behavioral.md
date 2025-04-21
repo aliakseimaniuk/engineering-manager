@@ -1,4 +1,4 @@
-# Building a Scalable Team: A Structured Interview Process
+# A Structured Interview Process
 
 By implementing a structured interview process that prioritizes both technical skills *and* personality, you can build a team that’s not only capable but also collaborative, adaptable, and driven to succeed. And that's the foundation for sustainable growth.
 

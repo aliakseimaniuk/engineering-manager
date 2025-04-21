@@ -1,4 +1,4 @@
-# Delegation: When and how to d it effectively
+# When and how to delegate effectively
 
 ## The Art of Letting Go: Effective Delegation for Engineering Managers
 

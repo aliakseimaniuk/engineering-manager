@@ -1,4 +1,4 @@
-# Beyond Code Reviews: The Engineering Manager's True Role in Project Execution
+# The Engineering Manager's True Role in Project Execution
 
 A recent study showed that nearly 40% of engineering projects fail due to poor leadership and communication. But what does effective leadership *look* like for an Engineering Manager? It's far more than just reviewing code or assigning tasks. It’s about building systems, fostering growth, and enabling a team to consistently deliver value. This article explores how to shift your focus from *doing* to *enabling* to unlock the full potential of your team.
 

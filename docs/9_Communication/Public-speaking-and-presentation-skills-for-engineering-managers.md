@@ -1,4 +1,4 @@
-# Beyond the Code: Why Public Speaking is a Non-Negotiable Skill for Engineering Managers
+# Why Public Speaking is a Non-Negotiable Skill for Engineering Managers
 
 Imagine a brilliant engineer with a revolutionary idea, unable to secure buy-in from stakeholders because they struggle to articulate its value. Or a team leader whose technical expertise is overshadowed by their inability to effectively communicate project roadblocks. These scenarios are far too common. As engineering managers climb the ladder, technical skills become less critical than the ability to lead, influence, and *communicate*. This article explores why public speaking – and more broadly, effective communication – is a non-negotiable skill for engineering managers, and provides a practical guide to mastering it.
 
