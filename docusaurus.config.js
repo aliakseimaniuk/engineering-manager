@@ -63,7 +63,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Engineering Maanger',
+        title: 'Engineering Manager',
         items: [
           {
             type: 'docSidebar',
