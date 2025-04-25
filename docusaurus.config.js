@@ -70,6 +70,13 @@ const config = {
         explicitSearchResultPath: true,
       }),
     ],
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-WGGFCN32D4',
+        anonymizeIP: true,
+      },
+    ],
   ],
 
   themeConfig:
