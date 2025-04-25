@@ -71,7 +71,7 @@ const config = {
       }),
     ],
     [
-      '@docusaurus/plugin-google-analytics',
+      '@docusaurus/plugin-google-gtag',
       {
         trackingID: 'G-WGGFCN32D4',
         anonymizeIP: true,
