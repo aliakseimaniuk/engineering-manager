@@ -56,7 +56,3 @@ Building a healthy team begins from day one.  New hires shouldn’t just learn *
 ## Beyond Perks: A Sustainable Approach
 
 Building a truly healthy team isn’t about foosball tables or free snacks; it's about creating a culture of trust, respect, and psychological safety. It requires a consistent commitment to open communication, continuous improvement, and genuine care for your team members. By prioritizing team health, you're not just building a more productive team; you're building a more engaged, innovative, and resilient one—a team that’s equipped to thrive in the face of any challenge.
-
----
-
-**(Visual: A graphic illustrating the five pillars of team health – Psychological Safety, Trust, Alignment, Growth, Work-Life Balance – as interconnected building blocks.)**
