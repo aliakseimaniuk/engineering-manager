@@ -141,7 +141,7 @@ function CommunityCTA() {
           <Link className="button button--primary button--lg" to="/docs/Introduction">
             Start Learning
           </Link>
-          <Link className="button button--secondary button--lg" to="https://discord.gg" style={{ marginLeft: '1rem' }}>
+          <Link className="button button--secondary button--lg" to="https://discord.gg">
             Join the Community
           </Link>
         </div>
