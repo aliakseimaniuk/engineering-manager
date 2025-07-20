@@ -42,13 +42,11 @@ Understanding your team's capacity is crucial. This isn’t just about headcount
 
 ### Visualizing Priorities: The "Now, Next, Later" Board
 
-A simple yet powerful tool for communicating priorities is the “Now, Next, Later” board. This visual aid divides tasks into three categories:
+A simple yet powerful tool for communicating priorities is the “Now, Next, Later” board. 
 
 * **Now:** Tasks the team is actively working on.
 * **Next:** Tasks scheduled to be started soon.
 * **Later:** Tasks that are important but not immediately prioritized.
-
-[Here’s a link to a visual example of a Now/Next/Later board](https://trello.com/now-next-later).  This transparency helps everyone understand the current focus and provides context for potential shifts.
 
 ## Empowering Your Team
 

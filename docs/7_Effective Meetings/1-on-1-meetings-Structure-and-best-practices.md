@@ -26,8 +26,6 @@ Let’s be clear: 1-on-1s are *not* just another status meeting. While dedicated
 **4. Action Items & Wrap-Up (5-10 minutes):**  Summarize key takeaways and define clear action items for both of you.  
    * *Example Questions:* “What are the next steps?”, “What support do you need from me?”, “When should we follow up on this?”
 
-**Visual Aid:** Consider using a shared document or project management tool to track action items and progress.
-
 ### Beyond the Agenda: Topics to Prioritize
 
 Don’t limit the conversation to the structure above. Here are some key topics to weave into your 1-on-1s:

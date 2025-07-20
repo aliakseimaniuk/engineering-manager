@@ -28,7 +28,7 @@ Here’s how to create a challenge that attracts and assesses talent, rather tha
 * **Automated Testing:**  Implement a robust suite of automated tests (unit tests, integration tests, and even basic performance tests) to evaluate submissions objectively. This ensures fair and consistent evaluation.
 * **Provide Meaningful Feedback:** Don't just reject submissions.  Provide constructive feedback on code quality, approach, and areas for improvement. 
 * **Accessibility:** Ensure the challenge is accessible to candidates with disabilities (e.g., screen reader compatibility).
-* **Visual Aid: Rubric Example:**  A scoring rubric should clearly define how submissions will be evaluated.  For example:
+* **Rubric Example:**  A scoring rubric should clearly define how submissions will be evaluated.  For example:
     * **Correctness (40%):** Does the code produce the correct output for all test cases?
     * **Code Quality (30%):** Is the code clean, readable, well-documented, and maintainable?
     * **Efficiency (20%):** Is the code reasonably efficient in terms of time and space complexity?

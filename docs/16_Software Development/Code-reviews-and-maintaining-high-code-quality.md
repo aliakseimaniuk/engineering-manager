@@ -24,8 +24,6 @@ Effective code review goes beyond syntax and style. Here are key questions to gu
 * **Does this code introduce any new dependencies or complexities?** Are these justified and well-managed?
 * **Does this code align with the overall architecture and design principles?** 
 
-A simple way to remember these priorities is to think beyond just *what* the code does and focus on *how* it does it, and *why*.  Consider adding a "Visual Aid Suggestion" for this section: a checklist of these questions can be a useful tool for reviewers.
-
 ## Making Code Reviews Efficient & Effective
 
 Here’s how to implement a code review process that adds value without becoming a bottleneck:

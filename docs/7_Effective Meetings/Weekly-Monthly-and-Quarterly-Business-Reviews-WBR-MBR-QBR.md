@@ -37,7 +37,6 @@ MBRs provide a broader view of progress and allow for more strategic discussions
     * **Cross-Team Dependencies:** Proactively identify potential conflicts and establish clear communication channels with other teams.
     * **Risk Assessment:** What potential challenges could impact our goals?
     * **Action Items:** Document next steps and assign owners.
-* **Visual Aid Suggestion:**  Use charts and graphs to visualize progress and KPIs.
 
 ### Quarterly Business Reviews (QBRs)
 
@@ -49,7 +48,6 @@ QBRs are your opportunity to step back, assess the big picture, and plan for the
     * **Team Health & Development:** This is a critical component. Assess team morale, identify skill gaps, and discuss individual career paths.  Utilize methods like anonymous surveys, 1:1 conversations, and team retrospectives to gain a comprehensive understanding.
     * **Budget & Resource Allocation:** Review budget performance and plan for future resource needs.
     * **Action Items:**  Document key decisions and assign ownership for follow-up tasks.
-* **Visual Aid Suggestion:** Utilize a balanced scorecard to track progress against strategic objectives.
 
 ## Beyond the Meetings
 
