@@ -50,6 +50,20 @@ const config = {
           editUrl:
             'https://github.com/aliakseimaniuk/engineering-manager/edit/main/',
         },
+        blog: {
+          showReadingTime: true,
+          routeBasePath: '/blog', // URL path for your blog
+          blogSidebarTitle: 'All Posts',
+          blogSidebarCount: 'ALL',
+          postsPerPage: 10,
+          feedOptions: {
+            type: 'all', // enables RSS/Atom feeds
+            title: 'Engineering Manager Blog',
+            description: 'Insights and lessons on engineering management and leadership.',
+          },
+          editUrl:
+            'https://github.com/aliakseimaniuk/engineering-manager/edit/main/blog/',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -92,6 +106,11 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
+          },
+          {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left',
           },
           {
             href: 'https://github.com/aliakseimaniuk/engineering-manager',

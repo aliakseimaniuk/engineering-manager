@@ -20,6 +20,10 @@ This site is packed with content on:
 
 It’s a place to **learn, reflect, and contribute** — open to everyone who wants to improve the craft of engineering management. 💬💡
 
+## 📰 Blog
+
+New: the site includes a blog with posts and a newsletter. Visit https://engineeringmanager.info/blog or the `/blog` path when running locally.
+
 ---
 
 ## 🌐 Join the Community
