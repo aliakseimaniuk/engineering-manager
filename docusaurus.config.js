@@ -62,7 +62,7 @@ const config = {
             description: 'Insights and lessons on engineering management and leadership.',
           },
           editUrl:
-            'https://github.com/aliakseimaniuk/engineering-manager/edit/main/blog/',
+            'https://github.com/aliakseimaniuk/engineering-manager/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
