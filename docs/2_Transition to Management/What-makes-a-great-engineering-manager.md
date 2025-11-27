@@ -1,4 +1,4 @@
-# What *Really* Makes a Great Engineering Manager
+# What Really Makes a Great Engineering Manager
 
 This post kicks off a series aimed at aspiring engineering managers, focusing on the skills that truly differentiate effective leaders from simply good coders. While technical expertise is valuable, leading a team requires a different skillset. We'll explore how to build trust, empower your team, and create an environment where engineers can thrive.
 
