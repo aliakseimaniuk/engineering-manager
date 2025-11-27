@@ -1,10 +1,8 @@
----
+# Engineering Manager - Development Setup
 
 ## ⚙️ Tech Behind the Site
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator — fast, powerful, and easy to contribute to.
-
----
 
 ## 🛠️ Installation & Local Development
 

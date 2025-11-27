@@ -1,12 +1,6 @@
-# 🌟 Engineering Manager — A Home for Software Leaders
+# Engineering Manager - A Home for Software Leaders
 
-Welcome to the **[Engineering Manager](https://engineeringmanager.info/)** website — a living guide and knowledge base for **software engineering managers and aspiring leaders**! 🎯
-
-Whether you're new to management or a seasoned engineering leader, this site is built to help you **grow, lead with impact, and build high-performing teams**. 🌱💼
-
-🔗 **Explore the site:** [https://engineeringmanager.info/](https://engineeringmanager.info/)
-
----
+Welcome to the **[Engineering Manager](https://engineeringmanager.info/)** website - a living guide and knowledge base for **software engineering managers and aspiring leaders**! Whether you're new to management or a seasoned engineering leader, this site is built to help you **grow, lead with impact, and build high-performing teams**, **explore the site:** [https://engineeringmanager.info/](https://engineeringmanager.info/).
 
 ## 💡 What's Inside?
 
@@ -17,7 +11,7 @@ This site is packed with content on:
 - 🤝 Feedback, coaching, and career development  
 - ⚙️ Engineering execution and team dynamics  
 
-## Engineering Manager
+## Engineering Manager - Topics
 
 - [Introduction](https://engineeringmanager.info/docs/Introduction)
 
@@ -191,13 +185,11 @@ This site is packed with content on:
 
 ## 💭 Suggest Topics or Content
 
-Have ideas for topics you'd like covered on the site? Something you wish someone had explained to you as a manager?
+Have ideas for topics you'd like covered on the site? Something you wish someone had explained to you as a manager? 👉 [Submit a feature or content request](https://github.com/aliakseimaniuk/engineering-manager/issues/new)
 
-👉 [Submit a feature or content request](https://github.com/aliakseimaniuk/engineering-manager/issues/new)  
 Let’s build this resource together! 🛠️✨
 
-
-### ✅ To contribute:
+### To contribute:
 
 1. Fork the repo: [https://github.com/aliakseimaniuk/engineering-manager](https://github.com/aliakseimaniuk/engineering-manager)
 2. Create a new branch for your changes
@@ -206,7 +198,10 @@ Let’s build this resource together! 🛠️✨
 
 📬 Or open an [Issue](https://github.com/aliakseimaniuk/engineering-manager/issues) to start a discussion or suggest an idea!
 
+### For developers
+1. How to start Engineering Manager website localy [development setup](./DEVELOPMENT.md)
+
 ---
+
 Let’s build better teams by growing better managers. 🌍💙  
 See you on [engineeringmanager.info](https://engineeringmanager.info/)!
-
