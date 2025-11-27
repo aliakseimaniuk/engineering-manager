@@ -1,4 +1,4 @@
-# Building a Robust 30/60/90-Day Plan
+# Building a Robust 30-60-90 Day Plan
 
 Onboarding new engineers effectively is crucial for team success, yet it's often overlooked. A poorly onboarded engineer can take months to reach full productivity, costing valuable time and resources. A well-structured 30/60/90-day plan provides a roadmap for new hires, accelerating their ramp-up and ensuring they become valuable contributors quickly. This article provides a practical guide for engineering managers to create and implement a robust plan.
 
