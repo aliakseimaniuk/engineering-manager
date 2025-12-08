@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -24,7 +24,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'aliakseimaniuk', // Usually your GitHub org/user name.
   projectName: 'engineering-manager', // Usually your repo name.
-  deploymentBranch:'gh-pages',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -47,8 +47,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/aliakseimaniuk/engineering-manager/edit/main/',
+          includeCurrentVersion: false,
+          editUrl: 'https://github.com/aliakseimaniuk/engineering-manager/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -101,6 +101,7 @@ const config = {
       navbar: {
         title: 'Engineering Manager',
         items: [
+
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -111,6 +112,10 @@ const config = {
             to: '/blog',
             label: 'Blog',
             position: 'left',
+          },
+          {
+            type: 'docsVersionDropdown',
+            position: 'right',
           },
           {
             href: 'https://github.com/aliakseimaniuk/engineering-manager',
