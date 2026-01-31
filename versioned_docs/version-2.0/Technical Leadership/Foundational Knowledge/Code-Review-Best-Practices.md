@@ -6,7 +6,7 @@ Over two decades in this field, I’ve seen code review done well (and terribly)
 
 ## The Problem with Traditional Code Review
 
-Let’s be honest, the “traditional” approach often falls short. As decades of research in software engineering have shown (e.g., Beck & Cunningham’s work on Extreme Programming [https://www.extremeprogramming.org/](https://www.extremeprogramming.org/)), focusing solely on defect identification misses crucial opportunities for learning and improvement. The scenario of a developer feeling unsupported with ambiguous requirements, or being left to "just work it out," is frustratingly common. This isn’t a skill issue; it’s a process issue. 
+Let’s be honest, the “traditional” approach often falls short. As decades of research in software engineering have shown e.g., Beck & Cunningham’s work on [Extreme Programming](https://www.extremeprogramming.org/), focusing solely on defect identification misses crucial opportunities for learning and improvement. The scenario of a developer feeling unsupported with ambiguous requirements, or being left to "just work it out," is frustratingly common. This isn’t a skill issue; it’s a process issue. 
 
 A common pattern I’ve witnessed is a review focused *solely* on identifying errors. While important, this narrow focus misses opportunities for:
 
@@ -18,8 +18,6 @@ A common pattern I’ve witnessed is a review focused *solely* on identifying er
 ## Building a Better Code Review Process: Framework & Actionable Steps
 
 Here's a framework for approaching code review, moving beyond a simple bug hunt. I call it the "3Cs": **Context, Clarity, and Collaboration.** 
-
-![Venn Diagram of Context, Clarity, and Collaboration](https://example.com/venn-diagram.png) *(Visual suggestion: a simple Venn Diagram with these three concepts overlapping – replace with actual image link)*
 
 **1. Context: Understand the "Why" Before the "What"**
 
@@ -41,7 +39,7 @@ Here's a framework for approaching code review, moving beyond a simple bug hunt.
 * **Acknowledge Good Work:** Don't just focus on the negatives. Point out what the author did well. This builds trust and encourages future improvements.
 * **Encourage Discussion:** Use the PR comments section to have a conversation. Ask clarifying questions, share alternative solutions, and brainstorm ideas.
 
-## Beyond the Checklist: Investing in Growth
+## Investing in Growth
 
 Code review shouldn't be a one-way street. Here's how to use it as a tool for team growth:
 
@@ -50,6 +48,10 @@ Code review shouldn't be a one-way street. Here's how to use it as a tool for te
 * **Post-Review Retrospectives:** After completing a review, take a few minutes to discuss what went well and what could be improved. This helps to refine the process and ensure everyone is on the same page.
 
 These practices directly support the “3Cs”: pair review fosters collaboration and provides multiple perspectives on clarity and context; rotating reviewers broadens understanding of the overall context; and retrospectives reinforce a collaborative environment focused on continuous improvement.
+
+## Code review checklist
+
+For detailed guidance on what to look for during a code review, see the [Code Review Checklist](./Code-Review-Checklist.md). The checklist outlines what reviewers should focus on during code reviews. This checklist makes reviews faster, more consistent, and less subjective. It helps authors and reviewers focus on the things that matter - clarity, accuracy, structure, and long-term usefulness - without having to remember everything from scratch each time.
 
 ## Addressing the Challenges & Anticipating Pushback
 
@@ -60,5 +62,3 @@ Implementing these changes requires a shift in mindset and may require dedicated
 Effective code review is about more than just finding bugs. It’s about building a stronger team, improving code quality, and fostering a culture of continuous learning. By embracing the "3Cs" – Context, Clarity, and Collaboration – you can transform code review from a dreaded chore into a valuable investment in your team's success. 
 
 Remember, the goal isn't to find fault; it's to *build something great together.*
-
-**To get started, discuss the "3Cs" framework with your team and identify one area where you can immediately improve your code review process.**

@@ -570,6 +570,7 @@
 - [AI and Automation Fundamentals](<./Technical Leadership/Foundational Knowledge/AI-and-Automation-Fundamentals.md>)
 - [Cloud Infrastructure and Platform Engineering](<./Technical Leadership/Foundational Knowledge/Cloud-Infrastructure-and-Platform-Engineering.md>)
 - [Code Review Best Practices](<./Technical Leadership/Foundational Knowledge/Code-Review-Best-Practices.md>)
+- [Code Review Checklist](<./Technical Leadership/Foundational Knowledge/Code-Review-Checklist.md>)
 - [Computer Science Fundamentals](<./Technical Leadership/Foundational Knowledge/Computer-Science-Fundamentals.md>)
 - [Software Architecture](<./Technical Leadership/Foundational Knowledge/Software-Architecture.md>)
 - [Software Development](<./Technical Leadership/Foundational Knowledge/Software-Development.md>)
