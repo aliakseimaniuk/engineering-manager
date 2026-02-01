@@ -34,8 +34,7 @@ It turns out there’s a surprisingly large number of things. This is certainly 
 * Are there regulatory requirements that need to be met?
 * For areas that are not covered with automated performance tests, does the new code introduce avoidable performance issues, like unnecessary calls to a database or remote service?
 * Does the author need to create public documentation, or change existing help files?
-* Have user-facing messages been checked for correctness?* Are there obvious errors that will stop this working in production? Is the code going to
-accidentally point at the test database, or is there a hardcoded stub that should be swapped out for a real service?
+* Have user-facing messages been checked for correctness?* Are there obvious errors that will stop this working in production? Is the code going to accidentally point at the test database, or is there a hardcoded stub that should be swapped out for a real service?
 
 ## Tests
 
