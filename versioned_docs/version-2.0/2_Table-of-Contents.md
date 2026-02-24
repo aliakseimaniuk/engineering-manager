@@ -133,7 +133,7 @@
 ### Incident Management
 
 - [Communication During Crises](<./Crisis Management/Incident Management/Communication-During-Crises.md>)
-- [Crisis Simulation Exercises, Gamedays](<./Crisis Management/Incident Management/Crisis-Simulation-Exercises,-Gamedays.md>)
+- [Crisis Simulation Exercises Gamedays](<./Crisis Management/Incident Management/Crisis-Simulation-Exercises-Gamedays.md>)
 - [Emergency protocols](<./Crisis Management/Incident Management/Emergency-protocols.md>)
 - [Escalations](<./Crisis Management/Incident Management/Escalations.md>)
 - [Post Incident Analysis](<./Crisis Management/Incident Management/Post-Incident-Analysis.md>)
@@ -379,7 +379,7 @@
 ### Team Development
 
 - [Career Development Planning](<./People Management/Team Development/Career-Development-Planning.md>)
-- [Diversity & Inclusion](<./People Management/Team Development/Diversity-&-Inclusion.md>)
+- [Diversity and Inclusion](<./People Management/Team Development/Diversity-and-Inclusion.md>)
 - [Employee Engagement](<./People Management/Team Development/Employee-Engagement.md>)
 - [Employee Retention](<./People Management/Team Development/Employee-Retention.md>)
 - [Firing People](<./People Management/Team Development/Firing-People.md>)
