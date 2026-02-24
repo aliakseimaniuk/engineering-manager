@@ -1,6 +1,6 @@
 # Capacity Planning
 
-How much revenue is your engineering team *potentially* losing due to preventable performance issues? In today’s always-on world, even brief outages or slow response times can erode customer trust and impact your bottom line. Capacity planning often feels like a reactive fire drill – something we scramble to address *when* things start to slow down. But what if you could move beyond those last-minute scrambles and build a resilient system, both technically and organizationally, that anticipates and adapts to change? 
+How much revenue is your engineering team *potentially* losing due to preventable performance issues? In today’s always-on world, even brief outages or slow response times can erode customer trust and impact your bottom line. Capacity planning often feels like a reactive fire drill – something we scramble to address *when* things start to slow down. But what if you could move beyond those last-minute scrambles and build a resilient system, both technically and organizationally, that anticipates and adapts to change?
 
 After two decades leading engineering teams, I’ve learned that effective capacity planning isn't about predicting the future with pinpoint accuracy; it’s about building a proactive approach that fosters predictability, minimizes disruption, and supports sustainable growth. This isn’t just a DevOps problem; it’s a leadership one.
 
@@ -15,7 +15,7 @@ Before we get into *how* to plan, let’s understand *why* it's crucial. Ignorin
 * **Burnout & Low Morale:** Constant fire drills and crisis management take a toll on your team.
 * **Missed Opportunities:** Being constantly bogged down in keeping the lights on prevents innovation and strategic projects.
 
-I’ve seen teams crippled by neglecting capacity. One startup I worked with experienced a massive user surge during a marketing campaign. Their infrastructure failed, leading to a complete outage and a PR disaster. The cost of fixing it – both financially and in terms of lost trust – far outweighed the cost of proactive planning. In fact, studies show that the average cost of downtime can exceed \$5,600 *per minute* – a sobering reminder of the stakes. [https://www.gartner.com/en/newsroom/press-releases/2021-09-23-gartner-says-average-cost-of-downtime-is-5600-per-minute](https://www.gartner.com/en/newsroom/press-releases/2021-09-23-gartner-says-average-cost-of-downtime-is-5600-per-minute)
+I’ve seen teams crippled by neglecting capacity. One startup I worked with experienced a massive user surge during a marketing campaign. Their infrastructure failed, leading to a complete outage and a PR disaster. The cost of fixing it – both financially and in terms of lost trust – far outweighed the cost of proactive planning. In fact, studies show that the average cost of downtime can exceed \$5,600 *per minute* – a sobering reminder of the stakes.
 
 ## Shifting from Reactive to Proactive: The Three Pillars
 
@@ -38,7 +38,7 @@ But data alone isn’t enough. You need to *analyze* it. Establish baselines for
 
 ### 2. Modeling & Prediction: Beyond Historical Data
 
-Historical data is valuable, but it only tells part of the story. You need to model different scenarios to predict future capacity needs. 
+Historical data is valuable, but it only tells part of the story. You need to model different scenarios to predict future capacity needs.
 
 * **Load Testing:** Simulate realistic user traffic to identify bottlenecks and breaking points. Don't just test peak load; test sustained load, gradual increases, and sudden spikes.
 * **Growth Projections:** Work with product and marketing teams to understand projected user growth, feature releases, and marketing campaigns.
@@ -49,7 +49,7 @@ A simple chart showing projected resource needs over time, with different curves
 
 ### 3. Strategic Alignment: Connecting Capacity to Business Goals
 
-Capacity planning shouldn’t happen in a vacuum. It needs to be aligned with overall business goals and product strategy. 
+Capacity planning shouldn’t happen in a vacuum. It needs to be aligned with overall business goals and product strategy.
 
 * **Prioritize Critical Services:** Identify the services that are most critical to the business and allocate resources accordingly.
 * **Cost Optimization:** Balance performance with cost. Explore options like auto-scaling, serverless computing, and optimized database queries.
@@ -58,18 +58,17 @@ Capacity planning shouldn’t happen in a vacuum. It needs to be aligned with ov
 
 ## Building a Culture of Proactive Planning
 
-Ultimately, effective capacity planning isn't just about tools and techniques. It's about building a culture of proactive planning within your engineering organization. 
+Ultimately, effective capacity planning isn't just about tools and techniques. It's about building a culture of proactive planning within your engineering organization.
 
 * **Dedicate Time:** Allocate dedicated time for capacity planning activities. Don't treat it as an afterthought.
 * **Cross-Functional Collaboration:** Foster collaboration between engineering, product, and operations teams.
 * **Regular Reviews:** Conduct regular reviews of capacity plans and adjust them based on changing business conditions.
 * **Empower Your Team:** Encourage your team to take ownership of capacity planning and identify potential issues.
 
-Capacity planning isn't a one-time project; it's an ongoing process. By embracing a proactive approach and building a culture of planning, you can ensure that your engineering organization is well-equipped to handle future growth and deliver a reliable, scalable, and high-performing product. 
+Capacity planning isn't a one-time project; it's an ongoing process. By embracing a proactive approach and building a culture of planning, you can ensure that your engineering organization is well-equipped to handle future growth and deliver a reliable, scalable, and high-performing product.
 
 **Now, take action:** Schedule a team meeting to audit your current monitoring practices and identify areas for improvement. A small investment in proactive planning today can save you significant headaches – and revenue – tomorrow.
 
 **Further Reading:**
-
-*   **Google SRE Book:** [https://sre.google/sre-book/](https://sre.google/sre-book/)
-*   **Phoenix Project:**  A novel illustrating DevOps and system thinking principles. [https://itrevolution.com/book/the-phoenix-project/](https://itrevolution.com/book/the-phoenix-project/)
+* **Google SRE Book:** [https://sre.google/sre-book/](https://sre.google/sre-book/)
+* **Phoenix Project:**  A novel illustrating DevOps and system thinking principles. [https://itrevolution.com/book/the-phoenix-project/](https://itrevolution.com/book/the-phoenix-project/)

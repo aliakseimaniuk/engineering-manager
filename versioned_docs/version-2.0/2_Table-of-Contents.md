@@ -6,6 +6,7 @@
 ## Business
 
 ### Collaboration with Other Departments
+
 - [Cross Departmental Projects](<./Business/Collaboration with Other Departments/Cross-Departmental-Projects.md>)
 - [Customer Support Integration](<./Business/Collaboration with Other Departments/Customer-Support-Integration.md>)
 - [Finance and Budgeting Coordination](<./Business/Collaboration with Other Departments/Finance-and-Budgeting-Coordination.md>)
@@ -13,6 +14,7 @@
 - [Sales and Marketing Alignment](<./Business/Collaboration with Other Departments/Sales-and-Marketing-Alignment.md>)
 
 ### Financial Management
+
 - [Budgeting and Forecasting](<./Business/Financial Management/Budgeting-and-Forecasting.md>)
 - [Cost Benefit Analysis](<./Business/Financial Management/Cost-Benefit-Analysis.md>)
 - [Cost optimization](<./Business/Financial Management/Cost-optimization.md>)
@@ -23,6 +25,7 @@
 - [Resource Forecasting](<./Business/Financial Management/Resource-Forecasting.md>)
 
 ### Industry Knowledge
+
 - [Competitors](<./Business/Industry Knowledge/Competitors.md>)
 - [Economic Factors](<./Business/Industry Knowledge/Economic-Factors.md>)
 - [Industry Trends](<./Business/Industry Knowledge/Industry-Trends.md>)
@@ -31,6 +34,7 @@
 - [Technological Advancements](<./Business/Industry Knowledge/Technological-Advancements.md>)
 
 ### Strategic Thinking
+
 - [Aligning Tech with Business Goals](<./Business/Strategic Thinking/Aligning-Tech-with-Business-Goals.md>)
 - [Brand Management](<./Business/Strategic Thinking/Brand-Management.md>)
 - [Business Continuity Planning](<./Business/Strategic Thinking/Business-Continuity-Planning.md>)
@@ -49,6 +53,7 @@
 - [SWOT Analysis](<./Business/Strategic Thinking/SWOT-Analysis.md>)
 
 ### Understanding the Business
+
 - [Business Models](<./Business/Understanding the Business/Business-Models.md>)
 - [Competitive Landscape](<./Business/Understanding the Business/Competitive-Landscape.md>)
 - [Customer Needs](<./Business/Understanding the Business/Customer-Needs.md>)
@@ -61,12 +66,14 @@
 ## Career Path
 
 ### First Time Manager
+
 - [A Manager's FAQs](<./Career Path/First Time Manager/A-Manager's-FAQs.md>)
 - [A Manager's Mindset](<./Career Path/First Time Manager/A-Manager's-Mindset.md>)
 - [A Manager's Responsibilities](<./Career Path/First Time Manager/A-Manager's-Responsibilities.md>)
 - [IC to Manager Transitioning](<./Career Path/First Time Manager/IC-to-Manager-Transitioning.md>)
 
 ### Manager of Managers
+
 - [CEO](<./Career Path/Manager of Managers/CEO.md>)
 - [CTO](<./Career Path/Manager of Managers/CTO.md>)
 - [Director of Engineering](<./Career Path/Manager of Managers/Director-of-Engineering.md>)
@@ -78,12 +85,14 @@
 ## Change Management
 
 ### Implementing Change
+
 - [Adjusting Strategies](<./Change Management/Implementing Change/Adjusting-Strategies.md>)
 - [Executing the Change Plan](<./Change Management/Implementing Change/Executing-the-Change-Plan.md>)
 - [Managing Resistance](<./Change Management/Implementing Change/Managing-Resistance.md>)
 - [Monitoring Progress](<./Change Management/Implementing Change/Monitoring-Progress.md>)
 
 ### Organizational Change Management
+
 - [Cultural Change](<./Change Management/Organizational Change Management/Cultural-Change.md>)
 - [Leadership Changes](<./Change Management/Organizational Change Management/Leadership-Changes.md>)
 - [Reorganizations](<./Change Management/Organizational Change Management/Reorganizations.md>)
@@ -92,17 +101,20 @@
 - [Team Merges](<./Change Management/Organizational Change Management/Team-Merges.md>)
 
 ### Planning for Change
+
 - [Change Readiness Assessment](<./Change Management/Planning for Change/Change-Readiness-Assessment.md>)
 - [Communication Planning](<./Change Management/Planning for Change/Communication-Planning.md>)
 - [Stakeholder Analysis](<./Change Management/Planning for Change/Stakeholder-Analysis.md>)
 - [Training and Support Planning](<./Change Management/Planning for Change/Training-and-Support-Planning.md>)
 
 ### Sustaining Change
+
 - [Continuous Improvement](<./Change Management/Sustaining Change/Continuous-Improvement.md>)
 - [Measuring Change Effectiveness](<./Change Management/Sustaining Change/Measuring-Change-Effectiveness.md>)
 - [Reinforcement Strategies](<./Change Management/Sustaining Change/Reinforcement-Strategies.md>)
 
 ### Technical Change Management
+
 - [Legacy System Retirement](<./Change Management/Technical Change Management/Legacy-System-Retirement.md>)
 - [Migration Planning](<./Change Management/Technical Change Management/Migration-Planning.md>)
 - [New Technology Adoption](<./Change Management/Technical Change Management/New-Technology-Adoption.md>)
@@ -111,6 +123,7 @@
 - [Version Control](<./Change Management/Technical Change Management/Version-Control.md>)
 
 ### Understanding Change Management
+
 - [Change Theories and Models](<./Change Management/Understanding Change Management/Change-Theories-and-Models.md>)
 - [Importance of Change Management](<./Change Management/Understanding Change Management/Importance-of-Change-Management.md>)
 - [Types of Organizational Change](<./Change Management/Understanding Change Management/Types-of-Organizational-Change.md>)
@@ -118,6 +131,7 @@
 ## Crisis Management
 
 ### Incident Management
+
 - [Communication During Crises](<./Crisis Management/Incident Management/Communication-During-Crises.md>)
 - [Crisis Simulation Exercises, Gamedays](<./Crisis Management/Incident Management/Crisis-Simulation-Exercises,-Gamedays.md>)
 - [Emergency protocols](<./Crisis Management/Incident Management/Emergency-protocols.md>)
@@ -131,6 +145,7 @@
 - [War room management](<./Crisis Management/Incident Management/War-room-management.md>)
 
 ### Risk Mitigation
+
 - [Contingency Planning](<./Crisis Management/Risk Mitigation/Contingency-Planning.md>)
 - [Cybersecurity Measures](<./Crisis Management/Risk Mitigation/Cybersecurity-Measures.md>)
 - [Data Backup Strategies](<./Crisis Management/Risk Mitigation/Data-Backup-Strategies.md>)
@@ -142,6 +157,7 @@
 - [Security Incident Response](<./Crisis Management/Risk Mitigation/Security-Incident-Response.md>)
 
 ### Team Support During Crises
+
 - [Burnout Prevention](<./Crisis Management/Team Support During Crises/Burnout-Prevention.md>)
 - [Critical Situation Leadership](<./Crisis Management/Team Support During Crises/Critical-Situation-Leadership.md>)
 - [Emergency staffing plans](<./Crisis Management/Team Support During Crises/Emergency-staffing-plans.md>)
@@ -156,18 +172,21 @@
 ## Diversity Equity Inclusion
 
 ### Fostering an Inclusive Culture
+
 - [Addressing Unconscious Bias](<./Diversity Equity Inclusion/Fostering an Inclusive Culture/Addressing-Unconscious-Bias.md>)
 - [Celebrating Diversity](<./Diversity Equity Inclusion/Fostering an Inclusive Culture/Celebrating-Diversity.md>)
 - [Encouraging Open Dialogue](<./Diversity Equity Inclusion/Fostering an Inclusive Culture/Encouraging-Open-Dialogue.md>)
 - [Supporting Employee Resource Groups](<./Diversity Equity Inclusion/Fostering an Inclusive Culture/Supporting-Employee-Resource-Groups.md>)
 
 ### Implementing DEI Initiatives
+
 - [DEI Training Programs](<./Diversity Equity Inclusion/Implementing DEI Initiatives/DEI-Training-Programs.md>)
 - [Inclusive Workplace Practices](<./Diversity Equity Inclusion/Implementing DEI Initiatives/Inclusive-Workplace-Practices.md>)
 - [Measuring DEI Progress](<./Diversity Equity Inclusion/Implementing DEI Initiatives/Measuring-DEI-Progress.md>)
 - [Recruitment Strategies for Diversity](<./Diversity Equity Inclusion/Implementing DEI Initiatives/Recruitment-Strategies-for-Diversity.md>)
 
 ### Understanding DEI
+
 - [Benefits of a Diverse Workforce](<./Diversity Equity Inclusion/Understanding DEI/Benefits-of-a-Diverse-Workforce.md>)
 - [Importance of DEI in the Workplace](<./Diversity Equity Inclusion/Understanding DEI/Importance-of-DEI-in-the-Workplace.md>)
 - [Key Concepts and Terminology](<./Diversity Equity Inclusion/Understanding DEI/Key-Concepts-and-Terminology.md>)
@@ -175,16 +194,19 @@
 ## Ethics and Compliance
 
 ### Promoting an Ethical Culture
+
 - [Code of Ethics Development](<./Ethics and Compliance/Promoting an Ethical Culture/Code-of-Ethics-Development.md>)
 - [Encouraging Ethical Decision Making](<./Ethics and Compliance/Promoting an Ethical Culture/Encouraging-Ethical-Decision-Making.md>)
 - [Ethics Training Programs](<./Ethics and Compliance/Promoting an Ethical Culture/Ethics-Training-Programs.md>)
 
 ### Regulatory Compliance
+
 - [Auditing and Reporting](<./Ethics and Compliance/Regulatory Compliance/Auditing-and-Reporting.md>)
 - [Compliance Management Systems](<./Ethics and Compliance/Regulatory Compliance/Compliance-Management-Systems.md>)
 - [Key Regulations and Standards](<./Ethics and Compliance/Regulatory Compliance/Key-Regulations-and-Standards.md>)
 
 ### Understanding Ethics in Engineering
+
 - [Common Ethical Dilemmas in Engineering](<./Ethics and Compliance/Understanding Ethics in Engineering/Common-Ethical-Dilemmas-in-Engineering.md>)
 - [Ethical Theories and Principles](<./Ethics and Compliance/Understanding Ethics in Engineering/Ethical-Theories-and-Principles.md>)
 - [Importance of Ethics in Technology](<./Ethics and Compliance/Understanding Ethics in Engineering/Importance-of-Ethics-in-Technology.md>)
@@ -192,6 +214,7 @@
 ## Knowledge Management
 
 ### Documentation
+
 - [Architecture documentation](<./Knowledge Management/Documentation/Architecture-documentation.md>)
 - [Best practices](<./Knowledge Management/Documentation/Best-practices.md>)
 - [Decision records](<./Knowledge Management/Documentation/Decision-records.md>)
@@ -200,6 +223,7 @@
 - [Version Control for Documentation](<./Knowledge Management/Documentation/Version-Control-for-Documentation.md>)
 
 ### Knowledge Sharing
+
 - [Brown Bag Sessions](<./Knowledge Management/Knowledge Sharing/Brown-Bag-Sessions.md>)
 - [Communities of Practice](<./Knowledge Management/Knowledge Sharing/Communities-of-Practice.md>)
 - [Incentives for Knowledge Sharing](<./Knowledge Management/Knowledge Sharing/Incentives-for-Knowledge-Sharing.md>)
@@ -209,6 +233,7 @@
 - [Tech Talks](<./Knowledge Management/Knowledge Sharing/Tech-Talks.md>)
 
 ### Learning and Development
+
 - [Conferences](<./Knowledge Management/Learning and Development/Conferences.md>)
 - [Online Courses](<./Knowledge Management/Learning and Development/Online-Courses.md>)
 - [Personal Development Plans](<./Knowledge Management/Learning and Development/Personal-Development-Plans.md>)
@@ -218,6 +243,7 @@
 ## Metrics and Evaluation
 
 ### Business and Strategic Metrics
+
 - [Budget Variance](<./Metrics and Evaluation/Business and Strategic Metrics/Budget-Variance.md>)
 - [Business Alignment Score](<./Metrics and Evaluation/Business and Strategic Metrics/Business-Alignment-Score.md>)
 - [Cost Efficiency](<./Metrics and Evaluation/Business and Strategic Metrics/Cost-Efficiency.md>)
@@ -231,6 +257,7 @@
 - [Time to Market](<./Metrics and Evaluation/Business and Strategic Metrics/Time-to-Market.md>)
 
 ### Defining Metrics
+
 - [Data Collection and Analysis](<./Metrics and Evaluation/Defining Metrics/Data-Collection-and-Analysis.md>)
 - [Key Performance Indicators (KPIs)](<./Metrics and Evaluation/Defining Metrics/Key-Performance-Indicators-(KPIs).md>)
 - [Leading vs Lagging Indicators](<./Metrics and Evaluation/Defining Metrics/Leading-vs-Lagging-Indicators.md>)
@@ -240,6 +267,7 @@
 - [Using Metrics for Improvement](<./Metrics and Evaluation/Defining Metrics/Using-Metrics-for-Improvement.md>)
 
 ### Delivery and Execution Metrics
+
 - [Burndown and Burnup Trends](<./Metrics and Evaluation/Delivery and Execution Metrics/Burndown-and-Burnup-Trends.md>)
 - [Change Failure Rate](<./Metrics and Evaluation/Delivery and Execution Metrics/Change-Failure-Rate.md>)
 - [Cycle Time](<./Metrics and Evaluation/Delivery and Execution Metrics/Cycle-Time.md>)
@@ -255,6 +283,7 @@
 - [Work In Progress (WIP)](<./Metrics and Evaluation/Delivery and Execution Metrics/Work-In-Progress-(WIP).md>)
 
 ### Quality and Reliability Metrics
+
 - [Bug Rate](<./Metrics and Evaluation/Quality and Reliability Metrics/Bug-Rate.md>)
 - [Defect Density](<./Metrics and Evaluation/Quality and Reliability Metrics/Defect-Density.md>)
 - [Error Budgets](<./Metrics and Evaluation/Quality and Reliability Metrics/Error-Budgets.md>)
@@ -269,6 +298,7 @@
 - [System Availability](<./Metrics and Evaluation/Quality and Reliability Metrics/System-Availability.md>)
 
 ### Team Health and People Metrics
+
 - [Attrition Rate](<./Metrics and Evaluation/Team Health and People Metrics/Attrition-Rate.md>)
 - [Burnout Indicators](<./Metrics and Evaluation/Team Health and People Metrics/Burnout-Indicators.md>)
 - [Employee Engagement](<./Metrics and Evaluation/Team Health and People Metrics/Employee-Engagement.md>)
@@ -284,18 +314,21 @@
 ## Organizational Design
 
 ### Decision Frameworks
+
 - [Architecture review boards](<./Organizational Design/Decision Frameworks/Architecture-review-boards.md>)
 - [DACI](<./Organizational Design/Decision Frameworks/DACI.md>)
 - [Decision making committees](<./Organizational Design/Decision Frameworks/Decision-making-committees.md>)
 - [RACI](<./Organizational Design/Decision Frameworks/RACI.md>)
 
 ### Organizational Models
+
 - [Conway's Law](<./Organizational Design/Organizational Models/Conway's-Law.md>)
 - [Functional vs product vs Matrix orgs](<./Organizational Design/Organizational Models/Functional-vs-product-vs-Matrix-orgs.md>)
 - [Hierarchical vs Flat](<./Organizational Design/Organizational Models/Hierarchical-vs-Flat.md>)
 - [Top Down vs Bottom Up](<./Organizational Design/Organizational Models/Top-Down-vs-Bottom-Up.md>)
 
 ### Team Topologies
+
 - [Cross Functional Teams](<./Organizational Design/Team Topologies/Cross-Functional-Teams.md>)
 - [Platform teams](<./Organizational Design/Team Topologies/Platform-teams.md>)
 - [Specialist Teams](<./Organizational Design/Team Topologies/Specialist-Teams.md>)
@@ -305,6 +338,7 @@
 ## People Management
 
 ### Communication
+
 - [Active Listening](<./People Management/Communication/Active-Listening.md>)
 - [Cross Functional Collaboration](<./People Management/Communication/Cross-Functional-Collaboration.md>)
 - [Effective Meeting Practices](<./People Management/Communication/Effective-Meeting-Practices.md>)
@@ -316,6 +350,7 @@
 - [Team Meetings](<./People Management/Communication/Team-Meetings.md>)
 
 ### Leadership Skills
+
 - [Adaptability](<./People Management/Leadership Skills/Adaptability.md>)
 - [Conflict Resolution](<./People Management/Leadership Skills/Conflict-Resolution.md>)
 - [Decision Making](<./People Management/Leadership Skills/Decision-Making.md>)
@@ -332,6 +367,7 @@
 - [Vision Setting](<./People Management/Leadership Skills/Vision-Setting.md>)
 
 ### Performance Management
+
 - [Coaching for Performance](<./People Management/Performance Management/Coaching-for-Performance.md>)
 - [Continuous Feedback](<./People Management/Performance Management/Continuous-Feedback.md>)
 - [Firing Underperforming Employees](<./People Management/Performance Management/Firing-Underperforming-Employees.md>)
@@ -341,6 +377,7 @@
 - [Setting Clear Expectations](<./People Management/Performance Management/Setting-Clear-Expectations.md>)
 
 ### Team Development
+
 - [Career Development Planning](<./People Management/Team Development/Career-Development-Planning.md>)
 - [Diversity & Inclusion](<./People Management/Team Development/Diversity-&-Inclusion.md>)
 - [Employee Engagement](<./People Management/Team Development/Employee-Engagement.md>)
@@ -361,6 +398,7 @@
 ## Personal Development
 
 ### Career Growth
+
 - [Certifications and Courses](<./Personal Development/Career Growth/Certifications-and-Courses.md>)
 - [Identifying Growth Opportunities](<./Personal Development/Career Growth/Identifying-Growth-Opportunities.md>)
 - [Professional Development Plans](<./Personal Development/Career Growth/Professional-Development-Plans.md>)
@@ -368,6 +406,7 @@
 - [Skill Gap Analysis](<./Personal Development/Career Growth/Skill-Gap-Analysis.md>)
 
 ### Networking and Relationships
+
 - [Building Professional Networks](<./Personal Development/Networking and Relationships/Building-Professional-Networks.md>)
 - [Industry Events Participation](<./Personal Development/Networking and Relationships/Industry-Events-Participation.md>)
 - [Mentorship Relationships](<./Personal Development/Networking and Relationships/Mentorship-Relationships.md>)
@@ -375,6 +414,7 @@
 - [Peer Learning Groups](<./Personal Development/Networking and Relationships/Peer-Learning-Groups.md>)
 
 ### Self Management
+
 - [Continuous Learning](<./Personal Development/Self-Management/Continuous-Learning.md>)
 - [Goal Setting](<./Personal Development/Self-Management/Goal-Setting.md>)
 - [Mindfulness Practices](<./Personal Development/Self-Management/Mindfulness-Practices.md>)
@@ -388,6 +428,7 @@
 ## Project Management
 
 ### Execution
+
 - [Agile Methodologies](<./Project Management/Execution/Agile-Methodologies.md>)
 - [Burndown Charts](<./Project Management/Execution/Burndown-Charts.md>)
 - [Change Management](<./Project Management/Execution/Change-Management.md>)
@@ -411,6 +452,7 @@
 - [Waterfall Methodologies](<./Project Management/Execution/Waterfall-Methodologies.md>)
 
 ### Planning and Estimation
+
 - [Budgeting](<./Project Management/Planning and Estimation/Budgeting.md>)
 - [Capacity Planning](<./Project Management/Planning and Estimation/Capacity-Planning.md>)
 - [Communication Plan](<./Project Management/Planning and Estimation/Communication-Plan.md>)
@@ -436,18 +478,21 @@
 ## Remote Leadership
 
 ### Building and Managing Remote Teams
+
 - [Fostering Team Cohesion](<./Remote Leadership/Building and Managing Remote Teams/Fostering-Team-Cohesion.md>)
 - [Hiring for Remote Roles](<./Remote Leadership/Building and Managing Remote Teams/Hiring-for-Remote-Roles.md>)
 - [Managing Time Zones](<./Remote Leadership/Building and Managing Remote Teams/Managing-Time-Zones.md>)
 - [Onboarding Remote Employees](<./Remote Leadership/Building and Managing Remote Teams/Onboarding-Remote-Employees.md>)
 
 ### Communication in Remote Settings
+
 - [Asynchronous Communication](<./Remote Leadership/Communication in Remote Settings/Asynchronous-Communication.md>)
 - [Effective Virtual Meetings](<./Remote Leadership/Communication in Remote Settings/Effective-Virtual-Meetings.md>)
 - [Maintaining Transparency](<./Remote Leadership/Communication in Remote Settings/Maintaining-Transparency.md>)
 - [Tools for Remote Collaboration](<./Remote Leadership/Communication in Remote Settings/Tools-for-Remote-Collaboration.md>)
 
 ### Productivity and Performance
+
 - [Encouraging Work Life Balance](<./Remote Leadership/Productivity and Performance/Encouraging-Work-Life-Balance.md>)
 - [Monitoring Performance Remotely](<./Remote Leadership/Productivity and Performance/Monitoring-Performance-Remotely.md>)
 - [Providing Feedback Virtually](<./Remote Leadership/Productivity and Performance/Providing-Feedback-Virtually.md>)
@@ -456,6 +501,7 @@
 ## Stakeholder Management
 
 ### Building Relationships with Stakeholders
+
 - [Collaboration Techniques](<./Stakeholder Management/Building Relationships with Stakeholders/Collaboration-Techniques.md>)
 - [Conflict Resolution](<./Stakeholder Management/Building Relationships with Stakeholders/Conflict-Resolution.md>)
 - [Long Term Relationship Management](<./Stakeholder Management/Building Relationships with Stakeholders/Long-Term-Relationship-Management.md>)
@@ -464,6 +510,7 @@
 - [Trust Building](<./Stakeholder Management/Building Relationships with Stakeholders/Trust-Building.md>)
 
 ### Engagement Strategies
+
 - [Communication Plans](<./Stakeholder Management/Engagement Strategies/Communication-Plans.md>)
 - [Expectation Management](<./Stakeholder Management/Engagement Strategies/Expectation-Management.md>)
 - [Feedback Mechanisms](<./Stakeholder Management/Engagement Strategies/Feedback-Mechanisms.md>)
@@ -472,6 +519,7 @@
 - [Surveys and Feedback Forms](<./Stakeholder Management/Engagement Strategies/Surveys-and-Feedback-Forms.md>)
 
 ### Identifying Stakeholders
+
 - [External Stakeholders](<./Stakeholder Management/Identifying Stakeholders/External-Stakeholders.md>)
 - [Influencers](<./Stakeholder Management/Identifying Stakeholders/Influencers.md>)
 - [Interest and Influence Analysis](<./Stakeholder Management/Identifying Stakeholders/Interest-and-Influence-Analysis.md>)
@@ -480,6 +528,7 @@
 - [Stakeholder Mapping](<./Stakeholder Management/Identifying Stakeholders/Stakeholder-Mapping.md>)
 
 ### Managing Difficult Stakeholders
+
 - [De escalation Strategies](<./Stakeholder Management/Managing Difficult Stakeholders/De-escalation-Strategies.md>)
 - [Effective Communication](<./Stakeholder Management/Managing Difficult Stakeholders/Effective-Communication.md>)
 - [Finding Common Ground](<./Stakeholder Management/Managing Difficult Stakeholders/Finding-Common-Ground.md>)
@@ -488,6 +537,7 @@
 - [Setting Boundaries](<./Stakeholder Management/Managing Difficult Stakeholders/Setting-Boundaries.md>)
 
 ### Measuring Stakeholder Satisfaction
+
 - [Action Plans Based on Feedback](<./Stakeholder Management/Measuring Stakeholder Satisfaction/Action-Plans-Based-on-Feedback.md>)
 - [Continuous Improvement](<./Stakeholder Management/Measuring Stakeholder Satisfaction/Continuous-Improvement.md>)
 - [Feedback Analysis](<./Stakeholder Management/Measuring Stakeholder Satisfaction/Feedback-Analysis.md>)
@@ -498,6 +548,7 @@
 ## Team Culture
 
 ### Building a Positive Culture
+
 - [Amazon Leadership Principles](<./Team Culture/Building a Positive Culture/Amazon-Leadership-Principles.md>)
 - [Bias Recognition and Mitigation](<./Team Culture/Building a Positive Culture/Bias-Recognition-and-Mitigation.md>)
 - [Celebrating Successes](<./Team Culture/Building a Positive Culture/Celebrating-Successes.md>)
@@ -514,6 +565,7 @@
 - [Work Life Balance](<./Team Culture/Building a Positive Culture/Work-Life-Balance.md>)
 
 ### Engineering Culture
+
 - [Agile Mindset](<./Team Culture/Engineering Culture/Agile-Mindset.md>)
 - [Automation Culture](<./Team Culture/Engineering Culture/Automation-Culture.md>)
 - [Blameless Postmortems](<./Team Culture/Engineering Culture/Blameless-Postmortems.md>)
@@ -535,6 +587,7 @@
 - [Technical Excellence](<./Team Culture/Engineering Culture/Technical-Excellence.md>)
 
 ### Fostering Innovation
+
 - [Brainstorming](<./Team Culture/Fostering Innovation/Brainstorming.md>)
 - [Continuous Learning](<./Team Culture/Fostering Innovation/Continuous-Learning.md>)
 - [Encouraging Creativity](<./Team Culture/Fostering Innovation/Encouraging-Creativity.md>)
@@ -547,6 +600,7 @@
 ## Technical Leadership
 
 ### Foundational Knowledge
+
 - [AI and Automation Fundamentals](<./Technical Leadership/Foundational Knowledge/AI-and-Automation-Fundamentals.md>)
 - [Cloud Infrastructure and Platform Engineering](<./Technical Leadership/Foundational Knowledge/Cloud-Infrastructure-and-Platform-Engineering.md>)
 - [Code Review Best Practices](<./Technical Leadership/Foundational Knowledge/Code-Review-Best-Practices.md>)
@@ -557,6 +611,7 @@
 - [Technical Documentation](<./Technical Leadership/Foundational Knowledge/Technical-Documentation.md>)
 
 ### Operational Excellence
+
 - [Automation](<./Technical Leadership/Operational Excellence/Automation.md>)
 - [Availability](<./Technical Leadership/Operational Excellence/Availability.md>)
 - [Capacity Planning](<./Technical Leadership/Operational Excellence/Capacity-Planning.md>)
@@ -572,6 +627,7 @@
 - [Technical Debt Management](<./Technical Leadership/Operational Excellence/Technical-Debt-Management.md>)
 
 ### Quality and Process
+
 - [CICD Implementation](<./Technical Leadership/Quality and Process/CICD-Implementation.md>)
 - [Development Release Workflow](<./Technical Leadership/Quality and Process/Development-Release-Workflow.md>)
 - [Incident Management](<./Technical Leadership/Quality and Process/Incident-Management.md>)
@@ -582,6 +638,7 @@
 - [Testing Strategies](<./Technical Leadership/Quality and Process/Testing-Strategies.md>)
 
 ### Technical Strategy
+
 - [Build vs Buy Evaluation](<./Technical Leadership/Technical Strategy/Build-vs-Buy-Evaluation.md>)
 - [Legacy System Modernization](<./Technical Leadership/Technical Strategy/Legacy-System-Modernization.md>)
 - [Scaling Infrastructure](<./Technical Leadership/Technical Strategy/Scaling-Infrastructure.md>)

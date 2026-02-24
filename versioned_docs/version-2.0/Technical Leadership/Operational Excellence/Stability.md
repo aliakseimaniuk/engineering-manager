@@ -17,7 +17,7 @@ When we talk about stability in technical leadership, we need to look beyond sim
 
 ## The Cost of Instability: Lessons from the Crypto Winter
 
-Recent events in the cryptocurrency space offer a stark illustration of what happens when stability is sacrificed at the altar of growth. The collapse of the Terra ecosystem wasn’t just a technical failure; it was a failure of systemic stability. The Terra ecosystem relied on a complex algorithmic stablecoin, designed to maintain a 1:1 peg with the US dollar. This created a fragile system susceptible to market fluctuations and ultimately, a loss of confidence, leading to its rapid collapse. This serves as a potent reminder that even innovative systems require a solid foundation of reliability and risk management. 
+Recent events in the cryptocurrency space offer a stark illustration of what happens when stability is sacrificed at the altar of growth. The collapse of the Terra ecosystem wasn’t just a technical failure; it was a failure of systemic stability. The Terra ecosystem relied on a complex algorithmic stablecoin, designed to maintain a 1:1 peg with the US dollar. This created a fragile system susceptible to market fluctuations and ultimately, a loss of confidence, leading to its rapid collapse. This serves as a potent reminder that even innovative systems require a solid foundation of reliability and risk management.
 
 I've seen similar patterns play out in less dramatic ways. A project where a developer is asked to proceed without clear requirements or adequate support, or where priorities change weekly, inevitably spirals into chaos and ultimately fails to deliver.
 
@@ -31,10 +31,9 @@ So, how do you cultivate stability within your engineering organization? Here ar
 * **Be a Consistent Leader:** Provide clear direction, set realistic expectations, and offer consistent support. Be available to your team, listen to their concerns, and advocate for their needs.  Regular one-on-one meetings are crucial for building trust and providing individual guidance.
 * **Embrace "Slow is Smooth, Smooth is Fast":** Rushing decisions or cutting corners might provide short-term gains, but it often leads to long-term instability. Take the time to do things right, even if it means slowing down initially.  Investing in proper design and code review upfront can save significant time and effort down the line.
 
-
 ## Stability Isn’t the Opposite of Agility – It’s the Prerequisite
 
-We know that building stability requires investment and can sometimes feel like a slowdown. But neglecting it ultimately creates far greater costs. In the relentless pursuit of agility, let’s not forget the importance of stability. It's not about being slow or resistant to change. It’s about building a solid foundation that allows us to move quickly and confidently, without sacrificing quality, reliability, or the well-being of our teams. 
+We know that building stability requires investment and can sometimes feel like a slowdown. But neglecting it ultimately creates far greater costs. In the relentless pursuit of agility, let’s not forget the importance of stability. It's not about being slow or resistant to change. It’s about building a solid foundation that allows us to move quickly and confidently, without sacrificing quality, reliability, or the well-being of our teams.
 
 True agility isn’t about how fast you can go; it’s about how quickly you can *recover* when things go wrong. And that requires a foundation of stability.
 

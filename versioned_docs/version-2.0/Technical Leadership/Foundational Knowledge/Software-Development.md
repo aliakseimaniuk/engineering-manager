@@ -10,9 +10,9 @@ The core challenge of building something truly new isn’t speed; it’s navigat
 
 ## The Challenges with Applying Agile to Truly Innovative Projects
 
-Agile is fantastic for iterating on *known* problems with *known* solutions. It excels at incremental delivery and rapid feedback. But let's be honest – true innovation rarely fits that mold. As research suggests (Kaur & Sengupta, 2011), projects building genuinely new things lack a clear roadmap. They're characterized by exploration and discovery. Forcing this process into rigid sprints and user stories can feel… counterproductive. 
+Agile is fantastic for iterating on *known* problems with *known* solutions. It excels at incremental delivery and rapid feedback. But let's be honest – true innovation rarely fits that mold. As research suggests (Kaur & Sengupta, 2011), projects building genuinely new things lack a clear roadmap. They're characterized by exploration and discovery. Forcing this process into rigid sprints and user stories can feel… counterproductive.
 
-I’ve seen teams spend more time *pretending* to know the requirements upfront to justify an Agile approach than they would have spent actually *understanding* the problem if they'd allowed for a more exploratory phase. They're forced to estimate effort for features that are essentially hypotheses. It’s like building a plane while flying it – possible, but incredibly inefficient and prone to costly rework. 
+I’ve seen teams spend more time *pretending* to know the requirements upfront to justify an Agile approach than they would have spent actually *understanding* the problem if they'd allowed for a more exploratory phase. They're forced to estimate effort for features that are essentially hypotheses. It’s like building a plane while flying it – possible, but incredibly inefficient and prone to costly rework.
 
 Furthermore, focusing *only* on delivering working software can sometimes lead to technical debt accruing at an alarming rate. Without dedicated phases for design and architecture, you risk building a fragile system that's difficult to maintain and scale.
 
@@ -24,15 +24,15 @@ Here’s how I’ve found a tweaked waterfall approach to work in practice:
 
 1. **Exploratory Requirements (1-2 Sprints):** Forget “detailed specifications.” This phase is about *learning*. It's about conducting user research, prototyping, building proof-of-concepts, and identifying the fundamental technical challenges. The output isn’t a detailed spec; it's a high-level understanding of the problem domain and potential solutions.
 2. **Architectural Design (2-4 Sprints):** *Now* you define the system’s architecture. This isn't just about diagrams; it's about making critical technical decisions upfront – choosing the right technologies, defining the data model, and establishing the foundational principles of the system. This phase *prevents* costly rewrites down the line.
-3. **Iterative Implementation & Verification:** *This* is where you introduce Agile principles. Break the implementation down into smaller, manageable chunks. Focus on delivering working software incrementally, but within the framework established during the design phase. 
+3. **Iterative Implementation & Verification:** *This* is where you introduce Agile principles. Break the implementation down into smaller, manageable chunks. Focus on delivering working software incrementally, but within the framework established during the design phase.
 4. **Continuous Refinement & Maintenance:** As always, ongoing maintenance and refinement are crucial.
 
 ## It's About the Right Tool for the Job
 
-Agile is fantastic, but it’s not a silver bullet. As technical leaders, we need to be pragmatic. We need to understand the strengths and weaknesses of different methodologies and choose the right tool for the job. 
+Agile is fantastic, but it’s not a silver bullet. As technical leaders, we need to be pragmatic. We need to understand the strengths and weaknesses of different methodologies and choose the right tool for the job.
 
-When building genuinely new things – exploring uncharted territory – a tweaked waterfall approach can provide the stability and clarity needed to succeed. It’s about adapting the principles, not blindly following the process. We need to be *proficient with* methodologies, not worship them. 
+When building genuinely new things – exploring uncharted territory – a tweaked waterfall approach can provide the stability and clarity needed to succeed. It’s about adapting the principles, not blindly following the process. We need to be *proficient with* methodologies, not worship them.
 
-Ultimately, the best leaders don't worship methodologies; they *master* them. They understand that the goal isn't to adhere to a specific process; it's to deliver value to the customer. And sometimes, that requires a little bit of old-school thinking. 
+Ultimately, the best leaders don't worship methodologies; they *master* them. They understand that the goal isn't to adhere to a specific process; it's to deliver value to the customer. And sometimes, that requires a little bit of old-school thinking.
 
 The next time you’re leading a project with significant unknowns, don’t dismiss waterfall out of hand. Consider how its principles can provide a stable foundation for innovation.

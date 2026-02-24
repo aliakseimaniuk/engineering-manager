@@ -1,6 +1,6 @@
 # Reliability
 
-For two decades, I’ve seen engineering teams chase “reliability” like a holy grail. We’ve poured resources into testing, monitoring, and complex architectures, all in the pursuit of a stable system. And while those things *matter*, I’ve consistently observed that true reliability isn't solved through technology alone. It’s a leadership problem, stemming from how we *think* about building software and manage the people who build it. 
+For two decades, I’ve seen engineering teams chase “reliability” like a holy grail. We’ve poured resources into testing, monitoring, and complex architectures, all in the pursuit of a stable system. And while those things *matter*, I’ve consistently observed that true reliability isn't solved through technology alone. It’s a leadership problem, stemming from how we *think* about building software and manage the people who build it.
 
 Think of the recent outages impacting major services – often, the root cause isn’t a single line of bad code, but a cascade of failures stemming from systemic issues and leadership blindspots. This isn't about blaming anyone. It's about recognizing that chasing ever-increasing numbers of nines (99.999% uptime, anyone?) without addressing the underlying leadership weaknesses is a costly and ultimately futile exercise. Let’s unpack that.
 
@@ -27,4 +27,4 @@ So, what can engineering leaders do to foster a culture of reliability? Here's a
 
 Ultimately, reliability isn’t just about achieving a certain uptime percentage. It’s about building trust with your users. It’s about delivering a consistently positive experience. It’s about creating a system that you can depend on, even when things go wrong.
 
-And that requires more than just technical skill. It requires strong leadership, a commitment to long-term sustainability, and a culture of trust and accountability. 
+And that requires more than just technical skill. It requires strong leadership, a commitment to long-term sustainability, and a culture of trust and accountability.

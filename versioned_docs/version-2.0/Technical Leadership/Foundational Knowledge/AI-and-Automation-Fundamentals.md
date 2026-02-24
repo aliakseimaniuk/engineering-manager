@@ -6,10 +6,10 @@ This post will lay out some fundamentals, focusing not on the *tech* of AI (that
 
 ## Beyond the Buzzwords: What Does AI & Automation *Really* Mean for Engineering?
 
-The terms "AI" and "automation" are often thrown around interchangeably, but there's a subtle but important distinction. 
+The terms "AI" and "automation" are often thrown around interchangeably, but there's a subtle but important distinction.
 
 * **Automation** is about executing predefined tasks without human intervention. Think CI/CD pipelines, automated testing, or infrastructure-as-code. We’ve been doing this for years.
-* **AI**, particularly generative AI and large language models (LLMs), introduces a level of *adaptability* and *learning* that's new. It’s not just *doing* tasks; it's *learning* to do them better, and even handling tasks it wasn’t explicitly programmed for. 
+* **AI**, particularly generative AI and large language models (LLMs), introduces a level of *adaptability* and *learning* that's new. It’s not just *doing* tasks; it's *learning* to do them better, and even handling tasks it wasn’t explicitly programmed for.
 
 For engineering teams, this translates to a few key areas of impact:
 
@@ -27,13 +27,11 @@ Here’s what that looks like in practice:
 * **Focus on Defining the “What”, Not Just the “How”:** Instead of prescribing *how* a task should be done, focus on clearly defining the desired *outcome*. This empowers your team to leverage AI tools and find the most efficient approach.
 * **Encourage Experimentation & Learning:** Create a safe space for your team to experiment with AI tools, even if it means accepting occasional failures. Dedicate time for “AI Fridays” or similar initiatives where engineers can explore new technologies.
 * **Invest in Upskilling:** While AI can automate certain tasks, it also creates new opportunities for engineers to develop skills in areas like prompt engineering, AI model evaluation (tools like Arize AX, Braintrust, and Phoenix provide platforms for monitoring model performance, identifying biases, and ensuring reliability), and data science.
-* **Establish Clear Guidelines & Governance:** As AI tools become more integrated into our workflows, we need to address issues like code quality, security, and intellectual property. Establishing these guidelines sets the stage for effective training. We need to establish clear guidelines for how these tools should be used and how the resulting code will be reviewed. 
-
-
+* **Establish Clear Guidelines & Governance:** As AI tools become more integrated into our workflows, we need to address issues like code quality, security, and intellectual property. Establishing these guidelines sets the stage for effective training. We need to establish clear guidelines for how these tools should be used and how the resulting code will be reviewed.
 
 ## Beyond Productivity: Reclaiming Time for Strategic Work
 
-The promise of AI and automation isn't just about doing more with less; it's about *freeing up* engineers to focus on more strategic work – the things that truly differentiate our products and drive innovation.  Consider the story of a team I worked with who automated their regression testing suite using AI-powered tools. This freed up two senior engineers to focus on architecting a critical new feature, ultimately accelerating delivery by several weeks. 
+The promise of AI and automation isn't just about doing more with less; it's about *freeing up* engineers to focus on more strategic work – the things that truly differentiate our products and drive innovation.  Consider the story of a team I worked with who automated their regression testing suite using AI-powered tools. This freed up two senior engineers to focus on architecting a critical new feature, ultimately accelerating delivery by several weeks.
 
 Think about the tedious, repetitive tasks that currently consume a significant portion of your team’s time: writing boilerplate code, manually testing features, triaging bug reports. These are prime candidates for automation. By offloading these tasks to AI, you can empower your engineers to focus on higher-level thinking and creative problem-solving.
 
@@ -42,6 +40,5 @@ Think about the tedious, repetitive tasks that currently consume a significant p
 AI isn't a destination; it's a journey. The technology is evolving at a rapid pace, and we need to be prepared to adapt our strategies and approaches accordingly. This means staying informed about the latest advancements, experimenting with new tools, and fostering a culture of continuous learning.  
 
 This transition won’t happen overnight, and it will require investment in training and experimentation. As a leader, your role is to help your team navigate this ever-changing landscape and embrace the opportunities that AI and automation present. It’s about building a resilient, adaptable team that can thrive in a world where technology is constantly disrupting the status quo.
-
 
 This isn’t about fearing the machine; it’s about harnessing its power to build a better future for our teams and our products.  

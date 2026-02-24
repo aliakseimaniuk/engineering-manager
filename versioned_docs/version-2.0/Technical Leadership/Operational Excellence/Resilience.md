@@ -1,8 +1,8 @@
 # Resilience
 
-Resilience. It’s a buzzword thrown around a lot these days, particularly when discussing systems architecture. We talk about building resilient *systems* – fault tolerance, redundancy, graceful degradation. But what about building *resilient engineering teams*? And more importantly, *resilient engineering leaders*? 
+Resilience. It’s a buzzword thrown around a lot these days, particularly when discussing systems architecture. We talk about building resilient *systems* – fault tolerance, redundancy, graceful degradation. But what about building *resilient engineering teams*? And more importantly, *resilient engineering leaders*?
 
-I recently witnessed a team paralyzed by a critical production issue. Not because the problem was technically insurmountable, but because the single engineer who understood the affected service was unavailable. This underscored a painful truth: technical resilience is only half the battle. The ability to bounce back from failures, adapt to change, and maintain performance under pressure isn't just about clever code; it’s fundamentally about the people building that code, and the leadership that supports them. 
+I recently witnessed a team paralyzed by a critical production issue. Not because the problem was technically insurmountable, but because the single engineer who understood the affected service was unavailable. This underscored a painful truth: technical resilience is only half the battle. The ability to bounce back from failures, adapt to change, and maintain performance under pressure isn't just about clever code; it’s fundamentally about the people building that code, and the leadership that supports them.
 
 ## The Fragility of "Normal"
 
@@ -17,9 +17,9 @@ Resilient engineering isn't about preventing all failures (that’s unrealistic)
 * **Psychological Safety:** This is foundational. Teams need to feel safe admitting mistakes, challenging assumptions, and proposing unconventional solutions without fear of retribution. A blameless postmortem isn’t just a process; it’s a demonstration of trust. Teams with high psychological safety recover *far* faster from incidents than those operating in a culture of fear. Google’s Project Aristotle research highlighted psychological safety as a key component of high-performing teams.
 * **Distributed Ownership:** Avoid single points of failure, not just in architecture, but in knowledge and responsibility. A team where only one person understands a critical service is a fragile team. Encourage cross-training, documentation, and shared responsibility. This also means empowering engineers to make decisions – within defined boundaries, of course.
 * **Embracing Iteration & Experimentation:** Resilient teams aren’t afraid to try new things and, yes, sometimes fail. In fact, failure is *expected* as a learning opportunity. This requires a mindset shift away from perfectionism and towards continuous improvement. Encourage small, frequent experiments to validate assumptions and mitigate risks.
-* **Adaptability & Learning:** The pace of technological change is relentless. Resilient engineers are lifelong learners, constantly seeking new knowledge and skills. As leaders, we must foster a culture of learning and provide opportunities for growth. This could include dedicated learning time, conference attendance, or internal knowledge sharing sessions. 
+* **Adaptability & Learning:** The pace of technological change is relentless. Resilient engineers are lifelong learners, constantly seeking new knowledge and skills. As leaders, we must foster a culture of learning and provide opportunities for growth. This could include dedicated learning time, conference attendance, or internal knowledge sharing sessions.
 
-Building on this concept of shared responsibility, resilient teams also embrace experimentation… 
+Building on this concept of shared responsibility, resilient teams also embrace experimentation…
 
 ## Leading with Resilience: It Starts with You
 

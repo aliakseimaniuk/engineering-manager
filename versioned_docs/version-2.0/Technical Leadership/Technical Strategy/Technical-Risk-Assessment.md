@@ -8,8 +8,8 @@ This isn’t about becoming paranoid or adding endless checklists. It’s about 
 
 Many organizations treat risk assessment as a compliance exercise – a document to tick boxes. A list of potential problems, often generic ("database might crash," "network latency"), with vague mitigation strategies. This is largely ineffective for a couple of key reasons:
 
-* **Shifting Blame:** Research into project failures, such as that conducted by Lehtinen et al., highlights how many methodologies inadvertently place the burden of risk *onto* developers. The implication? “If something goes wrong, it’s because *you* didn't foresee it.” This stifles innovation and encourages risk aversion. 
-* **Focus on Symptoms, Not Root Causes:** Generic risks are symptoms. We need to dig deeper. What *specifically* about our architecture, dependencies, or implementation choices makes a failure more likely? 
+* **Shifting Blame:** Research into project failures, such as that conducted by Lehtinen et al., highlights how many methodologies inadvertently place the burden of risk *onto* developers. The implication? “If something goes wrong, it’s because *you* didn't foresee it.” This stifles innovation and encourages risk aversion.
+* **Focus on Symptoms, Not Root Causes:** Generic risks are symptoms. We need to dig deeper. What *specifically* about our architecture, dependencies, or implementation choices makes a failure more likely?
 * **Ignoring Organizational Impediments:** We often forget the *non-technical* risks. Cumbersome infrastructure, audit processes, and financial structures can dramatically slow down iteration and increase project fragility.
 
 ## A Framework for Proactive Technical Risk Assessment
@@ -56,7 +56,7 @@ Risk assessment isn't a one-time activity. Revisit the risk register regularly (
 The biggest challenge isn't the *process* of risk assessment, it’s fostering a culture where it’s valued and embraced. Here’s how to lead the change:
 
 * **Model Vulnerability:** Be willing to admit what *you* don’t know, and encourage your team to do the same.
-* **Focus on Learning, Not Blame:** Treat failures as opportunities for improvement. 
+* **Focus on Learning, Not Blame:** Treat failures as opportunities for improvement.
 * **Empower the Team:** Give engineers ownership of identifying and mitigating risks.
 * **Make it Visible:** Share the risk register with stakeholders to build transparency and alignment.
 
@@ -66,9 +66,9 @@ As McConnell highlights, good specifications and robust risk management are the 
 
 **Key Takeaways:**
 
-*   **Proactive is Better:** Don't wait for things to break – anticipate risks before they materialize.
-*   **Categorize Risks:** Organize risks into meaningful categories to gain a clearer understanding of potential problems.
-*   **Prioritize Effectively:** Focus on the risks that have the highest impact and probability.
-*   **Foster a Culture of Learning:** Encourage open communication and collaboration around risk assessment.
+* **Proactive is Better:** Don't wait for things to break – anticipate risks before they materialize.
+* **Categorize Risks:** Organize risks into meaningful categories to gain a clearer understanding of potential problems.
+* **Prioritize Effectively:** Focus on the risks that have the highest impact and probability.
+* **Foster a Culture of Learning:** Encourage open communication and collaboration around risk assessment.
 
 This week, schedule a "pre-mortem" session with your team to proactively identify potential risks in your current project. You'll be surprised by what you uncover.

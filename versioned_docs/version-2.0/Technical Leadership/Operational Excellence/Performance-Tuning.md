@@ -35,11 +35,10 @@ As a manager, your role isn’t to *be* the performance expert, but to *enable* 
 
 ## Data-Driven Decisions & Continuous Improvement
 
-Finally, remember that performance tuning is an ongoing process. Building a data-driven mindset is crucial. Consider leveraging principles from resources like “Lean Analytics” to focus on tracking key metrics and iteratively improving performance based on real-world data. 
+Finally, remember that performance tuning is an ongoing process. Building a data-driven mindset is crucial. Consider leveraging principles from resources like “Lean Analytics” to focus on tracking key metrics and iteratively improving performance based on real-world data.
 
 * **Monitor Key Metrics:** Continuously track SLOs and SLIs to identify trends and potential problems.
 * **Analyze Performance Data:** Use performance monitoring tools to identify bottlenecks and areas for improvement.
 * **Iterate and Refine:** Implement changes, measure the results, and iterate until you achieve the desired performance levels.
 
-
-By prioritizing performance, fostering a culture of continuous improvement, and empowering your team to take ownership, you can deliver efficient, scalable applications that delight your users and drive business success. 
+By prioritizing performance, fostering a culture of continuous improvement, and empowering your team to take ownership, you can deliver efficient, scalable applications that delight your users and drive business success.

@@ -1,6 +1,6 @@
 # Code Review Checklist
 
-What sort of things are humans really good for? What can we spot in a code review that we can’t delegate to a tool? 
+What sort of things are humans really good for? What can we spot in a code review that we can’t delegate to a tool?
 
 It turns out there’s a surprisingly large number of things. This is certainly not an exhaustive list, nor will we go into any one of them in great detail here. Instead, this should be the start of a conversation in your organization about which things you currently look for in a code review, and what, perhaps, you should be looking for.
 
@@ -54,7 +54,7 @@ It turns out there’s a surprisingly large number of things. This is certainly 
 * Has the fix/new functionality negatively impacted the results of any existing performance tests?
 * What if there are no hard performance requirements for this code review?
 
-## Resource Management 
+## Resource Management
 
 * Is there something in the code which could lead to a memory leak?
 * Is there a possibility the memory footprint of the application could grow infinitely?
@@ -70,7 +70,7 @@ It turns out there’s a surprisingly large number of things. This is certainly 
 
 ## Code-level optimizations
 
-* Does the code use synchronization/locks when they’re not required? If the code is always run on a single thread, locks are unnecessary overhead. 
+* Does the code use synchronization/locks when they’re not required? If the code is always run on a single thread, locks are unnecessary overhead.
 * Is the code using a thread-safe data structure where it’s not required? For example, can Vector be replaced with ArrayList?
 * Is the code using a data structure with poor performance for the common operations? For example, using a linked list but needing to regularly search for a single item in it.
 * Is the code using locks or synchronization when it could use atomic variables instead?
@@ -84,4 +84,3 @@ It turns out there’s a surprisingly large number of things. This is certainly 
 * Does your data need to be encrypted (in-rest; in-transit)?
 * Are secrets being managed correctly?
 * Should the code be logging/auditing behavior? Is it doing so correctly?
-

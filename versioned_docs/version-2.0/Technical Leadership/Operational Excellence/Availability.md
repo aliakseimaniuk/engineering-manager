@@ -25,12 +25,11 @@ As a leader, you need to foster a culture where availability isn't an afterthoug
 4. **Architect for Resilience, Not Just Scalability:** Scalability lets you handle *more* traffic. Resilience lets you survive *failures*. Think about redundancy, circuit breakers, retry mechanisms, and data replication. Consider technologies that can aid in this – for example, utilizing tools like getstream.io for resilient real-time communication channels, or hasura.io to provide a resilient GraphQL API over your existing data sources.
 5. **Prioritize Observability:** You can't improve what you can't measure. Invest in robust monitoring, logging, and tracing. Tools like Prometheus, Grafana, and Jaeger are essential. But observability is more than just tooling; it's about creating a culture where understanding system behavior is a priority. This means empowering engineers to explore data, ask "why" questions, and proactively identify potential issues before they impact users. It’s a shift in mindset, focusing on understanding the *system as a whole*, not just individual components.
 
-
 ## Leading by Example: A Personal Anecdote
 
 Early in my career, I led a team building a high-throughput API. We were laser-focused on performance, and availability was an afterthought. We launched, and immediately experienced intermittent errors during peak hours. We spent weeks firefighting, patching, and blaming infrastructure.
 
-Finally, a senior engineer pointed out the obvious: we hadn't defined any SLOs. We didn't know *what* level of availability we were promising, or what constituted a failure. It was a humbling experience. 
+Finally, a senior engineer pointed out the obvious: we hadn't defined any SLOs. We didn't know *what* level of availability we were promising, or what constituted a failure. It was a humbling experience.
 
 We took a step back, defined SLOs, and started monitoring our error budget. Suddenly, we had a clear objective, and a framework for prioritizing reliability work. It wasn't just about fixing bugs; it was about proactively preventing them.
 
@@ -38,4 +37,4 @@ We took a step back, defined SLOs, and started monitoring our error budget. Sudd
 
 In today’s world, availability isn't just a technical requirement; it's a *competitive advantage*. Users expect seamless experiences, and they'll quickly abandon services that are unreliable.
 
-As a technical leader, you have a responsibility to build systems that are not just fast and scalable, but also resilient and available. It requires a shift in mindset, a commitment to proactive planning, and a willingness to prioritize reliability alongside feature development. It's not always glamorous, but it’s always the right thing to do. And ultimately, it’s what separates good engineering organizations from truly exceptional ones. 
+As a technical leader, you have a responsibility to build systems that are not just fast and scalable, but also resilient and available. It requires a shift in mindset, a commitment to proactive planning, and a willingness to prioritize reliability alongside feature development. It's not always glamorous, but it’s always the right thing to do. And ultimately, it’s what separates good engineering organizations from truly exceptional ones.

@@ -27,10 +27,10 @@ Here's how it works:
 3. **Categorize:**
     * **Quick Wins (High Value, Low Effort):** Do these *immediately*.  Examples: optimizing images (like with reSmush.it!), cleaning up unused code, automating a manual process.
     * **Major Projects (High Value, High Effort):**  These are strategic investments. Plan them carefully, break them down into smaller, manageable chunks, and prioritize them based on their overall impact.
-    * **Fill-Ins (Low Value, Low Effort):** Do these only if you have spare capacity. 
+    * **Fill-Ins (Low Value, Low Effort):** Do these only if you have spare capacity.
     * **Thankless Tasks (Low Value, High Effort):** *Avoid these like the plague*. Ruthlessly prioritize away from anything that falls into this quadrant.
 
-I recently used this matrix with a team struggling with technical debt. We identified a critical, but neglected, performance issue affecting a core user flow as a “Major Project.”  By breaking it down into smaller tasks and assigning them across sprints, we significantly improved user experience and reduced long-term maintenance costs. 
+I recently used this matrix with a team struggling with technical debt. We identified a critical, but neglected, performance issue affecting a core user flow as a “Major Project.”  By breaking it down into smaller tasks and assigning them across sprints, we significantly improved user experience and reduced long-term maintenance costs.
 
 ## Leading the Change
 
@@ -45,7 +45,7 @@ Once you’ve identified your priorities using the Value-Impact Matrix, the next
 
 ## The Human Cost of Cutting Corners
 
-Cost optimization is important, but it should never come at the expense of your team’s well-being. Cutting corners on essential tools, underinvesting in training, or overworking your engineers will ultimately backfire. It’s crucial to acknowledge the inherent tension between delivering value quickly and building a sustainable technical foundation. 
+Cost optimization is important, but it should never come at the expense of your team’s well-being. Cutting corners on essential tools, underinvesting in training, or overworking your engineers will ultimately backfire. It’s crucial to acknowledge the inherent tension between delivering value quickly and building a sustainable technical foundation.
 
 Remember, your team is your most valuable asset. Invest in them, empower them, and create a culture of efficiency, not just austerity. We’ve all seen the consequences of excessive cost-cutting: burnout, decreased morale, and a loss of innovation. Let’s strive for cost optimization that’s sustainable, ethical, and ultimately, beneficial to everyone involved.
 

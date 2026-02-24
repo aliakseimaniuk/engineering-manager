@@ -4,7 +4,7 @@ For two decades, I've seen on-call rotations treated as everything from a necess
 
 ## The Problem with "Firefighting" On-Call
 
-I once worked at a startup where on-call was a competition. Whoever could fix the production issue fastest got bragging rights. Sounds…inspiring? Not even close. It fostered a culture of rushed fixes, skipped postmortems, and accumulating technical debt. The team was constantly exhausted, and the system became increasingly fragile. 
+I once worked at a startup where on-call was a competition. Whoever could fix the production issue fastest got bragging rights. Sounds…inspiring? Not even close. It fostered a culture of rushed fixes, skipped postmortems, and accumulating technical debt. The team was constantly exhausted, and the system became increasingly fragile.
 
 This “firefighting” approach – equating reacting quickly with solving problems effectively – is fundamentally flawed. It often leads to band-aid solutions that mask underlying issues and increase future incidents. It also creates a toxic environment where engineers feel pressured to sacrifice their well-being to appear competent. However, I've also seen the opposite work wonders. At another company, implementing a truly humane on-call system not only reduced incident frequency but also significantly improved engineer morale and retention. The key difference? A deliberate focus on prevention and proactive support.
 
@@ -23,11 +23,11 @@ This is where the bulk of your effort *should* be. A well-architected, well-test
 
 **2. Detection: Smart Alerting & On-Call Schedules**
 
-Effective detection isn’t about generating a million alerts; it’s about surfacing the *right* alerts at the *right* time. 
+Effective detection isn’t about generating a million alerts; it’s about surfacing the *right* alerts at the *right* time.
 
 * **Alert Fatigue is the Enemy:** Reduce noise by focusing on meaningful alerts. Use anomaly detection to identify unusual behavior that requires investigation. Tools like (and integrations with) cron-job.org can help monitor background job health and alert if critical tasks fail.
 * **On-Call Rotation:** Fair and predictable on-call schedules are crucial. Keep rotations short – the ideal length varies based on team size and system complexity – and ensure that engineers have adequate time to recover between rotations. Avoid overburdening your most senior engineers; spread the knowledge and responsibility.
-* **Clear Escalation Paths:** Define clear escalation paths for different types of incidents. Who should be contacted first? When should the incident be escalated to a higher level of support? 
+* **Clear Escalation Paths:** Define clear escalation paths for different types of incidents. Who should be contacted first? When should the incident be escalated to a higher level of support?
 * **Tooling:** Services like Veriphone can be vital for escalating critical issues via phone calls or SMS, ensuring on-call engineers are notified even during outages of primary communication channels.
 
 **3. Response: Efficient Incident Management**
@@ -56,7 +56,5 @@ I've seen firsthand that investing in a humane on-call system isn’t just the r
 1. **Schedule a team discussion about on-call fatigue.** Understand the challenges your engineers face and brainstorm solutions.
 2. **Review your existing alerting rules for noise.** Eliminate unnecessary alerts and focus on the signals that truly matter.
 3. **Identify one area where you can improve preventative measures.** Perhaps it's adding more automated tests, improving monitoring, or investing in chaos engineering.
-
-
 
 **Further Exploration:** Consider tools like Cronhooks to schedule automated tests and reliability checks during off-peak hours as part of proactive maintenance. The more you automate reliability, the less reactive your on-call system will need to be.

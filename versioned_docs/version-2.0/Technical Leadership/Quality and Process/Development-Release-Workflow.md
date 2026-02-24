@@ -8,7 +8,7 @@ This isn’t a post about *another* CI/CD tool. It's about how to *think* about 
 
 The prevailing wisdom is “move fast and break things.” But constant firefighting and rushed releases erode team morale, increase technical debt, and ultimately *slow you down*. While Agile and Lean methodologies rightly emphasize iterative development, completely abandoning planning can lead to chaos.
 
-Interestingly, a paper from 2001 (referenced in the PROFES proceedings) suggested that, with adjustments, the Waterfall methodology could still be effective. Their core argument centered on establishing clearly defined “gates” – points of quality assessment and risk evaluation – within the development lifecycle. The key isn’t rigid adherence to phases, but rather ensuring thorough validation at critical junctures. 
+Interestingly, a paper from 2001 (referenced in the PROFES proceedings) suggested that, with adjustments, the Waterfall methodology could still be effective. Their core argument centered on establishing clearly defined “gates” – points of quality assessment and risk evaluation – within the development lifecycle. The key isn’t rigid adherence to phases, but rather ensuring thorough validation at critical junctures.
 
 Modern releases need a blend of both: the speed of iterative development *and* the rigor of planned releases. This means thinking beyond simply automating deployments.
 
@@ -26,20 +26,15 @@ I envision a robust release workflow as having several layers, each with a disti
 
 **5. Post-Release Monitoring & Feedback (The Learning Loop):** Deployment isn’t the finish line; it's the start of a monitoring period. Track key metrics, monitor error rates, and gather user feedback. Use this data to refine your process and improve future releases. For example, a team might track the number of support tickets related to a new feature to identify usability issues.
 
-
-
 ## Tailoring Your Workflow to Your Team Size & Maturity
 
-There’s no one-size-fits-all release workflow. Your approach should be tailored to your team’s size, experience, and risk tolerance. 
+There’s no one-size-fits-all release workflow. Your approach should be tailored to your team’s size, experience, and risk tolerance.
 
 * **Small Teams (2-5 Developers):** Focus on automating the core CI/CD pipeline and implementing basic feature flagging. Tools like flightcontrol.dev (deploy web services, databases) can simplify infrastructure management. Prioritize simplicity and avoid over-engineering.  Small teams often struggle with limited resources, so automating the most critical parts of the process can free up valuable time.
 
 * **Medium-Sized Teams (6-20 Developers):** Implement more robust testing frameworks, dedicated staging environments, and more sophisticated release orchestration. Start experimenting with dark launching and canary releases.  Medium-sized teams often face challenges related to communication and coordination, so investing in tools and processes that improve collaboration is essential.
 
 * **Large Enterprises (20+ Developers):** You’ll likely need a more complex system, potentially involving multiple environments, automated rollbacks, and detailed audit trails. Tools like Jira (advanced software development project management) become essential for managing the complexity. Large enterprises often need to comply with strict regulatory requirements, so having a well-defined and auditable release process is critical.
-
-
-
 
 ## The Importance of Psychological Safety
 

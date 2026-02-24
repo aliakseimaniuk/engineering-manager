@@ -6,7 +6,7 @@ This article isn’t about the *how* of scaling – specific technologies like K
 
 ## The Trap of Tactical Scaling
 
-It's easy to fall into the "tactical scaling" trap. A spike in traffic hits, and we scramble to add more servers, optimize queries, and cache everything in sight. While necessary in the short term, this approach is unsustainable. It's like applying band-aids to a systemic problem. 
+It's easy to fall into the "tactical scaling" trap. A spike in traffic hits, and we scramble to add more servers, optimize queries, and cache everything in sight. While necessary in the short term, this approach is unsustainable. It's like applying band-aids to a systemic problem.
 
 I remember a particularly stressful period at a fast-growing startup. We were experiencing weekly outages, and the team was constantly firefighting. We’d double our server capacity, get a temporary reprieve, and then repeat the cycle. It wasn’t until we stepped back and asked *why* we were constantly in crisis mode that we started to see real improvement. We realized our architecture wasn't designed for the scale we were aiming for, and our monitoring wasn't providing the early warning signals we needed.
 
@@ -22,11 +22,10 @@ Here are three pillars to build a foundation for proactive infrastructure scalin
 * **Design for Failure:** Assume things *will* break. Implement robust error handling, retries, and circuit breakers. Redundancy is crucial. Think about how your system will degrade gracefully under load.
 * **Consider Serverless:** Don’t underestimate the power of serverless technologies. They can drastically reduce operational overhead and automatically scale based on demand. It’s not a silver bullet, but it's worth exploring.
 
-
 **2. Observability & Monitoring – The Early Warning System**
 
 * **Beyond Uptime:** Don't just monitor if your servers are up. Track key performance indicators (KPIs) that reflect the *user experience* - response times, error rates, throughput.
-* **Logging and Tracing:** Implement comprehensive logging and distributed tracing to understand the flow of requests through your system and pinpoint bottlenecks. 
+* **Logging and Tracing:** Implement comprehensive logging and distributed tracing to understand the flow of requests through your system and pinpoint bottlenecks.
 * **Alerting:** Set up meaningful alerts that notify you *before* problems impact users. Avoid alert fatigue – focus on actionable alerts.
 
 **3. Automation and Infrastructure as Code (IaC)**
@@ -38,7 +37,7 @@ Here are three pillars to build a foundation for proactive infrastructure scalin
 
 Ignoring infrastructure scaling has a real cost – lost revenue, damaged reputation, and frustrated users. The longer you wait, the more complex and expensive the problem becomes.
 
-Tools are important, but don't get bogged down in the latest shiny objects. Focus on solutions that align with your needs and budget. I’ve seen companies spend months evaluating tools only to realize they were over-engineered for their use case. Consider platforms offering streamlined DevOps and scalable infrastructure, and don't overlook the importance of managing third-party code and licenses – tools like FOSSA can help with that critical aspect. 
+Tools are important, but don't get bogged down in the latest shiny objects. Focus on solutions that align with your needs and budget. I’ve seen companies spend months evaluating tools only to realize they were over-engineered for their use case. Consider platforms offering streamlined DevOps and scalable infrastructure, and don't overlook the importance of managing third-party code and licenses – tools like FOSSA can help with that critical aspect.
 
 Ultimately, the most important thing is to *start*.
 
@@ -46,7 +45,7 @@ Ultimately, the most important thing is to *start*.
 
 Scaling infrastructure isn't just a technical challenge; it’s a leadership opportunity. It requires:
 
-* **Communication:** Keep your team informed about the scaling roadmap and the rationale behind it. 
+* **Communication:** Keep your team informed about the scaling roadmap and the rationale behind it.
 * **Empowerment:** Give your team the autonomy to experiment and innovate.
 * **Prioritization:** Make tough decisions about what to build and what to defer.
 

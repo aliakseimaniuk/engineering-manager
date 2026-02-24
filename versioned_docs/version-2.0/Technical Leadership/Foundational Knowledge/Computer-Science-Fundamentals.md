@@ -4,7 +4,7 @@ For two decades I’ve led engineering teams, seen methodologies come and go, an
 
 Too often, we – as engineering leaders – get comfortable with the *how* – the frameworks, the languages, the tooling – and lose sight of the *why*. We delegate the deep technical dives, assuming our teams have it covered. While empowering your team is essential, a leader who lacks a solid grasp of CS fundamentals is like a ship captain who can’t read a nautical chart. You might get lucky, but you’re relying on chance, not competence.
 
-This isn’t about becoming a coding prodigy again. It’s about regaining – or developing – the mental models that allow you to make informed technical decisions, ask the right questions, and guide your team effectively. 
+This isn’t about becoming a coding prodigy again. It’s about regaining – or developing – the mental models that allow you to make informed technical decisions, ask the right questions, and guide your team effectively.
 
 ## Why CS Fundamentals Matter for Leaders
 
@@ -47,8 +47,8 @@ Okay, you’re convinced. Now what? You don’t have time to go back to school. 
 
 ## Beyond the Code: Leading with Principle
 
-Ultimately, the goal isn’t to become a coding guru. It’s to become a more effective technical leader. A leader who can ask the right questions, make informed decisions, and guide their team toward building robust, scalable, and sustainable software. 
+Ultimately, the goal isn’t to become a coding guru. It’s to become a more effective technical leader. A leader who can ask the right questions, make informed decisions, and guide their team toward building robust, scalable, and sustainable software.
 
-By revisiting – or developing – a strong foundation in computer science fundamentals, you’re not just investing in your own growth, you’re investing in the success of your team and your organization. Because true technical leadership isn’t about *knowing* the answer; it’s about understanding the principles to *discover* it. 
+By revisiting – or developing – a strong foundation in computer science fundamentals, you’re not just investing in your own growth, you’re investing in the success of your team and your organization. Because true technical leadership isn’t about *knowing* the answer; it’s about understanding the principles to *discover* it.
 
 **Start by revisiting the fundamentals of data structures and algorithms – dedicate just 30 minutes a week to refreshing your knowledge.**

@@ -1,6 +1,6 @@
 # Incident Management
 
-Incidents. They’re inevitable. Servers crash, code deploys with bugs, and sometimes, despite our best efforts, things just *break*. As engineering leaders, we often focus on *preventing* incidents – and that’s good! But equally critical is how we *lead* through them. It's not just about restoring service; it’s about building trust, fostering learning, and demonstrating true technical leadership. 
+Incidents. They’re inevitable. Servers crash, code deploys with bugs, and sometimes, despite our best efforts, things just *break*. As engineering leaders, we often focus on *preventing* incidents – and that’s good! But equally critical is how we *lead* through them. It's not just about restoring service; it’s about building trust, fostering learning, and demonstrating true technical leadership.
 
 Too often, incident response is viewed as a purely technical exercise. Get the systems back up, then move on. But that’s a missed opportunity. A well-managed incident can be a powerful signal to the team, the organization, and even your customers. A poorly managed one? It can erode trust and create a culture of fear.
 
@@ -20,11 +20,11 @@ When things are going wrong, ambiguity is the enemy. As a leader, you need to pr
 
 **2. Empowerment: Trust Your Team to Solve the Problem**
 
-This is where a lot of leaders fall down. The urge to jump in and “fix it” is strong, but resist it! Your team is capable. Your job is to create the space for them to do their best work.  Remember, empowerment isn't about *avoiding* involvement, but about shifting from directing to facilitating. 
+This is where a lot of leaders fall down. The urge to jump in and “fix it” is strong, but resist it! Your team is capable. Your job is to create the space for them to do their best work.  Remember, empowerment isn't about *avoiding* involvement, but about shifting from directing to facilitating.
 
 * **Delegating Authority:** Give the incident commander (and their team) the authority to make decisions quickly. Don’t require endless approvals for every action.
 * **Removing Roadblocks:** Are there permissions issues? Do they need access to specific logs? Clear the path for them to investigate and resolve the issue.
-* **Resisting the Urge to Micro-Manage:** Trust their expertise. Ask clarifying questions, but avoid telling them *how* to solve the problem. 
+* **Resisting the Urge to Micro-Manage:** Trust their expertise. Ask clarifying questions, but avoid telling them *how* to solve the problem.
 
 I remember one particularly stressful incident where a critical database connection failed. My initial instinct was to start digging through logs myself. But I stopped myself, reminded myself of the team’s expertise, and instead asked, “What information do you need from me to diagnose this?” The team quickly identified the issue and resolved it – and they felt empowered by the trust I placed in them.
 
@@ -44,10 +44,6 @@ The real value of an incident lies in the lessons learned. Don't just fix the pr
 * **Identify Systemic Issues:** Don’t focus solely on the immediate cause; look for underlying patterns and vulnerabilities. Is there a lack of monitoring? Are there gaps in our testing?
 * **Implement Corrective Actions:** This is where the rubber meets the road. Prioritize action items and assign owners. Track progress and ensure that the lessons learned are actually implemented.
 
-
-
-Leading through incidents isn't about being a hero; it's about empowering your team to be heroes. By focusing on clarity, empowerment, support, and learning, you can turn crisis into opportunity and build a more resilient and effective organization. 
+Leading through incidents isn't about being a hero; it's about empowering your team to be heroes. By focusing on clarity, empowerment, support, and learning, you can turn crisis into opportunity and build a more resilient and effective organization.
 
 Genuine care underpins each of these pillars. Genuine care means *providing* psychological safety during Support, *trusting* your team’s judgment during Empowerment, *communicating* clearly during Clarity, and *investing* in learning and improvement through the Learning pillar. It's about showing your team that you value them as individuals, not just as problem-solvers.
-
-

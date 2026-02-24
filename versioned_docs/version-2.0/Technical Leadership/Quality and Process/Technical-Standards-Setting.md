@@ -8,13 +8,13 @@ This isn’t about the technical details of a specific standard (though those ar
 
 We often *want* standards to be rigid. A clear, definitive guide to “the right way” to do things. This desire for order is understandable. It promises predictability, interoperability, and a reduction in wasted effort. But the history of tech tells a different story. Remember a time when there were 16 competing standards for… well, *something*? (I’ve certainly seen that many options for seemingly simple things in my career!).  Like the multiple competing video codec standards in the early 2000s, the abundance of choices highlights the dynamic nature of innovation and the challenges of achieving consensus.
 
-The anecdote about specs being agreed to with a phone call is particularly telling. In a fast-moving field like software development, detailed, exhaustive documentation often *can’t* keep pace with reality. What *does* matter is shared understanding and a willingness to adapt. 
+The anecdote about specs being agreed to with a phone call is particularly telling. In a fast-moving field like software development, detailed, exhaustive documentation often *can’t* keep pace with reality. What *does* matter is shared understanding and a willingness to adapt.
 
 This isn’t an argument *against* documentation. It’s a recognition that documentation is a snapshot in time, and the real “standard” often resides in the collective knowledge and ongoing communication within a team, and the wider industry.
 
 ## Why So Many Standards? (And Why Does it Matter to You?)
 
-The proliferation of standards isn’t necessarily a bad thing. It reflects experimentation, innovation, and the inherent complexity of building software. However, it does create challenges for engineering leaders. The sheer number of choices can lead to decision fatigue, crippling teams that spend valuable time debating options instead of building. Integration headaches and skill gaps further complicate the landscape. Maintaining compatibility across systems built on different standards requires significant effort and investment. 
+The proliferation of standards isn’t necessarily a bad thing. It reflects experimentation, innovation, and the inherent complexity of building software. However, it does create challenges for engineering leaders. The sheer number of choices can lead to decision fatigue, crippling teams that spend valuable time debating options instead of building. Integration headaches and skill gaps further complicate the landscape. Maintaining compatibility across systems built on different standards requires significant effort and investment.
 
 These challenges underscore the importance of thoughtful consideration and strategic decision-making. It’s not simply about choosing *a* standard; it’s about choosing the standard that best aligns with your team's goals, resources, and long-term vision.
 

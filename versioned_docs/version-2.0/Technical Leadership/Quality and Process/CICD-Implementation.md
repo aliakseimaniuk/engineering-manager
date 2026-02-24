@@ -8,13 +8,13 @@ I recently worked with a team that had invested heavily in CI/CD tooling, only t
 
 ## The Core Challenge: It's Not Just About Automation
 
-It's easy to fall into the trap of thinking CI/CD is a purely technical problem. You evaluate tools, configure the pipeline, and expect magic. But that’s like buying a top-of-the-line espresso machine and expecting barista-quality coffee without learning how to use it, or more importantly, without consistently maintaining it. 
+It's easy to fall into the trap of thinking CI/CD is a purely technical problem. You evaluate tools, configure the pipeline, and expect magic. But that’s like buying a top-of-the-line espresso machine and expecting barista-quality coffee without learning how to use it, or more importantly, without consistently maintaining it.
 
 The biggest hurdles aren't technical; they're cultural and organizational. Without addressing these, even the slickest pipeline will become a bottleneck.
 
 ## 1. Define "Done" – And Get Everyone on Board
 
-This sounds basic, but it's shockingly common for teams to have wildly different interpretations of what constitutes a “finished” feature. Is it just code committed? Does it include automated tests? Has it been peer reviewed? Has it been deployed to a staging environment? 
+This sounds basic, but it's shockingly common for teams to have wildly different interpretations of what constitutes a “finished” feature. Is it just code committed? Does it include automated tests? Has it been peer reviewed? Has it been deployed to a staging environment?
 
 As a leader, you need to establish a clear, shared definition of "done" that *includes* the CI/CD pipeline. This means:
 
@@ -22,14 +22,13 @@ As a leader, you need to establish a clear, shared definition of "done" that *in
 * **Code Review is Part of the Flow:** Integrate code review into the pipeline. No merges without approval.
 * **Infrastructure as Code (IaC):** Treat your infrastructure like code. Version control your infrastructure configurations alongside your application code. This ensures consistency and reproducibility.
 
-
 ## 2. Break Down Silos: Ownership & Collaboration
 
 Traditional development workflows often create silos between developers, QA, and operations. CI/CD aims to break those down, but it only works if everyone *owns* the entire process.
 
 * **"You Build It, You Run It":** Encourage developers to take ownership of their code *through* production. This shifts the mindset from “throwing it over the wall” to a more collaborative, responsible approach.
 * **Cross-Functional Teams:** Organize teams around features, not functional areas. This fosters collaboration and reduces handoffs.
-* **Shared Monitoring & Alerting:** Everyone should have visibility into the health of the pipeline and the application in production. 
+* **Shared Monitoring & Alerting:** Everyone should have visibility into the health of the pipeline and the application in production.
 
 I've seen tremendous success with implementing a "war room" approach – even virtually – when issues arise. Bringing together developers, QA, and operations to collaboratively diagnose and resolve problems in real-time is invaluable.
 
@@ -53,7 +52,7 @@ The goal of a good CI/CD pipeline is *reliable* deployments. While aiming for 10
 
 ## Leading the Charge: Beyond the Tools
 
-CI/CD isn’t just about the tools you choose (though selecting the right ones is important!). It’s about fundamentally changing how your team develops and delivers software. 
+CI/CD isn’t just about the tools you choose (though selecting the right ones is important!). It’s about fundamentally changing how your team develops and delivers software.
 
 As an engineering leader, your role is to:
 
@@ -61,6 +60,6 @@ As an engineering leader, your role is to:
 * **Remove Obstacles:** Identify and address any roadblocks that are preventing your team from adopting CI/CD.
 * **Foster a Culture of Continuous Improvement:** Encourage experimentation, learning, and continuous refinement of your CI/CD pipeline.
 
-Implementing CI/CD effectively isn’t a technical problem to be *solved*. It's a leadership challenge – one that requires vision, communication, and a commitment to building a high-performing, collaborative team. By focusing on the people and processes *behind* the pipeline, you can unlock the true potential of CI/CD and deliver software faster, more reliably, and at a higher quality. 
+Implementing CI/CD effectively isn’t a technical problem to be *solved*. It's a leadership challenge – one that requires vision, communication, and a commitment to building a high-performing, collaborative team. By focusing on the people and processes *behind* the pipeline, you can unlock the true potential of CI/CD and deliver software faster, more reliably, and at a higher quality.
 
 Now, reflect on your current CI/CD implementation – where are the biggest bottlenecks, and how can you address them through leadership and process improvement? What one step will you take this week to foster a more collaborative and ownership-driven CI/CD culture within your team?
