@@ -6,9 +6,9 @@ I recently came across a comment that really resonated: “When a person says �
 
 ## Beyond the Bottom Line: Why Disengagement Matters to *You*
 
-Let’s be brutally honest. An unengaged team doesn't just mean slower delivery or lower quality code. It means *more work for you*. You’re spending extra time unblocking stalled engineers, revisiting code riddled with preventable errors, and constantly firefighting issues that a motivated team would anticipate and avoid. 
+Let’s be brutally honest. An unengaged team doesn't just mean slower delivery or lower quality code. It means *more work for you*. You’re spending extra time unblocking stalled engineers, revisiting code riddled with preventable errors, and constantly firefighting issues that a motivated team would anticipate and avoid.
 
-But the cost goes deeper. Disengagement breeds negativity, stifles innovation, and creates a climate where good people quietly look for other opportunities. Each lost engineer isn’t just a gap in skills, it’s a loss of institutional knowledge, a drain on team morale, and a reflection on *your* leadership. 
+But the cost goes deeper. Disengagement breeds negativity, stifles innovation, and creates a climate where good people quietly look for other opportunities. Each lost engineer isn’t just a gap in skills, it’s a loss of institutional knowledge, a drain on team morale, and a reflection on *your* leadership.
 
 Think of it this way: a team running on autopilot isn’t just less productive, it’s actively *making your job harder*. Your standing, your ability to deliver, your potential for growth – all are tied to the engagement level of your team.
 
@@ -19,7 +19,7 @@ We often assume boredom stems from a lack of *work*. But in high-performing engi
 * **Automate Repetitive Tasks:** If engineers are spending hours on manual, rote processes, they’re not learning, growing, or being challenged. Invest in tooling and automation.
 * **Empower Ownership:** Ensure engineers own features, make design decisions, and see their contributions come to life.
 * **Encourage Skill Growth:**  Address stagnant skillsets by encouraging exploration, side projects, and opportunities to learn new skills.
-* **Clarify the “Why”:** Engineers are problem-solvers. If they don’t understand how their work contributes to the bigger picture, they'll lose motivation. Transparency about business goals and product strategy is crucial. 
+* **Clarify the “Why”:** Engineers are problem-solvers. If they don’t understand how their work contributes to the bigger picture, they'll lose motivation. Transparency about business goals and product strategy is crucial.
 * **Address the “Client Problem”:** Inconsistent engagement from stakeholders – being absent at demos, refinement sessions, or feedback loops – can be deeply demoralizing. It signals a lack of respect for the team’s efforts and can make their work feel pointless. Engineers need to see the impact of their work, and that requires consistent client interaction.
 
 ## Practical Steps to Reignite Engagement
@@ -35,10 +35,10 @@ Here’s where it moves from diagnosis to action.
 
 ## It’s Not Just About Perks – It’s About Respect
 
-Ultimately, employee engagement isn’t about ping pong tables or free snacks. It’s about respect. Respect for their skills, their ideas, and their contributions. It’s about creating an environment where they feel valued, challenged, and empowered. 
+Ultimately, employee engagement isn’t about ping pong tables or free snacks. It’s about respect. Respect for their skills, their ideas, and their contributions. It’s about creating an environment where they feel valued, challenged, and empowered.
 
 As leaders, we need to recognize that an engaged team isn’t just a nice-to-have, it’s a strategic imperative. It’s an investment that pays dividends in terms of productivity, innovation, and retention. And it’s the key to making your job, and the jobs of your team, more fulfilling and rewarding.
 
-I’ve certainly felt the impact of disengagement firsthand. Early in my career, I inherited a team that was clearly burned out and apathetic. It took months of focused effort – listening to their concerns, advocating for their needs, and empowering them to take ownership – to rebuild their engagement. It wasn’t easy, but the results – a more productive, innovative, and motivated team – were well worth the effort. 
+I’ve certainly felt the impact of disengagement firsthand. Early in my career, I inherited a team that was clearly burned out and apathetic. It took months of focused effort – listening to their concerns, advocating for their needs, and empowering them to take ownership – to rebuild their engagement. It wasn’t easy, but the results – a more productive, innovative, and motivated team – were well worth the effort.
 
 So, what’s the next step? I encourage you to schedule a team discussion this week to openly discuss engagement levels. A simple survey asking “What's one thing we could do to improve engagement?” can be a powerful starting point. By prioritizing engagement, you’re not just building a better team, you’re building a better future for everyone involved.

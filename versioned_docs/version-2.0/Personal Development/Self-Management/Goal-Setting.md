@@ -1,12 +1,12 @@
 # Goal Setting
 
-For 20+ years, I’ve seen engineering teams crushed under the weight of ambitious goals that never see the light of day. It’s not a lack of talent or effort, it’s a fundamental disconnect between *setting* goals and *achieving* them. I recall one team, brilliant engineers all, tasked with a massive platform rewrite. The goal *looked* SMART on paper, but lacked a clear connection to business value and quickly spiraled into months of frustrating rework. We’re all familiar with SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound), and while that’s a good starting point, it’s often not enough, especially for leaders juggling technical strategy, team development, and execution. 
+For 20+ years, I’ve seen engineering teams crushed under the weight of ambitious goals that never see the light of day. It’s not a lack of talent or effort, it’s a fundamental disconnect between *setting* goals and *achieving* them. I recall one team, brilliant engineers all, tasked with a massive platform rewrite. The goal *looked* SMART on paper, but lacked a clear connection to business value and quickly spiraled into months of frustrating rework. We’re all familiar with SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound), and while that’s a good starting point, it’s often not enough, especially for leaders juggling technical strategy, team development, and execution.
 
 This isn’t about dismissing SMART goals; it’s about layering on additional thinking that drastically increases your chances of success. As engineering leaders, we need a more robust framework, one that acknowledges the inherent complexity of software development and the human element of driving teams.
 
 ## The Problem with Just "Being SMART"
 
-Let's be honest: How many times have you meticulously crafted a SMART goal, only to have it derailed by unexpected dependencies, shifting priorities, or simply an underestimation of the effort involved? 
+Let's be honest: How many times have you meticulously crafted a SMART goal, only to have it derailed by unexpected dependencies, shifting priorities, or simply an underestimation of the effort involved?
 
 The issue isn’t the *format* of the goal, it’s the *foundation* it’s built on. SMART goals often focus on *what* needs to be achieved, but neglect the crucial *why* and *how*. They are output-focused, and in the fast-moving world of tech, output without a clear connection to strategy is just…busywork. According to a recent study, approximately 67% of strategic initiatives fail due to poor execution – often stemming from poorly defined goals.
 
@@ -22,7 +22,7 @@ This approach isn't the only game in town, of course. Frameworks like OKRs (Obje
 
 ## Beyond the Layers: Alignment & Investor Expectations
 
-This layered approach is great, but it's useless if your team isn't aligned or if your goals aren't realistic given your resources. I've seen too many teams chase ambitious goals only to burn out and deliver subpar work. 
+This layered approach is great, but it's useless if your team isn't aligned or if your goals aren't realistic given your resources. I've seen too many teams chase ambitious goals only to burn out and deliver subpar work.
 
 * **Team Buy-In:** Involve your team in defining the objectives and tactical goals. This fosters ownership and ensures everyone understands *why* they're doing what they're doing. Don’t dictate from on high; facilitate a collaborative process.
 * **Resource Realism:** Be honest about what your team can realistically accomplish. Underestimating effort is a common mistake. Buffer your estimates and factor in unexpected interruptions (and there *will* be interruptions).
@@ -30,19 +30,17 @@ This layered approach is great, but it's useless if your team isn't aligned or i
 
 ## The Importance of Regular Check-ins & Adaptation
 
-Setting goals isn’t a one-time event. It’s an ongoing process. Regular check-ins are crucial to ensuring you stay on track, but they shouldn’t be just status updates. A truly effective check-in involves asking questions like: "What progress have we made towards our tactical goals?", "What roadblocks are we facing?", and "Are our objectives still aligned with the overall strategy?" 
+Setting goals isn’t a one-time event. It’s an ongoing process. Regular check-ins are crucial to ensuring you stay on track, but they shouldn’t be just status updates. A truly effective check-in involves asking questions like: "What progress have we made towards our tactical goals?", "What roadblocks are we facing?", and "Are our objectives still aligned with the overall strategy?"
 
 * **Weekly/Bi-Weekly Reviews:** Dedicate time each week or every other week to review progress against your tactical goals. Identify any roadblocks and adjust your plans accordingly.
 * **Don't Be Afraid to Pivot:** The tech landscape changes rapidly. Sometimes, you need to abandon a goal that’s no longer relevant or achievable. Don't be afraid to pivot and refocus your efforts.
 * **Celebrate Small Wins:** Acknowledge and celebrate milestones along the way. This boosts morale and keeps the team motivated. Don't just send a quick email – recognize accomplishments publicly, offer small rewards, and genuinely appreciate the team’s hard work.
 
-Remember that failed goals can take a real emotional toll on the team. Acknowledging the frustration and disappointment, and creating a safe space for learning from mistakes, is vital for fostering a resilient and high-performing culture. 
-
-
+Remember that failed goals can take a real emotional toll on the team. Acknowledging the frustration and disappointment, and creating a safe space for learning from mistakes, is vital for fostering a resilient and high-performing culture.
 
 ## From Outputs to Outcomes
 
-Ultimately, successful goal setting isn't about ticking boxes and completing tasks. It's about achieving *outcomes* that move the needle for your business. By focusing on strategy, aligning objectives with tactical goals, and adapting along the way, you can build a high-performing engineering team that consistently delivers results. 
+Ultimately, successful goal setting isn't about ticking boxes and completing tasks. It's about achieving *outcomes* that move the needle for your business. By focusing on strategy, aligning objectives with tactical goals, and adapting along the way, you can build a high-performing engineering team that consistently delivers results.
 
 Don’t just focus on being SMART; focus on being strategic, adaptable, and focused on achieving meaningful outcomes. That’s the key to unlocking lasting success.
 

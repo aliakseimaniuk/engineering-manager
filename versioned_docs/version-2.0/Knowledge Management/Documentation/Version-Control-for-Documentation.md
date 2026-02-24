@@ -4,7 +4,7 @@ For two decades, I’ve seen engineering teams struggle with a surprisingly cons
 
 This isn't just about avoiding accidental deletions (though that's a good start!). It's about building a robust knowledge management system that fosters collaboration, improves accuracy, and allows your team to scale effectively. Let's dive into why version control for documentation is critical and how to implement it.
 
-### The Pain of Outdated Documentation
+## The Pain of Outdated Documentation
 
 Before we talk solutions, let's be honest about the problem. What happens when documentation lags behind the code?
 
@@ -16,7 +16,7 @@ Before we talk solutions, let's be honest about the problem. What happens when d
 
 I once worked at a startup where documentation was an afterthought. We were rapidly scaling a new API, and a critical edge case wasn’t documented. This led to a production bug that slipped through testing and caused significant customer impact.  The root cause? A developer made a change without updating the corresponding documentation, and no one caught it during review. It was a painful lesson in the importance of proactive knowledge management.
 
-### Why Version Control is the Answer
+## Why Version Control is the Answer
 
 Version control systems (like Git) are designed to track changes over time, allowing you to revert to previous versions, collaborate with others, and understand the evolution of a project. Applying these principles to documentation offers significant benefits:
 
@@ -27,7 +27,7 @@ Version control systems (like Git) are designed to track changes over time, allo
 * **Code & Docs in Sync:** Keep documentation alongside your code in the same repository, making it easier to maintain consistency.
 * **Automated Documentation Updates:** Integrate documentation updates into your CI/CD pipeline.
 
-### How to Implement Version Control for Documentation
+## How to Implement Version Control for Documentation
 
 Okay, let's get practical. Here’s a breakdown of how to get started:
 
@@ -42,12 +42,11 @@ Okay, let's get practical. Here’s a breakdown of how to get started:
 
 **Example Workflow:** A developer makes a code change that affects the API. They simultaneously update the documentation in the repository, commit both changes with a linked commit message (e.g., "Fix: Updated API endpoint and documentation"), and trigger a build process that automatically deploys the updated documentation.
 
-6. **Consider Notebooks:** For data science or machine learning projects, consider using Binder ([https://mybinder.org/](https://mybinder.org/)) to turn a Git repo into a collection of interactive notebooks.
+1. **Consider Notebooks:** For data science or machine learning projects, consider using Binder ([https://mybinder.org/](https://mybinder.org/)) to turn a Git repo into a collection of interactive notebooks.
 
+## Making Documentation a Priority
 
-### Making Documentation a Priority
-
-Implementing version control for documentation is only half the battle. You also need to foster a culture where documentation is valued and treated as an essential part of the development process. 
+Implementing version control for documentation is only half the battle. You also need to foster a culture where documentation is valued and treated as an essential part of the development process.
 
 * **Lead by Example:** Engineering leaders should actively contribute to documentation and demonstrate its importance.
 * **Incorporate Documentation into the Definition of Done:** Require documentation updates as part of the development process.
@@ -60,9 +59,9 @@ By embracing version control and fostering a documentation-centric culture, you 
 
 **Key Takeaways:**
 
-*   **Treat documentation like code:** Use version control to track changes, collaborate, and maintain accuracy.
-*   **Automate the process:** Leverage tools to build and deploy documentation automatically.
-*   **Foster a culture of documentation:** Make it a priority and empower your team to contribute.
+* **Treat documentation like code:** Use version control to track changes, collaborate, and maintain accuracy.
+* **Automate the process:** Leverage tools to build and deploy documentation automatically.
+* **Foster a culture of documentation:** Make it a priority and empower your team to contribute.
 * **Start Small:** Don’t try to overhaul everything at once. Focus on incremental improvements.
 
 **Your next step:** Schedule a 30-minute team meeting to discuss adopting a Git-based documentation workflow and identify a pilot project to get started.

@@ -1,6 +1,6 @@
 # Internal Stakeholders
 
-Stakeholder management is a cornerstone of any engineering leader’s toolkit. We’re constantly told to identify, understand, and engage with those who have a vested interest in our projects. But the focus often lands squarely on *external* stakeholders – customers, users, partners. What often gets short shrift? The critical, complex world of *internal* stakeholders. 
+Stakeholder management is a cornerstone of any engineering leader’s toolkit. We’re constantly told to identify, understand, and engage with those who have a vested interest in our projects. But the focus often lands squarely on *external* stakeholders – customers, users, partners. What often gets short shrift? The critical, complex world of *internal* stakeholders.
 
 As an engineering leader for over two decades, I’ve seen countless projects derailed not by external forces, but by friction within the organization itself. In fact, a study by the Project Management Institute found that internal issues are responsible for over 50% of project failures. This isn't about blame; it's about recognizing that internal stakeholders are a unique breed, and managing them requires a specific approach. This article will focus on how to understand, engage with, and ultimately *lead* your internal stakeholders to project success, especially within the context of a potentially lean organization like a nonprofit.
 
@@ -28,8 +28,6 @@ Before you start “managing” anyone, you need to *understand* them. Here’s 
 * **Identify Their Motivations:** What drives each stakeholder? Is it revenue, cost savings, risk mitigation, or something else? Understanding their underlying goals is crucial for framing your communication and finding common ground.  Remember, everyone is working towards *something*, and rarely is it solely the success of *your* project.
 * **Recognize Their Constraints:** What limitations do they operate under?  Perhaps the Security team has limited resources, or the Sales team is under pressure to meet quarterly targets.  Acknowledging these constraints shows empathy and sets realistic expectations. It’s easy to *assume* stakeholders are being difficult, but often, their hands are tied by external pressures.
 
-
-
 ## Leading, Not Just Managing
 
 Once you understand your internal stakeholders, you can move beyond simply “managing” them and start *leading* them. Here’s how:
@@ -39,8 +37,6 @@ Once you understand your internal stakeholders, you can move beyond simply “ma
 * **Establish Clear Decision-Making Processes:**  Ambiguity breeds conflict.  Define how decisions will be made, who has the final say, and how dissenting opinions will be addressed.  This is particularly crucial in areas where different teams have competing priorities.
 * **Embrace Healthy Conflict:**  Disagreements are inevitable.  Don't shy away from them; encourage open and respectful debate. A healthy conflict can surface valuable insights and lead to better solutions. To facilitate productive debates, establish ground rules – focus on the problem, not the person; actively listen to opposing viewpoints; and strive for consensus, even if it means compromise.
 * **Be Prepared to Negotiate:** Rarely will you get everything you want.  Be willing to compromise and find win-win solutions that address the needs of all stakeholders.
-
-
 
 **Navigating Conflicting Priorities: A Real-World Example**
 
@@ -56,6 +52,6 @@ Effective stakeholder management isn’t just about processes and communication;
 
 ## A Final Thought
 
-Effective internal stakeholder management isn’t about manipulation or political maneuvering. It’s about building trust, fostering collaboration, and aligning everyone around a shared vision. It's a challenging but essential skill for any engineering leader who wants to deliver impactful results. 
+Effective internal stakeholder management isn’t about manipulation or political maneuvering. It’s about building trust, fostering collaboration, and aligning everyone around a shared vision. It's a challenging but essential skill for any engineering leader who wants to deliver impactful results.
 
 **This week, take 15 minutes to map out the stakeholders for your current project. Identify their key concerns and motivations. You'll be surprised how much clearer your path forward becomes.**

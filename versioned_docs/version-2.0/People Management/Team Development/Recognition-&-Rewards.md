@@ -1,6 +1,6 @@
 # Recognition & Rewards
 
-For two decades I’ve led engineering teams, from scrappy startups to established tech giants. And in all that time, I’ve observed a consistent truth: people aren’t motivated by *things*; they're motivated by feeling valued. Yet, too many engineering organizations fall into the trap of treating recognition and rewards as an afterthought – a pizza party for hitting a deadline, a gift card for a particularly grueling sprint. While these gestures aren’t *bad*, they often miss the mark, failing to create lasting motivation or build a genuinely positive team culture. 
+For two decades I’ve led engineering teams, from scrappy startups to established tech giants. And in all that time, I’ve observed a consistent truth: people aren’t motivated by *things*; they're motivated by feeling valued. Yet, too many engineering organizations fall into the trap of treating recognition and rewards as an afterthought – a pizza party for hitting a deadline, a gift card for a particularly grueling sprint. While these gestures aren’t *bad*, they often miss the mark, failing to create lasting motivation or build a genuinely positive team culture.
 
 I once witnessed a team celebrate completing a major release with… a slightly-too-small cake. The exhaustion was palpable, and the gesture felt hollow. It highlighted a critical issue: recognition must be meaningful and aligned with genuine effort and impact.
 
@@ -8,9 +8,9 @@ This article isn’t about abandoning rewards altogether. It’s about moving be
 
 ## The Problem with “Reward Inflation” and Learned Helplessness
 
-Peter Drucker famously said, "What gets measured gets managed.” But what gets *rewarded* gets repeated. The problem is, if everything is rewarded, nothing is. Over time, if we constantly throw rewards at every accomplishment, they lose their impact. This leads to what I call “reward inflation” - a constant need to escalate the rewards just to achieve the same motivational effect. 
+Peter Drucker famously said, "What gets measured gets managed.” But what gets *rewarded* gets repeated. The problem is, if everything is rewarded, nothing is. Over time, if we constantly throw rewards at every accomplishment, they lose their impact. This leads to what I call “reward inflation” - a constant need to escalate the rewards just to achieve the same motivational effect.
 
-Even more insidious is the risk of contributing to learned helplessness. Engineers, especially those driven by problem-solving, can quickly become cynical if they perceive rewards as arbitrary or disconnected from genuine contributions. They might ask themselves, "Why bother going the extra mile if it’s just going to be met with the same token gesture as everyone else?" 
+Even more insidious is the risk of contributing to learned helplessness. Engineers, especially those driven by problem-solving, can quickly become cynical if they perceive rewards as arbitrary or disconnected from genuine contributions. They might ask themselves, "Why bother going the extra mile if it’s just going to be met with the same token gesture as everyone else?"
 
 Jørgensen and Sjøberg, in their research on learning from experience, highlight that we don’t always *learn* from our mistakes – and equally, we don’t necessarily reinforce positive behaviors effectively. We need to be deliberate about connecting actions to positive outcomes.
 
@@ -50,7 +50,7 @@ Here are some practical tactics to implement these principles:
 
 It’s easy to fall into the trap of rewarding effort without acknowledging results. This can quickly breed resentment and undermine performance.  If you consistently reward teams *despite* poor performance, you contribute to reward inflation and diminish the value of genuine achievement.  
 
-I've seen it happen too often. Teams that consistently miss deadlines are given extra resources and praise for "trying hard," while high-performing teams are taken for granted. This creates resentment and disincentivizes excellence. 
+I've seen it happen too often. Teams that consistently miss deadlines are given extra resources and praise for "trying hard," while high-performing teams are taken for granted. This creates resentment and disincentivizes excellence.
 
 It's crucial to celebrate *successes* and hold teams accountable for *failures*. Focus on learning from mistakes, not punishing them, but don't equate effort with outcome. Acknowledge and reward genuine achievement, and be transparent about expectations and consequences.
 
@@ -60,9 +60,9 @@ Recognition and rewards aren’t about ticking a box on a HR checklist. They're 
 
 **Key Takeaways:**
 
-*   **Specificity is crucial:** Avoid vague praise and focus on the *impact* of contributions.
-*   **Timeliness matters:** Recognize accomplishments promptly.
-*   **Focus on intrinsic motivation:** Skill development and challenging projects can be more rewarding than monetary incentives.
-*   **Hold teams accountable:** Celebrate success, but also address failures constructively.
+* **Specificity is crucial:** Avoid vague praise and focus on the *impact* of contributions.
+* **Timeliness matters:** Recognize accomplishments promptly.
+* **Focus on intrinsic motivation:** Skill development and challenging projects can be more rewarding than monetary incentives.
+* **Hold teams accountable:** Celebrate success, but also address failures constructively.
 
 Start by identifying one small change you can make this week to improve your team’s recognition system.

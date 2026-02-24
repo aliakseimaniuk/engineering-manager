@@ -19,7 +19,7 @@ I remember leading a project where a critical third-party library had an unpatch
 Technical tools are important, but they’re only effective if the team understands *why* dependency management matters. Here's how to foster that awareness:
 
 1. **Make Dependencies Visible:** Dependencies shouldn’t be hidden in configuration files or assumed knowledge.
-    * **Dependency Maps:** Visually represent your system's dependencies. This could be a simple diagram, a dedicated document, or a tool that automatically generates dependency graphs. 
+    * **Dependency Maps:** Visually represent your system's dependencies. This could be a simple diagram, a dedicated document, or a tool that automatically generates dependency graphs.
     * **Regular Dependency Reviews:** During sprint planning or architecture discussions, dedicate time to explicitly discuss dependencies.
 2. **Ownership & Communication:**
     * **Defined Owners:** Assign ownership of key dependencies. This ensures someone is responsible for monitoring, updating, and addressing issues.

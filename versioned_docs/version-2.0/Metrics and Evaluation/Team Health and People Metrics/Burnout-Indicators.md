@@ -10,7 +10,7 @@ Here’s how to move beyond vanity metrics and start tracking the *real* cost of
 
 ## The Problem with Traditional Metrics
 
-Let's be honest. Most of our metrics incentivize pushing harder. Story points can become a game of one-upmanship, where teams compete to estimate higher, not more accurately. Velocity becomes a target, not a measure of learning and adaptation. This creates a pressure cooker environment where individuals feel compelled to work longer hours, sacrifice work-life balance, and ultimately, burn out. 
+Let's be honest. Most of our metrics incentivize pushing harder. Story points can become a game of one-upmanship, where teams compete to estimate higher, not more accurately. Velocity becomes a target, not a measure of learning and adaptation. This creates a pressure cooker environment where individuals feel compelled to work longer hours, sacrifice work-life balance, and ultimately, burn out.
 
 The IEEE research, specifically a study on software development practices, highlighted this tension – it found that engineers are often *convinced* to believe in processes (story points, burndown charts) that may not actually be effective, adding to frustration and reducing motivation. Focusing solely on output ignores the input - the energy, creativity, and well-being of the team.
 
@@ -27,7 +27,7 @@ These aren’t metrics you’ll find in Jira. They require observation, empathy,
 
 ## Actionable Steps: From Observation to Intervention
 
-Tracking these indicators isn't enough. You need to act on them. It’s also important to acknowledge that balancing delivery pressures with team wellbeing is *difficult* and leaders are often under pressure from above. 
+Tracking these indicators isn't enough. You need to act on them. It’s also important to acknowledge that balancing delivery pressures with team wellbeing is *difficult* and leaders are often under pressure from above.
 
 * **Regular 1:1s Focused on Wellbeing:** Beyond project updates, dedicate a portion of your 1:1s to genuinely checking in with your team members. Ask open-ended questions about their workload, energy levels, and overall wellbeing. *Listen* more than you talk.
 * **Prioritization and Scope Management:** Firmly prioritize tasks and be willing to say "no" to scope creep. Protect your team from unrealistic expectations and unnecessary distractions. (This requires difficult conversations with stakeholders, but it’s essential.)
@@ -46,4 +46,3 @@ Burnout isn’t inevitable. By shifting our focus from *output* to *outcome*, an
 * **Prioritize Wellbeing:** Actively monitoring burnout indicators isn’t just about preventing problems; it’s about creating a sustainable, engaged team.
 * **Focus on Outcome, Not Just Output:** Shifting the focus from sheer volume of work to meaningful results reduces pressure and fosters a healthier work environment.
 * **Start Small:** Begin by incorporating a quick check-in on wellbeing into your 1:1s. This small step can make a big difference.
-

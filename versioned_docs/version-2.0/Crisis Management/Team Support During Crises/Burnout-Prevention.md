@@ -27,10 +27,10 @@ So, what can you *do*? Here's a framework focusing on empowerment, technical hea
 
 **5. Providing Opportunities for Growth:** Sometimes, the problem isn’t overwhelming workload, but a lack of stimulating challenges.  Actively seek out challenging projects that align with their interests and support their exploration of new technologies.  This is about fostering a growth mindset and allowing engineers to feel challenged and engaged.
 
-**6. Regular Check-ins – Beyond Project Status:** One-on-ones shouldn’t be just about project updates. Ask about their workload, their challenges, and their overall well-being. Create a safe space where they feel comfortable sharing their concerns, and practice active listening to truly understand their perspective. 
+**6. Regular Check-ins – Beyond Project Status:** One-on-ones shouldn’t be just about project updates. Ask about their workload, their challenges, and their overall well-being. Create a safe space where they feel comfortable sharing their concerns, and practice active listening to truly understand their perspective.
 
 ## Avoiding Sophistication & Embracing Simplicity
 
-There's a temptation to implement complex wellness programs or elaborate tracking systems. But sometimes, the most effective solutions are the simplest ones: *listen to your people, empower them, and prioritize their well-being.* 
+There's a temptation to implement complex wellness programs or elaborate tracking systems. But sometimes, the most effective solutions are the simplest ones: *listen to your people, empower them, and prioritize their well-being.*
 
 Burnout isn’t just a human resources problem; it’s a leadership challenge. By proactively addressing the root causes of burnout, you’ll create a more engaged, productive, and sustainable engineering team. And that, ultimately, is the best way to build a successful product.

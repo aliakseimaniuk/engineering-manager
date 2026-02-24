@@ -6,9 +6,9 @@ This isn’t about ignoring rivals. It’s about broadening your perspective and
 
 ## The Dinosaur and the Asteroid: Why Innovation Stalls the Champions
 
-As the provided context hints, established players often falter not because of competition, but because of *lack* of innovation. They become focused on defending market share, optimizing existing products, and pleasing investors – a natural consequence of success. This creates a fertile ground for newcomers to leapfrog them with fresh approaches. 
+As the provided context hints, established players often falter not because of competition, but because of *lack* of innovation. They become focused on defending market share, optimizing existing products, and pleasing investors – a natural consequence of success. This creates a fertile ground for newcomers to leapfrog them with fresh approaches.
 
-Think of the early days of wearable fitness trackers. The UP series, initially successful, ultimately lost ground to Fitbit (2010s) and others. Not necessarily because of direct feature competition, but because Fitbit simplified the user experience and focused relentlessly on ease of use – a different value proposition. 
+Think of the early days of wearable fitness trackers. The UP series, initially successful, ultimately lost ground to Fitbit (2010s) and others. Not necessarily because of direct feature competition, but because Fitbit simplified the user experience and focused relentlessly on ease of use – a different value proposition.
 
 This is why constantly asking "What's *not* being done?" is more valuable than "What are they doing?". Encourage your team to spend time exploring tangential problems, adjacent markets, and completely different solutions. A competitor is trying to *beat* you at the same game. A true disrupter is playing a different game altogether.
 
@@ -16,10 +16,10 @@ This is why constantly asking "What's *not* being done?" is more valuable than "
 
 It's easy to get caught up in the daily grind of feature development and competitive analysis, but truly resilient engineering leadership requires stepping back and proactively scanning the horizon. Before we dive into identifying these potential disruptors, let’s look at how to translate awareness into action.
 
-*   **Dedicated "Horizon Scanning":** Allocate a small percentage of engineering time to explore emerging technologies, adjacent markets, and competitive landscapes. This isn't about building features today; it's about building a vision for the future.
-*   **Regular Competitive (and Non-Competitive) Reviews:** Beyond analyzing direct competitors, dissect the strategies of the players identified below. What are their strengths and weaknesses? What can you learn from them?
-*   **Embrace Controlled Experimentation:** Don't be afraid to experiment with new technologies or business models, even if they seem unrelated to your core product. This allows you to stay agile and adapt to changing market conditions.
-*   **Cultivate a Culture of Curiosity:** Encourage your team to question assumptions, explore new ideas, and challenge the status quo. Innovation thrives in environments where curiosity is valued.
+* **Dedicated "Horizon Scanning":** Allocate a small percentage of engineering time to explore emerging technologies, adjacent markets, and competitive landscapes. This isn't about building features today; it's about building a vision for the future.
+* **Regular Competitive (and Non-Competitive) Reviews:** Beyond analyzing direct competitors, dissect the strategies of the players identified below. What are their strengths and weaknesses? What can you learn from them?
+* **Embrace Controlled Experimentation:** Don't be afraid to experiment with new technologies or business models, even if they seem unrelated to your core product. This allows you to stay agile and adapt to changing market conditions.
+* **Cultivate a Culture of Curiosity:** Encourage your team to question assumptions, explore new ideas, and challenge the status quo. Innovation thrives in environments where curiosity is valued.
 
 ## Beyond Feature Wars: Identifying Key Players & Their Motivations
 

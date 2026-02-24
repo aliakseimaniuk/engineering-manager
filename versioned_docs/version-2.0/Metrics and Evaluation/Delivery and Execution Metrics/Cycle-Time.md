@@ -1,6 +1,6 @@
 # Cycle Time
 
-For years, “velocity” has been the darling of agile teams – a readily available metric that *appears* to indicate progress. But as an engineering leader with two decades under my belt, I’ve learned that velocity, while useful, often paints an incomplete picture. It can be easily gamed, masks crucial bottlenecks, and doesn’t truly tell you how *efficiently* your team is delivering value. 
+For years, “velocity” has been the darling of agile teams – a readily available metric that *appears* to indicate progress. But as an engineering leader with two decades under my belt, I’ve learned that velocity, while useful, often paints an incomplete picture. It can be easily gamed, masks crucial bottlenecks, and doesn’t truly tell you how *efficiently* your team is delivering value.
 
 Are your project timelines constantly slipping despite a consistent velocity? That's a sign velocity might be telling the wrong story.
 
@@ -28,10 +28,9 @@ Measuring Cycle Time doesn’t require complex tooling, although tooling can hel
 3. **Manual Tracking (Start Simple):**  Initially, use a spreadsheet or even a Kanban board to manually track the start and end dates for each work item. Calculate the difference – that's your Cycle Time.
 4. **Automated Tracking (Scale Up):** As your team matures, leverage tools like Jira, Azure DevOps, or dedicated time tracking apps. Tools like Clockify, Code Time, and Pulse.red can be particularly useful for automating Cycle Time calculation and providing deeper insights into your workflow. I've found integrating these tools with our CI/CD pipeline provides the most accurate data.
 
-
 ## Beyond the Average: Digging into the Data
 
-The *average* Cycle Time is a good starting point, but it can be misleading.  A few exceptionally long tasks can skew the average. But calculating the average is only the first step. 
+The *average* Cycle Time is a good starting point, but it can be misleading.  A few exceptionally long tasks can skew the average. But calculating the average is only the first step.
 
 Here's what to look for:
 
@@ -51,7 +50,7 @@ Once you understand your Cycle Time, you can start to improve it.  Here are a fe
 
 ## The Long Game:  Cycle Time as a Cultural Metric
 
-Ultimately, Cycle Time isn't just about numbers; it's about fostering a culture of continuous improvement. By tracking and analyzing Cycle Time, you can empower your team to identify and address bottlenecks, improve their process, and deliver value faster. 
+Ultimately, Cycle Time isn't just about numbers; it's about fostering a culture of continuous improvement. By tracking and analyzing Cycle Time, you can empower your team to identify and address bottlenecks, improve their process, and deliver value faster.
 
 Remember the quote about procrastination: small delays accumulate. Similarly, seemingly minor inefficiencies in your process can significantly impact your team’s ability to deliver over time. Focusing on Cycle Time isn’t about maximizing team output; it’s about creating a smoother, more predictable, and more sustainable development process.
 

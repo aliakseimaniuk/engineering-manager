@@ -13,7 +13,6 @@ DACI stands for:
 * **Consulted:** People whose input is *needed* to make a good decision. This is a two-way street – you’re actively seeking their expertise.
 * **Informed:** People who need to *know* the decision was made, but don't necessarily need to be involved in the process. This is one-way communication.
 
-
 ## Why DACI Often Beats RACI
 
 While RACI is useful, it can sometimes lead to ambiguity. The “Responsible” role, in particular, can feel vague. Who *actually* makes the call? The “Accountable” role often ends up becoming a bottleneck, with everything needing their sign-off.
@@ -57,6 +56,6 @@ Let's say you're deciding on a new database technology for a project.
 
 ## Beyond Efficiency: Fostering Ownership and Accountability
 
-DACI isn't just about making decisions faster. It's about fostering a culture of ownership and accountability within your engineering team. When everyone understands their role in decisions, they’re more engaged, more proactive, and more likely to deliver high-quality results.  It reduces stress, minimizes arguments, and ultimately builds a more empowered and productive team. 
+DACI isn't just about making decisions faster. It's about fostering a culture of ownership and accountability within your engineering team. When everyone understands their role in decisions, they’re more engaged, more proactive, and more likely to deliver high-quality results.  It reduces stress, minimizes arguments, and ultimately builds a more empowered and productive team.
 
 So, consider augmenting, or even replacing, your RACI matrix with DACI. Try mapping just one critical decision using DACI this week and see how it impacts your team. You might be surprised at how much more efficiently – and effectively – your team can operate.

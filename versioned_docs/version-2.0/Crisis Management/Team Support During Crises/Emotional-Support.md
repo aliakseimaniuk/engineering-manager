@@ -4,13 +4,13 @@ We talk a *lot* about technical debt, postmortems, and root cause analysis when 
 
 I vividly recall one incident where a critical system went down on a Friday evening. The team immediately jumped into firefighting mode, fueled by adrenaline and caffeine.  I focused solely on the technical issues, pushing for quick fixes. What I *didn't* do was check in on how everyone was *feeling*. The result? A prolonged incident, frayed nerves, and a team that felt depleted, not empowered. I realized then that addressing the *people* experiencing the crisis was just as critical as resolving the technical problem.
 
-For years, I focused almost entirely on the technical aspects of getting through incidents. I thought keeping my head down and directing traffic was enough. But I slowly realized that a team running on fumes, fueled by anxiety and self-doubt, will *always* perform below its potential, even with the best technical plan. 
+For years, I focused almost entirely on the technical aspects of getting through incidents. I thought keeping my head down and directing traffic was enough. But I slowly realized that a team running on fumes, fueled by anxiety and self-doubt, will *always* perform below its potential, even with the best technical plan.
 
 This isn’t about hand-holding. It's about recognizing that a crisis isn’t just a technical problem; it’s a human experience. And treating it as such unlocks resilience, accelerates problem-solving, and fosters a stronger, more cohesive team.
 
 ## Why Emotional Support Matters During a Crisis
 
-Think about the typical crisis scenario. Systems are down, alarms are firing, stakeholders are anxious, and engineers are scrambling. This is inherently stressful. When stress levels spike, cognitive function *decreases*. People become less creative, less adaptable, and more prone to errors. They're less likely to share crucial information, fearing blame. 
+Think about the typical crisis scenario. Systems are down, alarms are firing, stakeholders are anxious, and engineers are scrambling. This is inherently stressful. When stress levels spike, cognitive function *decreases*. People become less creative, less adaptable, and more prone to errors. They're less likely to share crucial information, fearing blame.
 
 Emotional support helps mitigate this. Here's how:
 
@@ -32,13 +32,13 @@ So, what does emotional support *look* like in the heat of a crisis? It's not ab
 
 ## Beyond the Immediate Crisis
 
-Emotional support isn’t just a crisis-time tactic. It’s an ongoing practice. Fostering a culture of psychological safety—where team members feel comfortable taking risks, sharing ideas, and admitting mistakes—is vital for both crisis response and everyday innovation. 
+Emotional support isn’t just a crisis-time tactic. It’s an ongoing practice. Fostering a culture of psychological safety—where team members feel comfortable taking risks, sharing ideas, and admitting mistakes—is vital for both crisis response and everyday innovation.
 
 * **Foster a Culture of Psychological Safety:**  Encourage open communication, vulnerability, and constructive feedback in everyday interactions.
 * **Invest in Team Building:** Stronger relationships build trust and resilience.
-* **Promote Work-Life Balance:**  Prevent burnout by encouraging healthy boundaries and prioritizing well-being. 
+* **Promote Work-Life Balance:**  Prevent burnout by encouraging healthy boundaries and prioritizing well-being.
 
-I've learned that as leaders, we often get caught up in the *what* of problem-solving. But the *who* – the people solving the problems – is just as important. When we prioritize their well-being, we unlock their potential, build stronger teams, and create a more sustainable path to success. 
+I've learned that as leaders, we often get caught up in the *what* of problem-solving. But the *who* – the people solving the problems – is just as important. When we prioritize their well-being, we unlock their potential, build stronger teams, and create a more sustainable path to success.
 
 And that, in the long run, is a far more valuable outcome than simply putting out fires.
 

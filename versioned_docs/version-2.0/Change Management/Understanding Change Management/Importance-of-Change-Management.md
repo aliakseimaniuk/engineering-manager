@@ -4,13 +4,13 @@ For two decades, I've watched engineering teams build incredible things. But I'v
 
 ## The Cost of Ignoring the Current
 
-It’s easy to fall into the trap of thinking change management is something for “HR” or “the business.” We’re engineers, right? We build things. But when a change – a new process, a shifted priority, a technological overhaul – is rolled out without thoughtful consideration for its impact on the team, the consequences can be significant. Poorly managed change isn't just about team morale; it directly impacts the bottom line. 
+It’s easy to fall into the trap of thinking change management is something for “HR” or “the business.” We’re engineers, right? We build things. But when a change – a new process, a shifted priority, a technological overhaul – is rolled out without thoughtful consideration for its impact on the team, the consequences can be significant. Poorly managed change isn't just about team morale; it directly impacts the bottom line.
 
 I've seen it firsthand. A seemingly innocuous decision to switch project management tools led to weeks of lost productivity as developers struggled to adapt, ultimately costing the organization an estimated $20,000 in delayed feature releases. A sudden shift in project scope, dictated from above, created confusion, burnout, and ultimately, key engineers seeking opportunities elsewhere. Teams frequently express frustration to managers, often without resolution. This results in decreased velocity, increased defect rates, and a creeping sense of cynicism. Ultimately, it erodes trust – both in leadership and in the organization itself. Demonstrating genuine care for your team means recognizing the impact of change and proactively mitigating its negative consequences.
 
 ## Beyond "Just Do It": A Framework for Proactive Change
 
-Many methodologies, as practiced, seem designed to *shift* risk onto developers. It's as if the burden of fixing problems caused by poor planning falls squarely on their shoulders. But truly effective change management isn’t about assigning blame; it’s about proactive planning and shared ownership. 
+Many methodologies, as practiced, seem designed to *shift* risk onto developers. It's as if the burden of fixing problems caused by poor planning falls squarely on their shoulders. But truly effective change management isn’t about assigning blame; it’s about proactive planning and shared ownership.
 
 Before diving into the framework, it’s important to acknowledge the pressures engineering leaders face—tight deadlines, limited resources, competing priorities. Positioning change management not as an *additional* burden, but as a way to *mitigate* risk and improve outcomes, is crucial.
 
@@ -32,6 +32,6 @@ Toys "R" Us's "TRU Transformation" strategy in 2014 offers a compelling case stu
 
 ## Embracing the Current
 
-Change is inevitable. As engineering leaders, our job isn't to *avoid* it, but to *navigate* it. By embracing proactive planning, clear communication, and demonstrating genuine care for our teams, we can turn disruption into opportunity and build a culture of resilience and continuous improvement. It’s not just about building great software; it's about building great teams that can adapt and thrive in a constantly changing world. 
+Change is inevitable. As engineering leaders, our job isn't to *avoid* it, but to *navigate* it. By embracing proactive planning, clear communication, and demonstrating genuine care for our teams, we can turn disruption into opportunity and build a culture of resilience and continuous improvement. It’s not just about building great software; it's about building great teams that can adapt and thrive in a constantly changing world.
 
 So, start by incorporating a “Feasibility Sprint” into your next project planning cycle, and schedule a team retrospective to identify areas for improvement in your change management process.  The ability to embrace change isn't just a “soft skill” – it’s a core competency for success in today’s rapidly evolving landscape.

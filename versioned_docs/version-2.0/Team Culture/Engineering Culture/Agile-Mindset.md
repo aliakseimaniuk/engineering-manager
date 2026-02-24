@@ -8,7 +8,7 @@ This isn’t about dismissing Agile frameworks. They provide a valuable structur
 
 ## The Tension at Scale
 
-F. Scott Fitzgerald’s quote – “The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function” – resonates deeply here. Scaling Agile often forces us to grapple with inherent tensions: predictability *versus* adaptability, individual ownership *versus* collective responsibility, and detailed planning *versus* emergent strategy. This requires a constant balancing act – a willingness to embrace ambiguity and navigate conflicting priorities. 
+F. Scott Fitzgerald’s quote – “The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function” – resonates deeply here. Scaling Agile often forces us to grapple with inherent tensions: predictability *versus* adaptability, individual ownership *versus* collective responsibility, and detailed planning *versus* emergent strategy. This requires a constant balancing act – a willingness to embrace ambiguity and navigate conflicting priorities.
 
 A small, co-located team can intuitively navigate these tensions. Trust and open communication allow them to bend the “rules” as needed. But as teams grow and become more distributed, relying solely on ingrained trust becomes challenging. We need a mindset that *embraces* these tensions, rather than trying to eliminate them.
 
@@ -26,8 +26,6 @@ It's more than just "being flexible." It's about a fundamental approach to probl
 
 **Decentralized Decision-Making:** Empowering teams to make decisions autonomously is crucial. This requires clear boundaries and a shared understanding of goals, but it allows teams to respond quickly to changing circumstances. Remember that initial promise of stakeholder responsibility? It's about building that trust and giving the team the authority to act.
 
-
-
 ## From Theory to Practice: Cultivating the Mindset
 
 So, how do you *build* this mindset? It's not a training program; it’s a continuous process of leadership and coaching. Here are a few things I’ve found effective:
@@ -36,11 +34,11 @@ So, how do you *build* this mindset? It's not a training program; it’s a conti
 * **Encourage "Safe to Fail" Experiments:** Create opportunities for teams to try new things without fear of repercussions. Small, time-boxed experiments can be incredibly powerful learning opportunities.
 * **Facilitate Open Dialogue:** Regularly create space for teams to discuss challenges, share learnings, and brainstorm solutions. Encourage constructive feedback and active listening.
 * **Focus on "Why" not just "How":** Always explain the rationale behind decisions and prioritize transparency. Understanding the "why" empowers teams to make informed decisions and take ownership.
-* **Celebrate Learning, Not Just Success:** Recognize and reward teams for taking risks, experimenting, and learning from failures, even if the experiment doesn't achieve the desired outcome. McLeod and MacDonell’s research highlights that teams who embrace learning from both successes *and* failures demonstrate greater resilience and innovation. I recently worked with a team that celebrated a “failed” experiment with a post-mortem that uncovered critical insights that ultimately led to a breakthrough on a different project. 
+* **Celebrate Learning, Not Just Success:** Recognize and reward teams for taking risks, experimenting, and learning from failures, even if the experiment doesn't achieve the desired outcome. McLeod and MacDonell’s research highlights that teams who embrace learning from both successes *and* failures demonstrate greater resilience and innovation. I recently worked with a team that celebrated a “failed” experiment with a post-mortem that uncovered critical insights that ultimately led to a breakthrough on a different project.
 
 ## Beyond the Tools: A Shift in Perspective
 
-Ultimately, cultivating an Agile mindset is about shifting from a traditional, command-and-control approach to a more collaborative, adaptive, and learning-oriented culture. It's not about *doing* Agile; it's about *being* Agile. 
+Ultimately, cultivating an Agile mindset is about shifting from a traditional, command-and-control approach to a more collaborative, adaptive, and learning-oriented culture. It's not about *doing* Agile; it's about *being* Agile.
 
 It requires a willingness to embrace ambiguity, challenge assumptions, and prioritize continuous improvement. And while tools like Yodiz, Ora, or Tenzu can help facilitate the process, they are ultimately just that – tools. The real power lies in the mindset of the people who use them.
 

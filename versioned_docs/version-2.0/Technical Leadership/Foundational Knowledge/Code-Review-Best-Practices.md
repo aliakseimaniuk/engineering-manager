@@ -6,7 +6,7 @@ Over two decades in this field, I’ve seen code review done well (and terribly)
 
 ## The Problem with Traditional Code Review
 
-Let’s be honest, the “traditional” approach often falls short. As decades of research in software engineering have shown e.g., Beck & Cunningham’s work on Extreme Programming, focusing solely on defect identification misses crucial opportunities for learning and improvement. The scenario of a developer feeling unsupported with ambiguous requirements, or being left to "just work it out," is frustratingly common. This isn’t a skill issue; it’s a process issue. 
+Let’s be honest, the “traditional” approach often falls short. As decades of research in software engineering have shown e.g., Beck & Cunningham’s work on Extreme Programming, focusing solely on defect identification misses crucial opportunities for learning and improvement. The scenario of a developer feeling unsupported with ambiguous requirements, or being left to "just work it out," is frustratingly common. This isn’t a skill issue; it’s a process issue.
 
 A common pattern I’ve witnessed is a review focused *solely* on identifying errors. While important, this narrow focus misses opportunities for:
 
@@ -17,7 +17,7 @@ A common pattern I’ve witnessed is a review focused *solely* on identifying er
 
 ## Building a Better Code Review Process: Framework & Actionable Steps
 
-Here's a framework for approaching code review, moving beyond a simple bug hunt. I call it the "3Cs": **Context, Clarity, and Collaboration.** 
+Here's a framework for approaching code review, moving beyond a simple bug hunt. I call it the "3Cs": **Context, Clarity, and Collaboration.**
 
 **1. Context: Understand the "Why" Before the "What"**
 
@@ -59,6 +59,6 @@ Implementing these changes requires a shift in mindset and may require dedicated
 
 ## Final Thoughts
 
-Effective code review is about more than just finding bugs. It’s about building a stronger team, improving code quality, and fostering a culture of continuous learning. By embracing the "3Cs" – Context, Clarity, and Collaboration – you can transform code review from a dreaded chore into a valuable investment in your team's success. 
+Effective code review is about more than just finding bugs. It’s about building a stronger team, improving code quality, and fostering a culture of continuous learning. By embracing the "3Cs" – Context, Clarity, and Collaboration – you can transform code review from a dreaded chore into a valuable investment in your team's success.
 
 Remember, the goal isn't to find fault; it's to *build something great together.*

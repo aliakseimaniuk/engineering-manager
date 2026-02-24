@@ -1,6 +1,6 @@
 # Delegation
 
-Delegation. It’s the holy grail of engineering management, isn’t it? We’re *told* to delegate. We *know* we should delegate. It’s in every leadership book and webinar. And yet… how often does it *actually* work as smoothly as those materials suggest? 
+Delegation. It’s the holy grail of engineering management, isn’t it? We’re *told* to delegate. We *know* we should delegate. It’s in every leadership book and webinar. And yet… how often does it *actually* work as smoothly as those materials suggest?
 
 You ask a team member to implement a feature, expecting a quick turnaround. Weeks later, you’re still fixing bugs and rewriting code. Sound familiar?
 
@@ -34,12 +34,12 @@ We, as engineering managers, have a responsibility to shield our teams from this
 
 ## Delegation as Investment, Not Offloading
 
-I remember early in my career, being handed a particularly complex task by a senior engineer. I was overwhelmed, but he didn't just give me the solution. He walked me through his thought process, helped me break down the problem, and provided guidance along the way. He didn't simply *assign* the task; he *invested* in my understanding. It took more of his time initially, but it transformed my skills and confidence. 
+I remember early in my career, being handed a particularly complex task by a senior engineer. I was overwhelmed, but he didn't just give me the solution. He walked me through his thought process, helped me break down the problem, and provided guidance along the way. He didn't simply *assign* the task; he *invested* in my understanding. It took more of his time initially, but it transformed my skills and confidence.
 
 That experience shaped my approach to delegation. I learned that true leadership isn't about being the smartest person in the room; it's about empowering others to become the best versions of themselves.
 
 The most effective delegation isn't about getting things off your plate; it's about investing in your team's growth.  
 
-**In conclusion:** Delegation isn't a magic bullet. It requires conscious effort, clear communication, and a genuine commitment to team development. By focusing on investment, not offloading, we can create a more empowered, resilient, and ultimately, more effective engineering organization. And perhaps, relieve some of the pressure on the “coder” at the end of the line. 
+**In conclusion:** Delegation isn't a magic bullet. It requires conscious effort, clear communication, and a genuine commitment to team development. By focusing on investment, not offloading, we can create a more empowered, resilient, and ultimately, more effective engineering organization. And perhaps, relieve some of the pressure on the “coder” at the end of the line.
 
 **Take Action This Week:** Identify one task you're about to delegate and consciously apply the 4 C’s.

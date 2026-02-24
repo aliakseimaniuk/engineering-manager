@@ -1,10 +1,10 @@
 # Service Level Agreements (SLA)
 
-For many engineering managers, Service Level Agreements (SLAs) conjure images of late-night on-call rotations and frantic attempts to hit 99.9% uptime. And while uptime is *part* of the story, treating SLAs as simply a reactive firefighting measure is a massive missed opportunity. A well-crafted SLA isn’t about *avoiding* failure; it’s about proactively defining shared understanding, building trust with stakeholders, and driving engineering improvements. 
+For many engineering managers, Service Level Agreements (SLAs) conjure images of late-night on-call rotations and frantic attempts to hit 99.9% uptime. And while uptime is *part* of the story, treating SLAs as simply a reactive firefighting measure is a massive missed opportunity. A well-crafted SLA isn’t about *avoiding* failure; it’s about proactively defining shared understanding, building trust with stakeholders, and driving engineering improvements.
 
 Imagine this: a critical feature experiences intermittent slowdowns. Instead of a blame game between engineering and product, a clearly defined SLA, focused on *user experience*, instantly surfaces the problem and triggers a collaborative investigation. That's the power of a well-designed SLA.
 
-Over my 20+ years leading engineering teams, from scrappy startups to established tech companies, I've seen SLAs range from vague aspirations to incredibly detailed (and often unhelpful) contracts. The *best* SLAs are those that foster collaboration, focus on user impact, and actually make our lives as engineering leaders easier. 
+Over my 20+ years leading engineering teams, from scrappy startups to established tech companies, I've seen SLAs range from vague aspirations to incredibly detailed (and often unhelpful) contracts. The *best* SLAs are those that foster collaboration, focus on user impact, and actually make our lives as engineering leaders easier.
 
 Here’s how to move beyond basic uptime and create SLAs that truly deliver value.
 
@@ -25,8 +25,6 @@ Before diving into specifics, let's establish some foundational principles:
 * **Simplicity and Transparency:** Avoid overly complex SLAs with dozens of metrics. Keep it simple, easy to understand, and transparently communicated.
 * **Realistic and Achievable:** Set targets you can realistically meet. Overpromising and underdelivering erodes trust.
 * **Regular Review and Iteration:** SLAs aren’t static documents. Review them regularly (at least quarterly) and adjust them based on changing business needs and engineering capabilities.
-
-
 
 ## Beyond Uptime: Key SLA Metrics to Consider
 
@@ -61,4 +59,4 @@ Creating a great SLA is just the first step. To truly improve reliability, you n
 * **Reliability is a Shared Responsibility:** Make reliability a priority for all team members, not just the on-call engineer. Encourage a "you build it, you run it" mentality.
 * **Continuous Improvement is the Norm:** Regularly review performance, identify areas for improvement, and iterate on your SLAs.
 
-**In conclusion**, SLAs aren’t about ticking boxes and avoiding penalties. They’re about building trust, aligning priorities, and driving engineering excellence. By focusing on user impact, adopting a practical framework, and fostering a culture of reliability, you can create SLAs that truly deliver value to your business and your users. 
+**In conclusion**, SLAs aren’t about ticking boxes and avoiding penalties. They’re about building trust, aligning priorities, and driving engineering excellence. By focusing on user impact, adopting a practical framework, and fostering a culture of reliability, you can create SLAs that truly deliver value to your business and your users.

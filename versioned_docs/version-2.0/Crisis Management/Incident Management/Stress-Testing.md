@@ -6,7 +6,7 @@ Forget thinking of stress testing as solely a QA activity. It's a leadership pra
 
 ## Why Stress Test? Beyond Production Outages
 
-Most of us immediately think of load testing or chaos engineering when we hear "stress test." And those are important pieces, *especially* for ensuring system reliability. But a truly holistic stress test for your *team* extends far beyond infrastructure. It explores weaknesses in process, communication, and even individual skillsets. 
+Most of us immediately think of load testing or chaos engineering when we hear "stress test." And those are important pieces, *especially* for ensuring system reliability. But a truly holistic stress test for your *team* extends far beyond infrastructure. It explores weaknesses in process, communication, and even individual skillsets.
 
 Here's what a well-designed stress test can reveal:
 
@@ -48,10 +48,8 @@ Okay, so you're convinced. Now what? Here's a framework, drawing on principles f
 
 **4. Iterate and Repeat:** Stress testing isn’t a one-time event. Make it a regular part of your team’s rhythm – perhaps quarterly. Focus on different scenarios each time to expose different weaknesses.
 
-
-
 ## Beyond the Technical: Building Resilience
 
-Ultimately, stress testing isn't just about finding technical bugs or process inefficiencies. It’s about building a resilient team—one that can handle pressure, adapt to change, and learn from its mistakes. A lean and flexible approach to stress testing, combined with a focus on psychological safety, will equip your team to not just survive crises, but to thrive in the face of adversity. 
+Ultimately, stress testing isn't just about finding technical bugs or process inefficiencies. It’s about building a resilient team—one that can handle pressure, adapt to change, and learn from its mistakes. A lean and flexible approach to stress testing, combined with a focus on psychological safety, will equip your team to not just survive crises, but to thrive in the face of adversity.
 
-As leaders, we need to prioritize building that capacity. We understand that engineering leaders are often stretched thin, but investing in this proactive practice strengthens your team's ability to handle future challenges and is time well spent. Because the goal isn't to avoid crises altogether – that's unrealistic. It’s to ensure that when they inevitably occur, we're prepared. 
+As leaders, we need to prioritize building that capacity. We understand that engineering leaders are often stretched thin, but investing in this proactive practice strengthens your team's ability to handle future challenges and is time well spent. Because the goal isn't to avoid crises altogether – that's unrealistic. It’s to ensure that when they inevitably occur, we're prepared.

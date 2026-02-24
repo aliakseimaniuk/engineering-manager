@@ -13,8 +13,6 @@ Before diving into the "how," let's define the "what." While often used intercha
 
 As a manager, you'll naturally blend both roles. But being conscious of which "hat" you're wearing in any given conversation is vital.  
 
-
-
 ## Why Mentorship & Coaching Matter for Engineering Teams
 
 Beyond individual growth, investing in mentorship and coaching yields significant benefits for the entire team:
@@ -22,18 +20,18 @@ Beyond individual growth, investing in mentorship and coaching yields significan
 * **Increased Retention:** People stay where they feel valued and supported. Mentorship and coaching demonstrate that you’re invested in their long-term success. Studies show that companies with strong mentorship programs experience up to 50% higher retention rates.
 * **Improved Skill Development:** Targeted coaching addresses skill gaps, while mentorship fosters a continuous learning mindset.
 * **Stronger Team Cohesion:** Sharing knowledge and experiences builds trust and camaraderie.
-* **Leadership Pipeline:** Identifying and nurturing future leaders through mentorship ensures a healthy succession plan. 
-* **Reduced “Bus Factor”:** Sharing knowledge reduces dependency on single individuals. 
+* **Leadership Pipeline:** Identifying and nurturing future leaders through mentorship ensures a healthy succession plan.
+* **Reduced “Bus Factor”:** Sharing knowledge reduces dependency on single individuals.
 
 I’ve seen firsthand how a strong mentorship program can transform a group of talented individuals into a cohesive, high-performing unit. At one startup, we paired junior engineers with senior architects. The impact wasn't just technical; it improved communication, boosted morale, and reduced critical knowledge silos.
 
-## Practical Steps for Effective Mentorship & Coaching 
+## Practical Steps for Effective Mentorship & Coaching
 
 Here’s how to integrate these practices into your daily routine. Remember, even small investments in mentorship and coaching can yield significant returns, despite the demands on your time.
 
 ### 1. Active Listening (Really Listen!)
 
-This sounds basic, but it’s often overlooked. Resist the urge to interrupt or immediately offer solutions. Ask open-ended questions: “What are your thoughts on this?”, “What challenges are you facing?”, “What would success look like for you?” 
+This sounds basic, but it’s often overlooked. Resist the urge to interrupt or immediately offer solutions. Ask open-ended questions: “What are your thoughts on this?”, “What challenges are you facing?”, “What would success look like for you?”
 
 ### 2. The GROW Model (For Coaching)
 
@@ -62,11 +60,8 @@ Encourage experienced engineers to mentor junior colleagues. This builds a cultu
 
 Effective leadership requires adapting your approach to different situations. Just as F. Scott Fitzgerald brilliantly stated, the ability to hold two opposed ideas simultaneously is a hallmark of intelligence. This is particularly true in complex environments like engineering. A small team might thrive on a highly iterative approach, but scaling that across a large organization demands adaptation and understanding that “one-size-fits-all” solutions rarely work.
 
-
-
 ## A Note on Recognizing When to Coach vs. Mentor
 
 Sometimes, the line blurs. However, consider this: if someone is struggling with a specific skill or behavior, *coach* them. If they're unsure about their career path or need guidance navigating the company, *mentor* them. And remember, *you* don't need to have all the answers. Sometimes, the most valuable thing you can do is help someone *discover* the answers themselves.
-
 
 **Final Thought:** Investing in mentorship and coaching isn’t about being a “nice” manager; it’s about being an *effective* one. It's about unlocking the potential of your team, fostering a culture of growth, and building a sustainable, high-performing engineering organization. To start, schedule a dedicated 1:1 with each team member focused on their career goals and development needs. And as a leader, that's a truly rewarding outcome.

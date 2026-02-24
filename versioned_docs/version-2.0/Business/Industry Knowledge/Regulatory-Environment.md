@@ -8,7 +8,7 @@ This article isn't about becoming a legal expert. It’s about building the *cap
 
 ## The Cost of Ignoring Regulation: Lessons from the Recent Past
 
-The recent failures of companies like Celsius Network provide a stark illustration of what happens when regulatory considerations are sidelined. While the details are complex, the core issue was a lack of transparency and adherence to financial regulations. The ensuing scrutiny, legal battles, and ultimately, the collapse of the company, weren't just a legal problem; they were a *technical* problem rooted in a failure to build systems that could demonstrably meet regulatory requirements. 
+The recent failures of companies like Celsius Network provide a stark illustration of what happens when regulatory considerations are sidelined. While the details are complex, the core issue was a lack of transparency and adherence to financial regulations. The ensuing scrutiny, legal battles, and ultimately, the collapse of the company, weren't just a legal problem; they were a *technical* problem rooted in a failure to build systems that could demonstrably meet regulatory requirements.
 
 For example, Celsius lacked robust encryption of customer Personally Identifiable Information (PII), and audit logs were incomplete, making it difficult to trace transactions and verify compliance. These aren't afterthoughts; they need to be built *in* from the start. It’s a fundamental shift in thinking: instead of asking “Can we build this?” we need to be asking “Can we build this *and prove we’re complying with all relevant regulations*?”
 
@@ -26,7 +26,7 @@ We know that adding compliance checks to the development process takes time and 
 
 ## Centralized Governance, Decentralized Execution
 
-There’s a tension between centralized governance and decentralized execution. You need a central team to define the overall regulatory framework and provide guidance. However, you also need to empower individual teams to implement and enforce those policies within their respective domains. 
+There’s a tension between centralized governance and decentralized execution. You need a central team to define the overall regulatory framework and provide guidance. However, you also need to empower individual teams to implement and enforce those policies within their respective domains.
 
 I've found that a layered approach works best:
 
@@ -38,10 +38,10 @@ This approach connects directly to translating regulations into technical requir
 
 ## Beyond Compliance: The Opportunity for Competitive Advantage
 
-Treating regulation as merely a cost center is a mistake. Increasingly, compliance can be a *competitive differentiator*. Companies that proactively embrace regulation and build trust with their customers are more likely to succeed in the long run. 
+Treating regulation as merely a cost center is a mistake. Increasingly, compliance can be a *competitive differentiator*. Companies that proactively embrace regulation and build trust with their customers are more likely to succeed in the long run.
 
 Think about data privacy. Consumers are increasingly concerned about how their data is collected and used. Companies like DuckDuckGo have built a strong brand reputation by prioritizing user privacy and demonstrating a commitment to data protection.  
 
-In conclusion, navigating the regulatory environment is no longer just a legal matter; it’s a core responsibility of engineering leadership. By building regulatory awareness into your engineering process, you can mitigate risk, protect your business, and create a competitive advantage. It’s about moving beyond simply *meeting* regulations to actively *building* a compliant system, and building a culture of trust and accountability. 
+In conclusion, navigating the regulatory environment is no longer just a legal matter; it’s a core responsibility of engineering leadership. By building regulatory awareness into your engineering process, you can mitigate risk, protect your business, and create a competitive advantage. It’s about moving beyond simply *meeting* regulations to actively *building* a compliant system, and building a culture of trust and accountability.
 
 To start, conduct a regulatory gap analysis to identify areas where your systems may be non-compliant. Then, prioritize addressing those gaps and integrate compliance checks into your CI/CD pipeline.

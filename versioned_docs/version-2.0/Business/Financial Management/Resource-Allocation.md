@@ -68,6 +68,6 @@ Resource allocation isn't just about projects; it's about people. Are you spread
 
 ## Final Thoughts
 
-Effective resource allocation isn't about being a gatekeeper; it's about being a strategic leader. It’s about making tough decisions, setting realistic expectations, and empowering your team to focus on what truly matters. It's uncomfortable, requires constant communication, and is rarely perfect. But the results – a happier, more productive team and a more successful product – are well worth the effort. 
+Effective resource allocation isn't about being a gatekeeper; it's about being a strategic leader. It’s about making tough decisions, setting realistic expectations, and empowering your team to focus on what truly matters. It's uncomfortable, requires constant communication, and is rarely perfect. But the results – a happier, more productive team and a more successful product – are well worth the effort.
 
 **To put these ideas into practice, take a moment to assess your current resource allocation practices. Consider implementing the RICE scoring model or the 2x2 matrix to guide your prioritization efforts. And most importantly, schedule a team discussion about how to say “no” effectively and protect their time for what truly matters.**

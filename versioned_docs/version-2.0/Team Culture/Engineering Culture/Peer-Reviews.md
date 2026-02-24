@@ -11,7 +11,7 @@ Too often, peer reviews are an afterthought. A developer finishes a feature, sla
 * **Superficial Reviews:** Colleagues skim the code looking for obvious errors, missing the bigger picture.
 * **Bottlenecks:** A single engineer becomes the designated reviewer, creating delays.
 * **Resentment:** Developers feel their work is being judged harshly, stifling innovation.
-* **Lost Knowledge:** Important design decisions and reasoning remain undocumented and difficult to access. 
+* **Lost Knowledge:** Important design decisions and reasoning remain undocumented and difficult to access.
 
 These issues aren’t technical; they’re *cultural*. We need to shift the mindset from “finding errors” to “collaborative improvement.”
 
@@ -37,7 +37,7 @@ I recommend teams adopt a simple checklist like this to guide their reviews:
 
 * **Intent:** Does this code address the intended problem? Is the solution clearly aligned with requirements?
 * **Implementation:** Is the code clean, readable, and maintainable? Are best practices followed? Are there any potential bugs or performance issues?
-* **Impact:** What are the potential side effects of this change? Does it introduce any new dependencies or vulnerabilities? 
+* **Impact:** What are the potential side effects of this change? Does it introduce any new dependencies or vulnerabilities?
 
 This checklist helps reviewers move beyond surface-level checks and focus on the core principles of effective code review: ensuring the code solves the right problem, is well-implemented, and doesn’t introduce unintended consequences.
 
@@ -53,7 +53,6 @@ By investing in a positive review culture, you can improve employee engagement a
 
 ## My Own Evolution
 
-Early in my career, I viewed peer reviews as a necessary evil, a time-consuming distraction from "real" work. But over time, I realized that the time invested in peer review *saved* time in the long run, reducing bugs, improving code quality, and fostering a more collaborative team. Now, I actively *seek* peer review for my own work, valuing the diverse perspectives and insights that my colleagues bring to the table. 
-
+Early in my career, I viewed peer reviews as a necessary evil, a time-consuming distraction from "real" work. But over time, I realized that the time invested in peer review *saved* time in the long run, reducing bugs, improving code quality, and fostering a more collaborative team. Now, I actively *seek* peer review for my own work, valuing the diverse perspectives and insights that my colleagues bring to the table.
 
 **In conclusion:** Peer reviews are not just about finding bugs. They are a powerful tool for building a stronger, more collaborative, and more innovative engineering team. By embracing a culture of continuous learning and focusing on shared ownership, you can transform peer review from a dreaded task into a valuable asset. Start by implementing one or two of these principles within your team and track the results. Continuous improvement is key.

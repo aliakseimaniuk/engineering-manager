@@ -8,12 +8,12 @@ After 20+ years leading engineering teams, I’ve learned that successful pair p
 
 Let’s get a few things out of the way. I've seen two common pitfalls derail pair programming before it even gets off the ground:
 
-* **Thinking it's always the answer:** Pair programming isn't a silver bullet. It's not efficient for *every* task. Simple, well-defined tasks often incur overhead that outweighs the benefits of collaboration. Reserve pairing for complex problems, critical code paths, onboarding new team members, or when tackling unfamiliar technologies. 
+* **Thinking it's always the answer:** Pair programming isn't a silver bullet. It's not efficient for *every* task. Simple, well-defined tasks often incur overhead that outweighs the benefits of collaboration. Reserve pairing for complex problems, critical code paths, onboarding new team members, or when tackling unfamiliar technologies.
 * **Imposing it without buy-in:** Forcing developers to pair program breeds resentment. It feels like micromanagement, and the benefits are lost. Focus on explaining *why* you're encouraging pairing and let the team experiment to find what works best.
 
 ## The Driver-Navigator Dynamic: Beyond the Roles
 
-The classic “driver-navigator” model is a good starting point. The driver writes the code, and the navigator reviews, anticipates potential issues, and thinks strategically. But it's easy to fall into traps. The navigator can become a passive observer, or the driver can dominate the session, ignoring valuable input. 
+The classic “driver-navigator” model is a good starting point. The driver writes the code, and the navigator reviews, anticipates potential issues, and thinks strategically. But it's easy to fall into traps. The navigator can become a passive observer, or the driver can dominate the session, ignoring valuable input.
 
 Here's how to make the roles more effective:
 
@@ -41,7 +41,7 @@ This is where it gets really important. Pair programming only thrives in an envi
 
 ## Starting Small and Measuring Success
 
-Don't try to implement pair programming across the entire organization overnight. Start with a pilot program. Encourage a few teams to experiment and gather feedback. 
+Don't try to implement pair programming across the entire organization overnight. Start with a pilot program. Encourage a few teams to experiment and gather feedback.
 
 Instead of focusing solely on lines of code produced, measure success based on:
 

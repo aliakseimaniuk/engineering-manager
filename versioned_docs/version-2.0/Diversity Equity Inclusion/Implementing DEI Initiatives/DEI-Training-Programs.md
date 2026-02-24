@@ -1,8 +1,8 @@
 # DEI Training Programs
 
-Diversity, Equity, and Inclusion (DEI) initiatives are, thankfully, becoming standard fare in most tech companies. But let’s be honest: too often, DEI training feels like a compliance exercise – a series of presentations and quizzes meant to *look* like progress, rather than *drive* it. As engineering leaders, we need to move beyond the checkbox mentality and build DEI programs that genuinely foster inclusive teams and unlock innovation. 
+Diversity, Equity, and Inclusion (DEI) initiatives are, thankfully, becoming standard fare in most tech companies. But let’s be honest: too often, DEI training feels like a compliance exercise – a series of presentations and quizzes meant to *look* like progress, rather than *drive* it. As engineering leaders, we need to move beyond the checkbox mentality and build DEI programs that genuinely foster inclusive teams and unlock innovation.
 
-I’ve seen this firsthand, from early-stage startups scrambling to address diversity gaps to established companies realizing their inclusion efforts weren’t translating into meaningful change. This isn’t about avoiding legal issues (though that’s important), it’s about building better products, attracting top talent, and creating a work environment where *everyone* can thrive. 
+I’ve seen this firsthand, from early-stage startups scrambling to address diversity gaps to established companies realizing their inclusion efforts weren’t translating into meaningful change. This isn’t about avoiding legal issues (though that’s important), it’s about building better products, attracting top talent, and creating a work environment where *everyone* can thrive.
 
 Here’s a breakdown of how to move beyond surface-level DEI training and create programs that actually make a difference, geared specifically for engineering teams.
 
@@ -43,8 +43,6 @@ This is the hardest, but most important part.
 * **Employee Resource Groups (ERGs):** Support and empower ERGs to provide a platform for employees to connect, share experiences, and advocate for change.
 * **Data-Driven Accountability:** Track diversity metrics and hold leaders accountable for making progress. Be transparent about your data and share your challenges and successes.
 
-
-
 ## Leveraging Available Resources – Filling the Skill Gaps
 
 Fortunately, there's a wealth of free or low-cost resources available to supplement your DEI efforts. Here are a few to consider:
@@ -56,7 +54,7 @@ Fortunately, there's a wealth of free or low-cost resources available to supplem
 
 ## Moving Beyond Training: A Culture of Continuous Learning
 
-DEI isn’t a one-time fix; it’s a journey. As engineering leaders, we need to create a culture of continuous learning where everyone feels empowered to challenge assumptions, speak up against injustice, and contribute to a more inclusive workplace. 
+DEI isn’t a one-time fix; it’s a journey. As engineering leaders, we need to create a culture of continuous learning where everyone feels empowered to challenge assumptions, speak up against injustice, and contribute to a more inclusive workplace.
 
 Don't just *deliver* training; foster ongoing dialogue, encourage vulnerability, and celebrate diversity in all its forms. The payoff? More innovative products, stronger teams, and a more equitable future for everyone.
 

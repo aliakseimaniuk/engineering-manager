@@ -1,12 +1,12 @@
 # Earning Trust
 
-For two decades leading engineering teams, I've seen methodologies come and go – Agile, Scrum, Kanban, the latest AI-driven project management tool. They all *promise* efficiency and performance. But I’ve come to a simple, often overlooked truth: none of it matters if you haven't built a foundation of trust. 
+For two decades leading engineering teams, I've seen methodologies come and go – Agile, Scrum, Kanban, the latest AI-driven project management tool. They all *promise* efficiency and performance. But I’ve come to a simple, often overlooked truth: none of it matters if you haven't built a foundation of trust.
 
-Too often, we *assume* trust exists within a team, particularly among engineers who pride themselves on reliability and competence. “They're smart, they deliver good code, therefore I trust them,” is a common refrain. But that’s a dangerous assumption. True trust isn’t granted based on skill; it’s *earned* through consistent actions and genuine care. And it’s the single most important factor in building a high-performing, resilient engineering team. 
+Too often, we *assume* trust exists within a team, particularly among engineers who pride themselves on reliability and competence. “They're smart, they deliver good code, therefore I trust them,” is a common refrain. But that’s a dangerous assumption. True trust isn’t granted based on skill; it’s *earned* through consistent actions and genuine care. And it’s the single most important factor in building a high-performing, resilient engineering team.
 
 ## Beyond Competence: What Does "Earned" Trust Actually Look Like?
 
-Trust isn't a feeling; it's a calculation. Your team is constantly (often subconsciously) assessing: *“Can I rely on this person? Do they have my back? Do they genuinely care about my success – not just the success of the project?”* 
+Trust isn't a feeling; it's a calculation. Your team is constantly (often subconsciously) assessing: *“Can I rely on this person? Do they have my back? Do they genuinely care about my success – not just the success of the project?”*
 
 Here's how that calculation plays out in practice, broken down into actionable behaviors:
 
@@ -17,15 +17,13 @@ Here's how that calculation plays out in practice, broken down into actionable b
 * **Giving Credit Where It’s Due:** This sounds obvious, but it’s often overlooked. Publicly acknowledge and celebrate individual and team accomplishments. A simple "thank you" or a shout-out in a team meeting can go a long way.
 * **Supporting Growth & Development:** Invest in your team's career development. Provide opportunities for learning, mentorship, and challenging assignments. Show them you care about their future, not just their current output.
 
-
-
 ## Trust & Methodologies: The Order Matters
 
-The reviewer of a book by Patrick Lencioni, *The Five Dysfunctions of a Team*, made a critical point – any methodology *will* work, *if* everyone is motivated by the benefit of others. That’s a powerful observation. You can implement the most sophisticated Agile framework, but if your team doesn’t trust you, or each other, it will fall flat. 
+The reviewer of a book by Patrick Lencioni, *The Five Dysfunctions of a Team*, made a critical point – any methodology *will* work, *if* everyone is motivated by the benefit of others. That’s a powerful observation. You can implement the most sophisticated Agile framework, but if your team doesn’t trust you, or each other, it will fall flat.
 
 Think of it this way: methodologies are the *tools* to build something great. Trust is the *foundation* that holds it all together. You need a solid foundation *before* you start building. Trying to impose a methodology on a team lacking trust is like building a house on sand.
 
-##  Addressing Potential "Withdrawals" from Trust
+## Addressing Potential "Withdrawals" from Trust
 
 Building trust isn’t just about *depositing* positive behaviors. It’s also about mitigating behaviors that can erode it. It's easy to fall into patterns that unintentionally damage team cohesion.
 
@@ -34,16 +32,13 @@ Building trust isn’t just about *depositing* positive behaviors. It’s also a
 * **Model Positive Behavior:** Lead by example. Demonstrate integrity, humility, and genuine care.
 * **Foster a Culture of Psychological Safety:** Create an environment where team members feel comfortable speaking up, sharing ideas, and taking risks.
 
+## A Simple Framework: The Trust Bank Account
 
-
-
-##  A Simple Framework: The Trust Bank Account
-
-I like to think of trust like a bank account. You make deposits through consistent, positive actions (vulnerability, follow-through, advocacy). You make withdrawals through broken promises, dishonesty, or self-serving behavior. 
+I like to think of trust like a bank account. You make deposits through consistent, positive actions (vulnerability, follow-through, advocacy). You make withdrawals through broken promises, dishonesty, or self-serving behavior.
 
 Constantly monitor your "trust balance" with each team member. Are you making more deposits than withdrawals? If not, you need to course-correct.
 
-Earning trust isn’t a one-time event; it’s an ongoing process. It requires consistent effort, genuine care, and a commitment to building a team based on mutual respect and psychological safety. It’s not always easy, but it’s the most rewarding investment you can make as an engineering leader. And it's the foundation upon which all high-performing teams are built. 
+Earning trust isn’t a one-time event; it’s an ongoing process. It requires consistent effort, genuine care, and a commitment to building a team based on mutual respect and psychological safety. It’s not always easy, but it’s the most rewarding investment you can make as an engineering leader. And it's the foundation upon which all high-performing teams are built.
 
 **Take a moment this week to reflect on your "trust balance" with each team member. Identify one action you can take to make a deposit.**
 

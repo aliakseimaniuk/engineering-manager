@@ -6,7 +6,7 @@ This isn’t a fluffy “people-first” argument (though that’s important!). 
 
 ## The Pitfalls of “Training” as a One-Time Event
 
-We often think of training as a discrete event: a course, a workshop, a documentation dump. While these are *components*, they’re woefully insufficient. Think about it: a new engineer joins, spends a week wading through documentation and tutorials, and is then expected to be productive. Or a team is introduced to a new framework with a single “lunch and learn” session. 
+We often think of training as a discrete event: a course, a workshop, a documentation dump. While these are *components*, they’re woefully insufficient. Think about it: a new engineer joins, spends a week wading through documentation and tutorials, and is then expected to be productive. Or a team is introduced to a new framework with a single “lunch and learn” session.
 
 This approach suffers from several key flaws:
 
@@ -21,9 +21,9 @@ Instead of focusing on isolated training events, think about building a continuo
 
 * **Formal Learning Paths:** Yes, formal training still has a place. But these should be thoughtfully curated and tied to specific career goals *and* company strategic goals. Don't just send engineers to any course; choose resources that are relevant, high-quality, and contribute to clear skill development.
 * **Knowledge Sharing as a Core Value:** Encourage engineers to share their expertise. This could take the form of:
-    * **Internal Tech Talks:**  Regular sessions where engineers present on topics they're passionate about or challenges they've overcome.
-    * **Pair Programming & Code Reviews:**  These aren’t just about code quality; they’re invaluable learning opportunities.
-    * **Document Everything (Seriously):**  Invest in a robust knowledge base (like the one mentioned – a dedicated system is key).  And *incentivize* contribution. Consider tactics like gamification, recognizing contributions in team meetings, or including documentation updates as part of the "definition of done" for tasks.
+  * **Internal Tech Talks:**  Regular sessions where engineers present on topics they're passionate about or challenges they've overcome.
+  * **Pair Programming & Code Reviews:**  These aren’t just about code quality; they’re invaluable learning opportunities.
+  * **Document Everything (Seriously):**  Invest in a robust knowledge base (like the one mentioned – a dedicated system is key).  And *incentivize* contribution. Consider tactics like gamification, recognizing contributions in team meetings, or including documentation updates as part of the "definition of done" for tasks.
 * **Dedicated "Learning Time":**  Protect time for engineers to explore new technologies, read industry articles, or work on personal projects. This fosters innovation and prevents skill stagnation. A simple “20% time” initiative, or a dedicated "Innovation Day" each month, can make a huge difference. It’s important to frame this as *essential* for maintaining a competitive edge, not simply “extra work.”
 * **Microlearning:**  Break down complex topics into smaller, digestible chunks.  Short videos, blog posts, or quick tutorials can be more effective than lengthy documentation.
 

@@ -18,8 +18,8 @@ Many metrics tell you what *happened*. Retention tells you if you’re building 
 Retention isn't a single number. It’s crucial to segment it for meaningful insights. Here are a few key variations:
 
 * **Day 1 Retention:** What percentage of users who sign up today are still using the product tomorrow? This is a crucial early indicator of onboarding effectiveness.
-* **7-Day Retention:** A broader look at early engagement. Are users finding enough value to come back within a week? 
-* **30-Day Retention:** Indicates longer-term value and habit formation. 
+* **7-Day Retention:** A broader look at early engagement. Are users finding enough value to come back within a week?
+* **30-Day Retention:** Indicates longer-term value and habit formation.
 * **Cohort Analysis:** *This is where it gets really interesting*. Track retention rates for groups of users who signed up during the same period (e.g., users who signed up in January). This reveals how changes to your product impact different groups of users over time.
 * **Feature-Based Retention:** Are users who adopt a specific feature more likely to stick around? This highlights features driving long-term value.
 
@@ -29,7 +29,7 @@ Here’s how you can move beyond simply reporting the retention number to *activ
 
 ### Prioritizing Performance
 
-Don’t underestimate the impact of a snappy, reliable product. Slow load times and frequent bugs are retention killers. Prioritize performance optimization and bug fixing. Consider the data: free plans with rate limits, like 25,000 requests/month, highlight the need for efficient code. 
+Don’t underestimate the impact of a snappy, reliable product. Slow load times and frequent bugs are retention killers. Prioritize performance optimization and bug fixing. Consider the data: free plans with rate limits, like 25,000 requests/month, highlight the need for efficient code.
 
 ### Improving Onboarding
 
@@ -37,15 +37,15 @@ A smooth, intuitive onboarding process is crucial for Day 1 retention. Engineeri
 
 ### Proactive Feedback Loops
 
-Connect engineering directly to user feedback. 
+Connect engineering directly to user feedback.
 
-* **Integrate with User Research:** Sit in on user interviews. Review user research reports. 
+* **Integrate with User Research:** Sit in on user interviews. Review user research reports.
 * **Analyze Error Logs:** Don’t just fix errors; understand *why* they’re happening. Are there patterns indicating usability issues?
 * **Monitor Support Tickets:** What are users complaining about? What are the recurring themes?
 
 ### Instrument Everything
 
-You can't improve what you can't measure. 
+You can't improve what you can't measure.
 
 * **Track Feature Usage:** What features are users actually using? Which ones are being ignored?
 * **Monitor Key User Flows:** Are users completing critical tasks successfully? Where are they getting stuck?

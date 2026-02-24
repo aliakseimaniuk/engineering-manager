@@ -8,7 +8,7 @@ Before diving into the “how,” let's address the “why.” As engineering le
 
 ## The Problem With Just Collecting Data
 
-Let's be honest: many engineering teams treat data collection as a checkbox. "We need analytics!" leads to integrating a tool (and there are *many* options – see the end of this post for a quick rundown), piping in *everything*, and then…staring at dashboards no one understands, or worse, ignoring altogether. 
+Let's be honest: many engineering teams treat data collection as a checkbox. "We need analytics!" leads to integrating a tool (and there are *many* options – see the end of this post for a quick rundown), piping in *everything*, and then…staring at dashboards no one understands, or worse, ignoring altogether.
 
 This happens for a few key reasons:
 
@@ -23,7 +23,7 @@ Here’s a framework I’ve used successfully to turn data into a lever for genu
 
 **Phase 1: Define Your "North Star" and Supporting Metrics**
 
-Before you write a single line of tracking code, you need to answer a fundamental question: *What does success look like?* This isn't just about revenue; it's about the core value your engineering team delivers. I call this your “North Star” metric. 
+Before you write a single line of tracking code, you need to answer a fundamental question: *What does success look like?* This isn't just about revenue; it's about the core value your engineering team delivers. I call this your “North Star” metric.
 
 For example, if you're building a real-time collaboration tool, your North Star might be “Daily Active Users Engaged in Collaborative Sessions.” A vanity metric for this tool, however, might be ‘Total number of sessions,’ which doesn't tell you whether users are actually *collaborating effectively*. Supporting metrics then become the *leading indicators* that influence your North Star. These could include:
 
@@ -41,7 +41,7 @@ Consider these principles:
 * **Standardize Event Names & Properties:** Consistency is key. A "button_click" event should always have the same properties, no matter where it originates.
 * **Focus on User Actions, Not Just System Events:** Tracking system errors is important, but understanding *how users interact* with your product provides more actionable insights.
 * **Add Contextual Data:** Include user segments (e.g., free vs. paid, new vs. returning) and other relevant data to enable deeper analysis.
-* **Consider a Reverse ETL approach:** Platforms like Census can help you move data *out* of your analytics tools and into systems like Salesforce or your data warehouse, allowing product managers to personalize in-app messaging based on user behavior. 
+* **Consider a Reverse ETL approach:** Platforms like Census can help you move data *out* of your analytics tools and into systems like Salesforce or your data warehouse, allowing product managers to personalize in-app messaging based on user behavior.
 
 **Phase 3: Analyze, Iterate, and Share**
 
@@ -50,7 +50,7 @@ Collecting data is only half the battle. You need to *actively* analyze it, draw
 * **Regular Data Reviews:** Schedule regular meetings (weekly or bi-weekly) to review key metrics with the team.
 * **Focus on Trends, Not Just Numbers:** Look for patterns and anomalies. Is a metric trending up or down? Why?
 * **A/B Test Everything:** Don’t rely on gut feelings. Use A/B testing to validate your hypotheses and measure the impact of your changes. Remember to consider statistical significance and sample size to ensure your results are reliable.
-* **Share Findings Widely:** Make data accessible to everyone on the team. Use dashboards, reports, and presentations to communicate insights and foster a data-driven culture. Focus on telling a compelling story with the data, rather than just presenting numbers. Tools like Yandex.Datalens can make data visualization and sharing easier. 
+* **Share Findings Widely:** Make data accessible to everyone on the team. Use dashboards, reports, and presentations to communicate insights and foster a data-driven culture. Focus on telling a compelling story with the data, rather than just presenting numbers. Tools like Yandex.Datalens can make data visualization and sharing easier.
 
 ## Tools of the Trade (A Quick Rundown)
 
@@ -66,6 +66,6 @@ The best tool depends on your specific needs and budget.
 
 ## Moving Beyond Vanity Metrics
 
-Building a data-driven culture isn’t about installing a fancy analytics platform. It’s about cultivating a mindset of continuous learning and improvement.  It's also important to acknowledge that this takes effort. Start small – focus on one North Star metric and build from there. By focusing on the right metrics, instrumenting strategically, and actively analyzing your data, you can empower your engineering team to build better products and deliver more value to your users. 
+Building a data-driven culture isn’t about installing a fancy analytics platform. It’s about cultivating a mindset of continuous learning and improvement.  It's also important to acknowledge that this takes effort. Start small – focus on one North Star metric and build from there. By focusing on the right metrics, instrumenting strategically, and actively analyzing your data, you can empower your engineering team to build better products and deliver more value to your users.
 
 **What's one North Star metric you can identify for your team this week?**

@@ -8,24 +8,21 @@ This article, fitting under the umbrella of Change Management, will explore why 
 
 It starts innocently enough. A slightly ambiguous requirement. A conflict between two specs. A stakeholder who hasn't quite clarified their priorities. In a healthy organization, these issues spark a conversation, a clarification process. But increasingly, I’ve witnessed a different response: a quiet expectation that the developer will “just figure it out.”
 
-For example, a developer might be given a user story with vague acceptance criteria and, instead of the product owner providing clarification, the expectation is that the developer will *infer* the correct behavior. 
+For example, a developer might be given a user story with vague acceptance criteria and, instead of the product owner providing clarification, the expectation is that the developer will *infer* the correct behavior.
 
-Why? Because *asking questions takes time*. Challenging assumptions feels risky. And in many organizations, admitting uncertainty feels like a weakness. It’s easier – faster, in the short term – to let the developer resolve the ambiguity and move forward. 
+Why? Because *asking questions takes time*. Challenging assumptions feels risky. And in many organizations, admitting uncertainty feels like a weakness. It’s easier – faster, in the short term – to let the developer resolve the ambiguity and move forward.
 
-This isn’t malicious intent. It's a symptom of pressure, tight deadlines, and a risk-averse culture. But the cumulative effect is significant. That “quick fix” turns into hours of wasted effort, potential bugs, and a slowly eroded sense of ownership. 
+This isn’t malicious intent. It's a symptom of pressure, tight deadlines, and a risk-averse culture. But the cumulative effect is significant. That “quick fix” turns into hours of wasted effort, potential bugs, and a slowly eroded sense of ownership.
 
 The input correctly highlights that tighter role definitions – often touted as benefits of certain methodologies – can *exacerbate* this. When everyone is narrowly defined, *someone* has to bridge the gaps, resolve conflicts, and absorb the risk. And too often, that “someone” is the person closest to the code.
 
-
 ## The Illusion of Methodology
 
-Methodologies like Agile and Scrum *should* empower stakeholders and distribute responsibility. The promise of self-organizing teams and shared accountability is alluring. However, it's often challenging to *consistently* achieve this in practice. 
+Methodologies like Agile and Scrum *should* empower stakeholders and distribute responsibility. The promise of self-organizing teams and shared accountability is alluring. However, it's often challenging to *consistently* achieve this in practice.
 
 Too often, the focus shifts from *achieving* the goal to *adhering* to the methodology. The process becomes more important than the outcome. And when issues arise, the response isn’t to re-evaluate the requirements or address systemic problems, but to ensure everyone is following the prescribed Scrum process correctly.
 
 This is a dangerous trap. It creates an environment where process is prioritized over substance, and where developers are expected to be rubber ducks *and* problem solvers.
-
-
 
 ## Recognizing the Shifts: Key Indicators
 
@@ -37,9 +34,6 @@ How can you identify these responsibility shifts within your team? Look for thes
 * **Passive Stakeholders:** Stakeholders who are unavailable or unwilling to actively participate in the process.  This leaves developers feeling unsupported and increases the risk of misaligned expectations.
 * **Focus on "Doing the Process" instead of "Delivering Value".**  Teams becoming overly focused on adhering to the methodology at the expense of delivering tangible results.
 
-
-
-
 ## What You Can Do: Fostering Genuine Accountability
 
 So, what can you, as a leader, do to counter this trend?
@@ -50,9 +44,6 @@ So, what can you, as a leader, do to counter this trend?
 4. **Focus on Outcomes, Not Just Processes:** Prioritize delivering value over rigidly adhering to a methodology. Be willing to adapt the process to fit the needs of the team and the project.
 5. **Promote Psychological Safety:** This is paramount. If developers fear repercussions for questioning decisions or raising concerns, the cycle of responsibility shifts will continue.
 6. **Timeboxing for Clarification:** Implement a policy where ambiguity isn’t accepted. If a requirement isn’t clear within a certain timebox, it needs to be escalated for resolution.
-
-
-
 
 ## The Long Game
 

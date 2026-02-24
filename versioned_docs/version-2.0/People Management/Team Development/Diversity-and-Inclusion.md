@@ -1,12 +1,12 @@
-# Diversity & Inclusion
+# Diversity and Inclusion
 
 Diversity & Inclusion (D&I) has become a buzzword in tech, and for good reason. The benefits are well-documented: more innovative solutions, better problem-solving, and a stronger bottom line. But I've seen too many organizations treat D&I as a set of HR-driven initiatives – a checklist to be completed, quotas to be met – rather than a fundamental shift in how we build and lead teams. After 20+ years in engineering leadership, I've learned that *true* inclusion goes far beyond representation; it's about unlocking the potential of *every* individual and fostering an environment where they can thrive.
 
-This isn’t just “the right thing to do” (though it absolutely is). It's a strategic imperative. And achieving it requires a deeper understanding of human motivation, psychological safety, and the delicate balance between equity and individual contribution. 
+This isn’t just “the right thing to do” (though it absolutely is). It's a strategic imperative. And achieving it requires a deeper understanding of human motivation, psychological safety, and the delicate balance between equity and individual contribution.
 
 ## The Pitfalls of Focusing Solely on Equal Outcomes
 
-While striving for equity is admirable, focusing *solely* on equal outcomes can inadvertently limit overall potential. Any system that discourages individual contribution, whether intentional or not, can have negative consequences. This is because innovation and progress often stem from the unique skills, perspectives, and drive of individuals. 
+While striving for equity is admirable, focusing *solely* on equal outcomes can inadvertently limit overall potential. Any system that discourages individual contribution, whether intentional or not, can have negative consequences. This is because innovation and progress often stem from the unique skills, perspectives, and drive of individuals.
 
 Throughout history, attempts to enforce absolute equality – where everyone is expected to achieve the same results – have often faced unintended challenges.  While I hesitate to draw direct parallels, it’s worth observing that systems which stifle individual initiative have historically struggled with long-term sustainability and widespread prosperity. This isn't about politics; it's about recognizing the inherent dynamism of human systems.
 
@@ -14,9 +14,9 @@ On an engineering team, this means that trying to force equal participation or e
 
 ## The Power of Psychological Safety & Healthy Tension
 
-So, how do we strike the right balance? The answer lies in fostering **psychological safety** – a shared belief that it’s okay to take risks, speak up with ideas, and make mistakes without fear of negative consequences. This isn't about being "nice." It's about creating an environment where different perspectives are *welcomed*, even if they challenge the status quo. 
+So, how do we strike the right balance? The answer lies in fostering **psychological safety** – a shared belief that it’s okay to take risks, speak up with ideas, and make mistakes without fear of negative consequences. This isn't about being "nice." It's about creating an environment where different perspectives are *welcomed*, even if they challenge the status quo.
 
-But psychological safety *without* a degree of healthy tension can lead to groupthink. As Yuval Noah Harari points out in *Sapiens*, the most interesting parts of a culture often emerge from the friction between conflicting narratives. We need that same constructive tension within our teams. 
+But psychological safety *without* a degree of healthy tension can lead to groupthink. As Yuval Noah Harari points out in *Sapiens*, the most interesting parts of a culture often emerge from the friction between conflicting narratives. We need that same constructive tension within our teams.
 
 Here's how to cultivate it:
 
@@ -38,9 +38,9 @@ Representation – having a diverse mix of people on your team – is important,
 
 Building a truly inclusive engineering team isn’t a quick fix. It's a long-term investment that requires ongoing effort, self-reflection, and a willingness to challenge the status quo.  
 
-I’ve personally learned that creating this kind of environment isn’t always easy. There have been times when I’ve had to confront my own biases and make difficult decisions to ensure everyone on my team felt valued and respected. It requires vulnerability and a commitment to continuous learning. 
+I’ve personally learned that creating this kind of environment isn’t always easy. There have been times when I’ve had to confront my own biases and make difficult decisions to ensure everyone on my team felt valued and respected. It requires vulnerability and a commitment to continuous learning.
 
-It's about recognizing that diversity isn’t just about checking boxes; it’s about unlocking the collective potential of your team. It’s about fostering an environment where everyone feels valued, respected, and empowered to contribute their best work. And ultimately, it's about building a more innovative, resilient, and successful organization. 
+It's about recognizing that diversity isn’t just about checking boxes; it’s about unlocking the collective potential of your team. It’s about fostering an environment where everyone feels valued, respected, and empowered to contribute their best work. And ultimately, it's about building a more innovative, resilient, and successful organization.
 
 And in a world where accessibility and remote work are rapidly changing the landscape, building this inclusive culture isn’t just the right thing to do – it's becoming a competitive advantage.
 

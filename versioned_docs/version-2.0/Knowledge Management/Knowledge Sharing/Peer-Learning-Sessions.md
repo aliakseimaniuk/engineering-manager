@@ -11,7 +11,7 @@ Traditional training, while necessary for foundational skills, often struggles w
 Peer learning addresses these shortcomings because:
 
 * **Relevance is Built-In:** Discussions center around *your* team's projects, challenges, and codebase. It’s directly applicable.
-* **Psychological Safety:** Engineers are often more comfortable asking "dumb" questions and admitting knowledge gaps to peers than to external instructors or managers. For example, I once saw an engineer hesitant to ask a seemingly basic question in a team meeting, but confidently raised it during a peer learning session after a team member created a safe and encouraging environment. 
+* **Psychological Safety:** Engineers are often more comfortable asking "dumb" questions and admitting knowledge gaps to peers than to external instructors or managers. For example, I once saw an engineer hesitant to ask a seemingly basic question in a team meeting, but confidently raised it during a peer learning session after a team member created a safe and encouraging environment.
 * **Deeper Understanding Through Teaching:** The act of explaining a concept to a colleague forces you to solidify your own understanding. As any teacher will tell you, you learn it best when you teach it.
 * **Collective Problem Solving:** Tapping into the diverse perspectives and experiences of your team fosters more creative and effective solutions.
 
@@ -30,13 +30,11 @@ Simply saying "let's share knowledge" isn't enough. Successful peer learning req
 
 **3. Embedding Habits Within Structure:**  To foster consistent peer learning, integrate it directly into your team's process. Schedule regular sessions as part of your sprint planning or dedicate a specific time slot each week.  Document action items and follow-up tasks from each session to ensure knowledge is translated into tangible results.
 
-**4. Leverage Tools (But Don’t Let Them Dictate the Process):** Tools like [Whimsical](https://whimsical.com/) can be fantastic for collaborative diagramming, flowcharts, and mind maps during sessions, allowing for real-time visual representation of ideas. However, the *conversation* is the most important part, not the technology. 
+**4. Leverage Tools (But Don’t Let Them Dictate the Process):** Tools like [Whimsical](https://whimsical.com/) can be fantastic for collaborative diagramming, flowcharts, and mind maps during sessions, allowing for real-time visual representation of ideas. However, the *conversation* is the most important part, not the technology.
 
 **5. Document & Share:** Record sessions (with permission, of course!). Transcribe key takeaways and create short, easily digestible documentation. Add these resources to a team knowledge base (a wiki, Confluence page, or even a shared Google Doc).
 
 **6. Rotate Facilitators & Topics:** Don’t let one person become the “knowledge keeper.” Encourage everyone to contribute and share their expertise. This fosters inclusivity and prevents knowledge silos.
-
-
 
 ## Making it a Habit: Embedding Peer Learning into Your Culture
 
@@ -46,7 +44,6 @@ It’s understandable that some might perceive peer learning as taking time away
 
 ## Beyond Efficiency: The Deeper Benefits
 
-While peer learning undoubtedly improves efficiency and reduces knowledge gaps, its benefits go beyond the purely practical. It builds stronger team cohesion, fosters a culture of continuous improvement, and empowers engineers to take ownership of their learning. 
+While peer learning undoubtedly improves efficiency and reduces knowledge gaps, its benefits go beyond the purely practical. It builds stronger team cohesion, fosters a culture of continuous improvement, and empowers engineers to take ownership of their learning.
 
-I've seen firsthand how a thriving peer learning culture can transform a good engineering team into a *great* one. It's not about replacing traditional training; it’s about supplementing it with the most valuable resource you already have: the collective intelligence of your team. 
-
+I've seen firsthand how a thriving peer learning culture can transform a good engineering team into a *great* one. It's not about replacing traditional training; it’s about supplementing it with the most valuable resource you already have: the collective intelligence of your team.

@@ -4,7 +4,7 @@ Are your OKRs gathering dust? Do they feel disconnected from the daily work of y
 
 ## The Core Problem with Traditional Goal Setting
 
-Traditional goal setting – think annual plans with detailed task lists – often falls apart because of inherent rigidity. Software development is *inherently* unpredictable. We discover new information, priorities shift, and assumptions prove wrong. Rigid plans become quickly irrelevant, leading to frustration and a sense of failure. 
+Traditional goal setting – think annual plans with detailed task lists – often falls apart because of inherent rigidity. Software development is *inherently* unpredictable. We discover new information, priorities shift, and assumptions prove wrong. Rigid plans become quickly irrelevant, leading to frustration and a sense of failure.
 
 OKRs address this by focusing on *what* we want to achieve, not *how* we’ll achieve it. They embrace ambition and acknowledge that experimentation and course correction are essential. This is a critical mindset shift for engineering teams accustomed to detailed specifications and predictable delivery.
 
@@ -31,8 +31,6 @@ Here are a few scenarios from my experience:
 * **The Large Company Stumble:** In a 500-person enterprise organization, OKRs were mandated from the top down, with little input from engineering teams.  Objectives were vague ("Improve customer satisfaction") and Key Results were based on vanity metrics like ‘number of deployments’ instead of ‘impact of deployments on customer satisfaction.’  The result?  Engineers saw OKRs as a bureaucratic overhead and ignored them.
 * **The Cross-Functional Alignment Win:**  Successfully aligning engineering OKRs with product and marketing was a game-changer.  A shared Objective: “Expand into the European market.” Engineering Key Results focused on platform scalability and localization. This fostered collaboration and ensured everyone was working towards a common goal.
 
-
-
 ## Practical Tips for Engineering Managers
 
 * **Focus on Outcomes, Not Output:**  Avoid Key Results like "Complete Feature X." Instead, focus on the impact of the feature. "Increase user engagement with Feature X by 20%" is a better metric.
@@ -40,8 +38,6 @@ Here are a few scenarios from my experience:
 * **Encourage Team Ownership:**  Don't dictate OKRs from the top down. Facilitate a collaborative discussion with your team. Let them propose Key Results that they believe are achievable and impactful.  Team ownership is critical.
 * **Regular Check-Ins (and Course Correction):** OKRs aren't set-and-forget.  Review progress weekly or bi-weekly.  Be willing to adjust Key Results if circumstances change. This shows your team you value adaptation and real-world impact.
 * **Embrace Failure:**  Not every Key Result will be achieved.  That's okay.  Use failures as learning opportunities.  What did we learn? What could we do differently next time?
-
-
 
 ## Beyond the Framework: Cultivating a Results-Oriented Culture
 

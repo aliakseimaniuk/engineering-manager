@@ -10,7 +10,7 @@ So, how do you build a genuinely happy engineering team? It comes down to three 
 
 ## 1. The Right People: Beyond Skills on a Resume
 
-Getting the right people on the bus is the first, and often hardest, step. Technical skills are important, absolutely. But they’re table stakes. You need to assess for **cultural fit, collaboration skills, and a growth mindset.** 
+Getting the right people on the bus is the first, and often hardest, step. Technical skills are important, absolutely. But they’re table stakes. You need to assess for **cultural fit, collaboration skills, and a growth mindset.**
 
 * **Don't just interview for technical proficiency.** Include behavioral questions designed to understand how a candidate handles conflict, gives and receives feedback, and works within a team.
 * **Look for humility.** Arrogance and a “know-it-all” attitude are toxic, especially in an engineering environment where learning and adaptation are crucial.
@@ -32,7 +32,7 @@ We recently moved from a complex, multi-tool project management system to a simp
 
 ## 3. Psychological Safety: The Foundation of Trust
 
-This is arguably the most important pillar. Psychological safety, as defined by Google’s Project Aristotle, is a shared belief that the team is safe for interpersonal risk-taking. It means people feel comfortable speaking up with ideas, asking questions, admitting mistakes, and challenging the status quo without fear of negative consequences. 
+This is arguably the most important pillar. Psychological safety, as defined by Google’s Project Aristotle, is a shared belief that the team is safe for interpersonal risk-taking. It means people feel comfortable speaking up with ideas, asking questions, admitting mistakes, and challenging the status quo without fear of negative consequences.
 
 * **Lead by Example.** Be vulnerable, admit your own mistakes, and encourage others to do the same.
 * **Foster Open Communication.** Create a safe space for honest and respectful dialogue. Encourage active listening and constructive feedback.
@@ -41,4 +41,4 @@ This is arguably the most important pillar. Psychological safety, as defined by 
 
 I once witnessed a junior engineer hesitate for several minutes before pointing out a flaw in a senior architect's design. He was visibly nervous, afraid of appearing incompetent. A good leader would have thanked him for his observation and encouraged further discussion. Unfortunately, the architect dismissed his concerns, creating a chilling effect on the entire team. That engineer eventually left, and the flawed design led to significant rework later on. **This demonstrates that fostering psychological safety requires creating an environment where all voices are valued, regardless of seniority.**
 
-Building a truly happy engineering team isn’t easy. It requires consistent effort, empathy, and a genuine commitment to creating a positive and supportive work environment. It’s also important to acknowledge that implementing these changes can be challenging, given constraints like company culture, deadlines, and budget. But the rewards – increased productivity, improved quality, reduced churn, and a more innovative and engaged workforce – are well worth the investment. Remember, happiness isn't a perk, it's the foundation for high performance. 
+Building a truly happy engineering team isn’t easy. It requires consistent effort, empathy, and a genuine commitment to creating a positive and supportive work environment. It’s also important to acknowledge that implementing these changes can be challenging, given constraints like company culture, deadlines, and budget. But the rewards – increased productivity, improved quality, reduced churn, and a more innovative and engaged workforce – are well worth the investment. Remember, happiness isn't a perk, it's the foundation for high performance.

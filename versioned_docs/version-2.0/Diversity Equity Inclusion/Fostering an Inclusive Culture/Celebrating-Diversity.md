@@ -1,12 +1,12 @@
 # Celebrating Diversity
 
-Diversity, Equity, and Inclusion (DEI) have become ubiquitous terms in the tech industry, and for good reason. A diverse team isn’t just “the right thing to do” (though it absolutely is); it’s a business imperative. But too often, DEI initiatives feel like a checklist of activities – trainings, recruitment targets, employee resource groups – without fundamentally changing how we build and operate engineering teams. We get caught in *talking* about diversity, instead of *building* inclusive environments where everyone can thrive. 
+Diversity, Equity, and Inclusion (DEI) have become ubiquitous terms in the tech industry, and for good reason. A diverse team isn’t just “the right thing to do” (though it absolutely is); it’s a business imperative. But too often, DEI initiatives feel like a checklist of activities – trainings, recruitment targets, employee resource groups – without fundamentally changing how we build and operate engineering teams. We get caught in *talking* about diversity, instead of *building* inclusive environments where everyone can thrive.
 
 As an engineering leader for over two decades, I've seen both the well-intentioned but ineffective DEI programs and those that genuinely unlock innovation and growth. This isn’t about hitting quotas; it’s about fundamentally rethinking how we approach team building, career development, and technical leadership. Let’s move beyond the buzzwords and explore how to build *truly* inclusive engineering teams.
 
 ## The Tension Within Collective Fictions
 
-Recently, I was reading Yuval Harari’s *Sapiens*, and a particular idea struck me as surprisingly relevant to DEI. Harari argues that human societies are built upon “collective fictions” – shared beliefs that aren’t necessarily objectively true, but enable large-scale cooperation. Concepts like money, nations, and human rights fall into this category. 
+Recently, I was reading Yuval Harari’s *Sapiens*, and a particular idea struck me as surprisingly relevant to DEI. Harari argues that human societies are built upon “collective fictions” – shared beliefs that aren’t necessarily objectively true, but enable large-scale cooperation. Concepts like money, nations, and human rights fall into this category.
 
 What’s fascinating – and often problematic – is that these collective fictions *conflict*. The ideals of equality and helping everyone can, paradoxically, pave the way for oppressive systems when taken to extremes or implemented without nuance. Think about it: strong beliefs *can* be weaponized.
 
@@ -36,7 +36,7 @@ Diversity without equity is unsustainable. We need to create environments where 
 
 **3. Psychological Safety & Inclusive Leadership:**
 
-This is the hardest part, but arguably the most important. Psychological safety is the belief that you can speak up, share ideas, and take risks without fear of negative consequences. 
+This is the hardest part, but arguably the most important. Psychological safety is the belief that you can speak up, share ideas, and take risks without fear of negative consequences.
 
 * **Lead by Example:** As a leader, model vulnerability, humility, and a willingness to learn from others.
 * **Create Space for Diverse Perspectives:** Actively solicit feedback from all team members. Ensure everyone has a voice in discussions.
@@ -45,11 +45,11 @@ This is the hardest part, but arguably the most important. Psychological safety 
 
 **Addressing Resistance to Change**
 
-Building psychological safety also means acknowledging that discomfort is inevitable. I recently worked with a team where a senior engineer, initially resistant to DEI initiatives, expressed concern about “lowering the bar.” By creating a safe space for open dialogue and framing inclusivity as a benefit to *everyone* – leading to better problem-solving and innovation – we were able to address his concerns and foster a more inclusive environment. 
+Building psychological safety also means acknowledging that discomfort is inevitable. I recently worked with a team where a senior engineer, initially resistant to DEI initiatives, expressed concern about “lowering the bar.” By creating a safe space for open dialogue and framing inclusivity as a benefit to *everyone* – leading to better problem-solving and innovation – we were able to address his concerns and foster a more inclusive environment.
 
 ## Beyond the Checklist: A Continuous Journey
 
-Building truly inclusive engineering teams isn't a one-time fix. It’s a continuous journey that requires ongoing effort, self-reflection, and a commitment to challenging the status quo. 
+Building truly inclusive engineering teams isn't a one-time fix. It’s a continuous journey that requires ongoing effort, self-reflection, and a commitment to challenging the status quo.
 
 I recommend regularly assessing your team's DEI efforts using both quantitative data (e.g., representation metrics) and qualitative feedback (e.g., employee surveys, focus groups). Be honest about your shortcomings and celebrate your successes.  Regularly share progress—and challenges—with the team to foster transparency.
 

@@ -1,6 +1,6 @@
 # Setting Clear Expectations
 
-Remote work has unlocked incredible flexibility and access to talent. But it’s also amplified a challenge every engineering leader faces: setting clear expectations. In a co-located office, you can often *feel* if someone is struggling or misaligned. Remotely? Those signals are muted, making proactively defined and consistently reinforced expectations absolutely critical. 
+Remote work has unlocked incredible flexibility and access to talent. But it’s also amplified a challenge every engineering leader faces: setting clear expectations. In a co-located office, you can often *feel* if someone is struggling or misaligned. Remotely? Those signals are muted, making proactively defined and consistently reinforced expectations absolutely critical.
 
 I recently worked with a team where a critical feature was delivered, but didn’t meet the intended business outcome. After digging in, we discovered the team had built *exactly* what was asked for, but the underlying assumptions about *why* it was needed weren’t clearly communicated. This disconnect led to wasted effort, rework, and a delayed launch. It highlighted, yet again, how crucial clear expectations are – especially when teams are distributed.
 
@@ -8,7 +8,7 @@ I've seen teams thrive and flounder based almost entirely on how effectively exp
 
 ## The Cost of Ambiguity in a Remote World
 
-Think about a recent project where things didn’t go as planned. Often, the root cause isn’t lack of skill, but a disconnect in understanding. “We thought you meant X,” or “I assumed Y was handled elsewhere” are common refrains. These ambiguities are costly – wasted effort, rework, frustration, and ultimately, delayed delivery. 
+Think about a recent project where things didn’t go as planned. Often, the root cause isn’t lack of skill, but a disconnect in understanding. “We thought you meant X,” or “I assumed Y was handled elsewhere” are common refrains. These ambiguities are costly – wasted effort, rework, frustration, and ultimately, delayed delivery.
 
 Remotely, this cost is *magnified*. Informal hallway conversations, quick check-ins, and reading body language – the “water cooler moments” that clarify intent – are largely gone. You *must* be intentional about over-communicating and documenting expectations.
 

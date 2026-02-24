@@ -24,11 +24,11 @@ Instead of blindly accepting requirements, start asking *why*. Specifically, foc
 
 How do you translate this understanding into practical actions? I’ve found that incorporating these principles requires more than just acknowledging them; it's about actively shaping the process.
 
-* **Demand Context:** Before kicking off a new project, insist on understanding the market context. What problem are we solving? Who are the target users? What are the key competitive differentiators? Don’t just read the product requirements document; *challenge* the assumptions. It’s not always easy to question product direction, but proactively seeking clarity benefits everyone. 
+* **Demand Context:** Before kicking off a new project, insist on understanding the market context. What problem are we solving? Who are the target users? What are the key competitive differentiators? Don’t just read the product requirements document; *challenge* the assumptions. It’s not always easy to question product direction, but proactively seeking clarity benefits everyone.
 * **Prioritization Frameworks:** Incorporate market dynamics into your prioritization framework. A simple scoring system could include factors like market size, growth rate, competitive intensity, and defensibility.
 * **Cross-Functional Collaboration:** Break down silos and foster closer collaboration with product, marketing, and sales teams. Regularly participate in market research sessions and customer interviews.
 * **Technical Strategy:** Align your technical strategy with the company's long-term vision. Invest in technologies and architectures that will enable future innovation and maintain a competitive edge.
 
 ## Beyond the Code: Leading with a Market-Minded Approach
 
-Being a successful engineering manager isn’t just about writing great code or building high-performing teams. It's about understanding the forces that shape your company's destiny. By embracing a market-minded approach, you can ensure your team focuses on solving the right problems, building the right products, and creating lasting value. 
+Being a successful engineering manager isn’t just about writing great code or building high-performing teams. It's about understanding the forces that shape your company's destiny. By embracing a market-minded approach, you can ensure your team focuses on solving the right problems, building the right products, and creating lasting value.

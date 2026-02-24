@@ -1,6 +1,6 @@
 # Active Listening
 
-Imagine a critical bug is causing production issues. Your team is scrambling, tensions are high, and you, as the manager, are bombarded with updates. Do you jump in with solutions, directing the chaos? Or do you take a breath and *really* listen to what your engineers are saying? 
+Imagine a critical bug is causing production issues. Your team is scrambling, tensions are high, and you, as the manager, are bombarded with updates. Do you jump in with solutions, directing the chaos? Or do you take a breath and *really* listen to what your engineers are saying?
 
 Too often, we as engineering managers spend a vast amount of time *talking* – giving direction, running retrospectives, explaining technical decisions, and advocating for our teams. But how much time do we truly spend *listening*? Not just hearing the words, but genuinely understanding the message, the context, and the underlying emotions? Studies have shown that poor communication contributes to a significant percentage of project failures – and a key component of effective communication is active listening. [Link to a relevant study on communication and project success would go here]
 
@@ -8,7 +8,7 @@ I’ve seen firsthand how a lack of active listening can derail projects, stifle
 
 ## The Cost of *Not* Listening
 
-Think about the last time someone interrupted you mid-sentence. How did it feel? Dismissed? Frustrated? Probably a little defensive. Now multiply that across your team. When engineers feel unheard, they become disengaged. Ideas go unspoken. Problems fester. And you, as the manager, are left operating with incomplete information. 
+Think about the last time someone interrupted you mid-sentence. How did it feel? Dismissed? Frustrated? Probably a little defensive. Now multiply that across your team. When engineers feel unheard, they become disengaged. Ideas go unspoken. Problems fester. And you, as the manager, are left operating with incomplete information.
 
 I remember leading a team where a junior engineer, Sarah, consistently remained quiet in meetings. I assumed she was simply introverted and didn’t have much to contribute. It wasn’t until a one-on-one, where I *actively* listened to her concerns, that I discovered she was struggling with a particular technology and felt too intimidated to ask for help in a group setting. Addressing that – simply by creating a safe space for her questions – unlocked a significant contributor and prevented a potential bottleneck.
 
@@ -34,7 +34,7 @@ Here's how you can integrate deep listening into your daily interactions:
 * **Reflect Feelings:** Acknowledge the emotional component of the conversation. Saying something like, "That sounds really frustrating," can go a long way in building trust and rapport.
 * **Summarize and Confirm:** Before moving on, summarize what you've heard and ask for confirmation. "Just to be sure I understand, you’re concerned about the scalability of this approach and want to explore alternatives. Is that correct?"
 
-It's easy to become focused on tasks and deliverables in the fast-paced world of engineering management. But sometimes, the most impactful thing you can do is simply *listen*. 
+It's easy to become focused on tasks and deliverables in the fast-paced world of engineering management. But sometimes, the most impactful thing you can do is simply *listen*.
 
 ## Listening in a Remote World
 
@@ -51,8 +51,8 @@ Active listening isn’t just a “nice-to-have” skill; it's a critical invest
 
 **Key Takeaways:**
 
-*   **Prioritize Focused Listening:** Carve out dedicated time for deep listening, especially in one-on-one meetings.
-*   **Practice Key Components:** Pay attention, show engagement, provide feedback, defer judgment, and respond appropriately.
-*   **Adapt to Remote Work:** Utilize video, minimize distractions, and be mindful of communication delays.
+* **Prioritize Focused Listening:** Carve out dedicated time for deep listening, especially in one-on-one meetings.
+* **Practice Key Components:** Pay attention, show engagement, provide feedback, defer judgment, and respond appropriately.
+* **Adapt to Remote Work:** Utilize video, minimize distractions, and be mindful of communication delays.
 
 Challenge yourself this week to practice one of these techniques in your one-on-ones. You might be surprised by the results.

@@ -4,9 +4,9 @@ As engineering managers, we often talk about technical debt, sprint velocity, an
 
 ## The Cost of Ambiguity
 
-Frustration at work often stems from not knowing *what* is expected, *how* your work will be evaluated, or *why* you're doing something. This isn’t about being “told what to do”; it’s about understanding the *context* and *purpose* behind the work. 
+Frustration at work often stems from not knowing *what* is expected, *how* your work will be evaluated, or *why* you're doing something. This isn’t about being “told what to do”; it’s about understanding the *context* and *purpose* behind the work.
 
-I remember leading a team building a new feature for a mobile app. I outlined the technical requirements, but failed to explicitly state *how* we’d measure success. The team delivered a technically sound feature, but it didn’t move the needle on the key metric we were hoping to impact – user engagement. The team felt deflated, and I realized my mistake: I’d focused on *what* needed to be built, neglecting *why* and *how* we'd know if it was *successful*. 
+I remember leading a team building a new feature for a mobile app. I outlined the technical requirements, but failed to explicitly state *how* we’d measure success. The team delivered a technically sound feature, but it didn’t move the needle on the key metric we were hoping to impact – user engagement. The team felt deflated, and I realized my mistake: I’d focused on *what* needed to be built, neglecting *why* and *how* we'd know if it was *successful*.
 
 This scenario isn’t unique. Lehtinen et al. (2015) highlight how a disconnect between development outcomes and product owner expectations frequently stems from a lack of shared understanding from the beginning. Their research demonstrates that proactively defining success metrics *collaboratively* significantly improves project outcomes. And in the fast-paced world of software development, assuming alignment is a dangerous gamble.
 
@@ -28,18 +28,16 @@ Setting expectations isn't a one-time event. It requires ongoing, proactive comm
 * **Feedback Loops:** Provide regular, constructive feedback. Be specific and focus on behavior, not personality. Encourage team members to do the same for each other.
 * **Document Everything:** Use a shared document (wiki, Confluence, Google Docs) to record expectations, decisions, and key information. This creates a single source of truth and reduces the risk of miscommunication.
 
-
-
 ## Addressing the Optimism Bias & Managing Unmet Expectations
 
-As the opening lines suggest, there's often inherent optimism at the start of any project. People tend to underestimate the complexity and overestimate their ability to deliver. It’s our job as leaders to gently ground these expectations in reality. This isn’t about being negative; it’s about being honest. Proactive risk identification, as emphasized by McConnell, is crucial. 
+As the opening lines suggest, there's often inherent optimism at the start of any project. People tend to underestimate the complexity and overestimate their ability to deliver. It’s our job as leaders to gently ground these expectations in reality. This isn’t about being negative; it’s about being honest. Proactive risk identification, as emphasized by McConnell, is crucial.
 
 But what happens when, despite our best efforts, expectations aren’t met? It’s vital to address these situations with empathy and a focus on learning.  Instead of blame, focus on understanding *why* the expectation wasn’t met – was it unrealistic, poorly communicated, or were there unforeseen challenges? A post-mortem analysis, conducted with a growth mindset, can transform setbacks into valuable learning opportunities.
 
 ## The Payoff: Trust and Empowerment
 
-When expectations are clear, team members feel more confident, empowered, and motivated. They understand what’s expected of them, how their work contributes to the bigger picture, and how their performance will be evaluated. This fosters a culture of trust, accountability, and psychological safety. 
+When expectations are clear, team members feel more confident, empowered, and motivated. They understand what’s expected of them, how their work contributes to the bigger picture, and how their performance will be evaluated. This fosters a culture of trust, accountability, and psychological safety.
 
-As Henry Hazlitt points out in *Economics in One Lesson*, understanding the long-term consequences of our actions is vital. Investing in clear expectations isn’t just about improving short-term productivity; it’s about building a sustainable, high-performing team that can thrive in the face of challenges. 
+As Henry Hazlitt points out in *Economics in One Lesson*, understanding the long-term consequences of our actions is vital. Investing in clear expectations isn’t just about improving short-term productivity; it’s about building a sustainable, high-performing team that can thrive in the face of challenges.
 
 It takes effort, consistent communication, and a willingness to address ambiguity head-on. **Start this week by documenting your team’s behavioral expectations and discussing them in your next team meeting. Encourage open dialogue and create a shared understanding of how you’ll work together.** The payoff – a team that’s aligned, motivated, and empowered – is well worth the investment.

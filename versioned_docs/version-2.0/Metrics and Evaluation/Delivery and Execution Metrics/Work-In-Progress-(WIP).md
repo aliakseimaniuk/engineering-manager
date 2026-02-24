@@ -1,12 +1,12 @@
 # Work In Progress (WIP)
 
-For 20+ years, I’ve seen engineering teams – from scrappy startups to established giants – fall victim to the same insidious problem: too much Work In Progress (WIP). It’s not a flashy failure; it doesn’t usually cause immediate fires. Instead, it’s a slow, creeping drain on productivity, a quiet killer of throughput, and a major source of frustration for everyone involved. 
+For 20+ years, I’ve seen engineering teams – from scrappy startups to established giants – fall victim to the same insidious problem: too much Work In Progress (WIP). It’s not a flashy failure; it doesn’t usually cause immediate fires. Instead, it’s a slow, creeping drain on productivity, a quiet killer of throughput, and a major source of frustration for everyone involved.
 
 Imagine a team constantly context-switching between features, chasing the latest urgent request while existing work languishes. Sound familiar? As engineering managers, we're often focused on *starting* things – kicking off new features, accepting ambitious projects. But we often prioritize starting new work *over* finishing what’s begun. And that, my friends, is where ruthless WIP management comes in.
 
 ## The Hidden Costs of a Full Plate
 
-Think about it: you have a developer working on Feature A. Halfway through, they get pulled onto a critical bug for Feature B. Then a “quick” UI tweak for Feature C pops up. Suddenly, they're context-switching constantly, losing valuable focus and incurring a significant cognitive load. This isn’t just about *time* lost; it's about lost momentum. 
+Think about it: you have a developer working on Feature A. Halfway through, they get pulled onto a critical bug for Feature B. Then a “quick” UI tweak for Feature C pops up. Suddenly, they're context-switching constantly, losing valuable focus and incurring a significant cognitive load. This isn’t just about *time* lost; it's about lost momentum.
 
 Each new task added to the pile introduces:
 
@@ -44,8 +44,6 @@ Implementing WIP limits will likely face some resistance.
 * **“But I’m bored!”** Address this by ensuring people have challenging and impactful tasks available within the WIP limits. Encourage them to contribute to testing, code review, or documentation as valuable ways to stay engaged.
 * **“We need to start this *now*!”** Push back. Explain the benefits of finishing existing work. Negotiate *a* realistic timeline for starting the new item.
 * **“It’s slowing us down!”** This is often a short-term effect. Explain that reducing context switching will ultimately increase velocity. Monitor throughput and demonstrate the improvement.
-
-
 
 ## The Long Game
 

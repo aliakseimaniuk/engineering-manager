@@ -6,7 +6,7 @@ I recently worked with a company struggling to launch a critical new product. De
 
 ## Understanding Top-Down Design
 
-Top-down design starts with a clear, overarching vision and strategy defined by leadership. Think of it as architectural blueprinting. Leaders determine the structure, roles, and responsibilities, and then communicate these down through the organization. 
+Top-down design starts with a clear, overarching vision and strategy defined by leadership. Think of it as architectural blueprinting. Leaders determine the structure, roles, and responsibilities, and then communicate these down through the organization.
 
 **Characteristics:**
 
@@ -48,11 +48,11 @@ Bottom-up design can lead to chaos if not managed properly. Duplication of effor
 
 ## The Hybrid Approach: Finding the Right Balance
 
-The reality is that pure top-down or bottom-up approaches are rarely optimal. The best solutions usually involve a hybrid approach, combining the strengths of both. 
+The reality is that pure top-down or bottom-up approaches are rarely optimal. The best solutions usually involve a hybrid approach, combining the strengths of both.
 
 **Here’s a framework I've found helpful:**
 
-1. **Define the "What" (Top-Down):** Leadership must clearly articulate the overall vision, strategic goals, and key performance indicators (KPIs).  This provides the necessary context and direction for the teams. 
+1. **Define the "What" (Top-Down):** Leadership must clearly articulate the overall vision, strategic goals, and key performance indicators (KPIs).  This provides the necessary context and direction for the teams.
 2. **Empower the "How" (Bottom-Up):**  Give teams the autonomy to decide *how* to achieve those goals. Encourage experimentation, collaboration, and continuous improvement.
 3. **Establish Clear Boundaries & Guardrails:** Define the constraints within which teams operate. This ensures alignment and prevents conflicting priorities.
 4. **Regular Communication & Feedback:** Create channels for open communication and feedback between leadership and teams. This fosters trust and ensures everyone is on the same page.
@@ -66,13 +66,13 @@ The reality is that pure top-down or bottom-up approaches are rarely optimal. Th
 
 ## The Importance of "Whom" – Building the Right Teams
 
-Beyond *how* you organize, the *people* involved are equally crucial. A self-organizing team won't succeed if it lacks the skills, experience, or motivation to take ownership. Building strong, cross-functional teams capable of effective collaboration is paramount. This means investing in professional development, fostering a culture of trust and psychological safety, and ensuring that teams have the resources they need to succeed. 
+Beyond *how* you organize, the *people* involved are equally crucial. A self-organizing team won't succeed if it lacks the skills, experience, or motivation to take ownership. Building strong, cross-functional teams capable of effective collaboration is paramount. This means investing in professional development, fostering a culture of trust and psychological safety, and ensuring that teams have the resources they need to succeed.
 
-Ultimately, the choice between top-down and bottom-up isn't about choosing one over the other. It’s about understanding the strengths and weaknesses of each approach and finding the right balance for *your* organization, *your* project, and *your* goals. 
+Ultimately, the choice between top-down and bottom-up isn't about choosing one over the other. It’s about understanding the strengths and weaknesses of each approach and finding the right balance for *your* organization, *your* project, and *your* goals.
 
 **To help you apply these principles, consider the following:**
 
-*   **Run a workshop with your team:** Discuss which organizational design elements are currently working well and which could be improved.
-*   **Pilot a hybrid approach:** Start by implementing it on a small project before rolling it out organization-wide.
-*   **Reflect on your current projects:** Where could more autonomy be given, and where does tighter control make sense? 
-*   **Assess team skills:** Do your teams have the necessary skills and experience to thrive in a self-organizing environment?
+* **Run a workshop with your team:** Discuss which organizational design elements are currently working well and which could be improved.
+* **Pilot a hybrid approach:** Start by implementing it on a small project before rolling it out organization-wide.
+* **Reflect on your current projects:** Where could more autonomy be given, and where does tighter control make sense?
+* **Assess team skills:** Do your teams have the necessary skills and experience to thrive in a self-organizing environment?

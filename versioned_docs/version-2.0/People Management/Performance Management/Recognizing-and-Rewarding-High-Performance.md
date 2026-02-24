@@ -8,7 +8,7 @@ This isn’t just a ‘people problem’. It’s a *technical* problem. Disengag
 
 Too often, "reward" equates to public praise or small perks for *visibility* rather than *impact*. Think about the engineer who’s consistently firefighting production issues. They might get lauded for being a “problem solver” (and the company might even *expect* them to be in firefighting mode), while the engineer who proactively refactors code to *prevent* those issues goes largely unnoticed.  
 
-This creates a perverse incentive. It tells the team: “Reactive work is what we value, even if it’s a symptom of underlying issues.” It’s like patching a leaky roof instead of fixing the structural damage. 
+This creates a perverse incentive. It tells the team: “Reactive work is what we value, even if it’s a symptom of underlying issues.” It’s like patching a leaky roof instead of fixing the structural damage.
 
 I saw this firsthand at a startup a few years back. A developer who consistently volunteered to take on impossible deadlines and “save the day” was constantly praised in all-hands meetings. Meanwhile, the architect who painstakingly designed a scalable, maintainable system was quietly building the foundation for future growth, but received little public recognition. Unsurprisingly, the architect started looking for other opportunities. The constant pressure and lack of appreciation finally took its toll.
 
@@ -32,14 +32,14 @@ It’s easy for reward systems to inadvertently incentivize the wrong behaviors.
 
 The leader who provided the initial input is also experiencing burnout and declining performance. That’s a clear sign something is wrong. Recognize that you can't pour from an empty cup, and prioritizing your own well-being isn’t selfish—it’s essential for effectively supporting your team.
 
-It’s often *hard* to prioritize self-care when you're focused on the needs of others. But making time for activities that recharge you, seeking feedback from your team, and reconnecting with your purpose are all crucial steps. 
+It’s often *hard* to prioritize self-care when you're focused on the needs of others. But making time for activities that recharge you, seeking feedback from your team, and reconnecting with your purpose are all crucial steps.
 
 Recognizing and rewarding high performers isn’t just about keeping your team happy; it’s about building a thriving engineering culture where innovation flourishes, quality is prioritized, and everyone feels valued for their contributions. It takes deliberate effort, but the payoff—a motivated, engaged, and high-performing team—is well worth it.
 
 **Key Takeaways:**
 
-*   **Focus on Impact:** Reward contributions that demonstrably move the needle, not just visibility.
-*   **Be Specific:** Explain *why* work is valuable, not just that it’s “good.”
-*   **Align Rewards with Values:** Ensure rewards reinforce the behaviors you want to see.
-*   **Prioritize Growth:** Invest in your team’s development through challenging assignments and learning opportunities.
-*   **Don’t Forget Yourself:** Leaders must prioritize their own well-being to effectively support their teams.
+* **Focus on Impact:** Reward contributions that demonstrably move the needle, not just visibility.
+* **Be Specific:** Explain *why* work is valuable, not just that it’s “good.”
+* **Align Rewards with Values:** Ensure rewards reinforce the behaviors you want to see.
+* **Prioritize Growth:** Invest in your team’s development through challenging assignments and learning opportunities.
+* **Don’t Forget Yourself:** Leaders must prioritize their own well-being to effectively support their teams.

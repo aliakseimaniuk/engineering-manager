@@ -6,7 +6,7 @@ This isn’t about creating a fluffy, conflict-avoidant team. It's about unlocki
 
 ## The Problem with Subjective “Feelings”
 
-Asking your team “Do you feel psychologically safe?” is… well, it’s about as useful as asking if they're "happy". People are likely to give you the answer they *think* you want to hear, or the one that presents them in the best light. Social desirability bias runs strong. 
+Asking your team “Do you feel psychologically safe?” is… well, it’s about as useful as asking if they're "happy". People are likely to give you the answer they *think* you want to hear, or the one that presents them in the best light. Social desirability bias runs strong.
 
 Furthermore, the problem isn’t always a dramatic, overt lack of safety. It often manifests as subtle behaviors – a slow creep of hesitancy, a decline in proactive problem-solving, or a reluctance to challenge assumptions. These nuances are easily missed if we aren’t actively looking for them.
 
@@ -18,15 +18,15 @@ Instead of relying on feelings, focus on these concrete indicators. Think of the
 
 * **Balanced Participation in Meetings:** Is the same handful of people dominating the conversation? A truly safe team sees equitable distribution of speaking time. A good starting point is to track who speaks in meetings over a couple of sprints. You might be surprised.
 * **Ideas from All Levels:** Are junior engineers comfortable sharing ideas, even if they’re not fully formed?  A lack of contribution from newer team members is a red flag.  Encourage them specifically to share their perspectives.
-* **Proactive Problem Reporting:** Are issues raised early, or are they swept under the rug until they become critical? This is a huge indicator. 
+* **Proactive Problem Reporting:** Are issues raised early, or are they swept under the rug until they become critical? This is a huge indicator.
 * **Active Listening & Acknowledgement:** Do team members genuinely listen to each other, asking clarifying questions and acknowledging contributions?
 
 **2. Candidness – Is vulnerability being *rewarded*, not punished?**
 
 * **Open Admission of Mistakes:** This is *critical*. Are people comfortable admitting errors without fear of blame?  A safe team views mistakes as learning opportunities.  As a manager, model this behavior *first*. Publicly admit your own mistakes and share what you learned.
 * **Seeking Help:** Do engineers readily ask for help when they're stuck, or do they struggle in silence?  A reluctance to ask for help can indicate a fear of appearing incompetent. Create a culture where asking for help is seen as a strength, not a weakness.
-* **Sharing "Half-Formed" Ideas:**  Are people comfortable pitching ideas that aren’t fully polished?  Innovation rarely comes from perfect solutions. It stems from experimentation and iteration. 
-* **Providing Honest Feedback (Upward & Peer-to-Peer):** Is there a genuine flow of constructive criticism, not just sugarcoating? 
+* **Sharing "Half-Formed" Ideas:**  Are people comfortable pitching ideas that aren’t fully polished?  Innovation rarely comes from perfect solutions. It stems from experimentation and iteration.
+* **Providing Honest Feedback (Upward & Peer-to-Peer):** Is there a genuine flow of constructive criticism, not just sugarcoating?
 
 **3. Challenge – Is healthy debate *encouraged*, not suppressed?**
 
@@ -37,9 +37,9 @@ Instead of relying on feelings, focus on these concrete indicators. Think of the
 
 ## The "Tipping Point" & When to Intervene
 
-Just like Malcolm Gladwell’s “Tipping Point”, small shifts in these indicators can signal a larger problem.  A single instance of a team member being shut down might not be critical, but a *pattern* of suppressed voices, avoided conflict, or reluctance to admit mistakes is a warning sign. 
+Just like Malcolm Gladwell’s “Tipping Point”, small shifts in these indicators can signal a larger problem.  A single instance of a team member being shut down might not be critical, but a *pattern* of suppressed voices, avoided conflict, or reluctance to admit mistakes is a warning sign.
 
-Approach these indicators as you would any other crucial engineering metric. Track them over time. Look for trends. And most importantly, *act* when you see a negative shift. 
+Approach these indicators as you would any other crucial engineering metric. Track them over time. Look for trends. And most importantly, *act* when you see a negative shift.
 
 **Here’s a framework to categorize the severity:**
 
@@ -62,8 +62,8 @@ Fostering psychological safety isn't always easy. It requires consistent effort,
 
 Here are three concrete steps you can take *today* to begin fostering psychological safety within your teams:
 
-1.  **Schedule a team retrospective focused on communication and feedback.** Specifically, ask: "What can we do to create a more open and honest communication environment?"
-2.  **Model vulnerability by sharing a recent mistake you made.** Explain what you learned from it and how you plan to avoid it in the future.
-3.  **Start a regular "check-in" process to solicit anonymous feedback.** Use a tool like a quick survey or suggestion box to gather insights from your team.
+1. **Schedule a team retrospective focused on communication and feedback.** Specifically, ask: "What can we do to create a more open and honest communication environment?"
+2. **Model vulnerability by sharing a recent mistake you made.** Explain what you learned from it and how you plan to avoid it in the future.
+3. **Start a regular "check-in" process to solicit anonymous feedback.** Use a tool like a quick survey or suggestion box to gather insights from your team.
 
 Psychological safety isn't a "nice-to-have" - it's a *fundamental* requirement for high-performing engineering teams. By focusing on observable indicators and actively cultivating a safe environment, you can unlock the full potential of your team and build a culture of innovation, resilience, and continuous improvement.

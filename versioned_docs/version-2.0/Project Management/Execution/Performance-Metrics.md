@@ -13,7 +13,7 @@ Let’s be honest: velocity is appealing. It’s a single number that seems to r
 * **It Masks Bottlenecks:**  A consistent velocity might hide underlying issues in the development process—slow code reviews, inadequate testing, or unclear requirements.
 * **It's Context-Dependent:** What constitutes “good” velocity varies wildly based on team size, project complexity, and technology stack. Comparing velocities across teams is often meaningless.
 
-I saw this firsthand at a startup years ago. We were obsessed with velocity, and the team consistently "hit" their sprint goals. But user complaints were skyrocketing, and we were constantly firefighting production issues. The problem? We were shipping features faster, but with significantly lower quality. We were sacrificing long-term stability for short-term gains. 
+I saw this firsthand at a startup years ago. We were obsessed with velocity, and the team consistently "hit" their sprint goals. But user complaints were skyrocketing, and we were constantly firefighting production issues. The problem? We were shipping features faster, but with significantly lower quality. We were sacrificing long-term stability for short-term gains.
 
 ## Beyond Velocity: A Layered Approach to Performance Metrics
 
@@ -39,7 +39,6 @@ Instead of fixating on a single number, think of performance metrics as a layere
 * **Code Review Time:**  Long review times suggest overloaded reviewers or complex code.  We discovered that excessive code review times were impacting our velocity.  By implementing automated linting and encouraging smaller pull requests, we reduced review times by 30%.
 * **Number of Bugs Discovered in Production:**  A rising number suggests issues with testing or code quality.
 
-
 ## Turning Metrics into Actionable Insights
 
 Collecting metrics is only half the battle.  Here’s how to make them truly valuable:
@@ -50,7 +49,7 @@ Collecting metrics is only half the battle.  Here’s how to make them truly val
 * **Investigate Anomalies:**  When a metric deviates significantly from the norm, investigate the cause. Don't just ignore it.
 * **Connect Metrics to Outcomes:**  How are your metrics impacting business goals?  If a metric isn't tied to a business outcome, it's probably not worth tracking.
 
-I learned a valuable lesson early in my career. We were meticulously tracking a metric—average code review time—and obsessing over small improvements. Then, a user survey revealed that customers were frustrated with the lack of new features. We realized we were optimizing for the wrong thing. 
+I learned a valuable lesson early in my career. We were meticulously tracking a metric—average code review time—and obsessing over small improvements. Then, a user survey revealed that customers were frustrated with the lack of new features. We realized we were optimizing for the wrong thing.
 
 ## The Bottom Line
 
@@ -58,12 +57,12 @@ Effective performance metrics aren’t about control, they’re about empowermen
 
 **Key Takeaways:**
 
-*   **Layered Approach:** Think of metrics as a stack, providing insights at different levels.
-*   **Focus on Actionability:**  Connect metrics to business outcomes and use them to drive improvement.
-*   **Prioritize Team Health:**  Metrics should support team morale and a positive work environment. 
+* **Layered Approach:** Think of metrics as a stack, providing insights at different levels.
+* **Focus on Actionability:**  Connect metrics to business outcomes and use them to drive improvement.
+* **Prioritize Team Health:**  Metrics should support team morale and a positive work environment.
 
 **Next Steps:**
 
-*   Identify the three most critical metrics for your team.
-*   Start tracking those metrics this week.
-*   Schedule a regular review to discuss trends and identify areas for improvement.
+* Identify the three most critical metrics for your team.
+* Start tracking those metrics this week.
+* Schedule a regular review to discuss trends and identify areas for improvement.

@@ -6,7 +6,7 @@ I’ve seen countless projects stall due to underestimated human factors. This i
 
 ## Why Stakeholder Analysis Matters – Beyond Avoiding Roadblocks
 
-Let’s be honest: we often do stakeholder analysis *reactively* – only when something’s going wrong. “Why is Marketing pushing back on this API change?” “Why is Finance suddenly concerned about the estimated costs?” That’s firefighting. 
+Let’s be honest: we often do stakeholder analysis *reactively* – only when something’s going wrong. “Why is Marketing pushing back on this API change?” “Why is Finance suddenly concerned about the estimated costs?” That’s firefighting.
 
 Proactive stakeholder analysis, done *before* you even begin planning, helps you:
 
@@ -52,10 +52,10 @@ We adjusted our approach. We started presenting the project in terms of reduced 
 
 ## Key Takeaways
 
-*   **Proactive analysis is crucial:** Don’t wait for problems to arise.
-*   **Understand motivations:** Identify what truly matters to each stakeholder.
-*   **Tailor your communication:** Speak their language and address their concerns.
-*   **Build relationships:** Invest time in understanding their needs and perspectives.
+* **Proactive analysis is crucial:** Don’t wait for problems to arise.
+* **Understand motivations:** Identify what truly matters to each stakeholder.
+* **Tailor your communication:** Speak their language and address their concerns.
+* **Build relationships:** Invest time in understanding their needs and perspectives.
 
 ## Final Thoughts: It's About Relationships, Not Just Analysis
 

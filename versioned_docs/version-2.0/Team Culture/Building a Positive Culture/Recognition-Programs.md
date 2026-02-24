@@ -1,6 +1,6 @@
 # Recognition Programs
 
-Recognition. It's a cornerstone of healthy team culture, yet so often, recognition programs fall flat. We've all seen the dreaded "Employee of the Month" plaque gathering dust, or the points-based system where rewards feel disconnected from actual contributions. In fact, studies show that disengaged employees cost companies billions annually. As engineering leaders, we need to move beyond these superficial gestures and build recognition programs that *genuinely* motivate, engage, and foster a thriving team. 
+Recognition. It's a cornerstone of healthy team culture, yet so often, recognition programs fall flat. We've all seen the dreaded "Employee of the Month" plaque gathering dust, or the points-based system where rewards feel disconnected from actual contributions. In fact, studies show that disengaged employees cost companies billions annually. As engineering leaders, we need to move beyond these superficial gestures and build recognition programs that *genuinely* motivate, engage, and foster a thriving team.
 
 Over my 20+ years in engineering, I’ve seen what works and what doesn't. It’s not about lavish gifts; it's about thoughtfully acknowledging the effort, impact, and values demonstrated by your team. Here's how to create a program that resonates and drives meaningful results.
 
@@ -14,8 +14,6 @@ Let’s be honest, many traditional programs miss the mark because:
 * **They lack personalization:** A generic gift card doesn't show you truly understand *what* the individual contributed.
 * **They’re often top-down:** Recognition feels forced when it’s solely dictated by management.
 
-
-
 ## Building a Recognition Framework: The "Impact, Effort, Values" Model
 
 I've found the most effective programs center around three key pillars: **Impact, Effort, and Values**. This model provides a clear framework for both giving and receiving recognition.
@@ -26,7 +24,7 @@ I've found the most effective programs center around three key pillars: **Impact
 
 ## Practical Implementation: Moving Beyond the Basics
 
-Here’s how to translate this framework into actionable steps. Remember that consistent, small gestures often have a greater impact than infrequent, large-scale rewards. 
+Here’s how to translate this framework into actionable steps. Remember that consistent, small gestures often have a greater impact than infrequent, large-scale rewards.
 
 1. **Peer-to-Peer Recognition:** This is *critical*. Encourage team members to acknowledge each other’s contributions.  A simple Slack channel (#kudos, #wins) or a dedicated section in your project management tool can be incredibly effective. This builds a culture of appreciation and removes the burden from solely being on managers.
 2. **Regular “Shout-Outs” in Team Meetings:** Dedicate 5-10 minutes in each sprint review or stand-up to publicly acknowledge contributions. Be specific – don’t just say “good job.”
@@ -41,10 +39,10 @@ Here’s how to translate this framework into actionable steps. Remember that co
 
 ## Leveraging Recognition Beyond Individual Contributions
 
-Don't limit recognition to purely technical achievements. Look for opportunities to acknowledge contributions to team dynamics and process improvements.  For example, recognize someone who consistently mentors junior engineers, proactively shares knowledge, or suggests innovative solutions to improve team workflows. 
+Don't limit recognition to purely technical achievements. Look for opportunities to acknowledge contributions to team dynamics and process improvements.  For example, recognize someone who consistently mentors junior engineers, proactively shares knowledge, or suggests innovative solutions to improve team workflows.
 
 ## The Bottom Line
 
-Recognition isn't about checking a box; it's about building a culture where people feel valued, appreciated, and motivated to do their best work. By focusing on Impact, Effort, and Values, and implementing a thoughtful, consistent recognition program, you can create a thriving team that consistently delivers exceptional results. 
+Recognition isn't about checking a box; it's about building a culture where people feel valued, appreciated, and motivated to do their best work. By focusing on Impact, Effort, and Values, and implementing a thoughtful, consistent recognition program, you can create a thriving team that consistently delivers exceptional results.
 
 Remember, the most impactful recognition is often a simple, sincere "thank you."

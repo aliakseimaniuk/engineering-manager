@@ -6,7 +6,7 @@ This article will explore how to shift from *reacting* to outages to *proactivel
 
 ## Beyond Uptime: Defining System Availability
 
-Let’s start with precision. *Uptime* is a simple percentage – “We were up 99.9% of the time.” But *availability* is a more nuanced concept. It acknowledges that even with all servers running, the system might be unusable due to slow response times, errors, or degraded functionality. 
+Let’s start with precision. *Uptime* is a simple percentage – “We were up 99.9% of the time.” But *availability* is a more nuanced concept. It acknowledges that even with all servers running, the system might be unusable due to slow response times, errors, or degraded functionality.
 
 A good definition of system availability considers:
 
@@ -70,12 +70,10 @@ Here are some services that can improve your system availability. These aren't s
 * **SnapShooter:** For reliable backups. Regular and automated backups are crucial for disaster recovery.
 * **redsmin.com:** For real-time Redis monitoring. Provides visibility into the performance of your caching layer.
 
-
-
 ## Leading the Availability Conversation
 
 System availability isn't just a technical problem; it's a business-critical issue. As engineering leaders, we need to champion a culture of resilience, prioritize observability, and build systems designed to withstand failure. By shifting our focus from simply *reacting* to outages to *proactively building* for availability, we can create more reliable, trustworthy, and successful products.
 
-Don't treat availability as an afterthought. Prioritize availability as a core tenet of your engineering culture to ensure long-term success. 
+Don't treat availability as an afterthought. Prioritize availability as a core tenet of your engineering culture to ensure long-term success.
 
 To start, consider scheduling a meeting with your teams to discuss availability goals and conduct a risk assessment to identify potential single points of failure. Begin implementing a monitoring and observability solution to gain insights into your system's health.

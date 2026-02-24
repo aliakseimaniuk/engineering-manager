@@ -16,7 +16,7 @@ The reality is, a little upfront investment in understanding the market can save
 
 ## Beyond the "Big Market" – Focusing on the Right Opportunity
 
-The advice to “go after a big market” is often given, but it’s incomplete. As highlighted in resources discussing startup dynamics, particularly the concept of achieving monopoly in a niche (like those explored by Peter Thiel in *Zero to One*), it's often more profitable to be a big fish in a small pond. 
+The advice to “go after a big market” is often given, but it’s incomplete. As highlighted in resources discussing startup dynamics, particularly the concept of achieving monopoly in a niche (like those explored by Peter Thiel in *Zero to One*), it's often more profitable to be a big fish in a small pond.
 
 Here’s how to think about it:
 
@@ -30,7 +30,7 @@ Many startups fail because they chase a massive TAM, only to realize their SAM a
 
 So how do you actually *do* market research as an engineering leader? Here are a few practical techniques:
 
-1. **Problem Interviews (First & Foremost):** Forget about solutions. Talk to potential customers about their *problems*. What are their pain points? What are they currently doing to solve them (even if it’s a cumbersome workaround)? Aim for at least 20-30 in-depth interviews before writing a single line of code. Don’t pitch your idea; *listen*. 
+1. **Problem Interviews (First & Foremost):** Forget about solutions. Talk to potential customers about their *problems*. What are their pain points? What are they currently doing to solve them (even if it’s a cumbersome workaround)? Aim for at least 20-30 in-depth interviews before writing a single line of code. Don’t pitch your idea; *listen*.
     *For example, one team I worked with discovered through problem interviews that their target users weren’t frustrated with the *lack* of a feature, but with the *complexity* of existing solutions. This drastically altered their design approach.*
 
 2. **Competitive Analysis:** Who else is trying to solve this problem? What are their strengths and weaknesses? What are they *not* doing? This isn’t about copying; it’s about identifying opportunities for differentiation. Look beyond direct competitors. What are customers using as *alternatives* to your potential product?

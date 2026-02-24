@@ -12,7 +12,7 @@ For those unfamiliar, NPS is based on a single question: “On a scale of 0 to 1
 * **Passives (7-8):** Satisfied but unenthusiastic – they're vulnerable to competition.
 * **Detractors (0-6):** Unhappy and potentially damaging – they can spread negative sentiment.
 
-The NPS is calculated by subtracting the percentage of Detractors from the percentage of Promoters. The resulting score ranges from -100 to +100, offering a quick snapshot of overall sentiment. 
+The NPS is calculated by subtracting the percentage of Detractors from the percentage of Promoters. The resulting score ranges from -100 to +100, offering a quick snapshot of overall sentiment.
 
 ## Why NPS Matters for Engineering Leaders
 
@@ -24,8 +24,6 @@ Here’s how it directly impacts us:
 * **Improved Retention:** A team with consistently low NPS *and high burnout rates* might be at risk of losing key engineers.
 * **Enhanced Productivity:** Engaged teams are more motivated and produce higher-quality work.
 * **Better Feedback Loop:** It’s a simple way to solicit honest feedback that might not surface in one-on-ones.
-
-
 
 ## Moving Beyond the Score: Actionable Implementation
 
@@ -41,8 +39,6 @@ Simply *collecting* an NPS score isn't enough. The real value lies in understand
     * **“Lack of opportunities for growth.”** Action: Invest in training or mentorship programs.
 6. **Close the Loop:** After implementing changes, communicate them to the team and explain how they addressed the feedback. Then, *re-measure* the NPS to see if the changes had a positive impact.
 
-
-
 ## Avoiding Common Pitfalls
 
 * **Treating NPS as a Performance Metric:** *Never* tie NPS scores to individual performance reviews. This will destroy trust and incentivize dishonest responses. I’ve seen teams where NPS scores were subtly incorporated into bonus calculations – the result was predictable: widespread distrust and a complete breakdown in honest feedback.
@@ -50,7 +46,7 @@ Simply *collecting* an NPS score isn't enough. The real value lies in understand
 * **Focusing Solely on Improving the Score:** The goal isn't just to get a higher NPS; it's to build a better engineering culture. The score is simply a symptom of that.
 * **Survey Fatigue:** Avoid over-surveying your team. Quarterly is a good balance.
 
-##  NPS and a Culture of Continuous Improvement
+## NPS and a Culture of Continuous Improvement
 
 Think of NPS as a regular check-up for your engineering team’s health. It's a tool that, when used thoughtfully, can help you identify and address issues before they escalate, fostering a more engaged, productive, and thriving engineering culture. It’s not a silver bullet, but it *is* a powerful indicator and a catalyst for positive change.
 

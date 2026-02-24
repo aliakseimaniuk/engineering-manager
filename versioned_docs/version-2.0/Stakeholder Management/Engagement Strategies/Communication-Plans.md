@@ -1,6 +1,6 @@
 # Communication Plans
 
-As engineering leaders, we often get caught in the weeds of technical details – architecture diagrams, code reviews, sprint planning. But truthfully, a huge chunk of our job isn't *doing* the work, it's ensuring *others* understand what we’re doing, why, and what it means for *them*. That’s where stakeholder management comes in, and at the heart of effective stakeholder management lies a surprisingly simple, yet often overlooked tool: the Communication Plan. 
+As engineering leaders, we often get caught in the weeds of technical details – architecture diagrams, code reviews, sprint planning. But truthfully, a huge chunk of our job isn't *doing* the work, it's ensuring *others* understand what we’re doing, why, and what it means for *them*. That’s where stakeholder management comes in, and at the heart of effective stakeholder management lies a surprisingly simple, yet often overlooked tool: the Communication Plan.
 
 Imagine a project stalling because a key dependency wasn't communicated, or a critical decision being delayed because stakeholders weren't aware of the implications. I’ve seen countless projects stumble for these reasons – not because of technical difficulties, but because key stakeholders were left in the dark, assumptions ran rampant, and trust eroded. Conversely, I've also seen projects thrive despite unforeseen roadblocks, simply because stakeholders were consistently and proactively informed. The difference? A deliberate communication plan. And honestly? A *rudimentary* plan is better than no plan at all.
 
@@ -47,20 +47,20 @@ Having a plan is one thing; *executing* it is another. Here are a few common pit
 * **Information Overload:** Don’t bombard stakeholders with irrelevant details. Tailor the message to their needs.
 * **One-Way Communication:** Communication should be a dialogue, not a monologue. Encourage questions and feedback.
 * **Inconsistency:** Stick to the agreed-upon frequency and method. Consistency builds trust.
-* **Ignoring Feedback:** If stakeholders tell you the communication isn’t working, listen and adjust. 
+* **Ignoring Feedback:** If stakeholders tell you the communication isn’t working, listen and adjust.
 
 Consider this scenario: An executive asks for a detail buried in a weekly report because they weren't proactively informed about it during a brief, targeted update. A good communication plan would have anticipated this need and delivered the information proactively, saving everyone time and frustration.
 
 ## Embrace Imperfection: A Bad Plan is a Start
 
-I’ve seen too many teams paralyzed by the desire to create the *perfect* communication plan. They spend weeks crafting elaborate documents or getting bogged down in details that end up gathering dust. Don't let perfection be the enemy of good. 
+I’ve seen too many teams paralyzed by the desire to create the *perfect* communication plan. They spend weeks crafting elaborate documents or getting bogged down in details that end up gathering dust. Don't let perfection be the enemy of good.
 
-Start simple. Get something down on paper. Review it, refine it, and adapt it as you learn what works best for your team and your stakeholders. Remember, a *rudimentary* plan, consistently executed, is far more valuable than a perfect plan that never sees the light of day. 
+Start simple. Get something down on paper. Review it, refine it, and adapt it as you learn what works best for your team and your stakeholders. Remember, a *rudimentary* plan, consistently executed, is far more valuable than a perfect plan that never sees the light of day.
 
-And finally, treat your communication plan as a living document. As your project evolves, your communication strategy should too. 
+And finally, treat your communication plan as a living document. As your project evolves, your communication strategy should too.
 
 **Next Steps:**
 
-*   Take 15 minutes today to brainstorm key stakeholders for your current project.
-*   Start a simple communication table, focusing on the most critical information needs.
-*   Share this article with your team to start a conversation about proactive communication.
+* Take 15 minutes today to brainstorm key stakeholders for your current project.
+* Start a simple communication table, focusing on the most critical information needs.
+* Share this article with your team to start a conversation about proactive communication.

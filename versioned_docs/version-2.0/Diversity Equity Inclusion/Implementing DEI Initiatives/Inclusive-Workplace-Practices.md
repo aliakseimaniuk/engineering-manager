@@ -1,6 +1,6 @@
 # Inclusive Workplace Practices
 
-For two decades, I’ve led engineering teams through rapid growth, challenging projects, and the ever-present pressure to *just ship*. But over time, I’ve realized that technical excellence alone isn’t enough. Building *high-performing* teams means building *inclusive* teams – and it goes far beyond simply ticking DEI boxes. It's about creating an environment where everyone feels empowered, valued, and able to bring their whole selves to work. 
+For two decades, I’ve led engineering teams through rapid growth, challenging projects, and the ever-present pressure to *just ship*. But over time, I’ve realized that technical excellence alone isn’t enough. Building *high-performing* teams means building *inclusive* teams – and it goes far beyond simply ticking DEI boxes. It's about creating an environment where everyone feels empowered, valued, and able to bring their whole selves to work.
 
 This isn't just “the right thing to do” (though it absolutely *is*). Diverse teams are demonstrably more innovative, resilient, and better at solving complex problems. But achieving true inclusivity requires a deliberate, ongoing effort – and a shift in how we think about management.
 
@@ -8,7 +8,7 @@ This isn't just “the right thing to do” (though it absolutely *is*). Diverse
 
 I recently worked with a company that launched a highly publicized DEI initiative, complete with new training programs and revised hiring practices. Six months later, little had changed. The same senior engineers dominated design discussions, and underrepresented voices remained unheard. This is a common scenario. Companies often focus on compliance – checking boxes – rather than fostering a culture of genuine inclusion. This “performative inclusion” creates cynicism and ultimately undermines trust. It sends the message that diversity is valued *in theory*, but not in practice.
 
-Why does this happen? Because inclusion isn’t a program; it’s a practice. It’s not about *telling* people to be inclusive; it's about creating systems and norms that *enable* inclusion. 
+Why does this happen? Because inclusion isn’t a program; it’s a practice. It’s not about *telling* people to be inclusive; it's about creating systems and norms that *enable* inclusion.
 
 **Moving Beyond Compliance: Practical Strategies for Engineering Managers**
 
@@ -27,7 +27,7 @@ One common thread I’ve observed is the need for a shift in mindset. It’s abo
 
 **Retrospectives: Sustaining Inclusion and Continuous Improvement**
 
-Retrospectives are crucial for not only improving processes but also for sustaining inclusivity. Conduct retrospectives at both the team *and* organizational level. 
+Retrospectives are crucial for not only improving processes but also for sustaining inclusivity. Conduct retrospectives at both the team *and* organizational level.
 
 * **Team-Level Retros:** Focus on immediate challenges and solutions.  How can we improve our communication?  How can we better support each other?
 * **Organization-Level Retros:** Identify systemic issues that hinder inclusion. What processes are biased?  What policies need to be changed?
@@ -37,8 +37,6 @@ Crucially, ensure that action items from retrospectives are *actually* implement
 **Creating Meaningful Work & Engagement**
 
 Disengagement can exacerbate feelings of exclusion. As leaders, we need to create opportunities for growth, challenge, and purpose. This isn't about offering perks; it's about understanding what motivates each individual and providing opportunities for them to contribute meaningfully. This can be integrated into decentralizing decision-making by giving team members ownership over challenging projects and allowing them to propose innovative solutions.
-
-
 
 **Final Thoughts**
 

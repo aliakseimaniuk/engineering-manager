@@ -1,12 +1,12 @@
 # Industry Events Participation
 
-For engineering leaders, the siren song of industry events is strong. Shiny keynotes, promises of “innovation,” and networking opportunities flood our inboxes. But how do you justify the time *and* budget for you and your team? It’s easy to fall into the trap of attending events just because “everyone else is,” or ticking a box for marketing visibility. I’ve seen too many teams send people to conferences who then vanish into the attendee swarm, returning with a handful of swag and little to show for it. 
+For engineering leaders, the siren song of industry events is strong. Shiny keynotes, promises of “innovation,” and networking opportunities flood our inboxes. But how do you justify the time *and* budget for you and your team? It’s easy to fall into the trap of attending events just because “everyone else is,” or ticking a box for marketing visibility. I’ve seen too many teams send people to conferences who then vanish into the attendee swarm, returning with a handful of swag and little to show for it.
 
 This isn’t to say events are a waste of time. It’s about consciously extracting real value – value that goes beyond the promotional materials and back into the growth of your team and the quality of your engineering organization. After 20+ years navigating this landscape, I’ve learned that participation needs to be *intentional*.
 
 ## The Problem with Passive Participation
 
-Let's be honest: a significant portion of event attendance is…superficial. I’ve witnessed this pattern repeatedly: a client agrees to a well-defined process for collaboration, then goes radio silent during crucial phases like grooming sessions, demos, releases, and feedback meetings. It’s frustrating, and frankly, a waste of time. Just as a lack of engagement in collaborative processes hinders project success, passive attendance at events yields little value. 
+Let's be honest: a significant portion of event attendance is…superficial. I’ve witnessed this pattern repeatedly: a client agrees to a well-defined process for collaboration, then goes radio silent during crucial phases like grooming sessions, demos, releases, and feedback meetings. It’s frustrating, and frankly, a waste of time. Just as a lack of engagement in collaborative processes hinders project success, passive attendance at events yields little value.
 
 Sending engineers to simply *be seen* or collect business cards is rarely a good investment. They attend sessions, maybe shake some hands, then return to their desks, often overwhelmed and without a clear plan for applying what they learned. This is especially true if the event feels more like a lavish festival than a focused learning and networking opportunity. While those experiences can be enjoyable, they don't necessarily translate into value for the organization.
 
@@ -19,8 +19,6 @@ I’ve found that framing event participation around *team development* dramatic
 * **The "Teach Back" Principle:** This is crucial. Require attendees to present their learnings to the team. This isn’t about a formal presentation; it could be a lunch-and-learn, a dedicated Slack channel discussion, or a documented set of key takeaways. For example, an engineer attending a Kubernetes conference could lead a hands-on workshop demonstrating a new deployment strategy they learned. The act of *teaching* solidifies understanding and forces distillation of information. I’ve found this to be far more effective than simply reading a blog post or watching a recorded session.
 * **Dedicated Time for Exploration:** Don’t just throw engineers into the event and expect them to absorb everything. Allocate specific time blocks for them to explore the expo hall, attend relevant workshops, and network with peers. Protect that time fiercely.
 * **Focus on Emerging Trends (and the “Why”):** Encourage attendees to look beyond the immediate "how-to" sessions and focus on understanding the *underlying trends* shaping the industry. Why is this technology gaining traction? What problems does it solve? How might it impact our work? This encourages a proactive, forward-thinking mindset.
-
-
 
 ## Beyond the Event: Leveraging the Investment
 
@@ -39,12 +37,10 @@ To facilitate this process, consider leveraging event management and data tracki
 |----------------|----------------------|
 | Eventbrite     | Up to 3,000 events/month |
 | Meetup         | Limited features, up to 3 events/month|
-| Segment.com   | Up to 30,000 events/month | 
+| Segment.com   | Up to 30,000 events/month |
 
 Segment.com, in particular, can help translate event data into actionable insights for tracking ROI. However, remember the ultimate goal is knowledge sharing, not just data collection.
 
-
-
-Industry events can be a powerful catalyst for team growth and innovation. But it requires a deliberate, strategic approach. By focusing on team development, actively sharing learnings, and translating insights into action, you can ensure that your event participation delivers a genuine return on investment—one that goes far beyond the swag and the spectacle. 
+Industry events can be a powerful catalyst for team growth and innovation. But it requires a deliberate, strategic approach. By focusing on team development, actively sharing learnings, and translating insights into action, you can ensure that your event participation delivers a genuine return on investment—one that goes far beyond the swag and the spectacle.
 
 To start, identify one upcoming event and consider how you can apply the principles outlined in this article to maximize its value for your team.

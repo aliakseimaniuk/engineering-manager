@@ -1,6 +1,6 @@
 # Progress Tracking
 
-For over two decades leading engineering teams, I’ve seen countless approaches to “progress tracking.” From elaborate spreadsheets to trendy Agile boards, the goal is always the same: understand if we’re on track to deliver. But too often, these systems become *about* tracking, not *about* understanding. They generate data, but little insight. We end up with a false sense of security, or worse, panic attacks triggered by a red burndown line. 
+For over two decades leading engineering teams, I’ve seen countless approaches to “progress tracking.” From elaborate spreadsheets to trendy Agile boards, the goal is always the same: understand if we’re on track to deliver. But too often, these systems become *about* tracking, not *about* understanding. They generate data, but little insight. We end up with a false sense of security, or worse, panic attacks triggered by a red burndown line.
 
 Let’s move beyond just *showing* progress and focus on *understanding* it. This isn't about ditching your tools; it's about shifting your mindset and applying a few key principles.
 
@@ -16,9 +16,9 @@ Many teams fixate on “velocity” – the amount of work completed in a sprint
 
 ## Beyond Tasks: Focusing on Outcomes
 
-We often measure progress by the number of tasks completed. But completion doesn’t equal value. A perfectly coded feature that nobody uses is, well, a waste of time. 
+We often measure progress by the number of tasks completed. But completion doesn’t equal value. A perfectly coded feature that nobody uses is, well, a waste of time.
 
-Instead, shift your focus to **outcomes**. What demonstrable benefit will this work deliver to the user or the business? 
+Instead, shift your focus to **outcomes**. What demonstrable benefit will this work deliver to the user or the business?
 
 * **Define Clear Objectives:** Every piece of work should tie back to a specific, measurable objective. "Implement user authentication" is a task. "Increase user registration conversion rate by 10%" is an objective.
 * **Track Key Metrics:** Identify the metrics that indicate whether you’re achieving your objectives. This could be daily active users, error rates, or revenue.
@@ -32,12 +32,12 @@ As the input mentions, making "incremental advances" is vital. Big bang releases
 * **Reduce Risk:** Smaller changes are easier to test and deploy.
 * **Maintain Momentum:** Frequent releases keep the team motivated and engaged.
 
-However, incremental progress can also stall. And that's where a more nuanced tracking approach is vital. Simple task trackers like Linear are great for seeing *what* is blocked, but won't tell you *why*. 
+However, incremental progress can also stall. And that's where a more nuanced tracking approach is vital. Simple task trackers like Linear are great for seeing *what* is blocked, but won't tell you *why*.
 
 Here’s how to detect stalls:
 
 * **Daily Stand-Ups: Go Beyond "What did you do?"** Ask "What’s preventing you from making progress?" and "What support do you need?". Focus on *impediments*, not just activity.
-* **Weekly Reviews: Look for Patterns:** Are the same issues consistently blocking progress? Is a particular team member consistently overloaded? 
+* **Weekly Reviews: Look for Patterns:** Are the same issues consistently blocking progress? Is a particular team member consistently overloaded?
 * **Lead Time & Cycle Time (Leverage Tools like Uptrace):** These metrics, tracked with tools like Uptrace, can highlight bottlenecks in your development process. They’re key indicators of flow efficiency in a DevOps pipeline, and a sudden increase in lead time is a warning sign.
 
 **Actionable Insight:** Use a simple "Progress/Impediment" board alongside your task tracker. Visually highlight roadblocks and actively work to remove them.
@@ -50,6 +50,6 @@ We're bombarded with project management tools – Clockify for time tracking, Re
 * **Don’t Over-Automate:** Manual tracking can sometimes provide more valuable insights than automated reports. (Especially when it comes to identifying *qualitative* issues.)
 * **Focus on Communication:** The most important tool is still a conversation. Regularly check in with your team, ask questions, and actively listen to their concerns.
 
-**In conclusion:** True progress tracking isn't about creating elaborate dashboards or obsessing over velocity. It's about understanding *why* things are moving (or not moving), identifying and removing impediments, and focusing on delivering value to the user. By shifting your mindset and embracing a more nuanced approach, you can build a more effective, engaged, and high-performing engineering team. 
+**In conclusion:** True progress tracking isn't about creating elaborate dashboards or obsessing over velocity. It's about understanding *why* things are moving (or not moving), identifying and removing impediments, and focusing on delivering value to the user. By shifting your mindset and embracing a more nuanced approach, you can build a more effective, engaged, and high-performing engineering team.
 
 What's one small change you can make this week to shift your focus from tracking to understanding?

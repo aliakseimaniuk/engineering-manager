@@ -22,8 +22,6 @@ Before diving into *how* to build effective PDPs, let’s quickly cover *why*.  
 * **Enhance Technical Capabilities:**  A skilled and knowledgeable team delivers higher-quality work.
 * **Drive Innovation:**  Continuous learning fosters a culture of curiosity and experimentation.
 
-
-
 ## Building a PDP That Drives Real Growth: A Four-Step Framework
 
 Here’s how to create PDPs that actually *work*:
@@ -62,21 +60,19 @@ Crucially, don't just *ask* them to do these things. Help them *allocate time* w
 
 **4. Regular Check-Ins & Iteration (Progress & Iteration)**
 
-The PDP isn’t a "set it and forget it" document. Schedule regular check-ins (monthly or quarterly) to discuss progress, address roadblocks, and iterate on the plan. 
+The PDP isn’t a "set it and forget it" document. Schedule regular check-ins (monthly or quarterly) to discuss progress, address roadblocks, and iterate on the plan.
 
 * **Focus on progress, not perfection.** Celebrate small wins and acknowledge challenges.
 * **Be flexible.** Things change. Be willing to adjust the plan as needed.
 * **Provide feedback.** Offer constructive criticism and support.
 
-I've often used these check-ins as a safe space for engineers to discuss not just technical skills, but also "soft skills" like communication and leadership. 
-
-
+I've often used these check-ins as a safe space for engineers to discuss not just technical skills, but also "soft skills" like communication and leadership.
 
 ## Beyond the Individual: Connecting PDPs to Team & Business Goals
 
-While individual growth is paramount, remember to connect PDPs to broader team and business objectives. When engineers see how their development contributes to the overall success of the organization, they’re more engaged and motivated. 
+While individual growth is paramount, remember to connect PDPs to broader team and business objectives. When engineers see how their development contributes to the overall success of the organization, they’re more engaged and motivated.
 
-For example, if your team is adopting a new technology, encourage engineers to focus on developing expertise in that area. If you’re facing a scalability challenge, encourage them to explore solutions like distributed systems or cloud architecture. 
+For example, if your team is adopting a new technology, encourage engineers to focus on developing expertise in that area. If you’re facing a scalability challenge, encourage them to explore solutions like distributed systems or cloud architecture.
 
 **Final Thoughts**
 

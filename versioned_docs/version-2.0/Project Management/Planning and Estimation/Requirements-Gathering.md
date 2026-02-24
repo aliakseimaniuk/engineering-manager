@@ -22,7 +22,7 @@ The key, I've found, is to involve engineering *early* – not just to estimate 
 **2. Focus on "What" Not "How":** Specifications (or even user stories) should primarily articulate the *business need* and desired *outcome*, avoiding prescriptive implementation details. Think in terms of user goals, not interface elements.
 
 * **Bad:** “The user should be able to click a ‘Submit’ button to save the form.”
-* **Good:** “The user needs to reliably save their progress and receive confirmation.” 
+* **Good:** “The user needs to reliably save their progress and receive confirmation.”
 
 This seemingly small shift allows engineers to leverage their expertise to devise the most efficient and maintainable solution.  Understanding the underlying motivation, as highlighted in the work of Jin ZX et al (2007), is crucial. Consider a scenario where a product manager requests a complex reporting feature. Instead of immediately outlining the visualization details, explore *why* the user needs this report. Are they trying to identify a specific problem impacting revenue? Are they making a crucial business decision based on this data?  Uncovering the underlying need might reveal a simpler solution – perhaps a focused dashboard or an automated alert – that achieves the same goal with less effort. This is where root cause analysis becomes essential for defining the true "what."
 

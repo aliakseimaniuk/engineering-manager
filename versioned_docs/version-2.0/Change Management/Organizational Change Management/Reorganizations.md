@@ -1,6 +1,6 @@
 # Reorganizations
 
-Reorganizations. The very word can send shivers down the spines of even the most seasoned engineers and engineering managers. A staggering 70% of organizational change initiatives fail, often due to poor planning and execution. They’re often seen as disruptive, anxiety-inducing events, and frankly, *many* are handled poorly. After two decades leading engineering teams through growth, acquisition, and restructuring, I’ve learned that a well-executed reorganization isn’t about minimizing disruption (that’s often impossible), but about *maximizing clarity* and preserving the productive core of your team. 
+Reorganizations. The very word can send shivers down the spines of even the most seasoned engineers and engineering managers. A staggering 70% of organizational change initiatives fail, often due to poor planning and execution. They’re often seen as disruptive, anxiety-inducing events, and frankly, *many* are handled poorly. After two decades leading engineering teams through growth, acquisition, and restructuring, I’ve learned that a well-executed reorganization isn’t about minimizing disruption (that’s often impossible), but about *maximizing clarity* and preserving the productive core of your team.
 
 This isn’t about theoretical change management; it’s about practical steps you can take *right now* to navigate the rapids and come out stronger on the other side.
 
@@ -10,10 +10,10 @@ Let’s be honest: reorganizations rarely stem from a desire to make things *bet
 
 The failure rate is high. Why? Often, it boils down to a few key mistakes:
 
-*   **Lack of Clear Rationale:** Announcing a reorganization without a compelling, transparent explanation leaves teams feeling lost and distrustful.
-*   **Top-Down Dictation:** Imposing structures without input from those who will be most affected breeds resentment and stifles innovation.
-*   **Ignoring the Human Impact:** Focusing solely on charts and reporting lines while neglecting the emotional toll on individuals is a recipe for disaster.
-*   **Treating it as a One-Time Event:** Reorganization isn't a "project" with a finish line. It requires ongoing communication, adaptation, and course correction.
+* **Lack of Clear Rationale:** Announcing a reorganization without a compelling, transparent explanation leaves teams feeling lost and distrustful.
+* **Top-Down Dictation:** Imposing structures without input from those who will be most affected breeds resentment and stifles innovation.
+* **Ignoring the Human Impact:** Focusing solely on charts and reporting lines while neglecting the emotional toll on individuals is a recipe for disaster.
+* **Treating it as a One-Time Event:** Reorganization isn't a "project" with a finish line. It requires ongoing communication, adaptation, and course correction.
 
 ## A Framework for Leading Through Reorganization
 
@@ -31,24 +31,19 @@ Here’s a pragmatic approach, built on principles of transparency, empowerment,
 
 **6. Support Your People:** Reorganization is stressful. Be empathetic and provide support to your team members. Offer opportunities for professional development, mentoring, and career counseling. Acknowledge their contributions and celebrate their successes. Remember, people are your most valuable asset.
 
-
-
-
 ## Beyond the Chart: Long-Term Sustainability
 
 A successful reorganization isn’t just about drawing a new org chart. It’s about building a more resilient, adaptable organization.
 
-*   **Retrospectives are Key:** After each phase of the reorganization, conduct a retrospective (similar to agile sprint retrospectives). These sessions, focused on identifying what worked well, what could be improved, and what lessons were learned, are essential for continuous improvement and adaptation.
-*   **Foster a Culture of Continuous Improvement:** Encourage experimentation and learning. Empower teams to identify and address problems proactively.
-*   **Recognize and support Adaptability:** Celebrate individuals and teams who embrace change and demonstrate a willingness to learn and grow.
-
-
+* **Retrospectives are Key:** After each phase of the reorganization, conduct a retrospective (similar to agile sprint retrospectives). These sessions, focused on identifying what worked well, what could be improved, and what lessons were learned, are essential for continuous improvement and adaptation.
+* **Foster a Culture of Continuous Improvement:** Encourage experimentation and learning. Empower teams to identify and address problems proactively.
+* **Recognize and support Adaptability:** Celebrate individuals and teams who embrace change and demonstrate a willingness to learn and grow.
 
 **Key Principles for Navigating Reorganization:**
 
-*   **Clarity:** Ensure everyone understands the *why*, *what*, and *how* of the changes.
-*   **Communication:** Be transparent, honest, and frequent in your communication.
-*   **Collaboration:** Involve your team in the process whenever possible.
-*   **Continuous Improvement:** Learn from each phase and adapt as needed.
+* **Clarity:** Ensure everyone understands the *why*, *what*, and *how* of the changes.
+* **Communication:** Be transparent, honest, and frequent in your communication.
+* **Collaboration:** Involve your team in the process whenever possible.
+* **Continuous Improvement:** Learn from each phase and adapt as needed.
 
 Reorganizations are rarely easy. But by focusing on clarity, transparency, and empowerment, you can navigate the rapids and emerge with a stronger, more resilient engineering organization. It’s not about avoiding disruption; it’s about channeling it into positive change. What’s one step you can take *today* to improve clarity within your engineering organization?

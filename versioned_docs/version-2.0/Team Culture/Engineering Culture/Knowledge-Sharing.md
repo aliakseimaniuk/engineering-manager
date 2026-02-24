@@ -1,12 +1,12 @@
 # Knowledge Sharing
 
-For many engineering managers, the biggest bottlenecks aren’t technical – they’re knowledge gaps. You’ve likely experienced the frustration of critical bugs taking days to resolve, or new engineers struggling to get up to speed. Over two decades leading engineering teams, I’ve consistently found that the teams that truly thrive aren’t necessarily filled with the *most* brilliant individuals, but those that are best at sharing what they *know*. Knowledge sharing isn’t just a “nice to have” for team culture; it’s a foundational element of resilience, innovation, and frankly, getting things done efficiently. 
+For many engineering managers, the biggest bottlenecks aren’t technical – they’re knowledge gaps. You’ve likely experienced the frustration of critical bugs taking days to resolve, or new engineers struggling to get up to speed. Over two decades leading engineering teams, I’ve consistently found that the teams that truly thrive aren’t necessarily filled with the *most* brilliant individuals, but those that are best at sharing what they *know*. Knowledge sharing isn’t just a “nice to have” for team culture; it’s a foundational element of resilience, innovation, and frankly, getting things done efficiently.
 
 Too often, we treat knowledge as power, hoarding it unconsciously (or even consciously!). This creates fragile systems dependent on individual heroes, slows down onboarding, and stifles creativity. This post isn’t about implementing another tool (though those can *help*). It’s about fostering a culture where sharing knowledge is the *default*, not the exception.
 
 ## The Cost of Siloed Knowledge
 
-Let’s be honest: most of us have experienced the pain of knowledge silos. A critical bug that takes days to resolve because the only person who understands that component is on vacation. A new engineer spending weeks spinning their wheels because vital documentation is out of date or non-existent. A feature delayed because of a hidden dependency only known to one team member. 
+Let’s be honest: most of us have experienced the pain of knowledge silos. A critical bug that takes days to resolve because the only person who understands that component is on vacation. A new engineer spending weeks spinning their wheels because vital documentation is out of date or non-existent. A feature delayed because of a hidden dependency only known to one team member.
 
 These aren't isolated incidents; they’re symptoms of a deeper problem. Siloed knowledge:
 
@@ -25,7 +25,7 @@ Documentation is important, don’t get me wrong. But relying *solely* on compre
 * **Overwhelming:** Massive documents are rarely read cover-to-cover.
 * **Passive:** It requires someone to actively seek out information.
 
-The goal isn’t to create *more* documentation; it’s to create a system where knowledge flows freely and is readily accessible *when* it's needed. This means shifting from a "just-in-case" approach to a "just-in-time" approach. 
+The goal isn’t to create *more* documentation; it’s to create a system where knowledge flows freely and is readily accessible *when* it's needed. This means shifting from a "just-in-case" approach to a "just-in-time" approach.
 
 So how do we shift from a 'just-in-case' to a 'just-in-time' approach? Here are a few practical strategies:
 
@@ -40,11 +40,9 @@ So how do we shift from a 'just-in-case' to a 'just-in-time' approach? Here are 
 While culture is paramount, the right tools can amplify your efforts. Here are a few I've found effective:
 
 * **Zero-Knowledge File Sharing (e.g., Dropshare):** For quick, secure sharing of code snippets, logs, or screenshots. The zero-knowledge aspect is especially valuable for sharing sensitive information without needing to worry about unintended access.
-* **Team Collaboration Platforms (e.g., Connect):** For centralized communication, knowledge sharing, and project management. 
+* **Team Collaboration Platforms (e.g., Connect):** For centralized communication, knowledge sharing, and project management.
 * **Internal Blogs & Forums (e.g., Dev.to inspired):** Allow engineers to share their expertise and learn from each other.
 * **Record "Lunch & Learns":** These informal sessions can be recorded and shared for asynchronous learning.
-
-
 
 ## Leading by Example & Measuring Success
 
@@ -61,7 +59,7 @@ Measuring the success of your knowledge-sharing efforts can be tricky. Here are 
 * **Code Review Participation:** Is there active participation in code reviews, with meaningful feedback and knowledge sharing?
 * **Internal Knowledge Base Usage:** Are team members actively contributing to and using the internal knowledge base?
 
-Knowledge sharing isn't a one-time initiative; it's an ongoing process.  It’s easy to fall back into old habits, so be patient and persistent. By prioritizing it, you’ll build a more resilient, innovative, and high-performing engineering team. 
+Knowledge sharing isn't a one-time initiative; it's an ongoing process.  It’s easy to fall back into old habits, so be patient and persistent. By prioritizing it, you’ll build a more resilient, innovative, and high-performing engineering team.
 
 **Key Takeaways:**
 

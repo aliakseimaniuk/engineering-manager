@@ -1,6 +1,6 @@
 # Productivity Techniques
 
-For two decades, I’ve seen engineering teams chase the holy grail of “productivity.” We’ve adopted Agile, Scrum, Kanban, embraced stand-ups, sprint reviews, retrospectives… the list goes on. And often, despite *doing* all the right things, we feel busier, not more productive. The focus quickly becomes adhering to the methodology rather than actually getting the work done. 
+For two decades, I’ve seen engineering teams chase the holy grail of “productivity.” We’ve adopted Agile, Scrum, Kanban, embraced stand-ups, sprint reviews, retrospectives… the list goes on. And often, despite *doing* all the right things, we feel busier, not more productive. The focus quickly becomes adhering to the methodology rather than actually getting the work done.
 
 The truth is, productivity isn’t about implementing the latest framework or buying the shiniest new tool (though tools like [Toggl](https://toggl.com/) or the IDEs from [Jetbrains](https://www.jetbrains.com/) can be helpful *additions*). It’s about understanding *how* people actually work, and fostering an environment where they can consistently deliver valuable output. And a crucial part of that is recognizing that individual motivation and engagement are just as important – if not more – than any process.
 
@@ -8,11 +8,11 @@ This article isn’t about another productivity hack list. It’s about shifting
 
 ## The Productivity Paradox: Why More Effort Doesn’t Always Mean More Output
 
-We often conflate *activity* with *productivity*. Engineers are, by nature, problem solvers. Give them a problem, and they’ll *work* on it. But if that problem feels meaningless, if it's buried under layers of bureaucracy, or if they lack the autonomy to tackle it effectively, that effort is wasted. 
+We often conflate *activity* with *productivity*. Engineers are, by nature, problem solvers. Give them a problem, and they’ll *work* on it. But if that problem feels meaningless, if it's buried under layers of bureaucracy, or if they lack the autonomy to tackle it effectively, that effort is wasted.
 
 I once worked at a startup that was obsessed with a new financial technology. The idea was sound, but the implementation was a mess. We were pushing features with tight deadlines, prioritizing “revolutionary” changes over stability. The team was burning out, churning through code, and feeling utterly disconnected from the *value* we were creating. It claimed to have revolutionized the way businesses pay their suppliers and access working capital, but all we were revolutionizing was our own sleep deprivation. The resulting burnout led to increased team turnover and a noticeable decline in code quality.
 
-The lesson? **Meaningful work is the foundation of productivity.** 
+The lesson? **Meaningful work is the foundation of productivity.**
 
 ## Shifting Your Focus: From Tools to Empowerment
 
@@ -26,17 +26,15 @@ As a leader, you can’t mandate motivation. But you *can* create conditions tha
 
 ## Leading by Example: Your Productivity Matters Too
 
-Don't forget your own productivity. As an engineering leader, you set the tone for the team. If you're constantly overwhelmed and stressed, it will be hard to inspire others to be productive. 
+Don't forget your own productivity. As an engineering leader, you set the tone for the team. If you're constantly overwhelmed and stressed, it will be hard to inspire others to be productive.
 
 * **Prioritize Your Own Tasks:** Use the same principles you encourage in your team. Focus on the most impactful work, and delegate or eliminate everything else.
 * **Protect Your Time:**  Say no to unnecessary meetings and requests.
-* **Model Healthy Boundaries:**  Don't work excessive hours or send emails late at night. 
+* **Model Healthy Boundaries:**  Don't work excessive hours or send emails late at night.
 * **Prioritize Continuous Learning:** Stay curious and continue to develop your own skills.
-
-
 
 ## Sustainable Productivity: Investing in Your Team’s Wellbeing
 
 Productivity isn't about squeezing every last ounce of effort out of your team. It’s about creating a sustainable environment where they can reliably deliver valuable work, feel engaged and motivated, and grow as professionals.  
 
-Focus on empowering your team to find purpose in their work, and the productivity will follow. And remember, sometimes the most productive thing you can do is step back and let your engineers do what they do best: solve problems. 
+Focus on empowering your team to find purpose in their work, and the productivity will follow. And remember, sometimes the most productive thing you can do is step back and let your engineers do what they do best: solve problems.

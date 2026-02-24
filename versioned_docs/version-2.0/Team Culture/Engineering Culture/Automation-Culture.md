@@ -2,7 +2,7 @@
 
 For two decades, I’ve watched engineering teams chase the promise of automation. Initially, it was about scripting repetitive tasks – deployments, server provisioning, basic testing. But I've consistently seen teams *do* automation, and fall short of truly *having* an automation culture. There's a crucial difference, and it's the difference between incremental efficiency gains and unlocking significant velocity and resilience.
 
-I recently witnessed a team spend weeks crafting a complex deployment script. It worked flawlessly… for a month. Then a new service was added, a configuration change was needed, and suddenly the script broke, and that same engineer was the only one who could fix it. This isn’t automation; it’s specialized work masquerading as efficiency. 
+I recently witnessed a team spend weeks crafting a complex deployment script. It worked flawlessly… for a month. Then a new service was added, a configuration change was needed, and suddenly the script broke, and that same engineer was the only one who could fix it. This isn’t automation; it’s specialized work masquerading as efficiency.
 
 This isn’t just about tooling. It's about mindset, investment, and a willingness to fundamentally rethink *how* we work. Let’s dive into how to move beyond simply *doing* automation, to cultivating a genuine automation culture within your engineering teams.
 
@@ -33,7 +33,7 @@ This is paramount. Automation shouldn't reside within a single "automation team.
 
 **2. Investing in Automation as *Feature Work*:**
 
-Treat automation tasks with the same level of priority as feature development. Don't ask engineers to "squeeze in" automation between feature sprints. Allocate dedicated time and resources for building and improving automated processes. This means including automation tasks in sprint planning and tracking them like any other user story. 
+Treat automation tasks with the same level of priority as feature development. Don't ask engineers to "squeeze in" automation between feature sprints. Allocate dedicated time and resources for building and improving automated processes. This means including automation tasks in sprint planning and tracking them like any other user story.
 
 I’ve found the “Rule of 5” helpful here. If a task is repetitive and takes more than 5 minutes to perform manually, it’s a prime candidate for automation.
 
@@ -49,7 +49,7 @@ Prioritize testing automation from the beginning. Don't treat it as an afterthou
 
 **4. Documentation & Knowledge Sharing:**
 
-This one often gets overlooked. Automated processes are useless if no one knows how to use or maintain them. Invest in clear, concise documentation and promote knowledge sharing within your team. 
+This one often gets overlooked. Automated processes are useless if no one knows how to use or maintain them. Invest in clear, concise documentation and promote knowledge sharing within your team.
 
 * **Runbooks:** Document common procedures and troubleshooting steps for automated processes.
 * **Internal Wiki:** Create a central repository for automation documentation and best practices.
@@ -64,9 +64,9 @@ Building an automation culture isn't just about making your team more efficient.
 * **Increasing Innovation:** Freeing up engineers from repetitive tasks allows them to focus on more challenging and innovative work.
 * **Boosting Morale:** Engineers appreciate working in an environment where they are empowered to automate their work and focus on meaningful tasks.
 
-I believe that in the future, “doing tech” will fundamentally include the ability to *think* in terms of automation, not just write code. It's about identifying patterns, abstracting away complexity, and building systems that can run autonomously. And that shift starts with building a strong automation culture within our engineering teams today. 
+I believe that in the future, “doing tech” will fundamentally include the ability to *think* in terms of automation, not just write code. It's about identifying patterns, abstracting away complexity, and building systems that can run autonomously. And that shift starts with building a strong automation culture within our engineering teams today.
 
-Let's move beyond simply *doing* automation and embrace a future where automation is woven into the very fabric of our engineering culture. 
+Let's move beyond simply *doing* automation and embrace a future where automation is woven into the very fabric of our engineering culture.
 
 **To get started, identify one repetitive task your team can automate this week. Discuss these pillars with your team and identify areas where you can improve your automation culture. Schedule a workshop to explore how IaC and CI/CD can empower your engineers.**
 

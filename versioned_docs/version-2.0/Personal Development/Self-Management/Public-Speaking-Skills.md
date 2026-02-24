@@ -1,6 +1,6 @@
 # Public Speaking Skills
 
-For many engineers, the thought of public speaking ranks somewhere between a root canal and debugging legacy code without documentation. We’re trained to *solve* problems, to *build* things, to operate in the realm of logic and precision. Standing in front of a group and *talking* feels…vulnerable. And frankly, a bit pointless. 
+For many engineers, the thought of public speaking ranks somewhere between a root canal and debugging legacy code without documentation. We’re trained to *solve* problems, to *build* things, to operate in the realm of logic and precision. Standing in front of a group and *talking* feels…vulnerable. And frankly, a bit pointless.
 
 But as you climb the ladder into engineering management, public speaking isn’t a ‘nice-to-have’ skill – it’s *essential*. It's not about becoming a charismatic orator; it's about effectively communicating technical ideas, influencing stakeholders, and leading your team. This isn’t about performance; it's about impact.
 
@@ -52,20 +52,18 @@ This is often the hardest part. It’s okay to feel nervous. Public speaking req
 * **Manage Your Physical State:** Deep breaths, good posture, and purposeful movement can help calm your nerves.
 * **Embrace Imperfection:**  Everyone makes mistakes.  If you stumble over a word or lose your train of thought, don’t panic.  Just acknowledge it and move on.  
 
-
-
-##  The Power of Direct Communication
+## The Power of Direct Communication
 
 Effective communication often means removing barriers between you and your audience. Think about the best technical documentation you've ever used—it doesn't make you jump through hoops; it gets you to the answer quickly and directly. Strive for that same directness in your presentations and interactions – simplify your message and deliver it concisely.
 
-##  Final Thoughts
+## Final Thoughts
 
-Public speaking isn’t about being a showman; it's about being an effective leader. It's about sharing your knowledge, influencing your stakeholders, and empowering your team. It's a skill that takes time and practice to develop, but the rewards are well worth it. 
+Public speaking isn’t about being a showman; it's about being an effective leader. It's about sharing your knowledge, influencing your stakeholders, and empowering your team. It's a skill that takes time and practice to develop, but the rewards are well worth it.
 
 Start small. Identify one upcoming team meeting where you can practice applying the Clarity, Connection, Confidence model.
 
 **Key Takeaways:**
 
-*   **Clarity:** Know your audience, focus on value, and structure your message logically.
-*   **Connection:** Build rapport, use “you” language, and encourage interaction.
-*   **Confidence:** Practice relentlessly and manage your physical and mental state.
+* **Clarity:** Know your audience, focus on value, and structure your message logically.
+* **Connection:** Build rapport, use “you” language, and encourage interaction.
+* **Confidence:** Practice relentlessly and manage your physical and mental state.

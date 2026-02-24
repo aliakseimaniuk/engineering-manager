@@ -2,7 +2,7 @@
 
 For engineering managers, “how’s everyone doing?” is a daily question. But the answer, “busy,” rarely tells the *whole* story. It doesn't tell you if that "busy" is productive, equitable, or sustainable. As teams grow, simply *knowing* everyone is working hard isn't enough. You need *metrics* to understand workload balance – not to micromanage, but to proactively *address* imbalances *before* they lead to burnout, bottlenecks, and ultimately, slower delivery.
 
-I’ve seen this play out repeatedly over 20 years. Early in my career, at a rapidly scaling startup, we were all “busy,” but a critical path engineer was consistently working 60+ hour weeks while others had bandwidth. We didn’t realize it until *after* they started making mistakes and expressed serious burnout. Had we tracked workload indicators, we could have intervened much earlier. 
+I’ve seen this play out repeatedly over 20 years. Early in my career, at a rapidly scaling startup, we were all “busy,” but a critical path engineer was consistently working 60+ hour weeks while others had bandwidth. We didn’t realize it until *after* they started making mistakes and expressed serious burnout. Had we tracked workload indicators, we could have intervened much earlier.
 
 This article will dive into key metrics you can use to understand workload balance, how to interpret them, and – crucially – how to act on the data. We’ll move beyond the subjective feeling of “busy” and towards a data-driven approach to team health.
 
@@ -14,8 +14,6 @@ Before we get to the metrics, let's solidify why this is important. It's not jus
 * **Improves Quality:** Overworked engineers make mistakes. Sustainable pace = higher quality code.
 * **Boosts Morale & Retention:** Equitable workload distribution fosters a sense of fairness and reduces resentment. People stay where they feel valued and respected.
 * **Facilitates Skill Development:** Balanced workloads allow individuals time for learning and growth, rather than being constantly heads-down in urgent tasks.
-
-
 
 ## Key Workload Balance Metrics
 
@@ -60,8 +58,6 @@ Here’s a breakdown of metrics to track, categorized by what they measure. I’
 * **Target:** Minimize unnecessary interruptions.
 * **Actionable Insight:** Implement “focus time” blocks, encourage asynchronous communication, and discourage constant context switching.
 
-
-
 ## From Data to Action: Putting it all Together
 
 Tracking these metrics isn’t enough. You need to *interpret* the data and take action. Here’s a simple framework:
@@ -70,15 +66,13 @@ At Acme Corp, we noticed consistently high WIP for one engineer. After investiga
 
 1. **Establish a Baseline:** Track metrics for a few sprints to understand the normal range.
 2. **Identify Outliers:** Look for individuals or tasks that deviate significantly from the baseline.
-3. **Investigate:** Talk to the individuals involved. Understand *why* the outliers exist. 
+3. **Investigate:** Talk to the individuals involved. Understand *why* the outliers exist.
 4. **Adjust:** Reassign tasks, provide training, address roadblocks, or adjust processes.
 5. **Repeat:** Continuously monitor and adjust.
 
-
-
 ## Tools to Help (and a book recommendation)
 
-As mentioned, many issue trackers provide built-in reporting capabilities. Git analytics tools can provide insights into code contribution. Clockify can be useful for tracking time spent on tasks. Yandex.Metrica can help identify features that are causing the most support requests, potentially indicating areas where workload is higher due to bug fixes or complex issues. 
+As mentioned, many issue trackers provide built-in reporting capabilities. Git analytics tools can provide insights into code contribution. Clockify can be useful for tracking time spent on tasks. Yandex.Metrica can help identify features that are causing the most support requests, potentially indicating areas where workload is higher due to bug fixes or complex issues.
 
 Finally, **The High Growth Handbook by Elad Gil** is a fantastic resource for scaling teams. It provides a wealth of practical advice on managing growth and building a high-performing organization.
 

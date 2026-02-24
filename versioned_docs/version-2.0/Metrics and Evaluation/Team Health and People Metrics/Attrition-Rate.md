@@ -1,6 +1,6 @@
 # Attrition Rate
 
-Attrition. It’s a word that makes every engineering leader wince. But did you know that engineering attrition rates consistently rank higher than other professions? This makes proactive retention strategies not just beneficial, but critical. Losing team members is disruptive, expensive, and frankly, demoralizing. But simply *knowing* it's bad isn’t enough. As engineering managers, we need to move beyond reacting to departures and become proactive about understanding, predicting, and mitigating attrition. This isn't just about "keeping people happy"; it's about building a sustainable, high-performing engineering organization. 
+Attrition. It’s a word that makes every engineering leader wince. But did you know that engineering attrition rates consistently rank higher than other professions? This makes proactive retention strategies not just beneficial, but critical. Losing team members is disruptive, expensive, and frankly, demoralizing. But simply *knowing* it's bad isn’t enough. As engineering managers, we need to move beyond reacting to departures and become proactive about understanding, predicting, and mitigating attrition. This isn't just about "keeping people happy"; it's about building a sustainable, high-performing engineering organization.
 
 For years, many companies treated attrition as an HR problem. While HR *absolutely* plays a crucial role, a truly effective strategy starts with engineering leadership owning the data, understanding the *why*, and driving meaningful change within the team.
 
@@ -18,11 +18,11 @@ Instead, slice and dice the data. Here are a few critical questions to ask:
 
 ## Moving from Reactive to Proactive: A Three-Pronged Approach
 
-Once you understand *where* the attrition is happening, you can start addressing the *why*. I've found a three-pronged approach to be most effective. 
+Once you understand *where* the attrition is happening, you can start addressing the *why*. I've found a three-pronged approach to be most effective.
 
 **1. The "Stay Interview" - Before the Exit Interview:**
 
-We spend so much time prepping for *exit* interviews. What about proactively understanding what keeps people engaged *now*? "Stay Interviews" are one-on-one conversations designed to discover what motivates each team member, what challenges they're facing, and what the company can do to support their growth. 
+We spend so much time prepping for *exit* interviews. What about proactively understanding what keeps people engaged *now*? "Stay Interviews" are one-on-one conversations designed to discover what motivates each team member, what challenges they're facing, and what the company can do to support their growth.
 
 Don’t make it a performance review in disguise. The goal is to build trust and demonstrate genuine interest in their well-being and career trajectory. Ask questions like:
 
@@ -49,14 +49,11 @@ Toxic team dynamics are a *major* driver of attrition. As a leader, you are resp
 * **Work-Life Balance:** Lead by example. Encourage team members to disconnect after hours and prioritize their well-being.
 * **Regular Team Building Activities:** Foster camaraderie and strengthen relationships outside of work.
 
-
-
-
 ## Attrition as a Signal, Not a Failure
 
 Losing team members is never easy. But by treating attrition as a signal, rather than a failure, you can proactively address the underlying issues and build a more resilient, engaged, and high-performing engineering organization. Don't just track the number – analyze the underlying causes.
 
-**Ready to take action?** This week, schedule a "stay interview" with at least one member of your team. The insights you gain could be invaluable. By shifting from reactive firefighting to proactive prevention, you can build a more stable, engaged, and high-performing engineering organization—one that attracts and retains top talent. 
+**Ready to take action?** This week, schedule a "stay interview" with at least one member of your team. The insights you gain could be invaluable. By shifting from reactive firefighting to proactive prevention, you can build a more stable, engaged, and high-performing engineering organization—one that attracts and retains top talent.
 
 **Here's a quick checklist to help you get started:**
 

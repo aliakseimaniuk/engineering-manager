@@ -8,7 +8,7 @@ As engineering leaders, we need to shift our focus – not *away* from lagging i
 
 ## The Problem with Lagging Indicators
 
-Let's be clear: lagging indicators aren't *bad*. They provide valuable context. Velocity, for example, helps understand how much work a team consistently delivers. Bug counts reveal the quality of shipped code. However, they’re *results* of underlying behaviors and processes. 
+Let's be clear: lagging indicators aren't *bad*. They provide valuable context. Velocity, for example, helps understand how much work a team consistently delivers. Bug counts reveal the quality of shipped code. However, they’re *results* of underlying behaviors and processes.
 
 Here’s why over-reliance on lagging indicators is problematic:
 
@@ -19,7 +19,7 @@ Here’s why over-reliance on lagging indicators is problematic:
 
 ## Leading Indicators: The Early Warning System
 
-Leading indicators, on the other hand, focus on the *drivers* of success. They are predictive, actionable, and often require more effort to track, but the payoff is significant.  The concept of focusing on leading indicators stems from performance management principles and lean methodologies, often discussed in the context of creating a proactive and preventative system. 
+Leading indicators, on the other hand, focus on the *drivers* of success. They are predictive, actionable, and often require more effort to track, but the payoff is significant.  The concept of focusing on leading indicators stems from performance management principles and lean methodologies, often discussed in the context of creating a proactive and preventative system.
 
 Here’s a breakdown of some key leading indicators for engineering teams, grouped by category:
 
@@ -40,7 +40,7 @@ Here’s a breakdown of some key leading indicators for engineering teams, group
 **3. Flow & Delivery:**
 
 * **Work in Progress (WIP):** High WIP limits team focus, increases context switching, and slows down delivery. (Implement WIP limits and track the number of active tasks).
-* **Lead Time for Changes:** The time it takes for a change to go from code commit to production. This is a powerful indicator of delivery speed and efficiency. 
+* **Lead Time for Changes:** The time it takes for a change to go from code commit to production. This is a powerful indicator of delivery speed and efficiency.
 * **Deployment Frequency:** More frequent deployments enable faster feedback loops, reduce risk, and accelerate innovation.
 
 ## From Data to Action: A Practical Framework
@@ -57,7 +57,7 @@ Simply tracking leading indicators isn't enough. You need a system for turning d
 
 While data is important, don’t forget the human element. Leading indicators should inform your coaching and support, not become a source of pressure or blame. Focus on creating a culture of continuous improvement where teams are empowered to experiment, learn, and grow.  
 
-Remember, leading indicators are *predictive*, but they’re not *prescriptive*. They point you in the right direction, but it's up to you and your team to navigate the path to success. 
+Remember, leading indicators are *predictive*, but they’re not *prescriptive*. They point you in the right direction, but it's up to you and your team to navigate the path to success.
 
 ## What's Next?
 

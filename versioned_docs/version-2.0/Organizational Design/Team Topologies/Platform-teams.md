@@ -12,8 +12,6 @@ I remember one instance at a previous company where leadership mandated the crea
 
 **Key takeaway:** Don't build a platform looking for a problem. Solve real problems *first*, then consider if a platform team is the right solution.
 
-
-
 ## Identifying the Right Problems for a Platform Team
 
 So, how do you identify those genuine pain points? Here's a framework I’ve found helpful:
@@ -45,9 +43,6 @@ Here are some examples of potential platform team focuses:
 * **Focus on Self-Service:** The goal is to empower other teams to solve their own problems without relying on the platform team for manual intervention.
 * **Establish Clear Ownership:** Define clear ownership for each platform component to avoid confusion and ensure accountability.
 
-
-
-
 ## Beyond Tooling: The Human Side of Platform Teams
 
 Tooling is important, but a platform team is more than just a collection of tools. It's a *service organization* focused on enabling other teams. Here are some key principles:
@@ -58,8 +53,6 @@ Tooling is important, but a platform team is more than just a collection of tool
 
 **Remember**: A poorly designed platform, even if technically sound, can be more frustrating than no platform at all. This is why understanding the needs of your engineers should be the highest priority.
 
-
-
 ## When *Not* to Build a Platform Team
 
 Finally, it’s important to recognize that a platform team isn’t always the right solution.  Here are a few scenarios where you might want to reconsider:
@@ -68,17 +61,15 @@ Finally, it’s important to recognize that a platform team isn’t always the r
 * **Rapidly Changing Requirements:**  If your requirements are constantly changing, it may be difficult to build a stable platform that meets everyone’s needs.
 * **Lack of Buy-In:**  If you don’t have buy-in from key stakeholders, your platform team is likely to fail.
 
-
-
 **Conclusion:**
 
-Building effective platform teams requires more than just adopting the latest technology. It demands a deep understanding of your organization’s needs, a commitment to empowering engineers, and a willingness to iterate and adapt.  Focus on solving real problems, prioritizing self-service, and remembering that the human side of platform teams is just as important as the technology. 
+Building effective platform teams requires more than just adopting the latest technology. It demands a deep understanding of your organization’s needs, a commitment to empowering engineers, and a willingness to iterate and adapt.  Focus on solving real problems, prioritizing self-service, and remembering that the human side of platform teams is just as important as the technology.
 
 **Key Takeaways:**
 
-*   **Focus on solving real problems before creating a platform.**
-*   **Prioritize self-service capabilities to empower your teams.**
-*   **Remember that a platform team is a service organization focused on enabling others.**
+* **Focus on solving real problems before creating a platform.**
+* **Prioritize self-service capabilities to empower your teams.**
+* **Remember that a platform team is a service organization focused on enabling others.**
 
 **Next Steps:**
 

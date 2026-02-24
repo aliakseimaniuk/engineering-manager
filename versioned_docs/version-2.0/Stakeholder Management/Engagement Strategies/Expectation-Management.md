@@ -21,7 +21,7 @@ Here's a framework I've found helpful, built around three key phases: **Set Clea
 **2. Communicate Progress: Transparency is Key**
 
 * **Regular Updates:** Don't wait for status meetings. Provide frequent, concise updates on progress, roadblocks, and any changes to the timeline. Short daily stand-ups are invaluable.
-* **Visual Progress Tracking:** Use tools like Jira, Trello, or even a simple spreadsheet to visually represent progress. A burndown chart can be a powerful way to show how work is being completed. 
+* **Visual Progress Tracking:** Use tools like Jira, Trello, or even a simple spreadsheet to visually represent progress. A burndown chart can be a powerful way to show how work is being completed.
 * **Be Honest About Challenges:** Don't sugarcoat problems. If something is going wrong, communicate it immediately. Acknowledge the impact and propose solutions.
 * **Active Listening:** Truly listen to concerns from stakeholders. Understand their priorities and address them thoughtfully.
 * **Document Everything:** Keep a record of all key decisions, estimates, and agreements. This provides a single source of truth and prevents misunderstandings.
@@ -36,8 +36,8 @@ Here's a framework I've found helpful, built around three key phases: **Set Clea
 
 I was reminded of a quote recently, from "Economics in One Lesson" by Henry Hazlitt: “The ability to see the long-run consequences of present policies is the key to statesmanship.” This applies perfectly to expectation management. We, as engineering leaders, need to anticipate potential issues, communicate them proactively, and shape expectations to ensure long-term success.
 
-It's not about simply saying “no” to requests. It’s about framing the conversation, offering alternative solutions, and building a shared understanding of what’s realistically achievable. It requires a commitment to transparency, communication, and a willingness to adapt. 
+It's not about simply saying “no” to requests. It’s about framing the conversation, offering alternative solutions, and building a shared understanding of what’s realistically achievable. It requires a commitment to transparency, communication, and a willingness to adapt.
 
-By mastering the art of expectation management, you’ll not only deliver successful projects but also build a team that is motivated, engaged, and trusted by stakeholders across the organization. 
+By mastering the art of expectation management, you’ll not only deliver successful projects but also build a team that is motivated, engaged, and trusted by stakeholders across the organization.
 
 **Take Action This Week:** Choose one aspect of this framework – perhaps implementing more frequent check-ins or focusing on range-based estimations – and start applying it to your current projects.  Share this article with your team to spark a conversation about how you can collectively improve expectation management.

@@ -1,6 +1,6 @@
 # Recruitment Strategies For Diversity
 
-For years, “diversity” has been a hot topic in tech. We’ve seen pledges, initiatives, and a lot of… well, talking. But simply *wanting* a diverse team isn't enough. As engineering leaders, we need to move beyond the buzzwords and implement *strategies* that genuinely broaden our talent pipelines and foster inclusive environments. It’s not just the right thing to do; it’s a business imperative. Diverse teams build better products, solve harder problems, and are more resilient. 
+For years, “diversity” has been a hot topic in tech. We’ve seen pledges, initiatives, and a lot of… well, talking. But simply *wanting* a diverse team isn't enough. As engineering leaders, we need to move beyond the buzzwords and implement *strategies* that genuinely broaden our talent pipelines and foster inclusive environments. It’s not just the right thing to do; it’s a business imperative. Diverse teams build better products, solve harder problems, and are more resilient.
 
 I remember leading a team tasked with redesigning a user interface for a global audience. We were stuck in a rut, unable to identify crucial usability issues. It wasn't until we brought in an engineer with lived experience in one of our key target markets – someone who could offer a fundamentally different perspective – that we broke through the impasse. This experience cemented my belief that diversity isn’t just a nice-to-have, it’s a force multiplier.
 
@@ -46,7 +46,7 @@ Mentorship is valuable, but *sponsorship* goes a step further. A sponsor activel
 
 **The Long Game: Building an Inclusive Culture**
 
-Recruitment is only one piece of the puzzle.  To truly retain diverse talent, you need to create an inclusive culture where everyone feels valued, respected, and empowered to succeed.  This requires ongoing effort, open communication, and a commitment to addressing systemic biases within your organization. 
+Recruitment is only one piece of the puzzle.  To truly retain diverse talent, you need to create an inclusive culture where everyone feels valued, respected, and empowered to succeed.  This requires ongoing effort, open communication, and a commitment to addressing systemic biases within your organization.
 
 **The Bottom Line:**
 

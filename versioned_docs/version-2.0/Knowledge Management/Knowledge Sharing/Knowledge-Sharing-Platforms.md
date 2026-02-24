@@ -6,7 +6,7 @@ This post dives into the landscape of knowledge sharing platforms, moving beyond
 
 ## The Problem with "Just Documentation"
 
-Let’s be honest: most engineering documentation is… suboptimal. It’s often out of date, overly complex, or lives in a place nobody knows about. The core problem isn’t the *concept* of documentation, but that it's often treated as an afterthought – a task to be completed *after* the work is done, rather than *integrated into* the workflow. 
+Let’s be honest: most engineering documentation is… suboptimal. It’s often out of date, overly complex, or lives in a place nobody knows about. The core problem isn’t the *concept* of documentation, but that it's often treated as an afterthought – a task to be completed *after* the work is done, rather than *integrated into* the workflow.
 
 This leads to:
 
@@ -41,8 +41,6 @@ The good news is there's a growing ecosystem of tools designed to address these 
 
 * **Dropshare:** Zero-knowledge file sharing – great for sharing sensitive information securely without storing it on a central server. Dropshare uses end-to-end encryption to ensure that only the sender and receiver can access the shared files. Good for quick code reviews or sharing debugging information.
 
-
-
 ## Choosing the Right Tools: A Framework
 
 Don't fall into the trap of chasing the "latest and greatest" tool. Here’s a framework to help you make informed decisions:
@@ -51,7 +49,7 @@ Don't fall into the trap of chasing the "latest and greatest" tool. Here’s a f
 2. **Understand Your Team’s Workflow:** How does your team currently share knowledge? What tools are they already using?
 3. **Define Your Requirements:** Based on your pain points and workflow, what features are essential? (e.g., search, version control, access controls, integrations).
 4. **Prioritize Simplicity:** Choose tools that are easy to learn and use. Complex tools often end up being ignored.
-5. **Start Small & Iterate:** Don't try to implement a comprehensive knowledge management system all at once. Start with a single tool or a small pilot project. 
+5. **Start Small & Iterate:** Don't try to implement a comprehensive knowledge management system all at once. Start with a single tool or a small pilot project.
 
 To help prioritize, consider this simple table:
 
@@ -74,7 +72,7 @@ Tools are important, but they’re only part of the equation.  Many engineers se
 
 ## Visualizing Success: Tools, Process, and Culture
 
-Ultimately, successful knowledge sharing is about creating an environment where learning, collaboration, and documentation are valued and integrated into the daily work of your engineering team. It requires a commitment to both the right tools *and* the right culture. 
+Ultimately, successful knowledge sharing is about creating an environment where learning, collaboration, and documentation are valued and integrated into the daily work of your engineering team. It requires a commitment to both the right tools *and* the right culture.
 
 **Key Takeaways:**
 

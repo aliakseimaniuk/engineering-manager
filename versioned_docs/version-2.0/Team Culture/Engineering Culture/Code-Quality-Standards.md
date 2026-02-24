@@ -18,15 +18,15 @@ Here's a more effective approach, broken down into three key areas:
 
 * **Focus on "Why" not just "How":** Instead of dictating specific formatting rules, articulate *why* certain practices matter. For example, “We prioritize readability to reduce cognitive load during code reviews and maintenance.”  This helps developers understand the underlying motivation.
 * **Establish Core Principles:**  What does "high quality" mean *for your team*?  Consider these:
-    * **Readability:** Code should be easy to understand, even for someone unfamiliar with the specific module.
-    * **Testability:** Code should be structured to facilitate effective unit and integration testing.  For example, modular design and the use of dependency injection can make code significantly easier to test in isolation.
-    * **Maintainability:** Code should be designed to be easily modified and extended without introducing regressions.
-    * **Efficiency:**  While not always paramount, consider performance implications when appropriate.
+  * **Readability:** Code should be easy to understand, even for someone unfamiliar with the specific module.
+  * **Testability:** Code should be structured to facilitate effective unit and integration testing.  For example, modular design and the use of dependency injection can make code significantly easier to test in isolation.
+  * **Maintainability:** Code should be designed to be easily modified and extended without introducing regressions.
+  * **Efficiency:**  While not always paramount, consider performance implications when appropriate.
 * **Team Workshop:**  Hold a workshop where the team collaboratively defines these principles and examples of what they look like in practice. This fosters buy-in and shared ownership.
 
 **2. Embrace Code Review as a Learning Opportunity**
 
-Code review isn't about finding flaws; it's about knowledge sharing and collective improvement. 
+Code review isn't about finding flaws; it's about knowledge sharing and collective improvement.
 
 * **Focus on Constructive Feedback:**  Instead of saying "This is wrong," try "Have you considered this approach?" or "I'm wondering if this could lead to [potential issue]."
 * **Establish Clear Expectations:**  What are reviewers looking for?  Align reviews with the team's core principles.
@@ -40,10 +40,10 @@ Tools like linters, static analyzers, and code formatters are essential, but the
 
 * **Choose Tools Wisely:** Select tools that align with your team's language(s) and coding style. There are plenty of options available (see the “Resources” section below).
 * **Configure Thoughtfully:** Customize the tools to enforce your team’s agreed-upon principles. Don't just use the default settings.
-* **Integrate into CI/CD:**  Automate code quality checks as part of your continuous integration and continuous delivery pipeline. 
+* **Integrate into CI/CD:**  Automate code quality checks as part of your continuous integration and continuous delivery pipeline.
 * **Don't Treat Warnings as Errors (Initially):** Start by treating warnings as warnings. Gradually increase the severity as the team improves. This allows the team to adopt stricter standards incrementally, minimizing disruption.
 
-##  Beyond the Code:  Investing in Growth
+## Beyond the Code:  Investing in Growth
 
 Ultimately, a culture of code quality isn’t about *rules*; it's about investing in your team’s growth.
 
@@ -51,7 +51,7 @@ Ultimately, a culture of code quality isn’t about *rules*; it's about investin
 * **Promote Continuous Learning:**  Encourage developers to explore new technologies and best practices.  Allocate time for learning and experimentation.
 * **Lead by Example:**  As a leader, demonstrate your commitment to code quality by writing clean, well-documented code yourself. This is perhaps the *most* impactful thing you can do.
 
-##  Sustaining a Culture of Quality
+## Sustaining a Culture of Quality
 
 Building a truly effective culture of code quality takes time and effort. But the rewards – a more maintainable codebase, a more engaged team, and a more sustainable development process – are well worth the investment. It's not about striving for perfection; it’s about fostering a collective commitment to continuous improvement.  
 

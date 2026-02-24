@@ -58,7 +58,7 @@ I once faced a situation where a team was eager to adopt a new JavaScript framew
 
 When we weighed the benefits against the cost, and compared it to other pressing priorities (like addressing critical tech debt), it became clear that the framework adoption had to be delayed. The team wasn’t thrilled initially. Their primary concerns were around falling behind on modern technologies and missing out on potential performance improvements.  We addressed these concerns by explaining the rationale behind the decision, emphasizing that we would revisit the framework adoption after addressing the more pressing tech debt, and outlining a plan for continuous learning and exploration of new technologies.  We needed to demonstrate value from other areas first. The team appreciated the transparent reasoning and the fact that their time was being used strategically.
 
-##  Beyond the Calculation: CBA as a Conversation Starter
+## Beyond the Calculation: CBA as a Conversation Starter
 
 Ultimately, CBA isn't about finding the “perfect” answer. It’s about fostering a data-driven conversation within your team. It’s about:
 

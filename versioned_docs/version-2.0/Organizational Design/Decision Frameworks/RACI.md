@@ -6,7 +6,7 @@ RACI – Responsible, Accountable, Consulted, Informed – isn’t just another 
 
 ## The Problem with Implicit Understanding
 
-Too often, we assume people understand their roles. “Sarah will handle the database stuff, Mark will do the front-end…” Sounds reasonable, right? Except, what happens when a critical database issue arises and Sarah is on PTO? Or when a front-end decision impacts the API, and Mark didn't realize the implications? 
+Too often, we assume people understand their roles. “Sarah will handle the database stuff, Mark will do the front-end…” Sounds reasonable, right? Except, what happens when a critical database issue arises and Sarah is on PTO? Or when a front-end decision impacts the API, and Mark didn't realize the implications?
 
 Implicit understanding is *fragile*. It relies on memory, informal communication, and a lot of guesswork. In a fast-paced engineering environment, that's a recipe for disaster. A recent study by the Project Management Institute found that unclear roles and responsibilities contribute to nearly 50% of project failures – highlighting the significant impact of this often-overlooked issue.
 
@@ -31,14 +31,14 @@ Here's where it gets interesting. It’s not enough to *create* the matrix; you 
 
 ## RACI and Agile: A Perfect Pair
 
-Some argue RACI is too rigid for agile development. I disagree. RACI clarifies *who* makes decisions within a self-organizing team. It doesn't dictate *how* they work. 
+Some argue RACI is too rigid for agile development. I disagree. RACI clarifies *who* makes decisions within a self-organizing team. It doesn't dictate *how* they work.
 
 Consider a user story: the Product Owner is Accountable for defining the "what," the Development Team is Responsible for the "how," the UX Designer is Consulted for usability considerations, and stakeholders are Informed of progress. It provides a framework for accountability within an iterative process. By clearly defining decision-making authority, RACI empowers agile teams to move quickly and efficiently without sacrificing clarity.
 
 ## Beyond the Basics: Why RAD Fits
 
-This methodology complements Rapid Application Development (RAD), a philosophy championed by Stephen McConnell. RAD focuses on iterative development, strong collaboration, and a proactive approach to risk management. RACI perfectly complements RAD because it provides the *clarity* needed for effective collaboration and accountability in a fast-paced, iterative environment. RAD teams thrive when roles are clearly defined, decisions are made quickly, and everyone understands their responsibilities – all things RACI helps facilitate. 
+This methodology complements Rapid Application Development (RAD), a philosophy championed by Stephen McConnell. RAD focuses on iterative development, strong collaboration, and a proactive approach to risk management. RACI perfectly complements RAD because it provides the *clarity* needed for effective collaboration and accountability in a fast-paced, iterative environment. RAD teams thrive when roles are clearly defined, decisions are made quickly, and everyone understands their responsibilities – all things RACI helps facilitate.
 
 ## Final Thoughts
 
-RACI isn’t a silver bullet. It requires discipline, communication, and a commitment to clarity. But when implemented effectively, it can transform your engineering organization, fostering accountability, reducing confusion, and unlocking the full potential of your teams. It's about building a system where everyone understands *who* is responsible for *what*, allowing them to focus on *delivering high-quality solutions*. 
+RACI isn’t a silver bullet. It requires discipline, communication, and a commitment to clarity. But when implemented effectively, it can transform your engineering organization, fostering accountability, reducing confusion, and unlocking the full potential of your teams. It's about building a system where everyone understands *who* is responsible for *what*, allowing them to focus on *delivering high-quality solutions*.

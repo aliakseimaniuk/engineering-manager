@@ -6,13 +6,11 @@ This isn’t a critique of Agile principles. The core ideas – iterative develo
 
 ## The Myth of "Doing Agile"
 
-I've seen teams meticulously follow Scrum ceremonies, religiously update Jira, and obsess over velocity, all while still delivering late, buggy software and fostering a stressed, unhappy team. This is because focusing solely on *process* ignores the fundamental reason Agile emerged: to improve team dynamics and deliver value faster. 
+I've seen teams meticulously follow Scrum ceremonies, religiously update Jira, and obsess over velocity, all while still delivering late, buggy software and fostering a stressed, unhappy team. This is because focusing solely on *process* ignores the fundamental reason Agile emerged: to improve team dynamics and deliver value faster.
 
 Think about it: Agile arose as a response to the rigid, slow-moving nature of Waterfall. Waterfall’s documentation-heavy approach often resulted in solutions that didn’t meet actual user needs by the time they shipped. Agile aimed to fix this through frequent feedback loops and a focus on delivering working software. But you can *simulate* the ceremonies of Agile without truly embracing its core principles.
 
-I recall one team I led that spent an hour each morning in a “stand-up” where everyone simply reported their progress and roadblocks. It felt like a status meeting dressed in Agile clothing. There was no genuine collaboration, no problem-solving, and no sense of collective ownership. We needed to shift the focus from *reporting* to *collaboration*. 
-
-
+I recall one team I led that spent an hour each morning in a “stand-up” where everyone simply reported their progress and roadblocks. It felt like a status meeting dressed in Agile clothing. There was no genuine collaboration, no problem-solving, and no sense of collective ownership. We needed to shift the focus from *reporting* to *collaboration*.
 
 ## Building a *Truly* Agile Team – Beyond the Tools
 
@@ -36,14 +34,10 @@ The research supports this. McLeod and MacDonell’s 2011 survey of software dev
 
 Ultimately, the “best” methodology is the one that works best for *your* team, *your* project, and *your* context.  
 
-
-
 ## Beyond the Framework:  A Mindset of Continuous Improvement
 
-Agile isn't about finding the "right" process and sticking to it. It's about embracing a mindset of continuous improvement. Regularly reflect on your team's performance, identify areas for improvement, and experiment with new approaches. Derby, Larsen, and Schwaber’s work on Agile Retrospectives provides a valuable framework for this. Lassenius’ research highlights that the *quality* of retrospective discussions – focusing on actionable improvements – is crucial for real progress. 
+Agile isn't about finding the "right" process and sticking to it. It's about embracing a mindset of continuous improvement. Regularly reflect on your team's performance, identify areas for improvement, and experiment with new approaches. Derby, Larsen, and Schwaber’s work on Agile Retrospectives provides a valuable framework for this. Lassenius’ research highlights that the *quality* of retrospective discussions – focusing on actionable improvements – is crucial for real progress.
 
 Don’t be afraid to challenge assumptions, question conventional wisdom, and iterate on your processes. The key is to create a culture of learning and experimentation, where everyone is empowered to contribute to the team's success.
-
-
 
 In conclusion, don't get lost in the jargon and prescriptive frameworks. Focus on building a high-performing team with strong communication, collaboration, and a commitment to continuous improvement. That's the real power of Agile.  What's one small change you can implement this week to foster a more collaborative and psychologically safe team environment?

@@ -6,9 +6,9 @@ This isn't about adhering to a rigid ceremony. It’s about maximizing the value
 
 ## The Problem with "Just" a Demo
 
-Let's be honest: showcasing finished work is the easy part. It *feels* productive, but it often misses the deeper purpose. We fall into the trap of focusing on *what* was delivered, instead of *why* it was delivered, and more importantly, *how* it impacts the bigger picture. I've seen teams meticulously prepare demos, only to reveal features that nobody actually needed, or that didn't solve the right problem. This isn't the team's fault, it’s a symptom of a broken review process. 
+Let's be honest: showcasing finished work is the easy part. It *feels* productive, but it often misses the deeper purpose. We fall into the trap of focusing on *what* was delivered, instead of *why* it was delivered, and more importantly, *how* it impacts the bigger picture. I've seen teams meticulously prepare demos, only to reveal features that nobody actually needed, or that didn't solve the right problem. This isn't the team's fault, it’s a symptom of a broken review process.
 
-The core issue? A passive audience. Stakeholders, product owners, and even other engineers become spectators instead of active participants. The energy flows in one direction, and valuable feedback – and learning opportunities – are lost. 
+The core issue? A passive audience. Stakeholders, product owners, and even other engineers become spectators instead of active participants. The energy flows in one direction, and valuable feedback – and learning opportunities – are lost.
 
 ## Reimagining the Sprint Review: A Focus on Collaboration
 
@@ -19,10 +19,10 @@ Here’s how to shift from a demo-centric approach to a collaborative inspection
 * **Clearly define the purpose:** Remind everyone that the review isn’t just a status update. It's an opportunity to inspect the increment, adapt the product backlog, and collaborate on next steps.
 * **Pre-share the increment:** Don't surprise anyone with new functionality. Give stakeholders access to the working software *before* the review, so they can explore it at their own pace and formulate thoughtful questions. A staging environment or shared link is crucial.
 * **Focused Agenda:** A simple agenda works best:
-    * **Review Goals:** Reiterate the sprint goal.
-    * **What was delivered:** (Briefly!) Highlight key features.
-    * **Demo/Discussion:** The bulk of the time should be spent *discussing* the value delivered, not just *showing* it.
-    * **Feedback & Next Steps:** Open the floor for feedback, and collaboratively refine the backlog based on what was learned.
+  * **Review Goals:** Reiterate the sprint goal.
+  * **What was delivered:** (Briefly!) Highlight key features.
+  * **Demo/Discussion:** The bulk of the time should be spent *discussing* the value delivered, not just *showing* it.
+  * **Feedback & Next Steps:** Open the floor for feedback, and collaboratively refine the backlog based on what was learned.
 
 **2. The Demo: Value-Driven, Not Feature-Driven**
 
@@ -39,20 +39,20 @@ This is where the magic happens. Here are some questions to spark conversation:
 * **“What are your biggest concerns or questions about this increment?”** – Creates a safe space for honest feedback.
 * **“Based on what you’ve seen, what should we prioritize in the next sprint?”** – Collaboratively refines the backlog.
 
-Here's an example of how this can play out: 
+Here's an example of how this can play out:
 
-**Stakeholder:** "I'm concerned this new feature feels clunky on mobile." 
+**Stakeholder:** "I'm concerned this new feature feels clunky on mobile."
 **Team Response:** "Okay, let's add a user story to address mobile responsiveness in the next sprint."
 
 **4. Beyond the Meeting: Actionable Outcomes**
 
-The Sprint Review shouldn’t be the *end* of the conversation. Document key takeaways, action items, and backlog updates. Share this information with the team and stakeholders to ensure everyone is aligned. 
+The Sprint Review shouldn’t be the *end* of the conversation. Document key takeaways, action items, and backlog updates. Share this information with the team and stakeholders to ensure everyone is aligned.
 
 ## Addressing Common Pitfalls
 
 * **Actively encourage participation from all stakeholders:** Ensure everyone has a voice. Actively solicit feedback from quieter participants.
 * **Keep the conversation focused on value and impact:** Getting lost in technical details can derail the discussion. Defer detailed technical discussions to separate forums. (You don’t need to explain implementation details to your marketing team!)
-* **Treat negative feedback as valuable information:** Don't dismiss concerns. Use it to improve. 
+* **Treat negative feedback as valuable information:** Don't dismiss concerns. Use it to improve.
 
 ## From Demo-Centric to Collaborative: A Quick Look
 
@@ -71,12 +71,10 @@ While tools aren’t the *solution*, they can facilitate better collaboration. C
 * **Screen Sharing:** Essential for demos.
 * **Retrospective Tools (easyretro.io):** While geared toward retrospectives, they can also be used to capture feedback during the review.
 
-
-
 ## Final Thoughts
 
-The Sprint Review isn't just another meeting on the calendar. It's a critical opportunity to inspect, adapt, and collaborate. By shifting the focus from *showing* to *discussing*, you can unlock the true potential of this powerful Agile ceremony and drive significant improvements in your product, your team, and your stakeholder relationships. 
+The Sprint Review isn't just another meeting on the calendar. It's a critical opportunity to inspect, adapt, and collaborate. By shifting the focus from *showing* to *discussing*, you can unlock the true potential of this powerful Agile ceremony and drive significant improvements in your product, your team, and your stakeholder relationships.
 
-As Jason Fried and David Heinemeier Hansson point out in “Rework”, prioritizing simplicity and focus is key. Don’t overcomplicate the process. The goal is to deliver value and learn, not to create a bureaucratic ritual. 
+As Jason Fried and David Heinemeier Hansson point out in “Rework”, prioritizing simplicity and focus is key. Don’t overcomplicate the process. The goal is to deliver value and learn, not to create a bureaucratic ritual.
 
 **Challenge:** This week, focus on actively soliciting feedback from quieter participants during your Sprint Review and see how it changes the conversation.

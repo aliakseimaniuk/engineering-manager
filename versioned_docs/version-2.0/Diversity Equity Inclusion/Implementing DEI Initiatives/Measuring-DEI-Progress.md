@@ -1,6 +1,6 @@
 # Measuring DEI Progress
 
-I recently spoke with an engineering leader who confessed her team was *exhausted* by DEI initiatives. They’d hit representation targets, implemented unconscious bias training, and yet, felt little had fundamentally changed. This frustration is common. For years, Diversity, Equity, and Inclusion (DEI) initiatives have often felt like ticking boxes – hitting representation targets without truly shifting the underlying culture. As engineering leaders, we *know* that a diverse team isn’t just “the right thing to do” – it’s a force multiplier for innovation, problem-solving, and ultimately, building better products. But simply *wanting* diversity isn’t enough. We need to move beyond vanity metrics and start measuring *progress* – real, meaningful shifts in equity and inclusion within our engineering organizations. 
+I recently spoke with an engineering leader who confessed her team was *exhausted* by DEI initiatives. They’d hit representation targets, implemented unconscious bias training, and yet, felt little had fundamentally changed. This frustration is common. For years, Diversity, Equity, and Inclusion (DEI) initiatives have often felt like ticking boxes – hitting representation targets without truly shifting the underlying culture. As engineering leaders, we *know* that a diverse team isn’t just “the right thing to do” – it’s a force multiplier for innovation, problem-solving, and ultimately, building better products. But simply *wanting* diversity isn’t enough. We need to move beyond vanity metrics and start measuring *progress* – real, meaningful shifts in equity and inclusion within our engineering organizations.
 
 This isn’t about implementing complex, costly programs or obsessing over numbers for numbers' sake. It’s about a fundamental shift in *how* we measure success. Here’s a breakdown of how to do that, moving beyond surface-level metrics and toward actionable insights.
 
@@ -14,19 +14,17 @@ Let’s be honest: the first metrics we often look at are easy to collect, but r
 
 These metrics are *outputs* – what we *see* happening. We need to focus on *outcomes* – the lived experiences of our engineers.  
 
-
-
 ## Shifting to Outcome-Based Measurement: The Three Pillars
 
 I’ve found it helpful to frame DEI progress around three interconnected pillars: **Representation, Belonging, and Advancement.**  Measuring each pillar requires different approaches, but all are essential for a holistic view.
 
 **1. Representation – Beyond the Numbers:**
 
-Yes, tracking demographic data is still crucial. But go deeper. 
+Yes, tracking demographic data is still crucial. But go deeper.
 
 * **Pipeline Analysis:** Where are you losing diverse candidates in the hiring process? Are your job descriptions unintentionally biased? (Tools like Textio and Ongig can help with this – explore options to find what fits your needs!).
 * **Intersectionality:** Don't just look at single dimensions of diversity. How do different identities intersect and create unique experiences?  
-* **Distribution Across Roles:**  Are diverse engineers concentrated in certain roles or levels?  A lack of diversity in leadership positions is a critical signal. 
+* **Distribution Across Roles:**  Are diverse engineers concentrated in certain roles or levels?  A lack of diversity in leadership positions is a critical signal.
 
 **2. Belonging – The Hardest Metric to Capture**
 
@@ -46,18 +44,14 @@ Representation is only meaningful if diverse engineers have equal opportunities 
 * **Mentorship & Sponsorship:**  Are there robust mentorship and sponsorship programs to support the development of diverse engineers?
 * **Participation in leadership development programs:** Ensure diverse engineers are nominated for and participate in leadership development programs.
 
+## From Data to Action: The Continuous Improvement Loop
 
-
-##  From Data to Action: The Continuous Improvement Loop
-
-Collecting data is only the first step.  The real value comes from using that data to drive meaningful change. 
+Collecting data is only the first step.  The real value comes from using that data to drive meaningful change.
 
 * **Transparency:** Share DEI data (aggregated and anonymized) with the team. This builds trust and accountability.
 * **Action Planning:**  Based on the data, develop specific, measurable, achievable, relevant, and time-bound (SMART) goals.
 * **Regular Review:**  Track progress against goals and adjust your strategy as needed.  
 * **Iterate:**  DEI is not a one-time fix. It’s a continuous improvement process.
-
-
 
 ## Final Thoughts
 

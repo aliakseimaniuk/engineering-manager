@@ -4,7 +4,7 @@ You’re swamped. Feature requests flood your inbox, sprints are packed, and you
 
 ## The Trap of “Formulaic” Thinking
 
-We’re bombarded with “growth hacks” and best practices. These can be helpful, but relying solely on them can be dangerous. As Peter Thiel – entrepreneur, investor, and co-founder of PayPal – points out in *The High Growth Handbook*, successful people find value in unexpected places by thinking from “first principles” rather than relying on formulas. What does this mean for an engineering manager? It means challenging the assumptions baked into our product strategy. 
+We’re bombarded with “growth hacks” and best practices. These can be helpful, but relying solely on them can be dangerous. As Peter Thiel – entrepreneur, investor, and co-founder of PayPal – points out in *The High Growth Handbook*, successful people find value in unexpected places by thinking from “first principles” rather than relying on formulas. What does this mean for an engineering manager? It means challenging the assumptions baked into our product strategy.
 
 Instead of immediately asking “How can we scale *this* feature?” ask:
 
@@ -16,7 +16,7 @@ This kind of questioning isn’t about undermining the product team; it’s abou
 
 ## Beyond Feature Requests: Finding Adjacent Opportunities
 
-One of the most fruitful areas for identifying growth is looking at “adjacent opportunities.” These are extensions of your core product that leverage your existing technology and expertise but address a slightly different, often underserved, market or user need. 
+One of the most fruitful areas for identifying growth is looking at “adjacent opportunities.” These are extensions of your core product that leverage your existing technology and expertise but address a slightly different, often underserved, market or user need.
 
 Think of it like this: you’ve built a powerful engine (your core technology). What *else* can that engine power?
 

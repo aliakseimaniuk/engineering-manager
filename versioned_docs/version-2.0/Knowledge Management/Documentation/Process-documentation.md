@@ -4,7 +4,7 @@ For many engineering managers, “process documentation” conjures images of du
 
 Imagine this: a critical engineer leaves unexpectedly, taking with them the undocumented knowledge of a complex system. A major outage occurs, and the on-call team scrambles, lacking clear runbooks to guide them. This isn't a hypothetical situation—it’s a painful reality many engineering teams face. Investing in process documentation can prevent these scenarios, transforming chaos into clarity.
 
-### The Real Cost of Tribal Knowledge
+## The Real Cost of Tribal Knowledge
 
 Early in my career, I was part of a team building a complex distributed system. We shipped features quickly, but the knowledge of *how* things worked resided almost entirely in the heads of a few key engineers. New team members struggled, bug fixes took longer than they should, and even simple deployments felt risky. It was a classic case of “tribal knowledge” – valuable information locked away, vulnerable to loss through attrition.
 
@@ -17,21 +17,21 @@ This isn't uncommon. We tend to optimize for *doing* the work, not documenting *
 
 I eventually realized that investing in process documentation wasn't slowing us down; it was *preventing* us from hitting a wall. It's about shifting from reactive problem-solving to proactive knowledge sharing. This proactive approach builds a sustainable foundation for growth, allowing teams to adapt to change and overcome challenges with confidence.
 
-### Beyond Flowcharts: What to Document (and How)
+## Beyond Flowcharts: What to Document (and How)
 
 Okay, so you're convinced process documentation is important. Now what? It's not about meticulously documenting *every* step of *every* process. That's a recipe for documentation overload. Instead, focus on documenting the “why” behind the “how”. Here’s what I’ve found works best:
 
-* **Architectural Decisions:** Record major design choices and the rationale behind them. Use Architectural Decision Records (ADRs) – simple text files that clearly articulate the context, options considered, and the final decision.  The simplicity of the format encourages consistent documentation, and storing ADRs in version control alongside your codebase ensures they stay up-to-date and accessible. 
+* **Architectural Decisions:** Record major design choices and the rationale behind them. Use Architectural Decision Records (ADRs) – simple text files that clearly articulate the context, options considered, and the final decision.  The simplicity of the format encourages consistent documentation, and storing ADRs in version control alongside your codebase ensures they stay up-to-date and accessible.
 * **Key Workflows:** Map out critical processes like deployments, incident response, or code review. For example, document the steps for deploying a new microservice, including any necessary configurations or dependencies.
-* **System Dependencies:** Document the relationships between different components of your system. 
+* **System Dependencies:** Document the relationships between different components of your system.
 * **On-Call Runbooks**: These are critical for minimizing downtime and getting the team aligned during high-pressure situations.
 * **Postmortems**: Document failures, what went wrong, and what lessons were learned. This creates a valuable repository of knowledge for preventing future incidents.  Blameless post-incident analysis is a key practice for creating a safe and learning-oriented culture, and thorough postmortems are foundational to this approach. [Reference to a source on Blameless Postmortems could be added here].
 
 **Crucially: Treat Documentation as Code.** Store it in version control alongside your codebase, use pull requests for changes, and enforce code review. This ensures documentation stays up-to-date and accurate.
 
-### The Psychology of Process – and Why it Sometimes Fails
+## The Psychology of Process – and Why it Sometimes Fails
 
-There’s a reason many engineers resist process documentation. Some view it as a sign of distrust, implying they aren’t capable of remembering everything. Others see it as a pointless exercise, a waste of valuable coding time. I've even heard the cynical (but sadly accurate) observation that “we tell customers we have a process because they’d be horrified to know we don’t.” 
+There’s a reason many engineers resist process documentation. Some view it as a sign of distrust, implying they aren’t capable of remembering everything. Others see it as a pointless exercise, a waste of valuable coding time. I've even heard the cynical (but sadly accurate) observation that “we tell customers we have a process because they’d be horrified to know we don’t.”
 
 Here’s how to address those concerns:
 
@@ -40,14 +40,14 @@ Here’s how to address those concerns:
 * **Keep it Lightweight**: Avoid overly complex or bureaucratic processes. The goal is to capture essential knowledge, not create a mountain of paperwork.
 * **Integrate Documentation into the Workflow:** Make documenting a natural part of the development process. For example, require a brief documentation update as part of every pull request.
 
-### From Chaos to Clarity
+## From Chaos to Clarity
 
-Investing in process documentation isn't about stifling innovation; it's about creating a foundation for sustainable growth. It’s about building a team that can adapt to change, overcome challenges, and deliver high-quality software consistently. 
+Investing in process documentation isn't about stifling innovation; it's about creating a foundation for sustainable growth. It’s about building a team that can adapt to change, overcome challenges, and deliver high-quality software consistently.
 
 It requires a shift in mindset – from viewing documentation as an afterthought to recognizing it as an integral part of the engineering process. It's a continuous effort, but the rewards – increased resilience, improved collaboration, and a more empowered team – are well worth the investment.
 
 **Key Takeaways:**
 
-*   **Shift from Reactive to Proactive:** Documentation isn’t about *catching up*; it’s about proactively building a resilient knowledge base.
-*   **Documentation as Code:** Treat documentation with the same rigor and version control as your codebase.
-*   **Focus on Value and Lead by Example:** Demonstrate the benefits of documentation and actively participate in the process.
+* **Shift from Reactive to Proactive:** Documentation isn’t about *catching up*; it’s about proactively building a resilient knowledge base.
+* **Documentation as Code:** Treat documentation with the same rigor and version control as your codebase.
+* **Focus on Value and Lead by Example:** Demonstrate the benefits of documentation and actively participate in the process.

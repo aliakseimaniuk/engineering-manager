@@ -1,16 +1,16 @@
 # Lead Time
 
-For years, engineering teams have obsessed over velocity – story points completed per sprint, code commits per day, lines of code written. While these metrics have *some* value, I’ve come to believe they often distract us from the *real* bottleneck: **Lead Time**. 
+For years, engineering teams have obsessed over velocity – story points completed per sprint, code commits per day, lines of code written. While these metrics have *some* value, I’ve come to believe they often distract us from the *real* bottleneck: **Lead Time**.
 
 Lead Time, simply put, is the total time it takes for a request – a bug fix, a new feature, a security patch – to go from inception to delivery to the customer. It's the end-to-end cycle time. And, frankly, if your Lead Time is long, nothing else really matters.  Research consistently demonstrates that reducing lead time correlates directly with increased customer satisfaction and faster innovation cycles. [1]
 
-I learned this the hard way. I recently witnessed a talented team unravel after a series of unfortunate events – a lead departure, layoffs, and the retention of a team member who excelled at *talking* about work, but not necessarily *doing* it. The team’s high performers, feeling demoralized and unsupported, quickly jumped ship. It wasn’t a lack of skill that drove them away, but a slow, agonizing Lead Time that suffocated their ability to deliver value and find satisfaction in their work. 
+I learned this the hard way. I recently witnessed a talented team unravel after a series of unfortunate events – a lead departure, layoffs, and the retention of a team member who excelled at *talking* about work, but not necessarily *doing* it. The team’s high performers, feeling demoralized and unsupported, quickly jumped ship. It wasn’t a lack of skill that drove them away, but a slow, agonizing Lead Time that suffocated their ability to deliver value and find satisfaction in their work.
 
 This wasn’t about a lack of effort. It was a systemic problem, masked by activity and good intentions. And it's far more common than you might think.
 
 ## Why We Focus on the Wrong Metrics – and the Cost of Delay
 
-We often fall into the trap of optimizing for *output* – how much work we ship – instead of *throughput* – how *quickly* we deliver value. This is where vanity metrics like story points can be dangerous. They *feel* productive, but they don't tell you how long it takes to get something *real* into the hands of your users. 
+We often fall into the trap of optimizing for *output* – how much work we ship – instead of *throughput* – how *quickly* we deliver value. This is where vanity metrics like story points can be dangerous. They *feel* productive, but they don't tell you how long it takes to get something *real* into the hands of your users.
 
 Think about it. If it takes you a month to deliver a seemingly simple feature, but you complete 5 story points in a sprint, that’s still a slow Lead Time. Your velocity looks good on paper, but it’s irrelevant if customers are waiting weeks or months for improvements. The cost of delay isn’t just about missed opportunities; it also impacts team morale and can lead to significant competitive disadvantages.
 
@@ -56,4 +56,4 @@ Reducing Lead Time isn't just about efficiency. It's about responsiveness, innov
 
 Reducing Lead Time isn’t always easy. There will be challenges and setbacks along the way. But the benefits – increased velocity, improved morale, and a more competitive product – are well worth the effort.
 
-I’ve seen firsthand how a focus on Lead Time can revitalize a team. It forces you to identify and address systemic issues, rather than just treating the symptoms. The team I mentioned earlier? The talent exodus continued. The remaining team member who was good at talking remained, but the damage to team morale and productivity was irreversible. Don't let a slow Lead Time become the silent killer of your engineering velocity and your team's morale. 
+I’ve seen firsthand how a focus on Lead Time can revitalize a team. It forces you to identify and address systemic issues, rather than just treating the symptoms. The team I mentioned earlier? The talent exodus continued. The remaining team member who was good at talking remained, but the damage to team morale and productivity was irreversible. Don't let a slow Lead Time become the silent killer of your engineering velocity and your team's morale.

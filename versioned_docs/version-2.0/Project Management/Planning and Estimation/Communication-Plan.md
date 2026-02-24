@@ -14,13 +14,13 @@ Let's quickly cover the benefits. A well-defined plan:
 * **Improves Alignment:** Ensures everyone is on the same page regarding goals, progress, and priorities.
 * **Boosts Team Morale:** Transparency builds trust and reduces anxiety.
 * **Increases Efficiency:** Minimizes wasted time clarifying information or correcting misunderstandings.
-* **Facilitates Better Decision-Making:**  Provides the right information to the right people at the right time. 
+* **Facilitates Better Decision-Making:**  Provides the right information to the right people at the right time.
 
 ## The Four Pillars of an Effective Communication Plan
 
 I like to break down a communication plan into four key elements. Thinking about these systematically helps ensure you’ve covered all the bases.
 
-**1. Define Your Audiences:** 
+**1. Define Your Audiences:**
 
 Don't assume "the team" is a homogenous group. Different stakeholders have different information needs.  Consider:
 
@@ -52,7 +52,7 @@ Don't fall into the trap of using the same channel for everything. Select the be
 
 **4. Establish a Cadence and Ownership:**
 
-This is where many plans fail. Define *when* information will be shared and *who* is responsible for sharing it. 
+This is where many plans fail. Define *when* information will be shared and *who* is responsible for sharing it.
 
 * **Daily Stand-ups:**  (Core Team) – Quick progress updates, roadblocks, and dependency identification.
 * **Weekly Status Reports:** (Stakeholders/Leadership) – High-level summary of progress, risks, and next steps.
@@ -79,6 +79,6 @@ A communication plan is a living document.  It needs to be reviewed and updated 
 * **Adapt to changing circumstances:**  If the project scope changes, or a new stakeholder is added, adjust the plan accordingly.
 * **Continuously improve:**  Use retrospectives to identify areas for improvement in the communication process.
 
-A well-crafted communication plan isn’t just about avoiding problems – it’s about building a more collaborative, transparent, and effective engineering team. It takes effort upfront, but the payoff – a smoother, more successful project – is well worth it. 
+A well-crafted communication plan isn’t just about avoiding problems – it’s about building a more collaborative, transparent, and effective engineering team. It takes effort upfront, but the payoff – a smoother, more successful project – is well worth it.
 
 **To get started, schedule a 15-minute meeting with your team to brainstorm your communication needs. You can also begin documenting your current communication practices to identify areas for improvement.** And remember, a bad plan is *always* better than no plan at all.

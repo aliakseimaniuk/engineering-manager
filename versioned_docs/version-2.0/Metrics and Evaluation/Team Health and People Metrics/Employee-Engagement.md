@@ -1,6 +1,6 @@
 # Employee Engagement
 
-For years, “employee engagement” has felt like a buzzword, often conflated with happiness or simple satisfaction. We’ve chased perks, ping pong tables, and “culture fits” hoping to magically conjure a more committed workforce. But genuine engagement isn't about making people *happy* at work – it’s about fueling their *internal motivation* and connecting their work to something they genuinely care about. And, crucially, it's something we, as engineering leaders, can *measure* and actively improve. 
+For years, “employee engagement” has felt like a buzzword, often conflated with happiness or simple satisfaction. We’ve chased perks, ping pong tables, and “culture fits” hoping to magically conjure a more committed workforce. But genuine engagement isn't about making people *happy* at work – it’s about fueling their *internal motivation* and connecting their work to something they genuinely care about. And, crucially, it's something we, as engineering leaders, can *measure* and actively improve.
 
 Consider Sarah, a talented engineer on my team who gradually became disengaged. She stopped volunteering for challenging projects, her code reviews became perfunctory, and she rarely participated in team discussions. It wasn’t a dramatic exit, but a slow erosion of her passion, costing us valuable contributions and ultimately leading to her departure. This isn’t an isolated incident. Disengagement often manifests subtly – a decline in quality, a creeping sense of apathy, and the consistent absence during crucial feedback loops – demos, grooming sessions, and release planning. As one commenter aptly put it, “When a person says ‘We can improve the company by doing X!’ two or three times, and management doesn’t let them do it, they’re going to realize that their continued employment there is pointless, and quit.” Disengagement isn't just a feeling; it’s a signal – and a costly one. Studies show that disengaged employees are less productive, more likely to make mistakes, and have higher turnover rates.
 
@@ -12,11 +12,11 @@ Annual engagement surveys are a starting point, but they're often too infrequent
 
 * **eNPS (Employee Net Promoter Score):** A simple, yet powerful question: "On a scale of 0-10, how likely are you to recommend this company as a place to work?" Subtract the percentage of Detractors (0-6) from the percentage of Promoters (9-10). This gives you a single number, but *follow up with qualitative questions* to understand the 'why' behind the score.  It’s important to note that eNPS scores can be influenced by recent experiences and shouldn’t be viewed in isolation.
 * **Contribution Metrics:** This is where we move beyond *feeling* and into *doing*. Track things like:
-    * **Pull Request/Code Review Participation:** Are engineers actively contributing and reviewing each other’s work? A decline could signal disengagement.
-    * **Volunteering for Stretch Goals/New Projects:** Are people raising their hands for challenging opportunities?
-    * **Participation in Knowledge Sharing (Tech Talks, Documentation):** Are engineers investing in the growth of the team?
+  * **Pull Request/Code Review Participation:** Are engineers actively contributing and reviewing each other’s work? A decline could signal disengagement.
+  * **Volunteering for Stretch Goals/New Projects:** Are people raising their hands for challenging opportunities?
+  * **Participation in Knowledge Sharing (Tech Talks, Documentation):** Are engineers investing in the growth of the team?
 * **Manager Check-In Quality (Self-Reported):** Ask employees (via anonymous pulse surveys) how helpful and supportive they find their one-on-one meetings. A low score is a huge red flag.
-* **"Micro-Feedback" Cadence:** How frequently do engineers receive (and give) constructive feedback? Regular, specific feedback is vital. Don't rely solely on formal performance reviews. 
+* **"Micro-Feedback" Cadence:** How frequently do engineers receive (and give) constructive feedback? Regular, specific feedback is vital. Don't rely solely on formal performance reviews.
 
 ## The "Un-Bore" Factor: Fueling Internal Motivation
 
@@ -40,7 +40,7 @@ One commenter raised a valid point about engagement in a unionized environment, 
 
 **Here’s a quick checklist to get you started:**
 
-*   **Review your team's eNPS and follow up with qualitative questions.**
-*   **Schedule regular, high-quality one-on-one check-ins.**
-*   **Ask your engineers what frustrations they’re experiencing and actively listen to their feedback.**
-*   **Identify opportunities for growth and development, and provide support to help your team members achieve their goals.**
+* **Review your team's eNPS and follow up with qualitative questions.**
+* **Schedule regular, high-quality one-on-one check-ins.**
+* **Ask your engineers what frustrations they’re experiencing and actively listen to their feedback.**
+* **Identify opportunities for growth and development, and provide support to help your team members achieve their goals.**

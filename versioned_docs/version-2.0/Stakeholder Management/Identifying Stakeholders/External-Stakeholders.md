@@ -52,9 +52,9 @@ This is where the magic happens.  Instead of treating external stakeholders as p
 
 ## The Agile Paradox & The Role of Expectations
 
-Remember the initial enthusiasm for Agile?  The promise of self-organizing teams and empowered stakeholders? It's wonderful in theory, but it requires a baseline level of maturity and shared understanding.  With external stakeholders, you often don't have that. 
+Remember the initial enthusiasm for Agile?  The promise of self-organizing teams and empowered stakeholders? It's wonderful in theory, but it requires a baseline level of maturity and shared understanding.  With external stakeholders, you often don't have that.
 
-*The expectation that external stakeholders will naturally self-organize can be particularly problematic. They may lack context on your internal priorities, roadmaps, or technical constraints.* You need to *manage* their participation, not simply *expect* it. That means setting clear boundaries, defining roles, and providing structure. 
+*The expectation that external stakeholders will naturally self-organize can be particularly problematic. They may lack context on your internal priorities, roadmaps, or technical constraints.* You need to *manage* their participation, not simply *expect* it. That means setting clear boundaries, defining roles, and providing structure.
 
 ## Final Thoughts
 

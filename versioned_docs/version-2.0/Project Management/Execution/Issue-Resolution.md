@@ -24,9 +24,9 @@ This categorization immediately helps with routing and sets expectations. A docu
 
 ## 2. The 5 Whys – Digging Deeper Than Symptoms
 
-Once an issue is categorized, resist the urge to jump to a fix. Instead, employ the “5 Whys” technique. This is a simple but powerful method for root cause analysis. 
+Once an issue is categorized, resist the urge to jump to a fix. Instead, employ the “5 Whys” technique. This is a simple but powerful method for root cause analysis.
 
-Start with the problem statement and repeatedly ask “Why?” five times (or as needed) to uncover the underlying cause. 
+Start with the problem statement and repeatedly ask “Why?” five times (or as needed) to uncover the underlying cause.
 
 **Example:**
 
@@ -41,26 +41,26 @@ See how we moved beyond a symptom (slow website) to a potential process issue (l
 
 ## 3. Ownership & Communication – Clear Roles & Transparent Updates
 
-Once the root cause is understood, assign ownership. This isn’t about blame; it’s about accountability. The owner is responsible for driving the issue to resolution, coordinating with other teams if necessary, and keeping stakeholders informed. 
+Once the root cause is understood, assign ownership. This isn’t about blame; it’s about accountability. The owner is responsible for driving the issue to resolution, coordinating with other teams if necessary, and keeping stakeholders informed.
 
 Transparency is key. Regular updates (even short ones) prevent stakeholders from feeling ignored and build trust. Consider using a shared status document or a dedicated Slack channel for major issues. Don’t over-engineer this; simple and frequent is better than complex and infrequent.
 
 ## 4. Post-Mortem & Learning – The Most Valuable Step
 
-This is where many teams drop the ball. Once an issue is resolved, *always* conduct a post-mortem (also known as a retrospective). 
+This is where many teams drop the ball. Once an issue is resolved, *always* conduct a post-mortem (also known as a retrospective).
 
-The goal isn't to point fingers; it’s to identify what went wrong, what went well, and what can be improved. What processes failed? Were there gaps in communication? Could the issue have been prevented with better testing or monitoring? 
+The goal isn't to point fingers; it’s to identify what went wrong, what went well, and what can be improved. What processes failed? Were there gaps in communication? Could the issue have been prevented with better testing or monitoring?
 
 Tools like Lehtinen et al (2014b) research suggests synchronous retrospectives are valuable for distributed teams, allowing for richer discussion and faster consensus-building. Even asynchronous discussion works, but make the time.
 
-Document these learnings and share them with the team. This creates a culture of continuous improvement and prevents repeating the same mistakes. 
+Document these learnings and share them with the team. This creates a culture of continuous improvement and prevents repeating the same mistakes.
 
 ## 5. Tooling - Supporting, Not Dictating, the Process
 
-There are many issue tracking tools available. While choosing the right tool is important, *don’t let the tool drive* your process. 
+There are many issue tracking tools available. While choosing the right tool is important, *don’t let the tool drive* your process.
 
 The tools are there to *support* your process, not replace it. Focus on establishing a clear, consistent process first, then choose a tool that fits your needs. Tools like Linear, Yodiz, and Jam are all excellent examples of platforms that can streamline issue tracking and facilitate collaboration.
 
 **Final Thoughts:**
 
-Effective issue resolution isn't just about fixing bugs; it’s about building a high-performing team, improving your processes, and delivering a better product. By shifting your focus from reactive firefighting to proactive problem-solving, you can transform issues from roadblocks into opportunities for growth. And remember, the most valuable fix isn’t always the one that closes the ticket – it’s the one that builds resilience into your system. 
+Effective issue resolution isn't just about fixing bugs; it’s about building a high-performing team, improving your processes, and delivering a better product. By shifting your focus from reactive firefighting to proactive problem-solving, you can transform issues from roadblocks into opportunities for growth. And remember, the most valuable fix isn’t always the one that closes the ticket – it’s the one that builds resilience into your system.

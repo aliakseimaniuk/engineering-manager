@@ -18,7 +18,7 @@ Think of it like a financial budget. You have a revenue goal (like an SLO). Your
 Beyond just having a metric, Error Budgets offer several key benefits:
 
 * **Prioritization:** They force you to prioritize technical debt and reliability work. When you’re approaching your Error Budget, you *know* you need to slow down feature development and address underlying issues.
-* **Empowerment & Autonomy:** This is significant. Error Budgets give teams the freedom to experiment and deploy changes without needing constant approval. As long as they stay within budget, they’re empowered to make decisions. I've seen teams drastically increase deployment frequency once they understood their boundaries. 
+* **Empowerment & Autonomy:** This is significant. Error Budgets give teams the freedom to experiment and deploy changes without needing constant approval. As long as they stay within budget, they’re empowered to make decisions. I've seen teams drastically increase deployment frequency once they understood their boundaries.
 * **Data-Driven Conversations:** They replace subjective debates about risk with objective data. "Should we release this feature?" becomes "What impact will this release have on our Error Budget?"
 * **Improved User Experience:** By proactively addressing reliability issues, you ultimately deliver a better experience for your users.
 

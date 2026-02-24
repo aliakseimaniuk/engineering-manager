@@ -35,20 +35,16 @@ Kanban is inherently iterative. Regularly inspecting and adapting your process i
 * **Risk Review (as needed):** Identify and mitigate potential risks that could impact the flow of work.
 * **Operations Review (Cadence varies):** High-level review of the entire system and key performance indicators.
 
-**Retrospectives that Drive Action:** Don’t fall into the trap of predictable, uninspired retro formats. 
+**Retrospectives that Drive Action:** Don’t fall into the trap of predictable, uninspired retro formats.
 
 * **Vary Your Formats:** Experiment with different retrospective techniques (e.g., “Start, Stop, Continue”, “Mad, Sad, Glad”, “Sailboat”).
 * **Focus on Systemic Issues:** Don’t just fix individual incidents. Look for patterns and underlying causes.
 * **Actionable Items:** Every retrospective should result in concrete, measurable action items. Assign ownership and track progress.
-* **Tie Retros to Data:** Use metrics (cycle time, throughput) to objectively assess the impact of changes. 
-
-
+* **Tie Retros to Data:** Use metrics (cycle time, throughput) to objectively assess the impact of changes.
 
 ## Tools & Technology (But Don't Over-Rely On Them)
 
 Tools like Jira, KanbanTool, or even a physical board can facilitate Kanban, but they are *not* the solution. The process is more important than the technology. Choose a tool that supports visualization, WIP limits, and metrics. Avoid over-complication – keep the board clean and focused. Remember: the tool should serve the process, not the other way around.
-
-
 
 ## Final Thoughts
 

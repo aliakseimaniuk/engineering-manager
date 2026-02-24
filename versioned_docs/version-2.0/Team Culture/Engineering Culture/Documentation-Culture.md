@@ -2,7 +2,7 @@
 
 For two decades, I’ve seen engineering teams thrive and struggle, and a consistent thread runs through the successes: a robust documentation culture. It’s not about forcing engineers to *write* more; it’s about shifting how they *think* about knowledge sharing and making documentation an intrinsic part of the development process. In today’s fast-paced software landscape – where validating ideas is cheaper than ever – good documentation isn’t a nice-to-have; it’s a competitive advantage.
 
-But let’s be honest: documentation often feels like an afterthought. It's the task everyone postpones, relegated to the end of a sprint, or worse, never done at all. It’s not simply a matter of laziness; the root cause is often cultural. And fixing it requires a deliberate, multi-faceted approach. 
+But let’s be honest: documentation often feels like an afterthought. It's the task everyone postpones, relegated to the end of a sprint, or worse, never done at all. It’s not simply a matter of laziness; the root cause is often cultural. And fixing it requires a deliberate, multi-faceted approach.
 
 Imagine a team onboarding a new engineer who spends weeks deciphering undocumented legacy code, delaying feature delivery. Or consider the critical knowledge that walks out the door with a departing employee, leaving the team scrambling. These aren’t just hypothetical scenarios; they represent the real, often hidden, costs of neglecting documentation.
 
@@ -19,8 +19,6 @@ Before diving into solutions, let’s understand what happens when documentation
 ## The Modern Landscape & Tooling
 
 Today, the barrier to validating and sharing ideas is lower than ever. Cloud platforms like Render.com offer free tiers for hosting applications and documentation, making experimentation affordable. Similarly, documentation hosting platforms like Docs (with limitations) provide accessible options. This means investing in documentation isn’t about significant upfront costs; it’s about prioritizing a culture of knowledge sharing.
-
-
 
 ## Shifting the Mindset: Documentation as Part of the Workflow
 
@@ -47,4 +45,4 @@ It's easy for teams, particularly consulting companies, to fall into the trap of
 
 ## Conclusion: Documentation as a Strategic Advantage
 
-Building a strong documentation culture isn't about ticking a box; it’s about investing in the long-term health and success of your team and product. By shifting the mindset, integrating documentation into the workflow, and fostering a culture of knowledge sharing, you can unlock a significant competitive advantage. 
+Building a strong documentation culture isn't about ticking a box; it’s about investing in the long-term health and success of your team and product. By shifting the mindset, integrating documentation into the workflow, and fostering a culture of knowledge sharing, you can unlock a significant competitive advantage.

@@ -6,7 +6,7 @@ It’s not a new concept – humans have learned from each other for millennia. 
 
 ## Why Peer Learning Groups Work (and Why They’re Different)
 
-Think about the typical learning scenarios for an engineering manager. You might attend a leadership workshop, read a book on Agile, or receive coaching. These are all *transmission* models – information flows *to* you. Peer learning flips this. It’s about *constructing* knowledge *with* others. 
+Think about the typical learning scenarios for an engineering manager. You might attend a leadership workshop, read a book on Agile, or receive coaching. These are all *transmission* models – information flows *to* you. Peer learning flips this. It’s about *constructing* knowledge *with* others.
 
 Here's why that matters:
 
@@ -40,8 +40,6 @@ Okay, you’re convinced. Now how do you actually *build* a peer learning group?
 
 5. **Leverage Free Resources**: Consider the following platforms to facilitate discussion. Teamwork.com offers integrated project management and chat features ideal for tracking action items and facilitating asynchronous discussions. Alternatively, GitHub can be useful for document storage and collaboration. There are a number of free tiers for small groups.
 
-
-
 ## Keeping the Momentum Going
 
 A peer learning group isn't a “set it and forget it” endeavor. Instead of simply maintaining the group, anticipate potential challenges. One common issue is maintaining consistent participation. Here's how to address it: proactively rotate facilitation responsibilities to keep everyone engaged. Another challenge is ensuring the group remains relevant. Regularly review the focus and adjust topics to align with evolving needs.  
@@ -54,6 +52,6 @@ Here are a few additional tips:
 * **Celebrate Successes:** Acknowledge and appreciate each other's progress.
 * **Be Patient:** It takes time to build trust and create a truly effective group.
 
-I've noticed a pattern in the best engineering managers: they are lifelong learners. They actively seek out opportunities to grow, and they understand the power of collaboration. Building a peer learning group is a powerful way to invest in your own development, and to help others do the same. It’s not about having all the answers; it’s about collaborative learning. 
+I've noticed a pattern in the best engineering managers: they are lifelong learners. They actively seek out opportunities to grow, and they understand the power of collaboration. Building a peer learning group is a powerful way to invest in your own development, and to help others do the same. It’s not about having all the answers; it’s about collaborative learning.
 
 Ready to build your own tribe? Start by identifying a few colleagues who share your development goals. Schedule a quick kick-off meeting, and commit to a regular cadence. What’s one area you’d like to explore with a peer learning group? Share your thoughts in the comments below!

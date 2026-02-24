@@ -27,14 +27,14 @@ To truly leverage bug rate, you need to move beyond simple counting and start *a
 **1. Bug Severity & Priority:** Not all bugs are created equal. Categorize them (Critical, High, Medium, Low) and assign priority accordingly. A surge in *critical* bugs is a far more serious concern than an increase in cosmetic issues. A Pareto chart visualizing bug severity distribution can be incredibly impactful.
 
 **2. Bug Origin/Type:** Where are the bugs coming from? Common categories include:
-    * **Functional Bugs:** The feature doesn't work as expected.
+    ***Functional Bugs:** The feature doesn't work as expected.
     * **Performance Bugs:** Slow response times, memory leaks.
-    * **Security Bugs:** Vulnerabilities that could be exploited.
-    * **Usability Bugs:** Issues with the user experience. 
-    * **Code Quality/Technical Debt Bugs:** Resulting from poor coding practices. 
+    ***Security Bugs:** Vulnerabilities that could be exploited.
+    * **Usability Bugs:** Issues with the user experience.
+    * **Code Quality/Technical Debt Bugs:** Resulting from poor coding practices.
 Identifying patterns in bug origin can point to specific areas where the team needs to improve its skills or processes.
 
-**3. Bug Injection & Detection Point:** When and how did the bug get introduced and discovered? Understanding both aspects is key. Encourage your team to utilize version control history to understand the origins of defects – this helps pinpoint when a bug was introduced. Tools like static analysis can proactively identify potential issues before they become bugs. Bugs found during unit tests indicate strong testing practices, while those discovered during integration tests highlight potential issues with how components interact. Production incidents, however, are a clear signal of a failure in the testing process. 
+**3. Bug Injection & Detection Point:** When and how did the bug get introduced and discovered? Understanding both aspects is key. Encourage your team to utilize version control history to understand the origins of defects – this helps pinpoint when a bug was introduced. Tools like static analysis can proactively identify potential issues before they become bugs. Bugs found during unit tests indicate strong testing practices, while those discovered during integration tests highlight potential issues with how components interact. Production incidents, however, are a clear signal of a failure in the testing process.
 
 **4. Bug Resolution Time:** How long does it take to fix bugs? Long resolution times can indicate complex issues, lack of expertise, or bottlenecks in the development process. A well-defined bug triage process can significantly impact resolution time by prioritizing and assigning bugs effectively.
 
@@ -48,15 +48,13 @@ Analyzing bug data isn't an end in itself. The real value lies in turning those 
 * **Foster Collaboration:** Encourage pair programming and thorough code reviews to catch bugs earlier in the development process.
 * **Prioritize Root Cause Analysis:** When a critical bug surfaces, don't just fix it – conduct a root cause analysis to understand *why* it happened and prevent similar issues in the future.
 
-
-
 ## The Human Side of Bug Rate
 
-Finally, remember that bug rate is a *metric*, not a weapon. Avoid using it to publicly shame or punish individuals. A culture of fear will discourage developers from reporting bugs, leading to even bigger problems down the line. 
+Finally, remember that bug rate is a *metric*, not a weapon. Avoid using it to publicly shame or punish individuals. A culture of fear will discourage developers from reporting bugs, leading to even bigger problems down the line.
 
 I once worked with a team where developers were incentivized to deliver features quickly, with little emphasis on quality. The result was a product riddled with bugs and a demoralized team. We shifted the focus to quality, emphasizing collaboration and continuous improvement, and the bug rate gradually decreased as the team regained its confidence and felt empowered to proactively address quality issues.
 
-Bug rate, when analyzed thoughtfully and used constructively, can be a powerful tool for driving quality, improving team performance, and building a more reliable product. But remember, it’s just one piece of the puzzle. 
+Bug rate, when analyzed thoughtfully and used constructively, can be a powerful tool for driving quality, improving team performance, and building a more reliable product. But remember, it’s just one piece of the puzzle.
 
 **Resources to Consider:**
 

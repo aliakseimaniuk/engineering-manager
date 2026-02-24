@@ -4,13 +4,13 @@ For those of us who’ve been building software for a couple of decades, the ter
 
 ## The “Collective Fiction” and the Need for Coherence
 
-The core idea, as highlighted in a 2011 Springer publication by McLeod and MacDonell (building on anonymous contributions), is that Waterfall, in many ways, was a "collective fiction." Think about it: Before readily available collaboration tools, distributed teams, and the widespread acceptance of iterative development, we *needed* a shared understanding of the plan. That large, upfront requirements document wasn't necessarily about predicting the future perfectly; it was about establishing a common language, aligning stakeholders, and creating a sense of stability. 
+The core idea, as highlighted in a 2011 Springer publication by McLeod and MacDonell (building on anonymous contributions), is that Waterfall, in many ways, was a "collective fiction." Think about it: Before readily available collaboration tools, distributed teams, and the widespread acceptance of iterative development, we *needed* a shared understanding of the plan. That large, upfront requirements document wasn't necessarily about predicting the future perfectly; it was about establishing a common language, aligning stakeholders, and creating a sense of stability.
 
 I remember early in my career, we’d spend weeks on a requirements document that everyone signed off on, not because it was perfect, but because it gave the *illusion* of control in a rapidly changing environment. In the transition from mainframes to open systems, for instance, teams struggled to define clear interfaces and data flows in an environment where standards were still evolving. Waterfall provided a framework for navigating these significant technological shifts. It was a pragmatic response to the challenges of the time, not a theological adherence to a rigid process.
 
 ## Why Early Waterfall Projects Often Failed: The Requirements Problem
 
-A key insight, and one I’ve repeatedly seen throughout my career, is that the failure of early Waterfall implementations often stemmed not from the *process* itself, but from flawed requirements gathering. As McLeod and MacDonell highlight, many projects attempted to redefine the business process *alongside* implementing new technology. That's a recipe for disaster. Software should *enable* a business process, not *dictate* it. 
+A key insight, and one I’ve repeatedly seen throughout my career, is that the failure of early Waterfall implementations often stemmed not from the *process* itself, but from flawed requirements gathering. As McLeod and MacDonell highlight, many projects attempted to redefine the business process *alongside* implementing new technology. That's a recipe for disaster. Software should *enable* a business process, not *dictate* it.
 
 We often failed when we tried to build something entirely new, instead of streamlining and automating what already worked. The large requirements document became a bloated attempt to map out a completely novel process, losing sight of the core functionality needed. This focus on redefining *how* things were done, rather than *what* needed to be done, was a common pitfall.
 
@@ -31,7 +31,7 @@ So, does that mean we should resurrect the rigid, document-heavy Waterfall of th
 
 ## Beyond Methodology: The Importance of Pragmatism
 
-Ultimately, the most important thing isn't *which* methodology you choose, but *how* you apply it. I've seen brilliant teams make Agile fail spectacularly, and I've seen Waterfall deliver impressive results. The key is to be pragmatic, adaptable, and focused on delivering value to the customer. 
+Ultimately, the most important thing isn't *which* methodology you choose, but *how* you apply it. I've seen brilliant teams make Agile fail spectacularly, and I've seen Waterfall deliver impressive results. The key is to be pragmatic, adaptable, and focused on delivering value to the customer.
 
 While Waterfall undoubtedly has a history of failures, dismissing it entirely overlooks valuable lessons and potential applications. Understand its strengths and weaknesses, adapt it to your specific needs, and always prioritize clear communication, collaboration, and a relentless focus on delivering a quality product.
 

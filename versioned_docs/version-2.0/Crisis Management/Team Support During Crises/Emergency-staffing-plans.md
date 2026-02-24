@@ -4,7 +4,7 @@ As engineering leaders, we spend a lot of time proactively *building* – featur
 
 ## Why Emergency Staffing Plans are Different for Engineering
 
-Traditional “emergency staffing” often revolves around customer service or operational roles, where the response is often task-based – following a defined procedure. Engineering faces unique challenges. It’s not about simply having *bodies* available; it’s about having *skilled* people who can quickly understand complex systems, diagnose issues, and implement solutions. Throwing a junior developer into a production outage, while well-intentioned, is rarely helpful. 
+Traditional “emergency staffing” often revolves around customer service or operational roles, where the response is often task-based – following a defined procedure. Engineering faces unique challenges. It’s not about simply having *bodies* available; it’s about having *skilled* people who can quickly understand complex systems, diagnose issues, and implement solutions. Throwing a junior developer into a production outage, while well-intentioned, is rarely helpful.
 
 Furthermore, engineering crises often aren't predictable “someone calls in sick” scenarios. They’re more likely to be triggered by:
 
@@ -13,7 +13,7 @@ Furthermore, engineering crises often aren't predictable “someone calls in sic
 * **Rapid, unplanned growth:** A surge in demand requiring immediate scaling.
 * **Security incidents:** Requiring urgent patching and investigation.
 
-These scenarios demand a different type of preparedness. 
+These scenarios demand a different type of preparedness.
 
 ## The Three Pillars of an Engineering Emergency Staffing Plan
 
@@ -39,15 +39,15 @@ On-call is often seen as a necessary evil. A well-structured rotation is crucial
 * **Tiered On-Call:** Implement tiers based on the *potential impact and required skillset* of an incident. A high-severity incident (e.g., system outage) requires the most experienced engineer; a minor bug can be handled by someone more junior.
 * **Primary & Secondary On-Call:**  Each incident should have a primary responder, but *always* have a secondary person available for escalation or support.  This prevents single points of failure.
 * **Handover Process:**  A clear handover process is *essential*. This should include a summary of recent activity, known issues, and any ongoing investigations.  Consider using a standardized handover template to ensure consistency. A short daily/weekly sync between the outgoing and incoming on-call engineer is invaluable.
-* **Post-Incident Review:**  After *every* incident, conduct a brief post-incident review. What went well? What could be improved? This feedback loop is crucial for refining the plan. 
+* **Post-Incident Review:**  After *every* incident, conduct a brief post-incident review. What went well? What could be improved? This feedback loop is crucial for refining the plan.
 
 **3. Proactive Cross-Training: Building Redundancy**
 
-This is where we move from reactive to proactive. Cross-training isn't about making everyone a full-stack developer; it's about ensuring that *multiple* engineers understand critical components of the system. 
+This is where we move from reactive to proactive. Cross-training isn't about making everyone a full-stack developer; it's about ensuring that *multiple* engineers understand critical components of the system.
 
 * **"Shadowing" Program:** Pair engineers with different areas of expertise. This allows knowledge transfer and builds redundancy.
 * **Documentation Focus:**  Prioritize clear, concise documentation.  Good documentation drastically reduces the time it takes to onboard someone to a new system. Encourage "docs as code" – treating documentation with the same rigor as production code. This means version control, automated testing, and regular review.
-* **Internal Knowledge Sharing Program:** Reward engineers for proactively identifying and documenting critical areas of the system that lack sufficient coverage. Consider a small reward or recognition program to encourage participation. 
+* **Internal Knowledge Sharing Program:** Reward engineers for proactively identifying and documenting critical areas of the system that lack sufficient coverage. Consider a small reward or recognition program to encourage participation.
 
 ## Real-World Example: The Unexpected Departure
 
@@ -55,12 +55,11 @@ I once led a team where our lead database engineer left unexpectedly. Without a 
 
 ## Don't Forget the Basics: Tools and Communication
 
-Effective incident response requires the right tools and clear communication channels. 
+Effective incident response requires the right tools and clear communication channels.
 
 * **Incident Management Platform:** Tools like PagerDuty, Opsgenie, or even basic ticketing systems are crucial for tracking and resolving incidents. Consider how these tools integrate with your on-call rotation and communication channels.
 * **Communication Channels:**  Establish clear communication channels (Slack, dedicated incident channels) for rapid response. Ensure everyone knows *where* to go for critical updates.
 * **Runbooks:**  Develop "runbooks" – step-by-step guides for common incidents. These should be easily accessible and regularly updated.
-
 
 **Free Plan Considerations:** When selecting tools, be mindful of scalability. Free plans can be a good starting point, but may lack features needed for robust incident management as your team grows.
 

@@ -1,6 +1,6 @@
 # CEO
 
-For many of us in engineering management, the CEO feels…distant. A figurehead in all-hands meetings, a name on company-wide emails, someone whose strategic decisions impact our teams but rarely involves direct, day-to-day interaction. It’s easy to fall into the trap of viewing the CEO as simply “the boss’s boss.” But a truly effective engineering leader understands *what* the CEO does, *why* they do it, and, crucially, *how to navigate that relationship* for the benefit of their team and the company. This isn’t about aspiring to *be* the CEO, but about becoming a better leader *by understanding* their priorities and challenges. 
+For many of us in engineering management, the CEO feels…distant. A figurehead in all-hands meetings, a name on company-wide emails, someone whose strategic decisions impact our teams but rarely involves direct, day-to-day interaction. It’s easy to fall into the trap of viewing the CEO as simply “the boss’s boss.” But a truly effective engineering leader understands *what* the CEO does, *why* they do it, and, crucially, *how to navigate that relationship* for the benefit of their team and the company. This isn’t about aspiring to *be* the CEO, but about becoming a better leader *by understanding* their priorities and challenges.
 
 ## The CEO's Core Responsibilities: Beyond Vision & Strategy
 
@@ -28,17 +28,16 @@ So, what does all this mean for you? Several things:
 
 The story of Blockbuster provides a stark illustration of this dynamic. John Antioco, the CEO who spearheaded the company’s foray into online rentals, understood the shifting landscape. However, he faced resistance from the board, who were heavily invested in protecting the existing brick-and-mortar business and its short-term profits. When Antioco was replaced by Jim Keyes, a retail specialist, the company doubled down on its physical stores, ultimately missing the opportunity to become a dominant player in the streaming market.
 
-This wasn’t simply a bad strategic decision; it was a failure of *aligned understanding*. The board, focused on preserving the current business model, lacked a full appreciation for the speed and magnitude of the disruption occurring in the market. Antioco’s attempts to communicate the long-term threat were dismissed as overly risky. Keyes, while a strong retail operator, lacked the vision to embrace the necessary transformation. This misalignment between perspectives at the executive and board levels directly impacted the company’s ability to adapt and ultimately led to its decline. 
+This wasn’t simply a bad strategic decision; it was a failure of *aligned understanding*. The board, focused on preserving the current business model, lacked a full appreciation for the speed and magnitude of the disruption occurring in the market. Antioco’s attempts to communicate the long-term threat were dismissed as overly risky. Keyes, while a strong retail operator, lacked the vision to embrace the necessary transformation. This misalignment between perspectives at the executive and board levels directly impacted the company’s ability to adapt and ultimately led to its decline.
 
 ## Building a Bridge: Proactive Communication & Relationship Building
 
-You don't need to become best friends with the CEO. But proactively building a professional relationship can be incredibly beneficial. 
+You don't need to become best friends with the CEO. But proactively building a professional relationship can be incredibly beneficial.
 
 * **Seek out opportunities to present your team's work directly to the CEO (or their direct reports).**
 * **Attend company-wide events and engage in conversations.**
 * **Be a thought leader – share your insights and perspectives.**
 
 The goal isn’t to curry favor, but to demonstrate your commitment to the company’s success and your ability to contribute at a strategic level.
-
 
 **In conclusion:** Understanding the CEO’s role isn’t about aspiring to their position. It’s about becoming a more effective engineering leader by appreciating the broader business context, proactively managing expectations, and building a strong relationship based on trust and transparency.  Start a conversation with your stakeholders to better align priorities and ensure your team’s work directly contributes to the company’s overall success.

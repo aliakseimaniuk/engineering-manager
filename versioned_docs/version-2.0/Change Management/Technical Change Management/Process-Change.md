@@ -1,12 +1,12 @@
 # Process Change
 
-Process. The word itself can elicit groans from engineers. For many, it feels like unnecessary bureaucracy, a stifling of creativity, and a distraction from *actually building things*. But as an engineering leader with over two decades of experience, I’ve seen firsthand that process isn't the enemy – *poorly implemented or unnecessary process* is. And the biggest challenge isn’t *having* a process, it’s *changing* one. 
+Process. The word itself can elicit groans from engineers. For many, it feels like unnecessary bureaucracy, a stifling of creativity, and a distraction from *actually building things*. But as an engineering leader with over two decades of experience, I’ve seen firsthand that process isn't the enemy – *poorly implemented or unnecessary process* is. And the biggest challenge isn’t *having* a process, it’s *changing* one.
 
 This post is for engineering leaders grappling with process change. It’s about how to introduce, adapt, or overhaul processes without triggering a revolt, crippling velocity, or – worst of all – losing the trust of your team. It’s a tightrope walk, requiring empathy, transparency, and a healthy dose of pragmatism.
 
 ## The Allure & The Peril of Process
 
-Let's acknowledge the inherent tension. On one hand, a well-defined process provides structure, predictability, and a shared understanding of how work gets done. It allows for better estimation, risk management, and scalability. As Kaur and Sengupta (2011) highlight, establishing clear roles and processes *before* success is crucial (p. 2.2-2.8). Think of it as “workflows as code” - free to run, and powerful when executed correctly. 
+Let's acknowledge the inherent tension. On one hand, a well-defined process provides structure, predictability, and a shared understanding of how work gets done. It allows for better estimation, risk management, and scalability. As Kaur and Sengupta (2011) highlight, establishing clear roles and processes *before* success is crucial (p. 2.2-2.8). Think of it as “workflows as code” - free to run, and powerful when executed correctly.
 
 However, Kaur and Sengupta’s research also points to a critical flaw: teams often become paralyzed by process when the focus shifts *to* the process itself rather than the desired outcome. I've seen teams become consumed by documentation requirements, endlessly debating minor changes in meetings, and ultimately delivering less value. There's a cynical truth in the quote, attributed to Tom DeMarco in *Slack Time*, "They are just something we tell customers because they are appalled when we admit that our software is developed in a chaotic and unprofessional manner." We sometimes adopt process *for appearances* instead of genuine improvement.
 
@@ -34,21 +34,19 @@ To avoid these pitfalls, consider this framework:
 
 **6. Transparency & Communication:** Keep your team informed throughout the entire process. Explain the rationale behind the changes, solicit their feedback, and be honest about any challenges.
 
-
-
 ## A Word of Caution: The "Just Work It Out" Trap
 
 While autonomy is important, simply telling engineers "you just work it out" often leads to chaos and instability. A lack of structure can be just as detrimental as excessive bureaucracy.  This approach neglects the benefits of shared understanding, consistent quality, and long-term maintainability. The sweet spot lies in finding the right balance – a process that provides enough guidance and structure without stifling creativity or hindering velocity. It’s about acknowledging that a lack of process, while seemingly liberating, can introduce hidden costs in the form of technical debt, inconsistent results, and knowledge silos.
 
 ## Final Thoughts
 
-Process change is rarely easy. It requires a delicate balance of leadership, empathy, and pragmatism. Remember that your team isn’t resisting change; they’re resisting *poorly implemented* change. By involving them in the process, focusing on outcomes, and being open to feedback, you can navigate this tightrope walk and create a more efficient, effective, and engaged engineering team. 
+Process change is rarely easy. It requires a delicate balance of leadership, empathy, and pragmatism. Remember that your team isn’t resisting change; they’re resisting *poorly implemented* change. By involving them in the process, focusing on outcomes, and being open to feedback, you can navigate this tightrope walk and create a more efficient, effective, and engaged engineering team.
 
-What's one small change you can make this week to improve your team's process? Consider which existing process in your organization could benefit from a timeboxed exploration. 
+What's one small change you can make this week to improve your team's process? Consider which existing process in your organization could benefit from a timeboxed exploration.
 
 **Illustration Idea:** A simple diagram illustrating the “Process Spectrum” – ranging from “Chaotic/No Process” to “Rigid/Bureaucratic” with an “Optimal Zone” highlighting the desired balance.
 
 **Further Reading:**
 
-*   Kaur, P., & Sengupta, D. (2011). A framework for agile project management using lean principles. *International Journal of Lean Six Sigma*, *2*(1), 83–106.
-*   DeMarco, T. (1982). *Slack Time*. Prentice Hall.
+* Kaur, P., & Sengupta, D. (2011). A framework for agile project management using lean principles. *International Journal of Lean Six Sigma*, *2*(1), 83–106.
+* DeMarco, T. (1982). *Slack Time*. Prentice Hall.

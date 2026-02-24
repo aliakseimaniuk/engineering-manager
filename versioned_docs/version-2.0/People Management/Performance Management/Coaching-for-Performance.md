@@ -6,7 +6,7 @@ Too often, performance conversations feel like post-mortems focused on *what* we
 
 ## The Coaching-Feedback Distinction
 
-Let's be clear: feedback *has* its place. Direct, constructive feedback is vital for correcting course quickly. But it's transactional. You identify a gap, point it out, and expect correction. Coaching, on the other hand, is relational and developmental. It's about understanding an individual's goals, identifying obstacles, and collaboratively exploring solutions. 
+Let's be clear: feedback *has* its place. Direct, constructive feedback is vital for correcting course quickly. But it's transactional. You identify a gap, point it out, and expect correction. Coaching, on the other hand, is relational and developmental. It's about understanding an individual's goals, identifying obstacles, and collaboratively exploring solutions.
 
 Think of it this way:
 
@@ -17,7 +17,7 @@ See the difference? The second approach invites dialogue, fosters learning, and 
 
 ## A Simple Coaching Framework: GROW
 
-I’ve found the GROW model incredibly useful in structuring coaching conversations. Developed by Sir John Whitmore, it’s simple, adaptable, and keeps the conversation focused and productive. 
+I’ve found the GROW model incredibly useful in structuring coaching conversations. Developed by Sir John Whitmore, it’s simple, adaptable, and keeps the conversation focused and productive.
 
 * **G – Goal:** What does the individual want to achieve? Be specific. This isn’t about company objectives; it's about *their* personal and professional aspirations within the context of their work. “I want to become more comfortable leading technical design discussions” is far more impactful than simply “improve my communication skills.”
 * **R – Reality:** What is the current situation?  Honest self-assessment is key.  Ask questions like, “What’s working well?” and “What’s holding you back?”  This is about understanding the gaps between their aspirations and their current performance. Resist the urge to jump in with your own assessment; let them articulate their perspective.
@@ -32,19 +32,17 @@ Effective coaching requires more than just a framework. It's about consistently 
 
 **Powerful Questioning:** Don't give answers; ask questions that encourage self-reflection and problem-solving. "What have you tried so far?" "What are the potential consequences of each option?" "What support do you need from me?"
 
-**Empathy and Curiosity:** Approach each conversation with genuine curiosity and a desire to understand the individual's perspective. Assume positive intent. 
+**Empathy and Curiosity:** Approach each conversation with genuine curiosity and a desire to understand the individual's perspective. Assume positive intent.
 
 **Focus on Strengths:** While addressing areas for improvement is important, also acknowledge and build upon existing strengths. This fosters confidence and motivation.
 
 **Regular Check-ins:** Don't wait for formal performance reviews to have coaching conversations. Schedule regular one-on-ones dedicated to growth and development.
 
-
-
 ## Shifting From "Doing" to "Developing"
 
 It’s easy to fall into the trap of being a solver – jumping in to fix problems and keep things moving. But constantly doing *for* your team prevents them from growing and developing their own skills.  
 
-I remember a junior engineer, David, who consistently struggled with estimating task durations. My initial instinct was to help him break down tasks and provide more realistic timelines. Instead, I started asking him questions: "What assumptions did you make when estimating this task?" "What potential roadblocks do you foresee?" "What data can you use to refine your estimate?" It took longer initially, but David quickly learned to anticipate challenges and provide more accurate estimates. He wasn’t just completing tasks; he was developing a valuable skill. While this approach worked well for David, adapting to individual learning styles is crucial. 
+I remember a junior engineer, David, who consistently struggled with estimating task durations. My initial instinct was to help him break down tasks and provide more realistic timelines. Instead, I started asking him questions: "What assumptions did you make when estimating this task?" "What potential roadblocks do you foresee?" "What data can you use to refine your estimate?" It took longer initially, but David quickly learned to anticipate challenges and provide more accurate estimates. He wasn’t just completing tasks; he was developing a valuable skill. While this approach worked well for David, adapting to individual learning styles is crucial.
 
 ## Final Thoughts
 

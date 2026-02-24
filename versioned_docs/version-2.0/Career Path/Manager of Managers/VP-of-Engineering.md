@@ -6,7 +6,7 @@ This isn’t about becoming a better coder, though a strong technical foundation
 
 ## The Shift in Perspective: From Deep Work to System Design
 
-Early in your career, success is defined by *output*. You deliver features, fix bugs, write elegant code. As you move into management, success is measured by *team output*. You focus on process, unblocking your team, and keeping projects on track. 
+Early in your career, success is defined by *output*. You deliver features, fix bugs, write elegant code. As you move into management, success is measured by *team output*. You focus on process, unblocking your team, and keeping projects on track.
 
 Becoming a VP shifts *again*. Now, your primary goal isn't *what* gets built, but *how* the engineering organization itself operates. You're responsible for the *system* of engineering: the people, the processes, the culture, and the tools. Think of it like this: you're no longer designing a single feature; you’re architecting the entire platform for *all* features.
 
@@ -35,10 +35,10 @@ This means:
 
 ## The Two Types of Process-Focused Engineers
 
-Interestingly, I've observed two distinct types of engineers who take process very seriously. The first are those striving for efficiency and quality. They see process as a means to an end – a way to deliver better software faster. The second genuinely *love* the process itself. While not inherently bad, this can sometimes lead to over-engineering and bureaucracy. As a VP, you need to be able to distinguish between these two approaches. Those focused on outcomes will readily adapt a process if it's hindering delivery, while those who love the process will often defend it regardless of its impact. Fostering a culture that prioritizes outcomes over process is key. 
+Interestingly, I've observed two distinct types of engineers who take process very seriously. The first are those striving for efficiency and quality. They see process as a means to an end – a way to deliver better software faster. The second genuinely *love* the process itself. While not inherently bad, this can sometimes lead to over-engineering and bureaucracy. As a VP, you need to be able to distinguish between these two approaches. Those focused on outcomes will readily adapt a process if it's hindering delivery, while those who love the process will often defend it regardless of its impact. Fostering a culture that prioritizes outcomes over process is key.
 
 ## Final Thoughts
 
-Becoming a VP of Engineering isn't just about climbing the ladder. It's about embracing a new mindset, developing new skills, and taking on a new level of responsibility. It's about moving beyond the code and focusing on building a high-performing engineering organization that can deliver innovative products and drive business growth.  It’s about proactively fighting entropy and creating a sustainable system for building great software – not just today, but for years to come. 
+Becoming a VP of Engineering isn't just about climbing the ladder. It's about embracing a new mindset, developing new skills, and taking on a new level of responsibility. It's about moving beyond the code and focusing on building a high-performing engineering organization that can deliver innovative products and drive business growth.  It’s about proactively fighting entropy and creating a sustainable system for building great software – not just today, but for years to come.
 
 What is one area where you can start shifting your focus from *building* to *enabling*?

@@ -4,7 +4,7 @@ For two decades, I've seen engineering teams ride the waves of technological cha
 
 ## The Pitfalls of "Learning From Experience" (Or Not Learning At All)
 
-Interestingly, research from Jørgensen and Sjøberg (2000) highlighted something counterintuitive: teams don’t *automatically* learn from experience. We tend to repeat patterns, even those that didn’t work well, unless we consciously intervene. We fall into comfortable routines, and genuinely reflecting on *why* something happened – not just *that* it happened – often gets lost in the rush to deliver. 
+Interestingly, research from Jørgensen and Sjøberg (2000) highlighted something counterintuitive: teams don’t *automatically* learn from experience. We tend to repeat patterns, even those that didn’t work well, unless we consciously intervene. We fall into comfortable routines, and genuinely reflecting on *why* something happened – not just *that* it happened – often gets lost in the rush to deliver.
 
 Think about a recent incident in your team. Did the post-mortem genuinely uncover the root cause and preventative measures, or did it just bandage the symptom?  Were the action items *actually* implemented, or did they languish on a list? It’s easy to *think* we’ve learned, but far harder to demonstrably change behavior.
 

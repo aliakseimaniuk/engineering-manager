@@ -4,9 +4,9 @@ After three decades in IT, I’ve seen a *lot* of systems come and go. But the s
 
 Too often, "legacy system retirement" evokes images of frantic migrations, late-night fire drills, and a general sense of dread. But it doesn’t have to be that way. With careful planning, empathetic leadership, and a clear strategic vision, you can transform this potentially painful process into an opportunity for growth and renewal.
 
-**Why Legacy Retirement is So Hard (and Why Leaders Fail)**
+## Why Legacy Retirement is So Hard (and Why Leaders Fail)
 
-Before diving into *how* to retire a legacy system, let’s acknowledge *why* it's so difficult. It's not just technical debt; it’s emotional, political, and often, career-related. 
+Before diving into *how* to retire a legacy system, let’s acknowledge *why* it's so difficult. It's not just technical debt; it’s emotional, political, and often, career-related.
 
 * **The "If It Ain't Broke..." Mentality:** Many teams operate under the misguided belief that a functioning (even if fragile) system is better than the risk of change.
 * **Tribal Knowledge:** Critical system knowledge often resides in the heads of a few long-tenured individuals. Losing those people *before* documenting the system is a recipe for disaster.  Proactive knowledge transfer is key – implement documentation sprints, encourage mentoring programs, and utilize pair programming to disseminate expertise.
@@ -16,7 +16,7 @@ Before diving into *how* to retire a legacy system, let’s acknowledge *why* it
 
 Leaders fail when they treat this as purely a technical problem. They underestimate the human element and fail to address the anxieties and concerns of those affected. It's also crucial to acknowledge the emotional investment teams have in systems they've maintained for years; recognize their dedication and validate their expertise throughout the process.
 
-**A Phased Approach to Legacy System Retirement**
+## A Phased Approach to Legacy System Retirement
 
 I've found a phased approach consistently yields the best results. Think of it less like ripping off a bandage and more like a carefully orchestrated evolution.
 
@@ -55,12 +55,10 @@ This is where the rubber meets the road.
 
 **Key Takeaway:** Careful execution and continuous monitoring are critical for ensuring a smooth transition and realizing the benefits of retirement.
 
-**Thinking Long Term: Durability and the Future**
+## Thinking Long Term: Durability and the Future
 
 As you embark on retirement, also consider the longevity of your replacement solution. Are you simply swapping one technical debt for another? Durability – the defensibility of your market position 10-20 years into the future – should be a critical consideration. Choose solutions that are adaptable, scalable, and supported by a healthy ecosystem.
 
-**Final Thoughts**
+## Final Thoughts
 
 Retiring legacy systems is rarely easy, but it’s a necessary part of keeping your technology stack modern and your business competitive. By approaching the process with empathy, strategic planning, and a focus on long-term durability, you can transform a potentially painful experience into an opportunity for growth and innovation. Remember, it's not just about removing old code; it’s about building a better future.
-
-**Take Action:** Start assessing your own legacy systems today. Download our free Legacy System Assessment Checklist to get started [link to checklist].

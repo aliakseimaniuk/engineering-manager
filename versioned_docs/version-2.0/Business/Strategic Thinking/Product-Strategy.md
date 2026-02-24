@@ -2,15 +2,15 @@
 
 For engineering leaders, “product strategy” can often feel like a buzzword tossed around by product managers. We’re focused on *building* – on tackling technical challenges and delivering features on time. But a truly effective product strategy isn’t just a list of features; it’s the foundation upon which successful engineering execution is built. It’s the difference between frantically building *something* and deliberately building the *right* thing.
 
-I remember a conversation with a VP Engineering at a friend’s company. He lamented that his team had just spent three months building a complex reporting feature… only to discover that their key competitor had already released something similar, and their customers weren’t asking for it. The team had executed flawlessly, but on the wrong problem. That’s a painful reminder that even the most talented engineers can spin their wheels without a clear product strategy. 
+I remember a conversation with a VP Engineering at a friend’s company. He lamented that his team had just spent three months building a complex reporting feature… only to discover that their key competitor had already released something similar, and their customers weren’t asking for it. The team had executed flawlessly, but on the wrong problem. That’s a painful reminder that even the most talented engineers can spin their wheels without a clear product strategy.
 
 Over my two decades in engineering leadership, I've seen countless teams fall into this trap. It’s easy to focus on what *can* be built, rather than *should* be built. This article will outline how to move beyond feature-factory thinking and build a product strategy that delivers real value.
 
 ## The Problem with Infrastructure-First Thinking
 
-Many organizations – particularly established ones – prioritize foundational work. Think infrastructure upgrades, security audits, financial planning. While crucial, these activities can create a paradoxical slowdown. They *promise* future velocity but often *delay* delivering anything meaningful to users. 
+Many organizations – particularly established ones – prioritize foundational work. Think infrastructure upgrades, security audits, financial planning. While crucial, these activities can create a paradoxical slowdown. They *promise* future velocity but often *delay* delivering anything meaningful to users.
 
-I remember a project at a previous company where we spent six months “future-proofing” our platform. The idea was to build a scalable foundation that would allow us to rapidly deploy new features. When we finally *did* have features to deploy, the market had shifted. Our meticulously crafted foundation supported a product nobody wanted anymore.  We'd optimized for a future that never arrived, losing valuable time and market share to more agile competitors. 
+I remember a project at a previous company where we spent six months “future-proofing” our platform. The idea was to build a scalable foundation that would allow us to rapidly deploy new features. When we finally *did* have features to deploy, the market had shifted. Our meticulously crafted foundation supported a product nobody wanted anymore.  We'd optimized for a future that never arrived, losing valuable time and market share to more agile competitors.
 
 This isn't to say foundational work is bad. It’s about *balance*. The danger lies in letting infrastructure become an end in itself, obscuring the need to get something valuable into the hands of users as quickly as possible.
 
@@ -29,11 +29,11 @@ A brilliant product is useless if nobody can access it. This is where many teams
 
 I was reading a quote recently that resonated deeply: “If you’ve invented something new but you haven’t invented an effective way to sell it, you have a bad business.”  Steve Jobs famously said this, highlighting the importance of a complete product solution, not just a technically impressive one. Think about how your product will reach your target audience. Is it through an app store? A web platform? Direct sales? Partnerships?  
 
-Consider how you'll foster *discoverability* *within* your product as well.  Good internal search, relevant recommendations, and intuitive navigation are crucial for driving user engagement. 
+Consider how you'll foster *discoverability* *within* your product as well.  Good internal search, relevant recommendations, and intuitive navigation are crucial for driving user engagement.
 
 ## The Importance of Organizational Alignment
 
-It’s easy to fall into the trap of simply executing tasks assigned to you, even if they don’t align with the overall product strategy. This misalignment can manifest in seemingly harmless ways – like being asked to count Apple parts after being promised a promotion for a critical project. These requests aren’t malicious, but they highlight a crucial point: a disconnect between individual skills, strategic goals, and actual work. 
+It’s easy to fall into the trap of simply executing tasks assigned to you, even if they don’t align with the overall product strategy. This misalignment can manifest in seemingly harmless ways – like being asked to count Apple parts after being promised a promotion for a critical project. These requests aren’t malicious, but they highlight a crucial point: a disconnect between individual skills, strategic goals, and actual work.
 
 As engineering leaders, we need to ensure that our team's work is directly tied to the product strategy and that individual contributions are valued and aligned with company objectives. This requires clear communication and a willingness to challenge requests that don’t contribute to the overall vision. It also means proactively communicating the *why* behind the work, connecting individual tasks to the larger strategic goals.
 
@@ -41,10 +41,10 @@ As engineering leaders, we need to ensure that our team's work is directly tied 
 
 Building a successful product isn’t about technical prowess alone. It's about aligning engineering efforts with a clear, outcome-driven product strategy. This means:
 
-*   Shifting the focus from features to outcomes.
-*   Prioritizing ruthlessly based on impact.
-*   Integrating distribution into the product strategy.
-*   Ensuring individual contributions are aligned with company objectives.
+* Shifting the focus from features to outcomes.
+* Prioritizing ruthlessly based on impact.
+* Integrating distribution into the product strategy.
+* Ensuring individual contributions are aligned with company objectives.
 
 Specifically, this involves actively participating in product strategy discussions, advocating for a clear and measurable roadmap, and fostering open communication between engineering, product, and other key stakeholders.
 

@@ -15,9 +15,7 @@ Too often, professional development feels *reactive*. Someone mentions a cool ne
 
 ## A Proactive Approach: The Skill-Goal Matrix
 
-The key is to shift from a reactive to a proactive mindset. I've found the “Skill-Goal Matrix” to be a highly effective framework. It’s simple, but powerful. 
-
-**(Suggest Visual: A 2x2 matrix with axes: "Impact to Team Goals" (Low to High) and "Individual Growth" (Low to High). Each quadrant represents a different prioritization level.)**
+The key is to shift from a reactive to a proactive mindset. I've found the “Skill-Goal Matrix” to be a highly effective framework. It’s simple, but powerful.
 
 Here's how it works:
 
@@ -47,6 +45,4 @@ I’ve also found success with a “skills trade” approach. Sometimes, the bes
 
 ## Final Thoughts
 
-Investing in your team's professional development isn't just about keeping up with the latest technologies. It's about building a motivated, skilled, and adaptable team that can tackle any challenge. By shifting from a reactive to a proactive approach, leveraging available resources strategically, and fostering a culture of continuous learning, you can unlock the full potential of your engineering team and drive innovation for years to come. 
-
-**Ready to get started? Download our Skill-Goal Matrix template [link] to start prioritizing learning for your team today.**
+Investing in your team's professional development isn't just about keeping up with the latest technologies. It's about building a motivated, skilled, and adaptable team that can tackle any challenge. By shifting from a reactive to a proactive approach, leveraging available resources strategically, and fostering a culture of continuous learning, you can unlock the full potential of your engineering team and drive innovation for years to come.

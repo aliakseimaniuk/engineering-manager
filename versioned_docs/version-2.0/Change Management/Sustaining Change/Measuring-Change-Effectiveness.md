@@ -8,7 +8,7 @@ This article isn’t about *how* to run retrospectives (plenty of resources alre
 
 ## The Problem with Feeling "Good"
 
-The core issue is that most retrospective action items live in a task tracker, get marked “done,” and then…aren’t followed up on. We *assume* improvement simply because we *held* a retrospective. This is a dangerous assumption. Without quantifiable evidence, we’re operating on hope, not data. 
+The core issue is that most retrospective action items live in a task tracker, get marked “done,” and then…aren’t followed up on. We *assume* improvement simply because we *held* a retrospective. This is a dangerous assumption. Without quantifiable evidence, we’re operating on hope, not data.
 
 I once led a team that spent months refining its code review process through rigorous retrospectives. We implemented checklists, peer review guidelines, and even a rotating “lead reviewer” role. We *felt* more thorough. But until we tracked bug escape rates *before* and *after* the changes, we couldn't definitively say if the effort translated into fewer production issues. The data revealed a surprisingly small improvement – indicating we needed to revisit our approach.
 
@@ -18,10 +18,10 @@ Here’s a practical framework I’ve adapted over the years, moving from identi
 
 **1. Define a Baseline:** *Before* you implement any changes stemming from a retrospective, establish a baseline metric. What are you trying to improve? Be specific. Examples:
 
-*   **Cycle Time:** How long does it take to move a story from "In Progress" to "Done"? (Note: Clearly defining “Done” is crucial for accurate measurement.)
-*   **Bug Escape Rate:** Number of bugs reported in production per 1000 lines of code.
-*   **Code Complexity:** Using a tool like SonarQube to measure maintainability.
-*   **Team Happiness:** (Measured via regular, short pulse surveys - more on that later.)
+* **Cycle Time:** How long does it take to move a story from "In Progress" to "Done"? (Note: Clearly defining “Done” is crucial for accurate measurement.)
+* **Bug Escape Rate:** Number of bugs reported in production per 1000 lines of code.
+* **Code Complexity:** Using a tool like SonarQube to measure maintainability.
+* **Team Happiness:** (Measured via regular, short pulse surveys - more on that later.)
 
 **2.  Identify Key Metrics – and Limit Them:** Don’t boil the ocean. Choose 1-3 metrics directly tied to the problems identified in your retrospective. More than that and it becomes difficult to track meaningful changes.
 

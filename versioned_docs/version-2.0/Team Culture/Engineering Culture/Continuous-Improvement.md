@@ -4,13 +4,13 @@ For two decades I’ve led engineering teams, and I’ve learned a fundamental t
 
 ## The Cost of Ignoring the “Three-Time Rule”
 
-I once worked with a brilliant engineer, let's call her Sarah, who consistently identified opportunities to streamline our build process. Each suggestion was solid, well-reasoned, and would have saved us valuable CI/CD time. But they were relatively small changes – reducing a single script runtime by a few seconds, optimizing a particular dependency update. Management, focused on larger feature launches, consistently deferred these improvements. 
+I once worked with a brilliant engineer, let's call her Sarah, who consistently identified opportunities to streamline our build process. Each suggestion was solid, well-reasoned, and would have saved us valuable CI/CD time. But they were relatively small changes – reducing a single script runtime by a few seconds, optimizing a particular dependency update. Management, focused on larger feature launches, consistently deferred these improvements.
 
 After the third time her suggestion was dismissed, Sarah quietly started looking for a new job. She wasn't leaving because of *one* rejection, but because a pattern had emerged: her initiative wasn’t valued. It signaled that the company wasn't truly open to bottom-up improvement. This is what I call the “Three-Time Rule.” When someone consistently brings thoughtful improvements to the table, and those improvements are repeatedly ignored, they’ll eventually realize their contributions aren’t valued and move on. Losing that proactive energy is far more costly than implementing the improvements themselves.
 
 ## Beyond Retrospectives: Making Improvement a Daily Habit
 
-Many teams conduct retrospectives – and that's fantastic. But retrospectives can become a “check-the-box” exercise if the identified action items are never actually *implemented*. A study by Lassenius & colleagues highlighted this very problem – the study found that teams frequently *discuss* improvements during retrospectives, but rarely translate those discussions into concrete action. 
+Many teams conduct retrospectives – and that's fantastic. But retrospectives can become a “check-the-box” exercise if the identified action items are never actually *implemented*. A study by Lassenius & colleagues highlighted this very problem – the study found that teams frequently *discuss* improvements during retrospectives, but rarely translate those discussions into concrete action.
 
 The key is to move beyond episodic retros to building a daily habit of incremental improvement. But how do you make that shift? Here's how:
 
@@ -22,10 +22,10 @@ The key is to move beyond episodic retros to building a daily habit of increment
 
 ## Data-Driven Improvement: Validating Ideas and Building a Competitive Advantage
 
-Remember, not every improvement idea will be a home run. That's why it's important to test out new ideas with small experiments to validate the expected benefit. This could involve A/B testing, monitoring key metrics, or simply gathering feedback from a small group of users. 
+Remember, not every improvement idea will be a home run. That's why it's important to test out new ideas with small experiments to validate the expected benefit. This could involve A/B testing, monitoring key metrics, or simply gathering feedback from a small group of users.
 
-This principle is crucial for building a competitive advantage. In a rapidly changing market, the ability to adapt and innovate is paramount. Teams that are constantly seeking ways to refine their processes and improve their products will be better positioned to respond to new challenges and opportunities. This rings true when examining why many cleantech companies failed – they often lacked a process for continuously refining their technology based on market feedback. While radical innovation is vital, neglecting constant refinement can be equally damaging. 
+This principle is crucial for building a competitive advantage. In a rapidly changing market, the ability to adapt and innovate is paramount. Teams that are constantly seeking ways to refine their processes and improve their products will be better positioned to respond to new challenges and opportunities. This rings true when examining why many cleantech companies failed – they often lacked a process for continuously refining their technology based on market feedback. While radical innovation is vital, neglecting constant refinement can be equally damaging.
 
-In conclusion, building a culture of continuous improvement isn't about chasing perfection. It’s about fostering a mindset of relentless optimization, empowering every engineer to contribute, and validating improvements with data. It’s about recognizing that the cumulative effect of small changes can be far greater than any single breakthrough innovation. And, crucially, it’s about demonstrating to your team that their ideas matter. 
+In conclusion, building a culture of continuous improvement isn't about chasing perfection. It’s about fostering a mindset of relentless optimization, empowering every engineer to contribute, and validating improvements with data. It’s about recognizing that the cumulative effect of small changes can be far greater than any single breakthrough innovation. And, crucially, it’s about demonstrating to your team that their ideas matter.
 
 It’s not always easy to prioritize small improvements, but the long-term benefits are significant. So, what’s one small inefficiency your team can address this week? Share your ideas with your team and start building a culture of continuous improvement.

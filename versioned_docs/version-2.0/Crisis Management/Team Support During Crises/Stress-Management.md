@@ -1,19 +1,18 @@
 # Stress Management
 
-Stress. It’s the constant companion of any engineering manager, especially when navigating a crisis. We’re responsible for technical direction, team performance, and ultimately, delivering solutions under pressure. But the traditional “stress management” advice – deep breaths, mindfulness apps, work-life balance – often feels… insufficient. Especially when the fire is *already* raging. 
+Stress. It’s the constant companion of any engineering manager, especially when navigating a crisis. We’re responsible for technical direction, team performance, and ultimately, delivering solutions under pressure. But the traditional “stress management” advice – deep breaths, mindfulness apps, work-life balance – often feels… insufficient. Especially when the fire is *already* raging.
 
-Imagine this: it’s 9 PM on a Friday, and production is down. Alerts are firing, the team chat is blowing up, and you’re fielding urgent requests from stakeholders. Sound familiar? This isn’t a hypothetical; it's the reality for many engineering leaders. And in those moments, simply *trying* to stay calm isn’t enough. 
+Imagine this: it’s 9 PM on a Friday, and production is down. Alerts are firing, the team chat is blowing up, and you’re fielding urgent requests from stakeholders. Sound familiar? This isn’t a hypothetical; it's the reality for many engineering leaders. And in those moments, simply *trying* to stay calm isn’t enough.
 
 This isn't about eliminating stress; that's unrealistic. It’s about building an *antifragile* routine – a system that doesn’t just withstand stress, but *improves* with it. A routine that, like a well-designed system, delivers focus when you need it, and allows for critical recovery when things calm down.  For engineering managers, building this resilience isn’t just about personal wellbeing; it’s about leading a high-performing team and minimizing costly outages.
 
 ## Beyond "Balance": The Focus-Relax Cycle
 
-The concept of "work-life balance" is often presented as a static equilibrium. You tip too far one way, you course correct. But life, especially for an engineering leader, isn’t static. Instead, think in terms of a cyclical pattern: focused work, followed by deliberate recovery. 
+The concept of "work-life balance" is often presented as a static equilibrium. You tip too far one way, you course correct. But life, especially for an engineering leader, isn’t static. Instead, think in terms of a cyclical pattern: focused work, followed by deliberate recovery.
 
 I've found this isn’t something you *achieve*, but something you *engineer* into your life. It's about recognizing that your capacity for focus is finite. Pushing relentlessly will eventually lead to burnout, impaired judgment, and ultimately, a worse outcome during a crisis. This cyclical approach isn't always easy – it requires discipline and intentionality – but the long-term benefits are significant.
 
-Think of it like a factory. If the machines run constantly at max capacity, they break down. Scheduled maintenance, even short breaks, are essential. Similarly, *you* need scheduled "maintenance" – time for true disengagement, recharging, and perspective. 
-
+Think of it like a factory. If the machines run constantly at max capacity, they break down. Scheduled maintenance, even short breaks, are essential. Similarly, *you* need scheduled "maintenance" – time for true disengagement, recharging, and perspective.
 
 ## Engineering Your Routine: Practical Steps
 
@@ -29,7 +28,7 @@ So, how do you build this cyclical routine? Here's what I've found effective:
 
 I once worked at a company where the engineering teams were consistently responding to the same types of production incidents. The management team acknowledged the issue, but failed to address the underlying causes. This felt eerily reminiscent of the factory worker complaints mentioned earlier – acknowledgement without action. The cycle continued, leading to increased burnout and hindering the team’s ability to innovate. This lack of systemic improvement didn’t just create more fires; it made the entire system *more fragile*, less able to withstand unexpected shocks.
 
-This experience reinforced the importance of the post-incident reflection loop. Identifying and addressing systemic issues is crucial for preventing future crises. 
+This experience reinforced the importance of the post-incident reflection loop. Identifying and addressing systemic issues is crucial for preventing future crises.
 
 ## Stay Lean, Stay Flexible
 

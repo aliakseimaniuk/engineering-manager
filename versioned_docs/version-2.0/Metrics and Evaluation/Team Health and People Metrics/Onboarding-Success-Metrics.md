@@ -1,8 +1,8 @@
 # Onboarding Success Metrics
 
-For over two decades, I’ve watched engineering teams rise and fall. And a surprisingly consistent theme separates the successful ones from those that struggle? How effectively they onboard new hires. It’s not just about getting someone through the paperwork and setting up their workstation. It’s about rapidly integrating them into the *fabric* of the team, accelerating their contribution, and setting them up for long-term success. 
+For over two decades, I’ve watched engineering teams rise and fall. And a surprisingly consistent theme separates the successful ones from those that struggle? How effectively they onboard new hires. It’s not just about getting someone through the paperwork and setting up their workstation. It’s about rapidly integrating them into the *fabric* of the team, accelerating their contribution, and setting them up for long-term success.
 
-The cost of a bad hire can be significant—often exceeding $240,000. Effective onboarding is the first line of defense against that risk. I’ve seen too many organizations treat onboarding as a checklist item, focused solely on *completion* rather than *impact*. They wonder why new hires take months to become truly productive, or worse, why they disengage and leave. The solution? Move beyond simplistic “did it work?” assessments and define concrete, measurable onboarding success metrics. 
+The cost of a bad hire can be significant—often exceeding $240,000. Effective onboarding is the first line of defense against that risk. I’ve seen too many organizations treat onboarding as a checklist item, focused solely on *completion* rather than *impact*. They wonder why new hires take months to become truly productive, or worse, why they disengage and leave. The solution? Move beyond simplistic “did it work?” assessments and define concrete, measurable onboarding success metrics.
 
 This isn’t about adding more bureaucracy. It’s about strategically tracking what *really* matters, allowing you to refine your onboarding process and maximize the return on your investment in new talent.
 
@@ -67,11 +67,10 @@ You don't need complex tools to get started. Here are a few options:
 
 ## Beyond the Numbers: Qualitative Insights are Key
 
-While these metrics provide valuable data, remember that onboarding is ultimately a human process. Don't rely solely on numbers. Regular 1:1s, open communication, and actively soliciting feedback are essential. 
+While these metrics provide valuable data, remember that onboarding is ultimately a human process. Don't rely solely on numbers. Regular 1:1s, open communication, and actively soliciting feedback are essential.
 
-I’ve learned over the years that the most successful onboarding programs are those that prioritize building relationships, fostering belonging, and providing ongoing support. 
+I’ve learned over the years that the most successful onboarding programs are those that prioritize building relationships, fostering belonging, and providing ongoing support.
 
 **Final Thoughts:**
 
 Investing in a robust onboarding program with clearly defined success metrics isn't just a nice-to-have; it’s a strategic imperative.  Start by identifying three key metrics to track in the first month. By focusing on outcomes, tracking progress, and continuously refining your process, you can dramatically improve the performance, engagement, and retention of your engineering teams.  What steps will *you* take this week to improve your onboarding process?
-

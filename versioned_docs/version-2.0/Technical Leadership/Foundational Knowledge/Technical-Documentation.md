@@ -6,7 +6,7 @@ It's easy to dismiss documentation as a tedious chore, a "tax" on shipping code.
 
 ## The High Cost of Not Documenting
 
-Let’s be honest: many of us have inherited codebases that feel like archaeological digs. Trying to understand the rationale behind decisions made months or years ago is frustrating, time-consuming, and error-prone. This isn’t just a historical problem. The lack of documentation creates *technical debt* that accumulates rapidly, impacting productivity and increasing risk. 
+Let’s be honest: many of us have inherited codebases that feel like archaeological digs. Trying to understand the rationale behind decisions made months or years ago is frustrating, time-consuming, and error-prone. This isn’t just a historical problem. The lack of documentation creates *technical debt* that accumulates rapidly, impacting productivity and increasing risk.
 
 Studies suggest that poor documentation can cost teams significant time – estimates range from 20-30% of an engineer’s week spent clarifying ambiguities and reverse-engineering undocumented systems. This translates to lost productivity and delayed innovation. Here’s what I’ve repeatedly seen happen:
 
@@ -37,13 +37,13 @@ Here's how to lead the change:
 
 1. **Lead by Example:** As a leader, you need to demonstrate the importance of documentation by contributing yourself. Write ADRs, update conceptual overviews, and contribute to troubleshooting guides.
 2. **Integrate Documentation into the Workflow:** Don't treat documentation as an afterthought. Include documentation tasks in sprint planning and code reviews. Make it a "definition of done."
-4. **Automate Where Possible:** Use tools to automatically generate API documentation from your code.
-5. **Recognize and Reward Documentation Efforts:** Acknowledge and appreciate team members who contribute to documentation. Make it part of their performance reviews.
+3. **Automate Where Possible:** Use tools to automatically generate API documentation from your code.
+4. **Recognize and Reward Documentation Efforts:** Acknowledge and appreciate team members who contribute to documentation. Make it part of their performance reviews.
 
 ## The Long-Term Payoff
 
-Investing in technical documentation isn’t a short-term fix; it’s a long-term strategy for building a resilient, scalable, and maintainable system. It fosters a culture of knowledge sharing, reduces technical debt, accelerates onboarding, and empowers your team to innovate. 
+Investing in technical documentation isn’t a short-term fix; it’s a long-term strategy for building a resilient, scalable, and maintainable system. It fosters a culture of knowledge sharing, reduces technical debt, accelerates onboarding, and empowers your team to innovate.
 
-I've seen firsthand that teams prioritizing documentation consistently outperform those that don't. It's not just about writing code; it’s about building a shared, evolving understanding. 
+I've seen firsthand that teams prioritizing documentation consistently outperform those that don't. It's not just about writing code; it’s about building a shared, evolving understanding.
 
 To get started, I encourage you to pick one small documentation task this week – perhaps write an ADR for a recent architectural decision or update a key conceptual overview. Start small and focus on the documentation that will have the biggest impact for *your* team.

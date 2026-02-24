@@ -21,7 +21,7 @@ Ignoring *any* of these can lead to disaster. I once led a project where the leg
 
 ## The Cost of Ignoring Constraints (and Who Pays It)
 
-What happens when constraints are dismissed or downplayed? The consequences ripple through the organization. 
+What happens when constraints are dismissed or downplayed? The consequences ripple through the organization.
 
 * **Burnout:** Pushing teams to deliver the impossible leads to exhaustion, decreased morale, and ultimately, attrition.
 * **Technical Debt:** Cutting corners to meet deadlines creates a backlog of maintenance and refactoring work that will haunt you later.
@@ -35,7 +35,7 @@ And who bears the brunt? While leadership often sets unrealistic expectations, t
 So, what can you *do*? Here's a framework I've found invaluable:
 
 1. **Identify & Document:** At the project kickoff, *explicitly* list all known constraints. Don't just think about them; write them down and share them with the team. This is a collaborative effort.
-2. **Prioritize Ruthlessly:** With limited resources, you can't do everything. Use a framework like MoSCoW (Must have, Should have, Could have, Won't have) to prioritize features and tasks.  MoSCoW categorizes tasks as follows: **Must have** are critical for launch; **Should have** are important but not essential; **Could have** are desirable but can be deferred; and **Won't have** are out of scope for this iteration. Be prepared to say “no” to requests that fall outside the prioritized scope. 
+2. **Prioritize Ruthlessly:** With limited resources, you can't do everything. Use a framework like MoSCoW (Must have, Should have, Could have, Won't have) to prioritize features and tasks.  MoSCoW categorizes tasks as follows: **Must have** are critical for launch; **Should have** are important but not essential; **Could have** are desirable but can be deferred; and **Won't have** are out of scope for this iteration. Be prepared to say “no” to requests that fall outside the prioritized scope.
 3. **Transparent Communication:** Keep stakeholders informed about the impact of constraints on timelines and deliverables. Explain *why* certain decisions are being made and what trade-offs are necessary. Honesty builds trust and manages expectations.
 4. **Risk Management (and Documentation):** McConnell’s point about risk management is critical. Document potential risks related to constraints and develop mitigation plans. This proactive approach can prevent small issues from snowballing into major problems.
 5. **Embrace Trade-offs:** There's rarely a perfect solution. Be prepared to make difficult choices and accept that some compromises are inevitable. Focus on delivering the *most* value within the given constraints.

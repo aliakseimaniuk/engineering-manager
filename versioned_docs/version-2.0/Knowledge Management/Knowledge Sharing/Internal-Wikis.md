@@ -1,6 +1,6 @@
 # Internal Wikis
 
-For over two decades, I've seen knowledge management practices come and go. Shiny new tools are often touted as the solution, but the most enduring – and often the *most* effective – solutions are surprisingly simple. One such solution? The humble internal wiki. 
+For over two decades, I've seen knowledge management practices come and go. Shiny new tools are often touted as the solution, but the most enduring – and often the *most* effective – solutions are surprisingly simple. One such solution? The humble internal wiki.
 
 Too often relegated to the “documentation dump” or treated as an afterthought, internal wikis are actually a powerful engine for engineering velocity, team health, and scalable growth. They aren't just about *having* knowledge; they're about *accessing* and *activating* it. In this post, I'll share why wikis remain vital, how to build one that *people actually use*, and strategies to ensure its long-term success.
 
@@ -53,6 +53,5 @@ There are many excellent tools available for building an internal wiki. Some pop
 * **readme.com:** A documentation platform with wiki-like features.
 * **Basecamp:** A project management tool with built-in documentation capabilities.
 * **Hashnode:** A blogging platform that can be used as a wiki.
-
 
 **In conclusion:** Internal wikis aren't a flashy new technology, but they remain a profoundly effective tool for knowledge management. When built and maintained thoughtfully, they can unlock engineering velocity, improve team health, and build a more resilient, scalable organization. Visualize this flow within your team – turning tacit knowledge into shared understanding and unlocking engineering velocity. Don't underestimate the power of a well-curated, accessible, and actively maintained knowledge base.  Start by identifying one key knowledge gap in your organization and documenting it in a shared wiki this week.

@@ -1,24 +1,24 @@
 # Core Values Definition
 
-For two decades, I’ve seen teams adopt core values like “Innovation,” “Customer Focus,” and “Collaboration” only to have them plastered on walls and… largely ignored. They become empty slogans, a box ticked on an HR checklist. The truth is, defining core values isn’t about creating a pretty list; it’s about consciously shaping the behavior *within* your engineering team. It’s about explicitly stating what you *reward* and *discourage*, and building a culture that reflects those principles. 
+For two decades, I’ve seen teams adopt core values like “Innovation,” “Customer Focus,” and “Collaboration” only to have them plastered on walls and… largely ignored. They become empty slogans, a box ticked on an HR checklist. The truth is, defining core values isn’t about creating a pretty list; it’s about consciously shaping the behavior *within* your engineering team. It’s about explicitly stating what you *reward* and *discourage*, and building a culture that reflects those principles.
 
 This isn't about following the latest management fad. It’s about foundational principles, and in my experience, good ones often bubble up *from* the team, not down *to* them. Here's how to define core values that aren’t just words on a wall, but actively guide your team’s actions.
 
 **What you’ll learn:**
 
-*   A practical approach to uncovering your team’s *existing* values.
-*   How to translate abstract values into concrete, observable behaviors.
-*   Strategies for reinforcing values through leadership, recognition, and accountability.
+* A practical approach to uncovering your team’s *existing* values.
+* How to translate abstract values into concrete, observable behaviors.
+* Strategies for reinforcing values through leadership, recognition, and accountability.
 
 ## The Problem with Generic Values
 
-Let's be honest: "Innovation," "Integrity," and "Respect" are…fine. But they're so broad they're meaningless. Every company *says* they value these things. What does “Innovation” actually *look like* in *your* team? Is it encouraging experimentation, even if it leads to failure? Is it dedicating time to "spike" solutions? Or is it simply expecting people to magically come up with brilliant ideas while buried under deadlines? 
+Let's be honest: "Innovation," "Integrity," and "Respect" are…fine. But they're so broad they're meaningless. Every company *says* they value these things. What does “Innovation” actually *look like* in *your* team? Is it encouraging experimentation, even if it leads to failure? Is it dedicating time to "spike" solutions? Or is it simply expecting people to magically come up with brilliant ideas while buried under deadlines?
 
-The key is specificity. Instead of "Collaboration," consider something like "Radical Transparency – We openly share information, even when it's uncomfortable." That’s a behavior you can observe and reinforce. 
+The key is specificity. Instead of "Collaboration," consider something like "Radical Transparency – We openly share information, even when it's uncomfortable." That’s a behavior you can observe and reinforce.
 
 ## A Bottom-Up Approach: Uncovering Existing Values
 
-I’ve found the most effective way to define core values is to start by understanding what the team *already* values. Forget brainstorming “ideal” values; let’s look at what currently drives behavior. 
+I’ve found the most effective way to define core values is to start by understanding what the team *already* values. Forget brainstorming “ideal” values; let’s look at what currently drives behavior.
 
 Here’s a simple exercise:
 
@@ -52,8 +52,8 @@ I once had a team where a senior engineer consistently hoarded knowledge, refusi
 
 ## Beyond Buzzwords: Cultivating a Conscious Culture
 
-Defining core values isn’t a one-time exercise. It’s an ongoing process of reflection, refinement, and reinforcement. Think of it as building a conscious culture – one where values are a fundamental part of how your team operates. 
+Defining core values isn’t a one-time exercise. It’s an ongoing process of reflection, refinement, and reinforcement. Think of it as building a conscious culture – one where values are a fundamental part of how your team operates.
 
-It's about creating a space where people feel empowered to do their best work, knowing that their contributions are valued, and that the team is committed to a shared set of principles. And that, in my experience, is what truly separates high-performing teams from the rest. 
+It's about creating a space where people feel empowered to do their best work, knowing that their contributions are valued, and that the team is committed to a shared set of principles. And that, in my experience, is what truly separates high-performing teams from the rest.
 
 **Stop *talking* about values, and start *living* them.**  Consider scheduling a team workshop this week to uncover your existing values, or begin drafting the "What it looks like/doesn't look like" table for your team to get started.

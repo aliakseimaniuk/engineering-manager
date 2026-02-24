@@ -8,16 +8,14 @@ This isn’t about dismissing brainstorming altogether. It’s about evolving th
 
 The core tenet of classic brainstorming – defer judgment – sounds great in theory. But in practice, it’s incredibly difficult, especially for engineers. We're trained to analyze, critique, and identify flaws. Asking us *not* to do that feels… unnatural. This often leads to:
 
-* **Surface-Level Ideas:** People hold back truly innovative (and potentially “crazy”) ideas for fear of immediate dismissal. 
+* **Surface-Level Ideas:** People hold back truly innovative (and potentially “crazy”) ideas for fear of immediate dismissal.
 * **Dominance of Voices:** A few vocal team members can easily overshadow quieter, but potentially brilliant, contributors.
 * **Lack of Focus:** Sessions drift without a clear objective, resulting in a chaotic mess of unrelated thoughts.
 * **Action Paralysis:** A long list of ideas without a clear path to prioritization and implementation.
 
 I remember leading a team tasked with redesigning a core component of our mobile app. We spent a full hour in a classic brainstorming session, and all we ended up with was a whiteboard full of incremental improvements – things we’d already considered.  It felt like wasted time.  The problem wasn’t that the ideas were *bad*, it was that they weren’t *bold* enough to address the fundamental challenge.
 
-
-
-##  Structured Brainstorming for Engineers:  Techniques That Work
+## Structured Brainstorming for Engineers:  Techniques That Work
 
 Here are a few techniques I’ve found significantly more effective with engineering teams.  Consider these as variations on the brainstorming theme, designed to address the shortcomings of the traditional approach.
 
@@ -30,15 +28,13 @@ Here are a few techniques I’ve found significantly more effective with enginee
 * **Why it works:**  It’s fun, it encourages risk-taking, and it forces you to think outside the box.
 * **Example:** "Let's brainstorm the *worst* way to onboard a new developer." We actually discovered that the worst ideas highlighted a critical lack of clear documentation and a convoluted access request process, leading us to prioritize those improvements.
 
-**3.  SCAMPER:** A checklist that prompts you to think about how to improve an existing product or solution by asking questions related to: **S**ubstitute, **C**ombine, **A**dapt, **M**odify/Magnify/Minimize, **P**ut to other uses, **E**liminate, **R**everse. 
+**3.  SCAMPER:** A checklist that prompts you to think about how to improve an existing product or solution by asking questions related to: **S**ubstitute, **C**ombine, **A**dapt, **M**odify/Magnify/Minimize, **P**ut to other uses, **E**liminate, **R**everse.
 
 * **Why it works:** Provides a structured framework to systematically explore different improvement avenues.  Especially useful when you’re stuck in a rut.
 
 **4.  Silent Brainstorming + Dot Voting:**  Have everyone silently write down their ideas on sticky notes for a set amount of time. Then, each person gets a limited number of "dots" (stickers or markers) to vote for the ideas they think have the most potential.
 
 * **Why it works:**  Reduces groupthink, allows everyone to contribute equally, and provides a quick and democratic way to prioritize ideas.
-
-
 
 ## Beyond the Session: Cultivating a Brainstorming Culture
 
@@ -49,12 +45,12 @@ Brainstorming isn't just about the session itself; it’s about creating an envi
 * **Follow-Up:**  Don't let the ideas gather dust.  Assign owners to investigate promising concepts, and track their progress.  
 * **Embrace Failure:** Not every idea will be a winner.  View failures as learning opportunities, and celebrate the effort that went into trying something new.
 
-I’ve seen firsthand that consistently applying these principles—structuring brainstorming sessions, fostering psychological safety, and prioritizing follow-up—transforms engineering teams from executors of tasks into generators of innovation.  It's about moving beyond simply ideas to nurturing a culture where exceptional ideas can flourish. 
+I’ve seen firsthand that consistently applying these principles—structuring brainstorming sessions, fostering psychological safety, and prioritizing follow-up—transforms engineering teams from executors of tasks into generators of innovation.  It's about moving beyond simply ideas to nurturing a culture where exceptional ideas can flourish.
 
 **Key Takeaways:**
 
-*   **Structure is Key:**  Move beyond free-for-all brainstorming to techniques that address common pitfalls.
-*   **Psychological Safety Matters:** Create a culture where all voices are heard and experimentation is encouraged.
-*   **Follow-Up is Essential:**  Don't let great ideas languish—assign ownership and track progress.
+* **Structure is Key:**  Move beyond free-for-all brainstorming to techniques that address common pitfalls.
+* **Psychological Safety Matters:** Create a culture where all voices are heard and experimentation is encouraged.
+* **Follow-Up is Essential:**  Don't let great ideas languish—assign ownership and track progress.
 
 Try implementing one of these techniques in your next team meeting and see the difference it makes.

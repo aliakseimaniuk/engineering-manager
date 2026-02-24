@@ -6,7 +6,7 @@ This isn't about finger-pointing. It's about building a learning organization, a
 
 ## Why Most Post-Mortems Fail (And It's Not What You Think)
 
-The typical post-mortem feels…performative. A meeting where everyone carefully avoids saying anything controversial. The output is a list of vaguely worded “lessons learned” that end up gathering dust in a shared document. 
+The typical post-mortem feels…performative. A meeting where everyone carefully avoids saying anything controversial. The output is a list of vaguely worded “lessons learned” that end up gathering dust in a shared document.
 
 The core problem isn’t the *idea* of a post-mortem, but *how* it's conducted. Here are a few common pitfalls:
 
@@ -48,7 +48,7 @@ This is the hardest part, but the most important. Building a truly safe space re
 
 ## Turning Insights into Action: The Follow-Through
 
-The post-mortem is useless if you don't act on the findings. 
+The post-mortem is useless if you don't act on the findings.
 
 * **Prioritize Action Items:** Don’t try to fix everything at once. Focus on the most impactful improvements.
 * **Assign Ownership:** Clearly assign responsibility for each action item.
@@ -57,6 +57,6 @@ The post-mortem is useless if you don't act on the findings.
 
 ## Beyond the Meeting: A Culture of Continuous Improvement
 
-Effective post-project reviews aren’t just about a single meeting. They're about cultivating a culture of continuous improvement. By consistently reflecting on what went well and what could be better, you can build a more resilient, adaptable, and high-performing engineering team. 
+Effective post-project reviews aren’t just about a single meeting. They're about cultivating a culture of continuous improvement. By consistently reflecting on what went well and what could be better, you can build a more resilient, adaptable, and high-performing engineering team.
 
 Skip the post-mortem at your peril. Invest the time, create a safe space, and turn those lessons learned into real, lasting improvements. To get started, schedule a 30-minute team discussion to brainstorm how to improve your next post-mortem process. This practice not only strengthens your team but can also lead to reduced costs, faster delivery, and improved overall morale. Your team will thank you.

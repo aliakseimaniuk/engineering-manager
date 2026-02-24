@@ -1,6 +1,6 @@
 # Sprint Planning
 
-Sprint Planning. It's a ritual for most engineering teams, a scheduled meeting where we typically decide *what* we'll build and *how* we'll build it. But how often does it feel truly *effective*? Too often, it devolves into a checklist exercise – story points assigned, tasks broken down, and everyone feeling vaguely like they’ve accomplished something without a shared understanding of *why* we chose these things, or if they realistically fit. 
+Sprint Planning. It's a ritual for most engineering teams, a scheduled meeting where we typically decide *what* we'll build and *how* we'll build it. But how often does it feel truly *effective*? Too often, it devolves into a checklist exercise – story points assigned, tasks broken down, and everyone feeling vaguely like they’ve accomplished something without a shared understanding of *why* we chose these things, or if they realistically fit.
 
 After 20+ years leading engineering teams, I’ve seen Sprint Planning done brilliantly, and also… not so brilliantly. This isn’t about adopting the "right" framework (Scrum, Kanban, whatever fits your team). It’s about elevating the *purpose* of Sprint Planning, turning it from a logistical hurdle into a powerful engine for predictability, collaboration, and ultimately, delivering value.
 
@@ -17,7 +17,7 @@ The biggest mistake I see is treating Sprint Planning as simply a requirement to
 * **Strategic Alignment:**  Are the stories we’re picking genuinely the *most* valuable things we can work on *right now* to move the needle on our key objectives?
 * **Risk & Uncertainty:** Are we acknowledging and planning for the things that could go wrong?
 
-I recently worked with a team that committed to a large feature without fully considering a critical dependency on a third-party API. The API provider experienced an outage mid-sprint, derailing the entire effort and leaving the team scrambling. This highlights the importance of proactively identifying and mitigating risks during planning. 
+I recently worked with a team that committed to a large feature without fully considering a critical dependency on a third-party API. The API provider experienced an outage mid-sprint, derailing the entire effort and leaving the team scrambling. This highlights the importance of proactively identifying and mitigating risks during planning.
 
 When we fail to address these issues, we end up with sprints that are consistently over-committed, frequently derailed, and leave everyone feeling stressed and burnt out.
 
@@ -35,14 +35,12 @@ This isn't about diving straight into the backlog. It’s about setting the cont
 
 **Phase 2: Estimate – Collaborative Sizing & Risk Assessment (45-60 mins)**
 
-This is where we get into the details, but with a focus on *conversation* not just numbers. 
+This is where we get into the details, but with a focus on *conversation* not just numbers.
 
 * **Story Breakdown:**  Each story should be briefly discussed – not a deep dive into implementation details, but enough to ensure everyone understands the scope.
-* **Collaborative Estimation:**  Use a technique like Planning Poker (tools like **Chpokify** can make this far more efficient) to arrive at a consensus estimate.  The goal isn't to be *precise* (story points are estimates of effort – precision isn’t the goal, shared understanding is!), but to surface differing assumptions and identify potential roadblocks. 
+* **Collaborative Estimation:**  Use a technique like Planning Poker (tools like **Chpokify** can make this far more efficient) to arrive at a consensus estimate.  The goal isn't to be *precise* (story points are estimates of effort – precision isn’t the goal, shared understanding is!), but to surface differing assumptions and identify potential roadblocks.
 * **Risk Identification:**  For each story, briefly ask: "What could go wrong?" Documenting these risks (even briefly) forces the team to think proactively and build in contingency. For example, “We anticipate potential performance issues with the database – we’ll need to allocate time for load testing.”
 * **Capacity Check:** *Before* committing to stories, do a quick capacity check. How much total effort (in story points or hours) can the team realistically handle? Be brutally honest.
-
-
 
 **Phase 3: Commit – Ownership & Action (15-30 mins)**
 
@@ -63,8 +61,8 @@ Sprint Planning isn't a one-time event. The real magic happens when you:
 
 **Final Thoughts:**
 
-Effective Sprint Planning isn't about checking boxes. It's about fostering a shared understanding of *why* we're building something, ensuring we have the capacity to deliver, and empowering the team to own the outcome. It's an investment in predictability, collaboration, and ultimately, a happier, more productive engineering team. 
+Effective Sprint Planning isn't about checking boxes. It's about fostering a shared understanding of *why* we're building something, ensuring we have the capacity to deliver, and empowering the team to own the outcome. It's an investment in predictability, collaboration, and ultimately, a happier, more productive engineering team.
 
 **Challenge:**
 
-For your next sprint planning meeting, focus on actively identifying potential risks for each story. Document them clearly and discuss how you’ll mitigate them. 
+For your next sprint planning meeting, focus on actively identifying potential risks for each story. Document them clearly and discuss how you’ll mitigate them.

@@ -1,6 +1,6 @@
 # Key Concepts And Terminology
 
-For over two decades leading engineering teams, I’ve seen countless initiatives launched with the best intentions. Many focus on Diversity, Equity, and Inclusion (DEI), and while enthusiasm is high, a frustrating pattern often emerges: people talk *past* each other. They use the same words, but mean fundamentally different things. This isn’t malicious; it’s a natural consequence of complex concepts lacking shared understanding. DEI isn't just about *doing* the right thing – it's about building a foundation of *shared understanding* to enable effective action. 
+For over two decades leading engineering teams, I’ve seen countless initiatives launched with the best intentions. Many focus on Diversity, Equity, and Inclusion (DEI), and while enthusiasm is high, a frustrating pattern often emerges: people talk *past* each other. They use the same words, but mean fundamentally different things. This isn’t malicious; it’s a natural consequence of complex concepts lacking shared understanding. DEI isn't just about *doing* the right thing – it's about building a foundation of *shared understanding* to enable effective action.
 
 This article isn’t about prescribing a single, rigid definition for every DEI term. Instead, it’s about highlighting the critical need for a common terminology *within your team* and offering a framework for establishing it. Think of it like architectural diagrams for a complex system – they don't dictate the implementation, but ensure everyone understands the components and their relationships.
 
@@ -23,7 +23,7 @@ Here's a practical approach to establish a shared terminology. I recommend adapt
 Don't reinvent the wheel. Leverage established definitions, but *critically discuss them as a team*. Here’s a starting point, with links to further resources:
 
 * **Diversity:** The presence of differences within a group, encompassing dimensions like race, ethnicity, gender, sexual orientation, socioeconomic background, neurodiversity, and more. *Important nuance*: Diversity is often about representation, but it’s only the first step.
-* **Equity:** Recognizing that individuals start from different places and require different levels of support to achieve fair outcomes. Equity isn't about treating everyone the same; it's about providing what each person *needs* to succeed. 
+* **Equity:** Recognizing that individuals start from different places and require different levels of support to achieve fair outcomes. Equity isn't about treating everyone the same; it's about providing what each person *needs* to succeed.
 * **Inclusion:** Creating an environment where everyone feels valued, respected, and has equal access to opportunities. It’s about ensuring all voices are heard and considered.
 * **Belonging:** The feeling of being accepted and valued for who you are, allowing you to bring your authentic self to work. Belonging goes beyond inclusion; it’s about psychological safety and a sense of connection.
 
@@ -46,7 +46,7 @@ Just like in software development, shifts in terminology can occur. Pay attentio
 
 ## Beyond Terminology: The Importance of Continuous Learning
 
-Establishing a shared language is a crucial first step, but it's not enough. DEI is an ongoing journey, requiring continuous learning and self-reflection. Encourage your team to explore resources, attend workshops, and engage in open and honest conversations. 
+Establishing a shared language is a crucial first step, but it's not enough. DEI is an ongoing journey, requiring continuous learning and self-reflection. Encourage your team to explore resources, attend workshops, and engage in open and honest conversations.
 
 Remember, DEI isn’t just about ticking boxes; it’s about building a more just and equitable workplace for everyone. And a shared language is the foundation upon which that future is built.
 

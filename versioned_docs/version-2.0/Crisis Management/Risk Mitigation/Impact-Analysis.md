@@ -1,12 +1,12 @@
 # Impact Analysis
 
-As engineering leaders, we often find ourselves in "firefighting" mode – reacting to incidents, bugs, and outages. It’s reactive, stressful, and ultimately unsustainable. True crisis management isn’t just *reacting* to problems, it’s *anticipating* them and minimizing their blast radius *before* they hit. A cornerstone of this proactive approach is mastering **Impact Analysis**. 
+As engineering leaders, we often find ourselves in "firefighting" mode – reacting to incidents, bugs, and outages. It’s reactive, stressful, and ultimately unsustainable. True crisis management isn’t just *reacting* to problems, it’s *anticipating* them and minimizing their blast radius *before* they hit. A cornerstone of this proactive approach is mastering **Impact Analysis**.
 
 Too often, Impact Analysis is treated as an afterthought, a rushed step taken *during* an incident. But when woven into our daily workflow, it transforms from a reactive task into a powerful preventative measure. This article will delve into what Impact Analysis truly is, why it’s critical, how to perform it effectively, and how to integrate it into your engineering culture.
 
 ## What *Is* Impact Analysis?
 
-Impact Analysis isn't simply listing affected services. It's a systematic process of understanding *how* a change – whether planned (a new feature, refactor) or unplanned (an outage, bug) – will affect the entire system. It goes beyond a surface-level understanding to explore downstream dependencies, user-facing consequences, and potential business impacts. 
+Impact Analysis isn't simply listing affected services. It's a systematic process of understanding *how* a change – whether planned (a new feature, refactor) or unplanned (an outage, bug) – will affect the entire system. It goes beyond a surface-level understanding to explore downstream dependencies, user-facing consequences, and potential business impacts.
 
 Think of it like a ripple effect. You drop a pebble (the change) into a pond (your system). Impact Analysis maps out *where* those ripples will reach, *how strong* they’ll be, and *who* will feel them.  This proactive understanding allows for informed decision-making and risk mitigation.
 
@@ -54,6 +54,6 @@ Implementing Impact Analysis isn’t always straightforward. Common obstacles in
 
 ## The Bottom Line
 
-Impact Analysis isn't about predicting the future; it’s about preparing for it. By shifting from a reactive, firefighting mindset to a proactive, preventative approach, you can significantly reduce the risk of crises, improve system reliability, and build a more resilient engineering organization. It’s an investment in long-term stability and a critical component of effective crisis management. 
+Impact Analysis isn't about predicting the future; it’s about preparing for it. By shifting from a reactive, firefighting mindset to a proactive, preventative approach, you can significantly reduce the risk of crises, improve system reliability, and build a more resilient engineering organization. It’s an investment in long-term stability and a critical component of effective crisis management.
 
 **To get started, pick one critical service and map out its dependencies as a first step.** This small action can have a significant impact on your organization’s resilience.

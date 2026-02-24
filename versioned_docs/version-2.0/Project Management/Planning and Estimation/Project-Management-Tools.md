@@ -25,7 +25,6 @@ Before even *looking* at tools, clarify your core requirements. Hereâ€™s what Iâ
 
 Think of project management tools based on two key dimensions: Complexity and Essential Features. A simplified view might look like this:
 
-
           High Complexity
                ^
                |
@@ -37,7 +36,6 @@ Essential Features|--+-------------------------->
                |  Simple Task Lists, Spreadsheets
                v
           Low Complexity
-
 
 This illustrates that some tools offer a high level of both complexity and features, while others prioritize simplicity. Choosing the right balance is critical.
 

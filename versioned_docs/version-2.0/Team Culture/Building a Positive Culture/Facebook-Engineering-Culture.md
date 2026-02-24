@@ -4,9 +4,9 @@ For years, “Move Fast and Break Things” was shorthand for the Facebook (now 
 
 ## The Early Days: Hackathons & Hack Culture
 
-The initial Facebook engineering culture was forged in the fires of rapid iteration and intense problem-solving. Mark Zuckerberg’s early approach was incredibly hands-on, often coding alongside his engineers. This fostered a “hacker” mentality, valuing speed, ingenuity, and a willingness to circumvent traditional processes. 
+The initial Facebook engineering culture was forged in the fires of rapid iteration and intense problem-solving. Mark Zuckerberg’s early approach was incredibly hands-on, often coding alongside his engineers. This fostered a “hacker” mentality, valuing speed, ingenuity, and a willingness to circumvent traditional processes.
 
-The legendary hackathons weren’t just about building cool features; they were a crucial part of onboarding and cultural transmission. New engineers were *thrown* into these intense coding sessions, forced to collaborate with seasoned veterans and learn by doing. This created a shared language, a common understanding of priorities, and a culture where shipping code – even imperfect code – was valued over endless planning. 
+The legendary hackathons weren’t just about building cool features; they were a crucial part of onboarding and cultural transmission. New engineers were *thrown* into these intense coding sessions, forced to collaborate with seasoned veterans and learn by doing. This created a shared language, a common understanding of priorities, and a culture where shipping code – even imperfect code – was valued over endless planning.
 
 ## Scaling to a Billion Users: The Rise of Infrastructure & Tooling
 
@@ -16,7 +16,7 @@ This is where Facebook’s engineering culture truly distinguished itself. Inste
 
 * **Haystack:** A massively scalable key-value store. Crucially, Haystack enabled real-time personalization at scale by providing a low-latency, high-throughput storage layer for user data and preferences.
 * **Thrift:** A cross-language serialization framework. Thrift allowed teams to develop services in different languages (PHP, C++, Java, etc.) and seamlessly communicate with each other, reducing integration friction.
-* **Presto:** A distributed SQL query engine. Presto empowered analysts and data scientists to query massive datasets stored across Facebook’s distributed systems, enabling data-driven decision-making. 
+* **Presto:** A distributed SQL query engine. Presto empowered analysts and data scientists to query massive datasets stored across Facebook’s distributed systems, enabling data-driven decision-making.
 
 Why? Because existing tools didn't meet their unique scaling requirements. This commitment to building internal tooling empowered engineers, gave them deep ownership of the platform, and fostered a culture of relentless optimization. It also meant engineers had to be full-stack – comfortable working on everything from databases to front-end code.
 
@@ -26,9 +26,9 @@ The downside? Building and maintaining this massive internal ecosystem is *expen
 
 More recently, Facebook has doubled down on Artificial Intelligence, positioning itself as an AI-first company. This requires a new set of skills and a different approach to problem-solving. The focus is shifting from simply scaling existing systems to developing and deploying complex machine learning models.
 
-However, with scale comes bureaucracy. As the company has grown, it’s become increasingly difficult to maintain the speed and agility of its early days. Layers of management, increased process, and competing priorities can stifle innovation. 
+However, with scale comes bureaucracy. As the company has grown, it’s become increasingly difficult to maintain the speed and agility of its early days. Layers of management, increased process, and competing priorities can stifle innovation.
 
-I’ve spoken with several engineers who left Facebook citing the increasing difficulty of getting things done. While quantifying this trend is challenging, anecdotal evidence from platforms like Glassdoor corroborates these concerns. The initial “Move Fast and Break Things” mantra feels increasingly at odds with the need for stability and responsible innovation, especially concerning privacy and misinformation. 
+I’ve spoken with several engineers who left Facebook citing the increasing difficulty of getting things done. While quantifying this trend is challenging, anecdotal evidence from platforms like Glassdoor corroborates these concerns. The initial “Move Fast and Break Things” mantra feels increasingly at odds with the need for stability and responsible innovation, especially concerning privacy and misinformation.
 
 ## Lessons for Other Engineering Leaders
 
@@ -40,8 +40,6 @@ So, what can other engineering leaders learn from the Facebook engineering cultu
 * **Be mindful of organizational entropy:** As your team grows, proactively address bureaucracy and find ways to maintain agility.
 * **Culture is a living thing:** Culture requires consistent attention and adaptation to meet the changing needs of the organization.
 
-
-
-The Facebook engineering culture isn't a perfect model, but it's a fascinating case study in how to build a high-performing engineering team at scale. It's a reminder that culture isn't just about perks and benefits; it's about values, priorities, and a relentless commitment to solving challenging problems. 
+The Facebook engineering culture isn't a perfect model, but it's a fascinating case study in how to build a high-performing engineering team at scale. It's a reminder that culture isn't just about perks and benefits; it's about values, priorities, and a relentless commitment to solving challenging problems.
 
 **Now, consider this:** What if your own team’s culture is silently hindering innovation? Are you actively investing in the internal tools that empower your engineers?  Are you fostering a culture of full-stack expertise?  By honestly answering these questions, you can begin to cultivate a culture that not only scales with your company but also drives sustained success.

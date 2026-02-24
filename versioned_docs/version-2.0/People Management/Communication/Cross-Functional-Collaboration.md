@@ -1,6 +1,6 @@
 # Cross Functional Collaboration
 
-For two decades I’ve seen engineering teams thrive… and flounder. And far too often, the difference isn’t *what* they build, but *how* they build it – specifically, how well they collaborate with folks outside of engineering. Cross-functional collaboration isn’t a buzzword; it's the bedrock of building successful products. It’s the difference between a feature that *technically* works and one that genuinely solves a user need and drives business value. 
+For two decades I’ve seen engineering teams thrive… and flounder. And far too often, the difference isn’t *what* they build, but *how* they build it – specifically, how well they collaborate with folks outside of engineering. Cross-functional collaboration isn’t a buzzword; it's the bedrock of building successful products. It’s the difference between a feature that *technically* works and one that genuinely solves a user need and drives business value.
 
 But achieving *true* collaboration is hard. It's not about simply *having* meetings with Product, Design, and Marketing. It’s about dismantling silos, fostering mutual understanding, and building a shared sense of ownership. Here's how to move beyond superficial cross-functional interactions and build teams that genuinely work *together*.
 
@@ -17,7 +17,7 @@ The key to successful cross-functional collaboration is moving away from sequent
 * **Early & Continuous Involvement:** Don’t wait for a finalized spec. Include representatives from Product, Design, and even Marketing in early discovery and ideation sessions. This ensures everyone understands the problem we’re trying to solve *before* a single line of code is written. Tools like **Zeplin** (for design handoff) can help *after* initial discussions, streamlining the feedback loop, but should not *replace* the initial collaborative sessions.
 * **Shared Goals & KPIs:** Everyone needs to be rowing in the same direction. Define clear, shared KPIs that reflect the overall success of the product, not just engineering velocity. Include metrics that measure user impact – things like feature adoption, customer satisfaction, or revenue generated – to ensure everyone is focused on delivering value. This fosters a sense of collective responsibility.
 * **Regular Cross-Functional Meetings – With a Purpose:** Daily stand-ups that *only* include engineers aren't enough. Schedule regular meetings with representatives from all key functions. But *every* meeting needs a clear agenda and a defined outcome. Avoid status reports; focus on problem-solving and decision-making.
-* **Documentation & Transparency:** Make information readily accessible. Tools like **Confluence** are fantastic for documenting decisions, sharing insights, and building a shared knowledge base. This reduces reliance on individual knowledge and prevents misunderstandings. I've seen teams leverage tools like **Kitemaker.co** to tie documentation and communication directly to the development workflow. 
+* **Documentation & Transparency:** Make information readily accessible. Tools like **Confluence** are fantastic for documenting decisions, sharing insights, and building a shared knowledge base. This reduces reliance on individual knowledge and prevents misunderstandings. I've seen teams leverage tools like **Kitemaker.co** to tie documentation and communication directly to the development workflow.
 * **Embrace "Rough Drafts" & Feedback Loops:** Encourage early and frequent feedback. Don't wait for perfection. Share rough prototypes, mockups, or even just sketches to get input early in the process. Share these drafts in places where they're easily accessible – dedicated Slack channels, quick video calls, or shared document repositories.
 
 ## Building Psychological Safety
@@ -31,20 +31,18 @@ All of the processes in the world won't matter if people aren't comfortable spea
 
 ## Leveraging Tools (Wisely)
 
-A plethora of tools promise to improve collaboration. While they can be helpful, remember that tools are enablers, not solutions. **Connect** or **Ora** can certainly help with task management and communication, but they won't magically fix a broken culture. 
+A plethora of tools promise to improve collaboration. While they can be helpful, remember that tools are enablers, not solutions. **Connect** or **Ora** can certainly help with task management and communication, but they won't magically fix a broken culture.
 
 Consider tools like **Lucidchart** for visual collaboration and brainstorming. But don't fall into the trap of over-tooling. Often, a simple shared document and a commitment to open communication are more effective.
 
+## The Agile Paradox
 
-
-## The Agile Paradox 
-
-Interestingly, I’ve often seen highly-structured Agile ceremonies give way to more organic collaboration within smaller, well-functioning teams. When a team trusts each other, openly discusses challenges, and has a clear (formal or informal) structure for reaching agreement, the “rituals” of Agile sometimes fade into the background.  This isn’t a failure of Agile; it’s a sign that the team has internalized the underlying principles of collaboration and self-organization. 
+Interestingly, I’ve often seen highly-structured Agile ceremonies give way to more organic collaboration within smaller, well-functioning teams. When a team trusts each other, openly discusses challenges, and has a clear (formal or informal) structure for reaching agreement, the “rituals” of Agile sometimes fade into the background.  This isn’t a failure of Agile; it’s a sign that the team has internalized the underlying principles of collaboration and self-organization.
 
 ## Final Thoughts
 
-Cross-functional collaboration isn’t a destination; it's an ongoing journey. It requires consistent effort, open communication, and a commitment to building trust and understanding. And it’s worth it. The benefits are substantial. When engineering, product, design, and marketing teams work together seamlessly, they can build truly exceptional products that delight users and drive business success. 
+Cross-functional collaboration isn’t a destination; it's an ongoing journey. It requires consistent effort, open communication, and a commitment to building trust and understanding. And it’s worth it. The benefits are substantial. When engineering, product, design, and marketing teams work together seamlessly, they can build truly exceptional products that delight users and drive business success.
 
-Don't focus solely on *what* you build. Focus on *how* you build it. Because ultimately, the most innovative products are built by teams that collaborate effectively, learn from each other, and share a common purpose. 
+Don't focus solely on *what* you build. Focus on *how* you build it. Because ultimately, the most innovative products are built by teams that collaborate effectively, learn from each other, and share a common purpose.
 
 **To start improving collaboration today, schedule a 30-minute cross-functional meeting this week to discuss a current project's challenges.**

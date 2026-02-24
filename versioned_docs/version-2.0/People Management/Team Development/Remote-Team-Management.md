@@ -6,8 +6,7 @@ This article focuses on going beyond the surface-level ‘how-to’ of remote wo
 
 ## The Core Challenge: Combating Proximity Bias
 
-The biggest hurdle in remote management isn't technology; it’s *proximity bias*. When we're co-located, we naturally gravitate towards those we see most often. Information flows more freely, and unconscious assumptions about contribution and engagement form quickly. Remote work eliminates those casual interactions, making it far easier for individuals to become ‘out of sight, out of mind.’ This can lead to unequal opportunities, overlooked contributions, and ultimately, disengagement. 
-
+The biggest hurdle in remote management isn't technology; it’s *proximity bias*. When we're co-located, we naturally gravitate towards those we see most often. Information flows more freely, and unconscious assumptions about contribution and engagement form quickly. Remote work eliminates those casual interactions, making it far easier for individuals to become ‘out of sight, out of mind.’ This can lead to unequal opportunities, overlooked contributions, and ultimately, disengagement.
 
 ## Building Trust – The Foundation of Remote Success
 
@@ -33,23 +32,21 @@ Retrospectives aren't just for agile teams; they're a crucial practice for conti
 
 Consider expanding your retrospective scope beyond the team level. While team retrospectives focus on immediate process improvements, *organizational* retrospectives can uncover systemic issues that hinder remote work across multiple teams. For example, a common issue might be a lack of clear documentation or inconsistent onboarding processes.  
 
-**Consider how** corrective actions might require decisions *above* the team level? Identifying those is key to unlocking broader organizational improvements. 
+**Consider how** corrective actions might require decisions *above* the team level? Identifying those is key to unlocking broader organizational improvements.
 
 This focus on continuous improvement should permeate all aspects of remote team management. Regularly evaluating your processes, tools, and communication strategies is essential for adapting to the ever-evolving landscape of remote work.
 
 ## Leading with Intention
 
-Remote management isn't about replicating the office environment online. It's about consciously building trust, fostering connection, and empowering your team to thrive in a distributed world. It requires more intentionality, more empathy, and a willingness to adapt. 
+Remote management isn't about replicating the office environment online. It's about consciously building trust, fostering connection, and empowering your team to thrive in a distributed world. It requires more intentionality, more empathy, and a willingness to adapt.
 
 The most successful remote teams aren't just working remotely; they're *built for* remote work. And that requires a shift in mindset, a commitment to continuous improvement, and a focus on building strong, resilient relationships – regardless of physical distance.  
 
-
-
 **Key Takeaways:**
 
-*   **Prioritize Trust:** Building trust is foundational for remote team success.
-*   **Intentional Communication:**  Move beyond surface-level communication to foster genuine connection.
-*   **Continuous Improvement:** Regularly evaluate and refine your remote work practices.
+* **Prioritize Trust:** Building trust is foundational for remote team success.
+* **Intentional Communication:**  Move beyond surface-level communication to foster genuine connection.
+* **Continuous Improvement:** Regularly evaluate and refine your remote work practices.
 
 **Next Steps:**
 

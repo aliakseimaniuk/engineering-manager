@@ -37,21 +37,21 @@ Here's a simple table summarizing the dimensions:
 
 ## Applying the Framework: Prioritization & Communication
 
-This multi-dimensional framework isn’t just about assessment; it’s about prioritization and communication. 
+This multi-dimensional framework isn’t just about assessment; it’s about prioritization and communication.
 
 1. **Scoring:**  Assign weights to each dimension based on the company's current priorities. (e.g., During a growth phase, Business Impact might be weighted 50%, Technical Health 20%, and the others 10% each.)  Then, score each project against these dimensions.
 2. **Transparency with Stakeholders:**  Share your assessment with your team and stakeholders, explaining *why* you're prioritizing certain projects over others. This fosters trust and alignment.  Remember, not everything can be a top priority.  
-3. **Don’t Be Afraid to Say "No":**  Protecting your team's time and focus is crucial. Politely but firmly decline projects that don't align with your strategic priorities, even if they appear attractive on the surface. 
+3. **Don’t Be Afraid to Say "No":**  Protecting your team's time and focus is crucial. Politely but firmly decline projects that don't align with your strategic priorities, even if they appear attractive on the surface.
 
 I’ve learned the hard way that a well-reasoned “no” is far more valuable than a rushed “yes” that leads to burnout and subpar results.
 
 ## The Investor Perspective (and Why it Matters)
 
-As Jeff Bussgang points out in “Mastering the VC Game”, the interests of Venture Capitalists and the engineering teams building the product often diverge. VCs are naturally focused on financial returns, and it’s tempting to chase metrics that impress them. However, as an engineering leader, your primary responsibility is to build a sustainable, high-quality product. 
+As Jeff Bussgang points out in “Mastering the VC Game”, the interests of Venture Capitalists and the engineering teams building the product often diverge. VCs are naturally focused on financial returns, and it’s tempting to chase metrics that impress them. However, as an engineering leader, your primary responsibility is to build a sustainable, high-quality product.
 
 Don't fall into the trap of prioritizing short-term gains at the expense of long-term technical health and team morale.  Educate your stakeholders (including investors) on the importance of a balanced ROI analysis that considers all relevant factors.  
 
-##  Beyond the Spreadsheet: A Final Thought
+## Beyond the Spreadsheet: A Final Thought
 
 Ultimately, ROI analysis is not just about numbers; it’s about making informed decisions that align with your company’s strategic goals, empower your team, and build a product that you’re proud of. Focus on building impactful solutions, not just building things *right*. And remember, a thriving engineering team is an investment that always pays dividends.
 

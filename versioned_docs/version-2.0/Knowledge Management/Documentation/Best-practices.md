@@ -14,7 +14,7 @@ I remember leading a project where we built an extensive troubleshooting guide f
 
 The core principle is this: prioritize *knowledge flow* over *knowledge storage*. Here's a breakdown of practical practices:
 
-**1. Embrace the Retrospective – and Validate What You Learn:** Retrospectives are powerful, but often underutilized. They aren’t just about “what went wrong.” They’re about extracting *actionable* knowledge from every project, incident, and sprint. *Critically*, don’t let retrospectives devolve into blame sessions. Focus on systemic issues, not individual failings. 
+**1. Embrace the Retrospective – and Validate What You Learn:** Retrospectives are powerful, but often underutilized. They aren’t just about “what went wrong.” They’re about extracting *actionable* knowledge from every project, incident, and sprint. *Critically*, don’t let retrospectives devolve into blame sessions. Focus on systemic issues, not individual failings.
 
 And importantly, validate those learnings. Too often, we identify an issue in a retrospective, create an action item, and then… nothing happens. Track those action items, ensure they're implemented, and *verify* that the corrective action actually solved the problem. I’ve seen initiatives where teams diligently documented post-mortems, but never closed the loop on the improvements. That's wasted effort. Empirically validating your findings is crucial.
 
@@ -26,20 +26,18 @@ And importantly, validate those learnings. Too often, we identify an issue in a 
 
 **5. "Start With Whom" – Building the Right Knowledge-Sharing Team:** When embarking on a new initiative or project, consciously consider *who* you involve from the beginning. Don't just think about technical skills. Prioritize individuals who are naturally inclined to share knowledge, mentor others, and actively participate in learning. The right team composition will significantly accelerate knowledge transfer and build a stronger learning culture.
 
-
-
 ## The Power of Continuous Improvement
 
-Effective knowledge management isn’t a project; it’s a habit. It’s about building a continuous improvement loop where learning is woven into the fabric of your engineering organization. And it's not about being perfect, but about *constantly* striving to be better. 
+Effective knowledge management isn’t a project; it’s a habit. It’s about building a continuous improvement loop where learning is woven into the fabric of your engineering organization. And it's not about being perfect, but about *constantly* striving to be better.
 
-Avoid the trap of focusing solely on the negative. Actively seek out and celebrate successes, too. It’s easy to get bogged down in identifying what went wrong, but remembering what went *right* helps build momentum and reinforces positive behaviors. 
+Avoid the trap of focusing solely on the negative. Actively seek out and celebrate successes, too. It’s easy to get bogged down in identifying what went wrong, but remembering what went *right* helps build momentum and reinforces positive behaviors.
 
 **Ready to Foster a Learning Culture?**
 
 Consider these next steps:
 
-*   **Knowledge Audit:** Identify existing knowledge silos and gaps within your team.
-*   **Retrospective Refresh:** Review your retrospective process to ensure it’s focused on learning, not blame.
-*   **Champion Knowledge Sharing:** Recognize and reward engineers who actively share their knowledge with others.
+* **Knowledge Audit:** Identify existing knowledge silos and gaps within your team.
+* **Retrospective Refresh:** Review your retrospective process to ensure it’s focused on learning, not blame.
+* **Champion Knowledge Sharing:** Recognize and reward engineers who actively share their knowledge with others.
 
 A truly learning engineering team is resilient, adaptable, and capable of achieving extraordinary things. It’s an investment that will pay dividends for years to come.

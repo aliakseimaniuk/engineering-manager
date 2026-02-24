@@ -6,15 +6,15 @@ I recently spoke with a tech lead who’d just been promoted to architect. While
 
 I’ve seen it play out countless times – at startups scrambling to fill gaps, and at large companies navigating reorganizations. A seemingly simple promotion, a shift in project ownership, or even someone taking on “just a little bit more” can trigger a cascade of unseen work, ultimately leading to overwhelmed team members and compromised quality.
 
-**The Problem: The Expanding Scope for Those Implementing**
+## The Problem: The Expanding Scope for Those Implementing
 
 The input highlights a vital point: as roles become *more* defined, responsibility often falls disproportionately on the engineer responsible for implementation. Think about it. A new project manager meticulously outlines requirements, a product owner details user stories, and a QA engineer crafts test plans. All great! But who ultimately bridges the gaps when those specs conflict? Who clarifies ambiguities? Who absorbs the context switching required when priorities change mid-sprint? Too often, it’s the engineer building the thing.
 
-This isn’t about blaming anyone. It’s about recognizing a systemic issue. We *assume* clear definitions mean distributed work, but in reality, they often create more *fragmented* work that needs re-integration. The tighter the role definitions, the more likely someone has to become a translator, a negotiator, *and* a coder – all at once. 
+This isn’t about blaming anyone. It’s about recognizing a systemic issue. We *assume* clear definitions mean distributed work, but in reality, they often create more *fragmented* work that needs re-integration. The tighter the role definitions, the more likely someone has to become a translator, a negotiator, *and* a coder – all at once.
 
 I once led a team where we moved to a highly structured "component-based" architecture. The intention was to improve collaboration and reduce dependencies. It worked... until every minor integration required a meeting with representatives from three different teams, each with their own nuanced understanding of the API contracts. The senior engineer responsible for weaving it all together was drowning in context switching and quickly became a single point of failure.
 
-**Why Role Transitions Are Different Than Just "Work"**
+## Why Role Transitions Are Different Than Just "Work"
 
 Normal workload fluctuations are one thing. Role transitions are different. They involve a shift in *expectation* and *responsibility*. It's not just *doing* more work; it's *being* responsible for a different *kind* of work.
 
@@ -25,7 +25,7 @@ Here are a few common transition scenarios and their hidden loads:
 * **Joining a New Team:** Even without a promotion, switching teams introduces a significant cognitive load. Learning team processes, understanding existing code, and building rapport all take time and energy.  This requires not just technical learning but also social adaptation, as the new team member integrates into a different culture and working style.
 * **Stepping in During Turnover:** When a team member leaves unexpectedly, the remaining team members must absorb their responsibilities, often without adequate training or support. This is often an *emergency* transition, distinct from planned role shifts, and requires immediate response and resource allocation.
 
-**Proactive Strategies for Mitigating the Load**
+## Proactive Strategies for Mitigating the Load
 
 So, what can you *do* as a leader? Here are some actionable steps:
 
@@ -36,7 +36,7 @@ So, what can you *do* as a leader? Here are some actionable steps:
 5. **Foster Psychological Safety:** Create a safe environment where team members feel comfortable raising concerns and asking for help. If someone is struggling, they need to feel empowered to speak up without fear of judgment.
 6. **Regular Check-ins:** Go beyond the standard 1:1s. Ask specifically about the transition: “How is the new responsibility feeling? Are you getting the support you need? What’s the biggest challenge right now?”
 
-**Beyond Individual Support: Systemic Improvements**
+## Beyond Individual Support: Systemic Improvements
 
 While individual support is crucial, we also need to address the systemic issues that contribute to this load. This means:
 

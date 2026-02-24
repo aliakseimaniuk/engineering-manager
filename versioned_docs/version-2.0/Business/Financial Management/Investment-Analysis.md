@@ -26,7 +26,6 @@ Let’s break down the core concepts without getting lost in complex formulas.
 * **Market Segmentation:** Understanding your target audience and the size of the potential market. For startups, dominating a niche market (e.g., a specific type of embedded system) can be more strategic than trying to be everything to everyone. Focus on capturing a significant share of a smaller market before expanding.
 * **Control vs. Wealth:** This distinction, often discussed in venture capital circles, is critical. Are you building a company to maintain control (often leading to slower but more stable growth), or to maximize wealth through a rapid exit (like an acquisition)? This significantly impacts investment decisions. A company prioritizing control might focus on long-term sustainability, while one seeking wealth might prioritize rapid growth and scalability.
 
-
 ## Applying Investment Analysis to Engineering Decisions
 
 Let's look at some practical examples:
@@ -39,7 +38,7 @@ Let's look at some practical examples:
 
 ## Beyond the Numbers: The Human Factor
 
-While data is crucial, don't forget the qualitative aspects. Investment analysis isn't just about spreadsheets; it’s about understanding the market, the competition, and the potential impact of your decisions. 
+While data is crucial, don't forget the qualitative aspects. Investment analysis isn't just about spreadsheets; it’s about understanding the market, the competition, and the potential impact of your decisions.
 
 * **Risk Assessment:** What are the potential risks associated with each investment? How likely are they to occur, and what would be the impact if they did?
 * **Strategic Alignment:** Does the investment align with the company's overall vision and goals?

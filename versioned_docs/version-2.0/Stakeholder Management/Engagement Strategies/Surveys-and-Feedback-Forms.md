@@ -8,7 +8,7 @@ This isn’t about just *collecting* data; it’s about leveraging feedback as a
 
 Here’s how strategically used surveys benefit us:
 
-* **Proactive Problem Identification:** Instead of waiting for issues to surface in retrospectives or 1:1s, proactively identify pain points in processes, tools, or communication. 
+* **Proactive Problem Identification:** Instead of waiting for issues to surface in retrospectives or 1:1s, proactively identify pain points in processes, tools, or communication.
 * **Gauge Team Sentiment:** Understand morale, engagement, and identify potential burnout *before* it impacts productivity – for example, noticing a consistent drop in ‘energy’ scores in weekly pulse surveys.
 * **Inform Technical Decisions:** Get input from the team on architecture choices, tech stack decisions, or prioritization of technical debt. (This builds buy-in *and* leverages collective expertise!)
 * **Validate Assumptions:** Challenge your own biases and understand how your team *actually* perceives a situation, not how you *think* they do.
@@ -34,8 +34,8 @@ This is where many surveys fail. Here’s how to avoid common mistakes:
 
 * **Keep it Concise:** Respect your team’s time. Shorter surveys have higher completion rates. Focus on 3-5 key questions per pulse survey and keep comprehensive surveys under 15-20 questions.
 * **Use Clear, Unambiguous Language:** Avoid jargon, technical terms, or leading questions. Instead of "Do you find our new CI/CD pipeline efficient?", ask "How satisfied are you with the current CI/CD pipeline?"  Here's a comparison:
-    * **Bad:** "Is the new deployment process streamlined?"
-    * **Good:** "How easy or difficult is it to deploy changes using the new process?"
+  * **Bad:** "Is the new deployment process streamlined?"
+  * **Good:** "How easy or difficult is it to deploy changes using the new process?"
 * **Mix Question Types:** Utilize a combination of multiple-choice, rating scales (Likert scales are great), and open-ended questions. Open-ended questions provide valuable qualitative data.
 * **Ensure Anonymity (Where Appropriate):** For sensitive topics (e.g., morale, manager feedback), ensure respondents feel safe providing honest feedback. Tools typically allow for anonymous submissions.  Crucially, *actually* ensure anonymity. Team members will quickly lose trust if they suspect their responses are identifiable.
 * **Test Before You Launch:** Pilot your survey with a small group before distributing it to the entire team to identify confusing questions or technical issues.

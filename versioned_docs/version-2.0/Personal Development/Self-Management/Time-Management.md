@@ -14,7 +14,7 @@ The first step is brutal honesty: **what are you doing that someone else *could*
 
 ## Prioritization Beyond Urgent vs. Important
 
-The Eisenhower Matrix (urgent/important) is a solid starting point for prioritization, but it often falls short for engineering management. While it helps distinguish between immediate fires and long-term goals, it doesn't adequately address the *type* of work that truly moves the needle. We need a layer that considers **impact and leverage**. 
+The Eisenhower Matrix (urgent/important) is a solid starting point for prioritization, but it often falls short for engineering management. While it helps distinguish between immediate fires and long-term goals, it doesn't adequately address the *type* of work that truly moves the needle. We need a layer that considers **impact and leverage**.
 
 Many engineering managers find that simply being “important” isn’t enough. We need to focus on work that unlocks the potential of the entire team. That’s why I’ve adapted a framework I call the **RICE-L Matrix:**
 
@@ -26,20 +26,19 @@ Many engineering managers find that simply being “important” isn’t enough.
 
 Prioritize tasks with high Leverage, even if Reach or Impact are moderate. Investing in team processes, unblocking engineers, or clarifying requirements will yield a far greater return than single-handedly tackling a complex feature.
 
-
 ## The Power of Asynchronous Communication
 
-Meetings are the time-eaters of engineering management. While some are unavoidable, many can be significantly reduced with a shift towards asynchronous communication. 
+Meetings are the time-eaters of engineering management. While some are unavoidable, many can be significantly reduced with a shift towards asynchronous communication.
 
 * **Document Decisions:** Instead of lengthy meetings to debate options, create a shared document outlining the problem, proposed solutions, and rationale for the chosen approach. Let people review and provide feedback asynchronously.
 * **Embrace Written Updates:** Short, concise written updates (using tools like Slack threads or dedicated project communication platforms) can often replace status meetings.
 * **“Office Hours”:** Instead of scheduling individual meetings for quick questions, establish dedicated "office hours" where engineers can drop in (virtually or in person) with their questions.
 
-This requires discipline and a culture of clear documentation, but the time savings are substantial. 
+This requires discipline and a culture of clear documentation, but the time savings are substantial.
 
 ## Time Tracking - Not to Police, But to Understand
 
-I'm not a huge fan of micromanaging time tracking, but *understanding* how time is being spent is crucial. Tools like Clockify, Toggl Track, or even integrations within platforms like ZenHub can provide valuable insights. 
+I'm not a huge fan of micromanaging time tracking, but *understanding* how time is being spent is crucial. Tools like Clockify, Toggl Track, or even integrations within platforms like ZenHub can provide valuable insights.
 
 The goal isn’t to measure productivity, but to identify time leaks and patterns. Are engineers consistently spending too much time in meetings? Are there recurring roadblocks that need to be addressed?  Use this data to inform your process improvements and resource allocation.
 

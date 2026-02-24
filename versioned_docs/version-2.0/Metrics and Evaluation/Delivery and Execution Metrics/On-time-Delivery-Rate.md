@@ -24,7 +24,7 @@ Before you start chasing a higher percentage, you need to understand *why* your 
 Once you’ve identified the root causes, you can start implementing strategies to improve your OTDR. Here are a few that have worked for me:
 
 * **Invest in Estimation Techniques:** When estimation consistently misses the mark, invest in techniques like story pointing, planning poker, and historical data to improve accuracy. Regularly review past estimates to identify areas for improvement.
-* **Prioritize Ruthlessly:** Focus on delivering the most valuable features first. Don’t try to do too much at once. Use frameworks like MoSCoW (Must have, Should have, Could have, Won't have) to prioritize effectively. 
+* **Prioritize Ruthlessly:** Focus on delivering the most valuable features first. Don’t try to do too much at once. Use frameworks like MoSCoW (Must have, Should have, Could have, Won't have) to prioritize effectively.
 * **Manage Scope Creep with a Change Control Process:** Implement a clear process for managing change requests. Require a formal review and approval process for any changes to the agreed-upon scope.
 * **Address Technical Debt Proactively:** Allocate dedicated time for refactoring and addressing technical debt. Make it a regular part of your sprint planning.
 * **Improve Dependency Management:** Identify and proactively manage external dependencies.  Services like Queuemail.dev and uptime monitoring through tools like UptimeObserver can introduce external dependencies. Establish clear communication channels with dependent teams and consider building in buffer time to account for potential delays.
@@ -35,7 +35,7 @@ It’s also important to remember that sometimes, *delaying* delivery to ensure 
 
 ## Beyond the Percentage: A Holistic View
 
-Ultimately, OTDR is just one metric among many. It's important to consider it in the context of other factors like code quality, customer satisfaction, and team morale. A relentless focus on delivering on time at the expense of these other factors can be counterproductive. 
+Ultimately, OTDR is just one metric among many. It's important to consider it in the context of other factors like code quality, customer satisfaction, and team morale. A relentless focus on delivering on time at the expense of these other factors can be counterproductive.
 
 Instead of solely focusing on the number, strive to create a healthy engineering culture that values predictability, transparency, and continuous improvement. When you do that, a positive OTDR will naturally follow.
 

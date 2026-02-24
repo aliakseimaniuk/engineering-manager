@@ -1,6 +1,6 @@
 # Documentation Standards
 
-For over two decades, I’ve seen documentation swing wildly between meticulously detailed (and rarely read) specs and minimal documentation. As engineering leaders, we *know* documentation is vital. It's the bedrock of onboarding, knowledge transfer, maintainability, and frankly, preventing us from repeating the same mistakes. But establishing *effective* documentation standards? That’s a deceptively hard problem. 
+For over two decades, I’ve seen documentation swing wildly between meticulously detailed (and rarely read) specs and minimal documentation. As engineering leaders, we *know* documentation is vital. It's the bedrock of onboarding, knowledge transfer, maintainability, and frankly, preventing us from repeating the same mistakes. But establishing *effective* documentation standards? That’s a deceptively hard problem.
 
 This isn't about enforcing rigid processes or churning out endless pages of fluff. It's about creating a system that empowers your team to share knowledge efficiently, reduce friction, and build truly sustainable software. Here's how to move beyond the boilerplate and build documentation standards that actually work.
 
@@ -19,8 +19,6 @@ Instead of imposing rigid templates and checklists, focus on establishing a few 
 * **Single Source of Truth:** Avoid duplication and inconsistencies by designating a single, authoritative source for each type of documentation. Tools like readme.com, Confluence, or dedicated documentation platforms can be hugely valuable here, offering collaborative features, versioning, and a central repository for everything from API references to architectural diagrams.
 * **Prioritize Maintainability:** Documentation isn't a "write-once" activity. It needs to be kept up-to-date as the codebase evolves. Make it easy to edit, review, and update documentation as part of your regular workflow.  
 
-
-
 ## What *Should* You Document? A Pragmatic Approach
 
 While "document everything" is unrealistic, here's a breakdown of key areas to prioritize:
@@ -31,10 +29,9 @@ While "document everything" is unrealistic, here's a breakdown of key areas to p
 * **Troubleshooting & Known Issues:** A repository of common problems and their solutions.
 * **Decision Records:** A brief summary of important technical decisions, including the rationale behind them. This helps prevent “reinventing the wheel” and provides valuable context for future changes.  
 
-
 ## Embracing Postmortems for Continuous Improvement
 
-Dingsøyr’s work on postmortem reviews emphasizes their importance in software engineering. Don't just document *what* you built, document *how* you built it and *what* you learned. Post-incident reviews and project retrospectives are excellent opportunities to identify gaps in your documentation and improve your process. What information was missing when you were trying to debug a problem? What questions did new team members ask repeatedly? 
+Dingsøyr’s work on postmortem reviews emphasizes their importance in software engineering. Don't just document *what* you built, document *how* you built it and *what* you learned. Post-incident reviews and project retrospectives are excellent opportunities to identify gaps in your documentation and improve your process. What information was missing when you were trying to debug a problem? What questions did new team members ask repeatedly?
 
 ## Maintaining Documentation: Avoiding Technical Debt
 

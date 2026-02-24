@@ -35,7 +35,7 @@ Once you’ve defined your target market and unique value proposition, it fundam
 * **Saying “No” Gets Easier:** If a feature doesn’t directly serve your target customer or reinforce your positioning, it’s easier to push back. Focus becomes highly focused.
 * **Technical Architecture Reflects Strategy:** If you're building a platform for data-intensive applications, your architecture will prioritize scalability, data integrity, and low latency. For example, we invested heavily in time-series databases and real-time data pipelines. If you’re building a mobile-first solution, your architecture will be different.
 * **Technical Debt Management Changes:** Prioritize paying down technical debt in areas that impact your key differentiators.  Instead of optimizing the UI for a rarely used feature, we focused on improving the performance of our API integrations – a core component of our data-driven platform. Don't waste time optimizing areas that aren't critical to your core value proposition.
-* **Product-Led Growth Becomes Achievable:** When you understand *who* you're building for, you can design features that naturally drive adoption and engagement. 
+* **Product-Led Growth Becomes Achievable:** When you understand *who* you're building for, you can design features that naturally drive adoption and engagement.
 
 ## Tools for Understanding the Landscape
 
@@ -46,10 +46,10 @@ Once you’ve defined your target market and unique value proposition, it fundam
 
 ## From Feature Factory to Market Leader
 
-Market positioning isn't just a marketing exercise. It's a strategic imperative that influences every aspect of engineering. By understanding your target market, defining your unique value proposition, and aligning your engineering efforts accordingly, you can move beyond being a feature factory and build a truly impactful and sustainable product. It's about building the *right* thing, for the *right* people, and positioning it in a way that creates a lasting connection. 
+Market positioning isn't just a marketing exercise. It's a strategic imperative that influences every aspect of engineering. By understanding your target market, defining your unique value proposition, and aligning your engineering efforts accordingly, you can move beyond being a feature factory and build a truly impactful and sustainable product. It's about building the *right* thing, for the *right* people, and positioning it in a way that creates a lasting connection.
 
 **Here are three things you can do today to start incorporating market positioning into your engineering process:**
 
-1.  **Schedule a meeting** with your product and marketing teams to collaboratively define your ideal target market.
-2.  **Conduct at least three customer interviews** to validate your assumptions about their pain points and needs.
-3.  **Review your current backlog** and identify features that don't clearly align with your defined positioning. Be prepared to say "no" or defer them.
+1. **Schedule a meeting** with your product and marketing teams to collaboratively define your ideal target market.
+2. **Conduct at least three customer interviews** to validate your assumptions about their pain points and needs.
+3. **Review your current backlog** and identify features that don't clearly align with your defined positioning. Be prepared to say "no" or defer them.

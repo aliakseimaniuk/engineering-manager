@@ -4,7 +4,7 @@ For 20+ years, I’ve seen engineering organizations operate on a spectrum – f
 
 ## The Cost of Reactive Resource Management
 
-Let's be honest: underestimating resource needs feels like a short-term win. “We'll figure it out,” becomes the mantra. But that "figuring it out" always comes with a price. 
+Let's be honest: underestimating resource needs feels like a short-term win. “We'll figure it out,” becomes the mantra. But that "figuring it out" always comes with a price.
 
 * **Technical Debt:** Rushing features to meet deadlines inevitably leads to shortcuts and compromises in code quality.
 * **Burnout:** Overworked teams produce lower quality work and experience higher turnover. I once led a team where consistently working 60+ hour weeks became the norm. The initial "heroic" effort quickly gave way to resentment and a steady stream of resignations. The ultimate outcome? A compromised product with several post-launch bugs requiring significant rework.
@@ -30,7 +30,7 @@ When categorizing, consider the *complexity and impact* of each task.  A simple 
 
 Headcount is a *lagging* indicator. *Available capacity* is what matters. Calculate this by:
 
-* **Total Available Hours:** (Number of Engineers) * (Average Working Hours per Week) * (Weeks in Sprint/Quarter)
+* **Total Available Hours:** (Number of Engineers) *(Average Working Hours per Week)* (Weeks in Sprint/Quarter)
 * **Subtract Non-Project Time:** Account for meetings, training, administrative tasks, PTO, and sick days. Be realistic. I recommend a standard 20-30% reduction.
 * **Subtract Existing Commitments:** Factor in existing projects and ongoing operational work.
 
@@ -55,7 +55,7 @@ The future is uncertain. Don't plan for a single outcome. Develop a few scenario
 * **Most Likely:** A realistic assessment of potential challenges.
 * **Worst Case:** Key dependencies are delayed, unexpected bugs emerge, or team members are unavailable.
 
-When developing these scenarios, ask yourselves: What are the biggest risks to this project? What dependencies are outside our control? What could realistically go wrong? Understanding these scenarios allows you to proactively identify potential bottlenecks and develop contingency plans. 
+When developing these scenarios, ask yourselves: What are the biggest risks to this project? What dependencies are outside our control? What could realistically go wrong? Understanding these scenarios allows you to proactively identify potential bottlenecks and develop contingency plans.
 
 **5. Regular Review & Adjustment:**
 
@@ -70,4 +70,3 @@ Lean Analytics is a great book to delve deeper into data-driven decision-making,
 Finally, remember that resource forecasting isn’t just about maximizing output. It's about creating a sustainable and healthy work environment. Overloading your team, even with accurate forecasting, will ultimately lead to burnout and decreased productivity. Schedule regular check-ins with your team to assess workload and identify potential burnout. Be willing to re-prioritize tasks if necessary.
 
 Effective resource forecasting is an ongoing process – a commitment to data-driven planning, realistic expectations, and a genuine concern for your team’s wellbeing. It’s not about predicting the future; it’s about preparing for it. And that makes all the difference.
-

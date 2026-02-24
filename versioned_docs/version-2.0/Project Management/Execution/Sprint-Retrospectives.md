@@ -1,6 +1,6 @@
 # Sprint Retrospectives
 
-Sprint retrospectives. They're a cornerstone of agile development, a dedicated time for teams to inspect and adapt. But how often do they feel… lackluster? A predictable round robin of “what went well, what didn't, action items that never see the light of day”? 
+Sprint retrospectives. They're a cornerstone of agile development, a dedicated time for teams to inspect and adapt. But how often do they feel… lackluster? A predictable round robin of “what went well, what didn't, action items that never see the light of day”?
 
 I recently spoke with a frustrated engineering manager who described a retrospective where the team dutifully listed issues, assigned action items, and then… promptly forgot about them. It was a recurring cycle of identifying problems without driving meaningful change. This scenario is far too common, and it highlights why simply *doing* retrospectives isn’t enough. To truly unlock their power, you need to move beyond the basic format and cultivate a culture of genuine learning and improvement. This article isn't about *how to run* a retro (plenty of tools cover that – see resources at the end). It’s about how *you*, as an engineering manager, can elevate them from a checkbox exercise to a catalyst for high performance.
 
@@ -30,7 +30,7 @@ Here’s how to make that shift:
 
 ## From Action Items to Real Change
 
-Creating a list of action items is only half the battle. Ensuring those items are actually *implemented* requires intentional follow-through.  It's easy to fall into the trap of creating a long list of tasks that then languish. 
+Creating a list of action items is only half the battle. Ensuring those items are actually *implemented* requires intentional follow-through.  It's easy to fall into the trap of creating a long list of tasks that then languish.
 
 * **Assign Owners:** Every improvement task needs a clear owner who is responsible for driving it to completion.
 * **Integrate into the Sprint:** Don't treat improvement tasks as “extra work.” Incorporate them into the sprint backlog, just like any other user story. This ensures they are prioritized and tracked.
@@ -39,7 +39,7 @@ Creating a list of action items is only half the battle. Ensuring those items ar
 
 ## Leveling Up: Team-Level vs. Organization-Level Retrospectives
 
-As your teams mature, consider expanding the scope of retrospectives beyond the individual team. However, it's important to assess readiness.  Teams need to consistently demonstrate the ability to identify and address systemic issues at the team level *before* scaling to broader retrospectives. 
+As your teams mature, consider expanding the scope of retrospectives beyond the individual team. However, it's important to assess readiness.  Teams need to consistently demonstrate the ability to identify and address systemic issues at the team level *before* scaling to broader retrospectives.
 
 * **Team-of-Teams Retrospectives:** Bring representatives from multiple teams together to identify and address systemic issues that span team boundaries. This requires a skilled facilitator to manage the conversation and ensure everyone has a voice.
 * **Organizational Retrospectives:** These are larger, company-wide retrospectives focused on identifying and addressing challenges that impact the entire organization. They typically involve leadership participation and require careful planning to ensure they are productive and actionable.
@@ -51,8 +51,6 @@ Remember, the goal isn’t just to identify problems; it’s to create a culture
 Sprint retrospectives aren't just a ceremony; they're an investment in your team's growth and performance. By shifting the focus from problems to systems, prioritizing improvement task follow-through, and expanding the scope of retrospectives, you can transform them from a routine task into a powerful catalyst for continuous improvement.  
 
 As a challenge, choose one technique from this article to implement in your next retrospective.  Focus on applying it consistently, and observe the impact on your team's performance and morale.
-
-
 
 **Resources:**
 

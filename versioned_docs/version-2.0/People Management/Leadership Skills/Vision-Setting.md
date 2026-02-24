@@ -4,9 +4,9 @@ Imagine a team energized by a shared purpose, consistently delivering innovative
 
 ## The Problem with Traditional Vision Statements
 
-Let’s be honest: how many vision statements can you recall *verbatim*? Probably very few. That’s because most are broad, aspirational, and utterly disconnected from the concrete work engineers do. Think phrases like “revolutionize the industry” or “become the leading provider.” While ambitious, these statements lack the specificity needed to guide daily decisions. 
+Let’s be honest: how many vision statements can you recall *verbatim*? Probably very few. That’s because most are broad, aspirational, and utterly disconnected from the concrete work engineers do. Think phrases like “revolutionize the industry” or “become the leading provider.” While ambitious, these statements lack the specificity needed to guide daily decisions.
 
-The problem isn't ambition; it's *translation*. Engineers aren't motivated by abstract ideals; they're motivated by solving challenging problems and building things that matter. A vision needs to bridge the gap between lofty goals and concrete deliverables. Studies have shown that teams with a clearly defined and understood purpose are significantly more engaged and productive; a vague vision simply doesn’t cut it. 
+The problem isn't ambition; it's *translation*. Engineers aren't motivated by abstract ideals; they're motivated by solving challenging problems and building things that matter. A vision needs to bridge the gap between lofty goals and concrete deliverables. Studies have shown that teams with a clearly defined and understood purpose are significantly more engaged and productive; a vague vision simply doesn’t cut it.
 
 ## From Vision to “What Are We Building & Why?”
 
@@ -17,7 +17,7 @@ I’ve found it far more effective to frame vision setting as answering two key 
 
 This shifts the focus from abstract aspiration to concrete value. Instead of "revolutionizing communication," we might say, "We're building a real-time collaboration platform that allows distributed teams to work together seamlessly, reducing communication friction and increasing productivity."
 
-To help facilitate this discussion, consider using a simple two-column table. Column 1: "What?" (Specific product/feature). Column 2: "Why?" (User benefit/Business impact). Filling this out collaboratively with your team is a powerful exercise. 
+To help facilitate this discussion, consider using a simple two-column table. Column 1: "What?" (Specific product/feature). Column 2: "Why?" (User benefit/Business impact). Filling this out collaboratively with your team is a powerful exercise.
 
 ## The Core Components of an Effective Engineering Vision
 
@@ -32,7 +32,7 @@ I remember implementing these components during the development of a new mobile 
 
 ## Making Vision Setting a Habit, Not a Meeting
 
-The biggest mistake is treating vision setting as a one-time event. It needs to be an ongoing conversation woven into the fabric of your team's workflow. 
+The biggest mistake is treating vision setting as a one-time event. It needs to be an ongoing conversation woven into the fabric of your team's workflow.
 
 * **Regular Check-Ins:** Dedicate 15-30 minutes during sprint planning or weekly team meetings to revisit the vision. Discuss progress, challenges, and how current work aligns with the overall goals.
 * **Connect Daily Work to the Vision:** Encourage engineers to articulate how their tasks contribute to the bigger picture. This helps them feel more connected to the work and increases motivation.

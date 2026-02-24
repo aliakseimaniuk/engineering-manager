@@ -12,10 +12,9 @@ I remember vividly the early days of the 2008 financial crisis. I was leading a 
 
 ## The "Focus-Relax" Cycle & Systemic Failure
 
-In the aftermath of the 2008 crisis, I realized the importance of intentionally building in periods of recovery. Our brains and bodies aren't designed for sustained periods of intense focus without adequate recovery. Leadership coach Laura Berger notes that consistent overwork diminishes cognitive capacity and long-term performance. Think of it like a muscle: it needs rest to rebuild and become stronger. When we constantly push ourselves without allowing for rejuvenation, we reach a breaking point. 
+In the aftermath of the 2008 crisis, I realized the importance of intentionally building in periods of recovery. Our brains and bodies aren't designed for sustained periods of intense focus without adequate recovery. Leadership coach Laura Berger notes that consistent overwork diminishes cognitive capacity and long-term performance. Think of it like a muscle: it needs rest to rebuild and become stronger. When we constantly push ourselves without allowing for rejuvenation, we reach a breaking point.
 
-What’s more, consistently exceeding individual and team capacity isn't just a personal problem; it creates systemic failure. As Laura points out, if roles aren’t adequately defined or there aren’t enough people to fill them, the burden falls on those who remain. This leads to bottlenecks, increased errors, and ultimately, project delays. 
-
+What’s more, consistently exceeding individual and team capacity isn't just a personal problem; it creates systemic failure. As Laura points out, if roles aren’t adequately defined or there aren’t enough people to fill them, the burden falls on those who remain. This leads to bottlenecks, increased errors, and ultimately, project delays.
 
 ## Practical Strategies for Engineering Leaders
 
@@ -30,6 +29,6 @@ So, what can we do *practically* to maintain work-life balance during a crisis? 
 
 ## Beyond Survival: Building Resilience
 
-Maintaining work-life balance during a crisis isn’t just about *surviving* the immediate challenges. It’s about building *resilience* – the ability to bounce back from adversity and thrive in the face of uncertainty. When we prioritize our well-being and the well-being of our teams, we create a more sustainable and effective organization. 
+Maintaining work-life balance during a crisis isn’t just about *surviving* the immediate challenges. It’s about building *resilience* – the ability to bounce back from adversity and thrive in the face of uncertainty. When we prioritize our well-being and the well-being of our teams, we create a more sustainable and effective organization.
 
-As leaders, we must remember that our teams are looking to us for guidance, not just during times of stability, but especially during times of crisis. By modeling healthy work-life balance, we not only protect ourselves but also empower our teams to navigate challenges with greater resilience and achieve lasting success. 
+As leaders, we must remember that our teams are looking to us for guidance, not just during times of stability, but especially during times of crisis. By modeling healthy work-life balance, we not only protect ourselves but also empower our teams to navigate challenges with greater resilience and achieve lasting success.

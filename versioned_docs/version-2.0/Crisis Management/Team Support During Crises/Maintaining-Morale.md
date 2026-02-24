@@ -29,8 +29,6 @@ Traditional motivational tactics assume a fundamental ability to *choose* to be 
 
 5. **Recognize and Address Overload:** Your team might not be bored, they might be *overwhelmed*. Insufficient staffing or unrealistic expectations lead to burnout *and* a loss of agency. If a team member is consistently taking on more than their fair share, address it directly. This isn’t about blaming individuals; it’s about identifying systemic imbalances and finding solutions.
 
-
-
 ## The Importance of "Genuine Care"
 
 It’s easy to get caught up in metrics, deadlines, and deliverables. But ultimately, people are what drive success. When they feel valued, respected, and empowered, they’re more likely to be engaged, productive, and innovative.
@@ -41,6 +39,6 @@ I remember a factory in the 80s, a cautionary tale. Management ignored worker co
 
 Not every problem can be solved overnight. But by focusing on restoring agency, fostering genuine care, and consistently acting on feedback, you can create a more engaged, resilient, and ultimately, successful team—even in the face of ongoing challenges.
 
-So, here’s a challenge: **identify one constraint limiting your team’s agency this week, and brainstorm at least three potential solutions with your team.**  Even small steps can make a significant difference. 
+So, here’s a challenge: **identify one constraint limiting your team’s agency this week, and brainstorm at least three potential solutions with your team.**  Even small steps can make a significant difference.
 
 Don't fall into the trap of treating symptoms with band-aids. Focus on restoring control and empowering your team to shape their work. That's a view worth striving for.

@@ -6,11 +6,11 @@ This isn't about empty praise or superficial rewards. It’s about a deliberate 
 
 ## The Problem with Focusing Only on Blockers
 
-Too often, when leading change, we default to problem-solving mode. We meticulously identify blockers, devise workarounds, and spend our energy extinguishing fires. While necessary, this reactive approach can create a negative cycle, reinforcing a culture of *avoiding* problems rather than embracing challenges. It can feel like we’re constantly highlighting what’s *wrong* instead of celebrating what’s *right*. 
+Too often, when leading change, we default to problem-solving mode. We meticulously identify blockers, devise workarounds, and spend our energy extinguishing fires. While necessary, this reactive approach can create a negative cycle, reinforcing a culture of *avoiding* problems rather than embracing challenges. It can feel like we’re constantly highlighting what’s *wrong* instead of celebrating what’s *right*.
 
-Think about it: when your team is navigating a complex migration to a new framework, are you spending more time discussing the roadblocks or acknowledging the effort people are putting into learning the new technology and building robust solutions *despite* those roadblocks? 
+Think about it: when your team is navigating a complex migration to a new framework, are you spending more time discussing the roadblocks or acknowledging the effort people are putting into learning the new technology and building robust solutions *despite* those roadblocks?
 
-I’ve seen this play out repeatedly. A team I led was migrating a legacy system to microservices. We were facing integration challenges, performance issues, and a steep learning curve. My initial instinct was to relentlessly focus on these issues in daily stand-ups. While transparency is vital, it created a pervasive sense of anxiety and slowed progress. 
+I’ve seen this play out repeatedly. A team I led was migrating a legacy system to microservices. We were facing integration challenges, performance issues, and a steep learning curve. My initial instinct was to relentlessly focus on these issues in daily stand-ups. While transparency is vital, it created a pervasive sense of anxiety and slowed progress.
 
 Only when I consciously shifted the focus to acknowledging the small wins – a successful API integration, a clever workaround, a team member mastering a new skill – did the momentum begin to shift.
 
@@ -35,7 +35,7 @@ Here's how to integrate reinforcement into your change management process:
     * **Collaboration:** Effective teamwork and knowledge sharing.
     * **Adaptability:** Willingness to embrace new processes and tools.
 
-2. **Make it Visible:** Publicly acknowledge and celebrate these behaviors. Use team meetings, internal communication channels (Slack, email), and even one-on-one conversations. 
+2. **Make it Visible:** Publicly acknowledge and celebrate these behaviors. Use team meetings, internal communication channels (Slack, email), and even one-on-one conversations.
 
 3. **Be Specific:** Don't just say “Good job!” Explain *what* the team member did well and *why* it was valuable. ("I really appreciated how you documented the integration process, Mark. That will save the whole team time in the long run.")
 

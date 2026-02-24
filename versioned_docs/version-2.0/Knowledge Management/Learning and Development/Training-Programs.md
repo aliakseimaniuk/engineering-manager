@@ -8,13 +8,13 @@ For years, I saw teams treat training as a checkbox – “Did we send someone t
 
 Let's move past the idea of training as a one-off event. Here's a framework I’ve found successful in building a robust learning program:
 
-1. **Needs Assessment: The "Skills Gap" Analysis.** This is the most crucial step, and it’s often skipped. Don’t just ask your team what trainings they *want*; that doesn’t necessarily align with strategic business needs. Instead, conduct a systematic skills gap analysis. 
+1. **Needs Assessment: The "Skills Gap" Analysis.** This is the most crucial step, and it’s often skipped. Don’t just ask your team what trainings they *want*; that doesn’t necessarily align with strategic business needs. Instead, conduct a systematic skills gap analysis.
     * **Team Goals:** What are your team’s key objectives for the next quarter/year?
     * **Current Skillset:** What skills does the team *currently* possess? Be honest.
     * **Skills Gap:** Where do the two diverge? This highlights where training should be focused.
     * **Individual Growth Plans:** Understand each engineer's career aspirations. Align training with both team *and* individual goals. This creates buy-in and motivation. To conduct this analysis, consider utilizing performance reviews, project retrospectives, or targeted skill assessments.
 
-2. **Curated Learning Paths:** Once you know the skills gaps, don’t just send people randomly to courses. Build *learning paths* – a sequence of resources designed to address specific needs. 
+2. **Curated Learning Paths:** Once you know the skills gaps, don’t just send people randomly to courses. Build *learning paths* – a sequence of resources designed to address specific needs.
     * **Formal Training:** Conferences, workshops, online courses (see resources below).
     * **Internal Knowledge Sharing:** “Lunch & Learns,” brown bag sessions, internal documentation, code reviews focused on skill transfer.
     * **Mentorship:** Pairing less experienced engineers with seasoned professionals.
@@ -39,13 +39,13 @@ Let's move past the idea of training as a one-off event. Here's a framework I’
 The good news is, there’s a wealth of free and low-cost learning resources available. Here are a few I’ve found valuable, categorized by focus:
 
 * **Broad Skills Enhancement:**
-    * **DevNet Academy (Cisco):** Great for automation and networking skills.
-    * **Cisco Networking Academy:** Covers networking, cybersecurity, and Python.
-    * **Exercism:** Hands-on coding practice in 75+ languages, with mentoring. Particularly useful for reinforcing fundamentals.
+  * **DevNet Academy (Cisco):** Great for automation and networking skills.
+  * **Cisco Networking Academy:** Covers networking, cybersecurity, and Python.
+  * **Exercism:** Hands-on coding practice in 75+ languages, with mentoring. Particularly useful for reinforcing fundamentals.
 * **Emerging Technologies (AI/ML):**
-    * **DeepLearning.AI Short Courses:** Excellent short courses on generative AI and machine learning, ideal for quick upskilling.
+  * **DeepLearning.AI Short Courses:** Excellent short courses on generative AI and machine learning, ideal for quick upskilling.
 * **Collaboration & Communication (Remote Teams):**
-    * **Showtime:** A smaller meeting platform useful for focused training sessions with limited attendees. (Consider other platforms too, depending on team size).
+  * **Showtime:** A smaller meeting platform useful for focused training sessions with limited attendees. (Consider other platforms too, depending on team size).
 
 **Important Note:** The tech landscape changes rapidly. Proactively allocate dedicated “exploration time” for engineers to experiment with new technologies and share their findings. This fosters innovation and ensures your team remains at the forefront of industry trends.
 

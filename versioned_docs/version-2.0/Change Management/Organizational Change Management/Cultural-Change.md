@@ -4,11 +4,11 @@ For two decades, I’ve led engineering teams through periods of rapid growth, r
 
 Consider a recent example: a team I worked with resisted adopting a new CI/CD pipeline, not because it was technically flawed, but because it disrupted their established workflow and introduced unfamiliar tools. The initial focus was on “making the transition easy” and “keeping everyone happy,” which resulted in watered-down implementation and limited benefits. It wasn’t until we acknowledged the discomfort and focused on the *why* – increased velocity and reliability – that the team fully embraced the change.
 
-This might sound harsh. We’re conditioned to believe positive change leads to positive feelings. But consider this: the most profound cultural shifts in history – from the agricultural revolution to the industrial revolution, even the advent of the internet – weren’t necessarily *comfortable* for everyone involved. They were disruptive, anxiety-inducing, and often required individuals and entire societies to fundamentally rethink their way of life. 
+This might sound harsh. We’re conditioned to believe positive change leads to positive feelings. But consider this: the most profound cultural shifts in history – from the agricultural revolution to the industrial revolution, even the advent of the internet – weren’t necessarily *comfortable* for everyone involved. They were disruptive, anxiety-inducing, and often required individuals and entire societies to fundamentally rethink their way of life.
 
 Think about Blockbuster Video. A cultural icon, yes, but ultimately felled not by a *better* video rental company, but by Netflix, a completely different *model* for consuming entertainment. This shift wasn’t just about convenience; it was enabled by a technological shift – the rise of streaming – that fundamentally altered how content was delivered. Those who resisted adapting – clinging to the familiar comfort of brick and mortar stores – were left behind.
 
-**Why We Confuse Change with Happiness**
+## Why We Confuse Change with Happiness
 
 The "happiness = good change" equation stems from a few common tendencies:
 
@@ -16,7 +16,7 @@ The "happiness = good change" equation stems from a few common tendencies:
 * **Aversion to Discomfort:** Nobody *likes* being uncomfortable. Change forces us out of our routines, challenges our assumptions, and requires effort.
 * **Assuming Universality:** We often *assume* everyone will react positively to change, failing to anticipate resistance or valid concerns.
 
-**The Real Goal of Cultural Change: Adaptability**
+## The Real Goal of Cultural Change: Adaptability
 
 So, if happiness isn't the goal, what is? **Adaptability.** A healthy culture isn’t one where everyone is perpetually joyful; it's one that can anticipate, respond to, and even *drive* change effectively. This means:
 
@@ -25,7 +25,7 @@ So, if happiness isn't the goal, what is? **Adaptability.** A healthy culture is
 * **Learning from Failure:** Adaptability requires experimentation, and experimentation inevitably leads to failure. A culture that punishes failure stifles innovation. Instead, focus on learning from mistakes and iterating quickly.
 * **Being Aware of Shared Assumptions:** We all operate under shared beliefs – what some call "collective fictions" – that shape our understanding of the world. These deeply held beliefs can be powerful tools for collaboration, but they can also blind us to new possibilities. A healthy culture encourages critical thinking and a willingness to question even the most deeply held assumptions. Recognizing these underlying assumptions is crucial when introducing new technologies or processes.
 
-**A Framework for Leading Through Cultural Change**
+## A Framework for Leading Through Cultural Change
 
 Here's a simple framework I’ve found helpful when leading teams through change:
 
@@ -35,7 +35,7 @@ Here's a simple framework I’ve found helpful when leading teams through change
 4. **Empower Ownership:** Give people agency over the change process. Encourage them to contribute ideas and take ownership of the implementation.
 5. **Monitor and Adjust:** Change isn’t a one-time event. Continuously monitor the impact of the change and make adjustments as needed.
 
-**The Shadow of Groupthink & the Importance of Critical Thought**
+## The Shadow of Groupthink & the Importance of Critical Thought
 
 It's also vital to be aware of the potential for detrimental group dynamics during periods of change. Timothy Snyder’s *On Tyranny* provides chilling lessons from 20th-century history, highlighting how easily societies can succumb to manipulation and conformity. While seemingly distant from the challenges of engineering leadership, the core principle applies: a willingness to question authority, defend truth, and resist the erosion of independent thought is crucial, especially when faced with rapid change and pressure to conform.  This means actively encouraging dissenting opinions and creating a safe space for constructive criticism.
 

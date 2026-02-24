@@ -6,7 +6,7 @@ This isn’t just about preparing for the catastrophic – the server outage, th
 
 ## The Problem with Traditional Disaster Recovery
 
-Too often, disaster recovery plans focus solely on *technical* recovery. While important, this is only one piece of the puzzle. A detailed runbook for restoring a database is useless if the team responsible has moved on, or if the documentation doesn't reflect current infrastructure. I've witnessed firsthand clients happily agreeing to a process *with* business stakeholders, then disappearing during crucial grooming sessions, demos, or feedback loops. This disconnect undermines the entire effort. 
+Too often, disaster recovery plans focus solely on *technical* recovery. While important, this is only one piece of the puzzle. A detailed runbook for restoring a database is useless if the team responsible has moved on, or if the documentation doesn't reflect current infrastructure. I've witnessed firsthand clients happily agreeing to a process *with* business stakeholders, then disappearing during crucial grooming sessions, demos, or feedback loops. This disconnect undermines the entire effort.
 
 Think about it: a well-executed technical recovery gets you *back to where you were*. But what if "where you were" isn't a good place to be? What if the market has shifted, the product needs to evolve, or the business strategy has changed? You’ve just painstakingly restored a system that’s already obsolete. I recall one client who spent weeks restoring a legacy application only to discover the core business need it addressed had vanished due to a competitor’s innovation.  The effort was wasted, and the team demoralized.
 
@@ -20,22 +20,20 @@ True business continuity requires a shift in mindset. Here's how to build it int
 
 **3. Architectural Resilience:**
 
-*   **Modular Design:** Build systems with well-defined modules and clear interfaces. This makes it easier to isolate failures and replace components.
-*   **Redundancy & Failover:** Implement redundant systems and automated failover mechanisms. This isn’t just about hardware; it’s about having alternative code paths and data sources.
-*   **Monitoring & Alerting:** Comprehensive monitoring and alerting are critical. But don't just track system health; track key business metrics. Alerts should be actionable and routed to the right people. 
-*   **Embrace Modern Patterns:** Explore resilience patterns like chaos engineering (intentionally injecting failures to test system behavior) and circuit breakers (preventing cascading failures by stopping requests to failing services).
+* **Modular Design:** Build systems with well-defined modules and clear interfaces. This makes it easier to isolate failures and replace components.
+* **Redundancy & Failover:** Implement redundant systems and automated failover mechanisms. This isn’t just about hardware; it’s about having alternative code paths and data sources.
+* **Monitoring & Alerting:** Comprehensive monitoring and alerting are critical. But don't just track system health; track key business metrics. Alerts should be actionable and routed to the right people.
+* **Embrace Modern Patterns:** Explore resilience patterns like chaos engineering (intentionally injecting failures to test system behavior) and circuit breakers (preventing cascading failures by stopping requests to failing services).
 
 **4. Knowledge Sharing & Documentation:**
 
-*   **Living Documentation:** Documentation should be treated as code—version controlled, reviewed, and regularly updated. Encourage "docs as code" practices.
-*   **Cross-Training:** Ensure multiple team members have expertise in critical systems and processes. This mitigates the risk of losing key knowledge when personnel change.
-*   **Post-Incident Reviews (Retrospectives):** Don't just fix the immediate problem; analyze *why* it happened and what can be done to prevent it in the future. David Tran’s recommendation of empirically studying these reviews is spot on – analyzing patterns and quantifying the impact of resilience initiatives is key to continuous improvement. Treat them as opportunities to refine your processes and build a more resilient system.
+* **Living Documentation:** Documentation should be treated as code—version controlled, reviewed, and regularly updated. Encourage "docs as code" practices.
+* **Cross-Training:** Ensure multiple team members have expertise in critical systems and processes. This mitigates the risk of losing key knowledge when personnel change.
+* **Post-Incident Reviews (Retrospectives):** Don't just fix the immediate problem; analyze *why* it happened and what can be done to prevent it in the future. David Tran’s recommendation of empirically studying these reviews is spot on – analyzing patterns and quantifying the impact of resilience initiatives is key to continuous improvement. Treat them as opportunities to refine your processes and build a more resilient system.
 
 **5. Embrace "Good Enough" & Iteration**
 
 Perfection is the enemy of progress. Avoid getting bogged down in over-engineering for every conceivable edge case. Focus on building a minimum viable product (MVP) that meets the core business needs, and then iterate based on feedback and real-world usage. I’ve seen many projects stalled by over-engineering, while simpler solutions would have delivered value much faster.
-
-
 
 ## Visualizing the Shift: From Reactive to Proactive
 
@@ -48,7 +46,7 @@ Perfection is the enemy of progress. Avoid getting bogged down in over-engineeri
 
 ## Beyond the Checklist: Building a Culture of Resilience
 
-Ultimately, business continuity isn’t just about having a plan; it’s about building a culture of resilience within your engineering team. It requires a shift in mindset, a commitment to continuous improvement, and a willingness to embrace change. We understand that implementing these changes requires investment, but the long-term benefits of resilience far outweigh the initial costs. 
+Ultimately, business continuity isn’t just about having a plan; it’s about building a culture of resilience within your engineering team. It requires a shift in mindset, a commitment to continuous improvement, and a willingness to embrace change. We understand that implementing these changes requires investment, but the long-term benefits of resilience far outweigh the initial costs.
 
 By focusing on architectural resilience, knowledge sharing, and proactive planning, you can empower your team to navigate uncertainty and deliver value, even when the unexpected happens. And in today’s rapidly changing business landscape, that’s the most valuable asset of all.
 
@@ -56,7 +54,7 @@ By focusing on architectural resilience, knowledge sharing, and proactive planni
 
 Here are a few actionable steps to begin building business continuity into your engineering practice:
 
-*   **Conduct a Business Impact Analysis:** Identify critical business functions and the impact of potential disruptions.
-*   **Facilitate a Workshop:** Bring together key stakeholders to identify critical dependencies and potential vulnerabilities.
-*   **Prioritize Resilience Initiatives:** Based on risk and impact, prioritize resilience efforts that will deliver the greatest value.
-*   **Explore Resources:** Utilize online articles, templates, and tools to guide your implementation.
+* **Conduct a Business Impact Analysis:** Identify critical business functions and the impact of potential disruptions.
+* **Facilitate a Workshop:** Bring together key stakeholders to identify critical dependencies and potential vulnerabilities.
+* **Prioritize Resilience Initiatives:** Based on risk and impact, prioritize resilience efforts that will deliver the greatest value.
+* **Explore Resources:** Utilize online articles, templates, and tools to guide your implementation.

@@ -11,7 +11,7 @@ When a service incident occurs, the immediate impulse is to *fix it*. And yes, r
 1. **Detection & Communication:** How quickly did we *know* there was a problem? And, critically, how quickly and transparently did we communicate that to our users? Silence breeds frustration. Acknowledging the issue *immediately*, even without a solution, is crucial.  Leveraging tools for real-time alerting, like Zenduty, is key to rapid detection.
 2. **Resolution & Restoration:** This is where our technical expertise shines. The speed and effectiveness of the fix matter, but so does minimizing the *impact* on users. Can we offer graceful degradation? Rollback to a stable state?
 3. **Accountability & Empathy:** This is where leadership truly comes into play. Taking ownership of the problem, even if it wasn’t *your* code that broke, builds trust. A simple apology and acknowledgement of the inconvenience goes a long way. Avoid blaming individuals publicly.
-4. **Learning & Prevention:** This is the often-overlooked, but most important, dimension. A post-incident review (PIR) isn't about assigning blame; it's about identifying systemic issues and preventing recurrence. 
+4. **Learning & Prevention:** This is the often-overlooked, but most important, dimension. A post-incident review (PIR) isn't about assigning blame; it's about identifying systemic issues and preventing recurrence.
 
 As illustrated in the 2x2 matrix below, focusing on all four dimensions is critical for effective service recovery.
 
@@ -34,8 +34,6 @@ While robust solutions exist, you can leverage free or low-cost services to stre
 * **SnapShooter:** Take regular snapshots of your infrastructure, enabling rapid recovery from failures.
 * **Zenduty:** While a paid service, the free tier offers critical alerting and on-call management, enabling faster detection and response to incidents.
 
-
-
 ## Beyond the Incident: Building a Culture of Ownership
 
 Service recovery isn't just about *reacting* to incidents; it's about building a culture where everyone feels empowered to take ownership and learn from mistakes. This means:
@@ -46,6 +44,6 @@ Service recovery isn't just about *reacting* to incidents; it's about building a
 
 As leaders, you’re often the first to know when something goes wrong, and the last to sleep until it’s resolved. This pressure underscores the importance of building resilient systems *and* a supportive team environment.
 
-**Remember:** A well-handled service incident can actually *strengthen* customer loyalty. It demonstrates that you’re a responsible and trustworthy provider who cares about their experience. 
+**Remember:** A well-handled service incident can actually *strengthen* customer loyalty. It demonstrates that you’re a responsible and trustworthy provider who cares about their experience.
 
 By embracing service recovery as an integral part of your engineering leadership, you can turn potential crises into opportunities for growth, innovation, and stronger customer relationships.

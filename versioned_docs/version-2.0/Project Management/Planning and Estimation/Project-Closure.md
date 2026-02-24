@@ -1,6 +1,6 @@
 # Project Closure
 
-For engineering managers, the thrill of launching a new feature or product often overshadows a critical, yet frequently neglected, phase: project closure. We’re wired to start, to build, to *go*. But a sloppy finish can undermine all that hard work, leaving a trail of technical debt, frustrated team members, and lost learning. Over my 20+ years leading engineering teams, I've seen the impact of both diligent and haphazard project closures, and the difference is significant. 
+For engineering managers, the thrill of launching a new feature or product often overshadows a critical, yet frequently neglected, phase: project closure. We’re wired to start, to build, to *go*. But a sloppy finish can undermine all that hard work, leaving a trail of technical debt, frustrated team members, and lost learning. Over my 20+ years leading engineering teams, I've seen the impact of both diligent and haphazard project closures, and the difference is significant.
 
 This isn't about paperwork; it's about maximizing the return on investment for *every* project, fostering a learning culture, and ensuring your team isn’t constantly firefighting the ghosts of projects past. Let’s dive into how to master the art of project closure.
 
@@ -20,22 +20,20 @@ I've found it helpful to have a structured checklist to guide the closure proces
 
 **C - Celebrate & Communicate:** First, acknowledge the team’s hard work. Celebrate milestones and accomplishments. Then, communicate the project’s outcome to stakeholders – a concise summary of what was delivered, any challenges encountered, and key metrics. Transparency is crucial.
 
-**L - Lessons Learned Workshop:** This is the heart of the process. Facilitate a *blameless* post-mortem. Don't dwell on *who* made mistakes, focus on *what* went well and *what* could be improved. Use techniques like "Start, Stop, Continue" to encourage constructive feedback. Document these lessons meticulously. I’ve found that using a shared document (Google Docs, Confluence, etc.) allows for real-time collaboration and ensures everyone has access to the insights. 
+**L - Lessons Learned Workshop:** This is the heart of the process. Facilitate a *blameless* post-mortem. Don't dwell on *who* made mistakes, focus on *what* went well and *what* could be improved. Use techniques like "Start, Stop, Continue" to encourage constructive feedback. Document these lessons meticulously. I’ve found that using a shared document (Google Docs, Confluence, etc.) allows for real-time collaboration and ensures everyone has access to the insights.
 
 **O - Ownership & Handover:** Clearly define ownership of the delivered product or service. Who is responsible for ongoing maintenance, bug fixes, and future enhancements? This includes a detailed handover document outlining the architecture, dependencies, and known issues. Think beyond just code; include operational runbooks, monitoring dashboards, and contact information.
 
 **S - Systems & Documentation Update:** This is where many projects fall down. Update all relevant systems and documentation. This is critical for reporting, auditing, and future planning. Specifically:
-    * **Code Repositories:** Ensure code is properly documented and tested.
+    ***Code Repositories:** Ensure code is properly documented and tested.
     * **Architecture Diagrams:** Reflect any changes made during the project.
-    * **Knowledge Base:** Add new information and update existing articles.
+    ***Knowledge Base:** Add new information and update existing articles.
     * **Monitoring & Alerting:** Configure systems to monitor the health of the delivered product.
-    * **Project Management Tools:** Archive or close out the project in your chosen platform (Shortcut, ClickUp, Hygger, Taskulu etc.). 
+    * **Project Management Tools:** Archive or close out the project in your chosen platform (Shortcut, ClickUp, Hygger, Taskulu etc.).
 
 **E - Evaluate & Archive:** Finally, evaluate the project’s performance against its original goals. Did we deliver what we set out to deliver? What was the ROI?  Allocate time during this step to reflect on the closure process itself - what went well, what could be improved? Then, archive all project artifacts – code, documentation, designs, and lessons learned – in a central repository for future reference.
 
-
-
-## Beyond the Checklist: Practical Tips 
+## Beyond the Checklist: Practical Tips
 
 Here are a few additional tips gleaned from years of experience:
 
@@ -48,5 +46,5 @@ Here are a few additional tips gleaned from years of experience:
 
 Investing in project closure isn’t just about checking boxes; it’s about maximizing the value of every project.  By capturing knowledge, reducing technical debt, and fostering a learning culture, you’ll empower your team to deliver even better results in the future. It's a small investment that yields significant returns. One team I worked with reduced recurring bug fixes by 15% after implementing a standardized closure process.
 
-Don't let the finish line be an afterthought. Prioritize closure to unlock the full potential of every project. 
+Don't let the finish line be an afterthought. Prioritize closure to unlock the full potential of every project.
 !

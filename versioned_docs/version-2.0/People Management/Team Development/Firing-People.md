@@ -33,8 +33,4 @@ Despite your best efforts, sometimes letting someone go is unavoidable. Here's h
 
 ## It's Not About Responsibility – It's About Leadership
 
-Firing someone isn’t a victory. It’s a difficult, necessary, and often painful part of the job. But by prioritizing proactive performance management, fostering open communication, and treating your team members with respect and empathy, you can minimize the need for it and create a more positive and productive work environment. 
-
-**Take Action Now:** Review your current performance management process this week. Are you consistently providing clear expectations and regular feedback? Schedule a check-in with your team to address any potential issues before they escalate. A small investment of time now can prevent a lot of pain later.
-
-**Resources:** For additional guidance on performance management best practices, consider resources from the Society for Human Resource Management (SHRM) and articles on effective feedback techniques.
+Firing someone isn’t a victory. It’s a difficult, necessary, and often painful part of the job. But by prioritizing proactive performance management, fostering open communication, and treating your team members with respect and empathy, you can minimize the need for it and create a more positive and productive work environment.

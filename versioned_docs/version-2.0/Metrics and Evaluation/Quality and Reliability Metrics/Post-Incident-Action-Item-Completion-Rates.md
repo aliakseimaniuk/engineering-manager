@@ -1,6 +1,6 @@
 # Post Incident Action Item Completion Rates
 
-We talk a *lot* about incident response. Playbooks, on-call rotations, blameless postmortems… the initial scramble to restore service gets a lot of attention. But what happens *after* the fire is put out? All too often, the action items born from those crucial post-incident reviews languish, becoming a digital graveyard of good intentions. 
+We talk a *lot* about incident response. Playbooks, on-call rotations, blameless postmortems… the initial scramble to restore service gets a lot of attention. But what happens *after* the fire is put out? All too often, the action items born from those crucial post-incident reviews languish, becoming a digital graveyard of good intentions.
 
 As engineering leaders, we need to face a hard truth: a low completion rate for post-incident action items isn’t just a sign of disorganization; it’s a direct threat to the long-term reliability of our systems, and a silent killer of team morale. I’ve seen it firsthand, both at rapidly growing startups and within established enterprise organizations. Here's why it happens, and what you can *actually* do to improve it.
 
@@ -13,8 +13,6 @@ It's easy to assume the problem is simply “people are busy.” While that’s 
 * **No Dedicated Time/Capacity:**  We ask teams to fix systemic issues *on top* of their regular sprint work.  This is a recipe for failure.  Reliability work *is* work, and it needs to be explicitly allocated.
 * **Lack of Visibility & Follow-Up:**  If you don't track action items and actively follow up, they'll quickly be forgotten.  Many teams generate postmortems and then…nothing.  It’s like shouting into the void.
 * **The "Fix it and Forget it" Mentality:**  Treating postmortems as solely reactive exercises, instead of opportunities for proactive learning and improvement, leads to recurring incidents.
-
-
 
 ## A Framework for Increasing Completion Rates
 
@@ -47,9 +45,6 @@ This is a delicate one. Don’t punish people for identifying problems. Instead,
 **5. Proactive Analysis of Recurring Themes**
 
 As highlighted by research on post-incident analysis, such as the work of Stålhane et al. (2003), identifying and analyzing recurring themes in postmortems can reveal underlying systemic issues. This allows you to move beyond addressing symptoms and tackle root causes. Investigating these patterns can prevent future incidents and improve overall system stability. Analyzing these recurring themes can be time-consuming, but tools like PostHog can help by providing historical data and identifying patterns.
-
-
-
 
 ## Beyond Completion: Cultivating a Culture of Learning
 

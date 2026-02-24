@@ -60,6 +60,6 @@ A smooth, predictable process is critical. Here’s what I recommend:
 
 ## The Long Game: Cultivating a Culture of Collaboration
 
-An architecture review board is more than just a process; it's a tool for building a stronger engineering culture. When done right, it fosters collaboration, knowledge sharing, and a shared sense of ownership over the technical direction of the company. 
+An architecture review board is more than just a process; it's a tool for building a stronger engineering culture. When done right, it fosters collaboration, knowledge sharing, and a shared sense of ownership over the technical direction of the company.
 
 **Now, what’s your next step?** Start by assessing your current architecture review process (or lack thereof). Identify one area for improvement and implement a small change this week. Share this article with your team and discuss how you can build a more effective architecture review board.  It’s an investment in the long-term health and success of your engineering organization.

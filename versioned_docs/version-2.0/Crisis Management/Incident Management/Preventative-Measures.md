@@ -1,12 +1,12 @@
 # Preventative Measures
 
-We’ve all been there: scrambling to fix a production outage, desperately patching a security breach, or racing against the clock to squash critical bugs before a release. These moments demand immediate attention and a well-defined response plan. But truly effective crisis management isn't about how *well* you extinguish fires, it’s about preventing them from starting in the first place. As engineering leaders, our greatest leverage isn’t in rapid response, but in building systems and fostering cultures that proactively minimize risk. 
+We’ve all been there: scrambling to fix a production outage, desperately patching a security breach, or racing against the clock to squash critical bugs before a release. These moments demand immediate attention and a well-defined response plan. But truly effective crisis management isn't about how *well* you extinguish fires, it’s about preventing them from starting in the first place. As engineering leaders, our greatest leverage isn’t in rapid response, but in building systems and fostering cultures that proactively minimize risk.
 
 This isn't just about technical safeguards, though those are critical. It's about a mindset shift – moving beyond reactive firefighting to a preventative posture. Here’s how to do that.
 
 ## The Illusion of Control & The Importance of Unfalsifiable Principles
 
-It's tempting to believe we can *fully* control complex systems. We strive for zero defects, 100% uptime, and perfect predictability. This is a comforting illusion. The reality is software development, especially at scale, is inherently uncertain. Embrace this uncertainty. 
+It's tempting to believe we can *fully* control complex systems. We strive for zero defects, 100% uptime, and perfect predictability. This is a comforting illusion. The reality is software development, especially at scale, is inherently uncertain. Embrace this uncertainty.
 
 Instead of chasing impossible perfection, focus on establishing *unfalsifiable principles*. These are guiding beliefs that, while not provable as absolute truths, provide a stable foundation for decision-making. Think of it this way: "Everyone should be treated equally under the law" isn’t a statement *about* the world (it’s a value), making it impossible to definitively disprove. Similarly, in engineering, we can establish principles like "All code changes must be peer-reviewed," or "All code must have unit tests." These aren't predictions about success, but commitments to process that reduce risk.
 
@@ -36,7 +36,7 @@ Proactive risk management involves:
 
 ## The Hidden Costs of Infrastructure & Process
 
-Ironically, some of the things we put in place to *prevent* crises can inadvertently *increase* the risk of them occurring. Heavy-handed infrastructure, overly complex audit processes, and rigid financial structures can all slow down iteration and make it harder to respond to changing circumstances. 
+Ironically, some of the things we put in place to *prevent* crises can inadvertently *increase* the risk of them occurring. Heavy-handed infrastructure, overly complex audit processes, and rigid financial structures can all slow down iteration and make it harder to respond to changing circumstances.
 
 While security and compliance are paramount, strive for a balance between protection and agility. Ask yourself:
 
@@ -46,7 +46,7 @@ While security and compliance are paramount, strive for a balance between protec
 
 ## A Culture of Proactive Vigilance
 
-Ultimately, preventing crises isn't just about technical safeguards or well-defined processes. It's about fostering a culture of proactive vigilance. We often talk about prioritizing long-term resilience, but it's important to acknowledge that shifting from a reactive to a proactive mindset can be *difficult* – especially when facing competing priorities and tight deadlines. 
+Ultimately, preventing crises isn't just about technical safeguards or well-defined processes. It's about fostering a culture of proactive vigilance. We often talk about prioritizing long-term resilience, but it's important to acknowledge that shifting from a reactive to a proactive mindset can be *difficult* – especially when facing competing priorities and tight deadlines.
 
 Encourage your team to:
 
@@ -55,11 +55,11 @@ Encourage your team to:
 * **Learn from Mistakes:** Treat failures as learning opportunities, not blame games.
 * **Prioritize Long-Term Resilience:** Invest in building systems that are robust, scalable, and maintainable.
 
-By shifting our focus from reactive firefighting to proactive prevention, we can build more resilient teams, deliver more reliable products, and ultimately, reduce the likelihood of crises occurring in the first place. It requires discipline, foresight, and continuous improvement – and the rewards are significant. 
+By shifting our focus from reactive firefighting to proactive prevention, we can build more resilient teams, deliver more reliable products, and ultimately, reduce the likelihood of crises occurring in the first place. It requires discipline, foresight, and continuous improvement – and the rewards are significant.
 
 **Key Takeaways:**
 
-*   **Embrace Uncertainty:** Recognize that perfect control is an illusion.
-*   **Establish Unfalsifiable Principles:** Build a foundation of guiding beliefs that reduce risk.
-*   **Prioritize Proactive Risk Management:** Identify and mitigate potential problems before they occur.
-*   **Foster a Culture of Vigilance:** Encourage your team to question assumptions, share knowledge, and learn from mistakes.
+* **Embrace Uncertainty:** Recognize that perfect control is an illusion.
+* **Establish Unfalsifiable Principles:** Build a foundation of guiding beliefs that reduce risk.
+* **Prioritize Proactive Risk Management:** Identify and mitigate potential problems before they occur.
+* **Foster a Culture of Vigilance:** Encourage your team to question assumptions, share knowledge, and learn from mistakes.

@@ -1,6 +1,6 @@
 # Professional Development Plans
 
-For two decades, I’ve seen countless engineers coast on “meets expectations” performance reviews, feeling vaguely unsatisfied but unsure how to bridge the gap to real growth. We talk a lot about performance *management*, but often neglect the crucial counterpart: professional *development*. It's not enough to simply assess *what* someone is doing; we need to actively cultivate *where* they’re going. This isn’t about sending everyone to the latest JavaScript framework workshop; it’s about crafting individualized plans that unlock potential, fuel engagement, and future-proof your team. 
+For two decades, I’ve seen countless engineers coast on “meets expectations” performance reviews, feeling vaguely unsatisfied but unsure how to bridge the gap to real growth. We talk a lot about performance *management*, but often neglect the crucial counterpart: professional *development*. It's not enough to simply assess *what* someone is doing; we need to actively cultivate *where* they’re going. This isn’t about sending everyone to the latest JavaScript framework workshop; it’s about crafting individualized plans that unlock potential, fuel engagement, and future-proof your team.
 
 Here’s how to move beyond the annual check-in and build truly effective Professional Development Plans (PDPs) for your engineers.
 
@@ -16,8 +16,6 @@ Before diving into *how* to build a PDP, let’s quickly address why so many fal
 * **Lack of Follow-Through from Management:** A plan is only as good as the support provided to help an engineer achieve its goals. Simply creating a PDP isn’t enough.
 
 These failures aren’t about the concept of PDPs being flawed; they’re about *execution*.  
-
-
 
 ## The Four Pillars of an Effective PDP
 
@@ -51,7 +49,7 @@ Goal setting is useless without a concrete action plan.  This is where you map o
 * **Mentorship:** Pair the engineer with a more experienced colleague.
 * **Shadowing:** Allow the engineer to observe someone performing a desired skill.
 * **Side Projects:**  Encourage exploration of new technologies or techniques. (This is especially powerful – let them *experiment*!)
-* **Knowledge Sharing:**  Have the engineer present findings or lead training sessions for the team. 
+* **Knowledge Sharing:**  Have the engineer present findings or lead training sessions for the team.
 * **Timeboxed Explorations:** For new proposals or technologies, build in *focused experimentation* phases. This allows for rapid prototyping and failure without significant investment.
 
 For instance, we had an engineer interested in learning more about Kubernetes. Rather than sending her to a week-long training, we assigned her a small side project: containerizing a non-critical internal tool. This allowed her to learn by doing, apply her new skills in a practical context, and deliver value to the team.
@@ -66,9 +64,7 @@ Regular check-ins (monthly or quarterly) are crucial. Scheduling 30-minute check
 * **Provide coaching and feedback.**
 * **Celebrate successes!**
 
-
-
-##  Remember: Engineers Aren't Roadmaps
+## Remember: Engineers Aren't Roadmaps
 
 Software developers, by their very nature, often don't have a rigid roadmap. Because they build new things, developers inherently navigate uncertainty. Therefore, PDPs need to be flexible and adaptable. Encourage experimentation and learning from failures.  
 

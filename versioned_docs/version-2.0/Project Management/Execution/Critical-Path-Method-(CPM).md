@@ -32,7 +32,7 @@ CPM isn’t just about identifying the longest path; it's about proactive risk m
 
 ## Empowering the Team: Transparency, Collaboration, and Support
 
-CPM, when implemented correctly, should empower your team, not add more pressure.  Implementing CPM effectively requires an upfront investment of time, but the long-term benefits in predictability and risk mitigation are significant. 
+CPM, when implemented correctly, should empower your team, not add more pressure.  Implementing CPM effectively requires an upfront investment of time, but the long-term benefits in predictability and risk mitigation are significant.
 
 * **Transparency:** Make the critical path visible to everyone. This fosters shared understanding and accountability.
 * **Collaboration:** Involve the team in identifying dependencies and estimating durations. This builds trust and ownership.

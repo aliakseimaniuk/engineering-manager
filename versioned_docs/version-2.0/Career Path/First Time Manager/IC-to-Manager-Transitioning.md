@@ -10,7 +10,7 @@ I remember a colleague, let's call him Mark, a phenomenal backend engineer. He w
 
 ## The Core Shift: Output vs. Leverage
 
-The biggest mental hurdle is shifting from a focus on *output* to a focus on *leverage*. As an IC, your impact is directly tied to the code you write, the features you ship, the problems you solve. As a manager, your impact is tied to the *collective output* of your team. 
+The biggest mental hurdle is shifting from a focus on *output* to a focus on *leverage*. As an IC, your impact is directly tied to the code you write, the features you ship, the problems you solve. As a manager, your impact is tied to the *collective output* of your team.
 
 Think of it like this: you used to be a single multiplier. Now, you're a *multiplier of multipliers*. Your goal isn't to do more work yourself; it’s to create an environment where your team can do *their best work*, more consistently. This means:
 
@@ -38,6 +38,6 @@ Finally, let’s address a common pitfall. Being a good manager isn’t about be
 
 ## Beyond the Transition: Embracing the Long Game
 
-This transition is challenging, but incredibly rewarding. By embracing a new mindset, focusing on leverage, and committing to continuous learning, you can become the leader your team needs to thrive.  The shift from building *with* code to building *through* people is a fundamental one, requiring a different skillset and a long-term perspective.  It’s about fostering growth, empowering others, and building a team capable of consistently delivering impactful results. 
+This transition is challenging, but incredibly rewarding. By embracing a new mindset, focusing on leverage, and committing to continuous learning, you can become the leader your team needs to thrive.  The shift from building *with* code to building *through* people is a fundamental one, requiring a different skillset and a long-term perspective.  It’s about fostering growth, empowering others, and building a team capable of consistently delivering impactful results.
 
 What’s the biggest challenge *you've* faced transitioning into management?  Share your experiences in the comments below – let’s learn from each other!

@@ -6,12 +6,12 @@ It’s not about *avoiding* incidents entirely – that's unrealistic. Complex s
 
 ## Why Incident Frequency is a Leading Indicator
 
-Think of it this way: high incident frequency is the canary in the coal mine. It signals deeper issues brewing beneath the surface. 
+Think of it this way: high incident frequency is the canary in the coal mine. It signals deeper issues brewing beneath the surface.
 
 * **Erosion of Trust:** Every incident, even a minor one, erodes trust – trust in the system, trust in the process, and crucially, trust within the team. Constant firefighting leaves engineers feeling anxious and reactive, hindering their ability to focus on proactive work.
 * **Context Switching Costs:** Frequent incidents force engineers to abandon their current tasks and switch to emergency mode. The cognitive cost of this context switching is significant. Research consistently demonstrates that it takes considerable time to regain full focus after an interruption. This lost time accumulates and seriously impacts productivity.
 * **Technical Debt Amplification:** Quick fixes and workarounds implemented during incidents often contribute to technical debt. This creates a vicious cycle: more technical debt exacerbates bugs and drives up incident frequency.
-* **Hidden Costs:** Beyond the immediate time spent resolving incidents, there are hidden costs associated with communication, investigation, and post-incident analysis. These costs ripple through the organization, impacting customer satisfaction and potentially leading to revenue loss. 
+* **Hidden Costs:** Beyond the immediate time spent resolving incidents, there are hidden costs associated with communication, investigation, and post-incident analysis. These costs ripple through the organization, impacting customer satisfaction and potentially leading to revenue loss.
 
 I’ve seen teams completely derailed by a constant stream of small, seemingly insignificant incidents. They’d spend more time fixing things that broke than building new features, leading to burnout and a sense of helplessness. This isn’t just a technical issue; it's a human one. The constant stress and pressure of reacting to incidents takes a toll on engineer well-being and ultimately stifles innovation.
 
@@ -36,13 +36,13 @@ Okay, you're measuring incident frequency. Now what? Here are some strategies I�
 
 **Reactive Improvement:** These strategies focus on learning from incidents and preventing them from happening again.
 
-4. **Code Reviews:** Thorough code reviews are a simple yet powerful way to catch potential issues before they reach production. Encourage reviewers to focus on more than just syntax and style; look for logic errors, potential performance bottlenecks, and security vulnerabilities.
-5. **Post-Incident Reviews (Blameless Postmortems):** This is *crucial*. Don’t focus on *who* caused the incident; focus on *why* it happened and *how* to prevent it from happening again. Use a structured template and assign a facilitator to ensure a productive discussion.
-6. **Small, Incremental Changes:** Avoid large, complex deployments. Break down changes into smaller, more manageable pieces. This reduces the risk of introducing bugs and makes it easier to identify and fix issues.
-7. **Automate Everything:** Automate deployments, testing, and infrastructure provisioning. This reduces the risk of human error and ensures consistency.
+1. **Code Reviews:** Thorough code reviews are a simple yet powerful way to catch potential issues before they reach production. Encourage reviewers to focus on more than just syntax and style; look for logic errors, potential performance bottlenecks, and security vulnerabilities.
+2. **Post-Incident Reviews (Blameless Postmortems):** This is *crucial*. Don’t focus on *who* caused the incident; focus on *why* it happened and *how* to prevent it from happening again. Use a structured template and assign a facilitator to ensure a productive discussion.
+3. **Small, Incremental Changes:** Avoid large, complex deployments. Break down changes into smaller, more manageable pieces. This reduces the risk of introducing bugs and makes it easier to identify and fix issues.
+4. **Automate Everything:** Automate deployments, testing, and infrastructure provisioning. This reduces the risk of human error and ensures consistency.
 
 ## The Long Game
 
 Lowering incident frequency isn’t a quick fix. It’s a long-term commitment to building a more reliable and resilient system. It requires a shift in mindset – from simply reacting to incidents to proactively preventing them. This investment *will* require time and resources, but the payoff – increased velocity, improved morale, and a more stable system – is well worth the effort.
 
-I’ve seen teams dramatically improve their velocity and morale by focusing on this often-overlooked metric. By prioritizing reliability and investing in observability, you can create a more stable and predictable system, allowing your engineers to focus on what they do best: building great products. 
+I’ve seen teams dramatically improve their velocity and morale by focusing on this often-overlooked metric. By prioritizing reliability and investing in observability, you can create a more stable and predictable system, allowing your engineers to focus on what they do best: building great products.

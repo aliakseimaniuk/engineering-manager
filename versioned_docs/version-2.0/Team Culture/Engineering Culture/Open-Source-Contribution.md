@@ -20,18 +20,18 @@ Okay, so we’re bought in. Now what? Here’s a practical framework for buildin
 
 **1. Carve Out Dedicated Time (Seriously).** This is the biggest hurdle. Saying "contribute when you have time" will result in…nothing. Allocate specific "hack days" or a dedicated percentage of work time (e.g., 10% "innovation time") for engineers to explore and contribute. Protect this time fiercely.
 
-**2. Start Small – and Internal First.** Don’t immediately push for contributions to massive, complex projects. 
-    * **Internal Open Source:** Begin by “open sourcing” internal libraries or tools. This allows your team to practice the workflow in a familiar environment, build confidence, and refine processes before venturing outside.
+**2. Start Small – and Internal First.** Don’t immediately push for contributions to massive, complex projects.
+    ***Internal Open Source:** Begin by “open sourcing” internal libraries or tools. This allows your team to practice the workflow in a familiar environment, build confidence, and refine processes before venturing outside.
     * **"Good First Issues":** Guide engineers toward projects with clearly labeled "good first issues" - tasks specifically designed for newcomers. This lowers the barrier to entry.
 
-**3. Facilitate Discovery & Matching.** Not everyone knows *what* to contribute to. 
-    * **Team Brainstorm:** Hold a team session to identify projects aligned with your team's tech stack and interests.
+**3. Facilitate Discovery & Matching.** Not everyone knows *what* to contribute to.
+    ***Team Brainstorm:** Hold a team session to identify projects aligned with your team's tech stack and interests.
     * **Individual Alignment:** During 1:1s, discuss engineers' passions and help them find relevant projects.
-    * **Maintain a Resource List:** Compile a list of projects (with links and brief descriptions) that the team has vetted.
+    ***Maintain a Resource List:** Compile a list of projects (with links and brief descriptions) that the team has vetted.
     * **Prioritize Interest:** Encourage engineers to choose projects they are *genuinely* interested in. Passion fuels contribution.
 
 **4. Streamline the Workflow.** Make it easy for engineers to contribute.
-    * **PR Templates:** Encourage the use of well-defined pull request templates.
+    ***PR Templates:** Encourage the use of well-defined pull request templates.
     * **Automated Testing:** Ensure contributions adhere to existing testing standards.
     * **Code Style Guides:** Establish clear code style guidelines and utilize tools like linters to enforce consistency.
 
@@ -46,9 +46,8 @@ There will be pushback, and that’s okay. Common concerns include:
 * **“What about IP concerns?”** – Establish clear guidelines regarding contributions to ensure compliance with company policies.
 * **"How do I justify this to my boss?"** – Prepare a clear explanation of the benefits: increased skill development, improved team morale, and a contribution to the broader tech community. Highlight that this isn’t just a perk, but a strategic investment in your team’s future.
 
-
 ## Beyond the Code: Investing in Your Team's Future
 
-Encouraging open source contribution isn’t just about writing code. It's about fostering a culture of learning, collaboration, and giving back. It’s about investing in your team's growth, attracting top talent, and building a more engaged and motivated workforce. 
+Encouraging open source contribution isn’t just about writing code. It's about fostering a culture of learning, collaboration, and giving back. It’s about investing in your team's growth, attracting top talent, and building a more engaged and motivated workforce.
 
 And, in today’s community-driven software landscape, encouraging open-source contribution is a strategic investment for the future of your organization.

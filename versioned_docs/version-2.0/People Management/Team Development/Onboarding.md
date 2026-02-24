@@ -4,20 +4,20 @@ Onboarding. Too often, it’s viewed as a procedural checklist of HR paperwork a
 
 ## Beyond the Basics: The Three Pillars of Effective Engineering Onboarding
 
-Effective engineering onboarding rests on three key pillars: **Technical Ramp-Up, Social Integration, and Cultural Immersion.** Each is equally crucial, and neglecting even one can lead to friction and disengagement. 
+Effective engineering onboarding rests on three key pillars: **Technical Ramp-Up, Social Integration, and Cultural Immersion.** Each is equally crucial, and neglecting even one can lead to friction and disengagement.
 
 * **Technical Ramp-Up:** This is often what first comes to mind when thinking about onboarding – providing access to the right tools, codebase, and documentation. However, it's not *just* about access; it's about *curated* learning. Don’t overwhelm them with everything at once.
-    * **First Week:** Focus on setting up the development environment, understanding the build process, and completing a small, well-defined “first PR” – something that touches the codebase without requiring deep domain knowledge. This provides immediate positive reinforcement.
-    * **First 30 Days:** Assign a dedicated “onboarding buddy” – a peer engineer who can answer questions, provide guidance, and help navigate the complexities of the system. Look for someone enthusiastic, patient, and knowledgeable to fill this role. This is different than a mentor, who focuses on longer-term career development. The buddy focuses on immediate support. 
-    * **First 90 Days:** Gradually increase the complexity of assigned tasks, providing opportunities to work on different parts of the system and collaborate with various team members.  Ignoring social integration during this phase—expecting engineers to figure things out on their own—is a common pitfall that leads to frustration and isolation.
-* **Social Integration:** New engineers need to build relationships with their colleagues. A technically brilliant engineer who doesn’t connect with the team will likely be unhappy and unproductive. 
-    * **Team Lunches/Coffee Chats:** Schedule regular opportunities for the new hire to connect with team members in informal settings. Consider a rotating “lunch buddy” system where different team members take a new hire to lunch each week.
-    * **"Get to Know You" Sessions:** Dedicate time during team meetings for everyone to share a bit about themselves, their backgrounds, and their interests.
-    * **Pair Programming:** Encourage pair programming with different team members. This is a great way to share knowledge, build relationships, and foster collaboration.
+  * **First Week:** Focus on setting up the development environment, understanding the build process, and completing a small, well-defined “first PR” – something that touches the codebase without requiring deep domain knowledge. This provides immediate positive reinforcement.
+  * **First 30 Days:** Assign a dedicated “onboarding buddy” – a peer engineer who can answer questions, provide guidance, and help navigate the complexities of the system. Look for someone enthusiastic, patient, and knowledgeable to fill this role. This is different than a mentor, who focuses on longer-term career development. The buddy focuses on immediate support.
+  * **First 90 Days:** Gradually increase the complexity of assigned tasks, providing opportunities to work on different parts of the system and collaborate with various team members.  Ignoring social integration during this phase—expecting engineers to figure things out on their own—is a common pitfall that leads to frustration and isolation.
+* **Social Integration:** New engineers need to build relationships with their colleagues. A technically brilliant engineer who doesn’t connect with the team will likely be unhappy and unproductive.
+  * **Team Lunches/Coffee Chats:** Schedule regular opportunities for the new hire to connect with team members in informal settings. Consider a rotating “lunch buddy” system where different team members take a new hire to lunch each week.
+  * **"Get to Know You" Sessions:** Dedicate time during team meetings for everyone to share a bit about themselves, their backgrounds, and their interests.
+  * **Pair Programming:** Encourage pair programming with different team members. This is a great way to share knowledge, build relationships, and foster collaboration.
 * **Cultural Immersion:** Every team and company has its own unique culture, norms, and ways of working. New hires need to understand these unwritten rules to thrive.
-    * **Team Values Discussion:** Explicitly discuss the team's values and how they are reflected in day-to-day work.
-    * **Code Review Norms:** Explain the team's approach to code reviews – what you look for, how you provide feedback, and the overall expectations. Emphasize the importance of constructive feedback and creating a psychologically safe environment. 
-    * **Communication Channels:** Clarify which communication channels are used for different purposes (e.g., Slack for quick questions, email for formal communication, project management tools for task tracking). Popular tools include Jira, Asana, Confluence, and Notion.
+  * **Team Values Discussion:** Explicitly discuss the team's values and how they are reflected in day-to-day work.
+  * **Code Review Norms:** Explain the team's approach to code reviews – what you look for, how you provide feedback, and the overall expectations. Emphasize the importance of constructive feedback and creating a psychologically safe environment.
+  * **Communication Channels:** Clarify which communication channels are used for different purposes (e.g., Slack for quick questions, email for formal communication, project management tools for task tracking). Popular tools include Jira, Asana, Confluence, and Notion.
 
 ## Avoiding Common Onboarding Pitfalls
 
@@ -28,8 +28,7 @@ I’ve seen the same mistakes repeated time and again. Here are a few to watch o
 * **Ignoring Social Integration:** Focusing solely on technical ramp-up while neglecting social integration can lead to isolation and disengagement.
 * **No Feedback Loop:** Don't assume everything is going smoothly. Regularly check in with the new hire, solicit feedback, and make adjustments to the onboarding process as needed. A simple “How's it going?” check-in each week can make a huge difference.
 
-
-I recommend a simple timeline-based framework to track onboarding progress. Divide the first 90 days into weekly or bi-weekly milestones. For each milestone, define clear objectives and deliverables. Use a tool like Trello or even a shared document to track progress and identify any roadblocks. 
+I recommend a simple timeline-based framework to track onboarding progress. Divide the first 90 days into weekly or bi-weekly milestones. For each milestone, define clear objectives and deliverables. Use a tool like Trello or even a shared document to track progress and identify any roadblocks.
 
 **Example Milestones:**
 
@@ -40,6 +39,6 @@ I recommend a simple timeline-based framework to track onboarding progress. Divi
 
 ## Beyond 90 Days: Continuous Onboarding
 
-Onboarding isn’t a one-time event. It’s an ongoing process. Continue to provide support, guidance, and opportunities for growth long after the initial 90 days. Encourage continuous learning through mentorship programs, ongoing training opportunities, and clearly defined career development plans. Even for smaller, rapidly growing teams, prioritizing continuous development is key to retaining talent. 
+Onboarding isn’t a one-time event. It’s an ongoing process. Continue to provide support, guidance, and opportunities for growth long after the initial 90 days. Encourage continuous learning through mentorship programs, ongoing training opportunities, and clearly defined career development plans. Even for smaller, rapidly growing teams, prioritizing continuous development is key to retaining talent.
 
-Ultimately, effective onboarding is an investment in your people. We know engineering managers are busy, but dedicating time to a well-structured onboarding process yields significant returns in team performance and long-term sustainability. Don’t treat it as an administrative task; treat it as a strategic priority. 
+Ultimately, effective onboarding is an investment in your people. We know engineering managers are busy, but dedicating time to a well-structured onboarding process yields significant returns in team performance and long-term sustainability. Don’t treat it as an administrative task; treat it as a strategic priority.

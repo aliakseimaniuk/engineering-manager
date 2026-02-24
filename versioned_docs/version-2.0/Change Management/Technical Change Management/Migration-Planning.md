@@ -12,7 +12,7 @@ The core problem? We confused planning *with* control. A detailed plan is a valu
 
 ## Shifting the Focus: From Specs to Business Requirements
 
-One of the most impactful changes you can make to your migration planning process is to redefine what your “specs” actually are. Too often, specs devolve into dictating *how* a problem should be solved, rather than clearly outlining the *business requirements* that need to be met. 
+One of the most impactful changes you can make to your migration planning process is to redefine what your “specs” actually are. Too often, specs devolve into dictating *how* a problem should be solved, rather than clearly outlining the *business requirements* that need to be met.
 
 For example, instead of a spec saying “Implement a new caching layer using Redis,” a better approach is “Reduce page load times by 30% to improve user engagement.” This shifts the ownership of *how* to solve the problem to the team, encouraging innovation and leveraging their expertise.
 
@@ -26,7 +26,7 @@ This approach is particularly vital for migrations. A strict “do this, then th
 
 ## Introducing Developer Guidance at the Planning Stage: Timeboxed Explorations
 
-The key to building team buy-in and mitigating risk isn’t just *asking* for input – it’s *investing* in exploration. Before finalizing any migration plan, dedicate timeboxed “feasibility explorations.” 
+The key to building team buy-in and mitigating risk isn’t just *asking* for input – it’s *investing* in exploration. Before finalizing any migration plan, dedicate timeboxed “feasibility explorations.”
 
 Here's how it works:
 
@@ -41,17 +41,17 @@ This process accomplishes several things:
 * **Team Ownership:** Engineers feel invested in the solution because they’ve had a hand in shaping it.
 * **Shared Understanding:** Everyone gains a better understanding of the challenges and trade-offs involved.
 
-I’ve found that even a small investment in these explorations pays massive dividends down the line. 
+I’ve found that even a small investment in these explorations pays massive dividends down the line.
 
 ## Planning for the "As-Is" to "To-Be" Gap
 
-The timeboxed explorations will also help you identify the gaps between your current and desired state.  Migrations aren’t just about moving code; they're about bridging that gap. What features will need to be refactored as part of the migration? What data transformations will be required? What dependencies will need to be updated? 
+The timeboxed explorations will also help you identify the gaps between your current and desired state.  Migrations aren’t just about moving code; they're about bridging that gap. What features will need to be refactored as part of the migration? What data transformations will be required? What dependencies will need to be updated?
 
 Document these gaps explicitly. This isn’t about creating a perfect plan, it’s about creating a shared understanding of the work ahead. A simple spreadsheet or a dedicated section in your project management tool can suffice.
 
 ## The Human Element: Beyond the Code
 
-Finally, don’t underestimate the emotional impact of migration. Engineers may be attached to legacy systems, resistant to change, or worried about their skills becoming obsolete. 
+Finally, don’t underestimate the emotional impact of migration. Engineers may be attached to legacy systems, resistant to change, or worried about their skills becoming obsolete.
 
 * **Open Communication:** Create a safe space for engineers to voice their concerns.
 * **Training & Support:** Provide ample training and support to help them adapt to new technologies.
@@ -59,6 +59,6 @@ Finally, don’t underestimate the emotional impact of migration. Engineers may 
 
 After 30 years in IT, I've learned that technology is just a tool. It’s the people who ultimately make or break a migration. Research on organizational change management ([https://hbr.org/topic/change-management](https://hbr.org/topic/change-management)) consistently demonstrates that addressing the human side of change is critical for success.
 
-**In conclusion:** Migration planning isn’t just about technical feasibility; it’s about building a resilient team and fostering a culture of collaboration. By shifting the focus from control to empowerment, and prioritizing the human element, you can significantly increase your chances of success. 
+**In conclusion:** Migration planning isn’t just about technical feasibility; it’s about building a resilient team and fostering a culture of collaboration. By shifting the focus from control to empowerment, and prioritizing the human element, you can significantly increase your chances of success.
 
 **Next Step:** Schedule a team workshop to collaboratively define the business requirements for your next migration project. Start by focusing on *what* needs to be achieved, and let your team determine the *how*.

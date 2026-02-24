@@ -1,6 +1,6 @@
 # Setting Boundaries
 
-Stakeholder management. It’s a phrase that often conjures images of polite negotiation and carefully worded emails. And while those things are *part* of it, a crucial, often overlooked component is something far more foundational: **setting boundaries.** 
+Stakeholder management. It’s a phrase that often conjures images of polite negotiation and carefully worded emails. And while those things are *part* of it, a crucial, often overlooked component is something far more foundational: **setting boundaries.**
 
 As engineering leaders, we’re inherently builders. We build products, we build teams, and we often find ourselves building bridges – trying to accommodate *everyone’s* requests. This desire to be helpful, to be “yes” people, feels good in the short term. But consistently overextending ourselves, and our teams, erodes velocity, breeds resentment, and ultimately harms our ability to deliver.
 
@@ -22,7 +22,7 @@ Okay, theory is great. But how do you *actually* set boundaries? Here's a framew
 
 **1. The "Quick Favor" Request:** This is the most common culprit. A stakeholder asks for a "small" change that will "only take a few hours."
 
-* **Response Template:** “That sounds interesting. Let me take a look at the current sprint commitments and priorities. I'll get back to you by [time/day] with a realistic assessment of how this fits in.” 
+* **Response Template:** “That sounds interesting. Let me take a look at the current sprint commitments and priorities. I'll get back to you by [time/day] with a realistic assessment of how this fits in.”
 * **Key:** *Don’t commit on the spot.* This buys you time to assess the impact. If it *does* fit, great! If not, you've already established a process for evaluating requests.
 
 **2. Scope Creep:** The ever-expanding feature list.
@@ -33,7 +33,7 @@ Okay, theory is great. But how do you *actually* set boundaries? Here's a framew
 **3. Unrealistic Deadlines:** The "we need this yesterday!" scenario.
 
 * **Approach:** "I understand the urgency. Let’s break down the work into smaller, achievable milestones. I’ll provide a realistic timeline based on the complexity of the task and the team’s current commitments."
-* **Don't be afraid to negotiate.** Explain the technical tradeoffs of rushing a feature. 
+* **Don't be afraid to negotiate.** Explain the technical tradeoffs of rushing a feature.
 
 **4. Constant Interruptions (Meetings, Slack Messages):** This erodes deep work.
 
@@ -42,16 +42,14 @@ Okay, theory is great. But how do you *actually* set boundaries? Here's a framew
 
 ## The Art of Saying "No" (And Why It's Not Rude)
 
-Let’s be honest, saying “no” is hard. We fear appearing unhelpful or inflexible. But remember this: **saying "no" to the *wrong* things allows you to say "yes" to the *right* things.** 
+Let’s be honest, saying “no” is hard. We fear appearing unhelpful or inflexible. But remember this: **saying "no" to the *wrong* things allows you to say "yes" to the *right* things.**
 
 * **Frame it Positively:** "While I'm not able to take on that request at this time, I’m happy to [offer alternative solution/point them to another resource]."
 * **Explain Your Reasoning (Briefly):** “We're currently focused on [priority project] to ensure we deliver a high-quality product on time.”
 * **Be Firm and Direct:** Avoid hedging or apologizing excessively. A clear, concise “no” is more respectful than a rambling excuse.
 
-
-
 ## It's a Muscle, Not a Switch
 
-Setting boundaries isn’t a one-time event. It’s an ongoing practice, a muscle you need to strengthen over time. There will be pushback. Stakeholders will test your limits. But by consistently upholding your boundaries, you’ll earn respect, protect your team, and ultimately deliver more value. It requires consistent effort and clear communication, but the long-term benefits are well worth it. 
+Setting boundaries isn’t a one-time event. It’s an ongoing practice, a muscle you need to strengthen over time. There will be pushback. Stakeholders will test your limits. But by consistently upholding your boundaries, you’ll earn respect, protect your team, and ultimately deliver more value. It requires consistent effort and clear communication, but the long-term benefits are well worth it.
 
 **To start, identify one boundary you will begin setting this week.** Perhaps it’s blocking off dedicated focus time, implementing a change request process, or simply being more direct when declining requests that don’t align with priorities. By consistently upholding your boundaries, you’ll not only protect your team but also foster a culture of trust, respect, and sustainable productivity.

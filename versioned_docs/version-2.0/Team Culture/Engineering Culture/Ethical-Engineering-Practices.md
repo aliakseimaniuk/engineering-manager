@@ -8,15 +8,15 @@ I recently witnessed a team, facing an aggressive launch date, quietly bypass cr
 
 ## The Illusion of Control & Shifting Responsibility
 
-There’s a dangerous tendency in our industry to frame failures as individual developer errors rather than systemic problems. We’ve all seen it: a post-mortem that focuses on “coding mistakes” instead of a lack of proper testing, insufficient time allocated for the task, or poorly defined requirements. Tiedeman’s work on post-mortems from 1990 highlights this – methodologies are often used not to *prevent* risk, but to *shift* responsibility. 
+There’s a dangerous tendency in our industry to frame failures as individual developer errors rather than systemic problems. We’ve all seen it: a post-mortem that focuses on “coding mistakes” instead of a lack of proper testing, insufficient time allocated for the task, or poorly defined requirements. Tiedeman’s work on post-mortems from 1990 highlights this – methodologies are often used not to *prevent* risk, but to *shift* responsibility.
 
-This isn't necessarily malicious, but it *is* deeply unethical. It creates a culture of fear, where developers are incentivized to hide mistakes rather than learn from them. It absolves managers and leadership from accountability for creating the conditions that led to the failure. 
+This isn't necessarily malicious, but it *is* deeply unethical. It creates a culture of fear, where developers are incentivized to hide mistakes rather than learn from them. It absolves managers and leadership from accountability for creating the conditions that led to the failure.
 
 ## The Fictions We Build & Maintain
 
 We often *act as if* things exist that don’t. Realistic timelines. Fully-vetted requirements. A stable and predictable infrastructure. These are often fictions we maintain to keep projects moving forward. Runeson and Höst’s work emphasizes the importance of accurately reporting case study research – a point easily extended to all engineering work. If we constantly present an idealized view of progress, we lose sight of the real challenges and the compromises we're making.
 
-Think about the “quick fix” that’s rushed into production because “we have no other choice.” It might solve the immediate problem, but it introduces technical debt *and* erodes integrity. The infrastructure that “militates against quick iterations” (Runeson et al, 2012) isn’t just a technical problem; it’s an ethical one. Ignoring it because it’s too inconvenient is a compromise. 
+Think about the “quick fix” that’s rushed into production because “we have no other choice.” It might solve the immediate problem, but it introduces technical debt *and* erodes integrity. The infrastructure that “militates against quick iterations” (Runeson et al, 2012) isn’t just a technical problem; it’s an ethical one. Ignoring it because it’s too inconvenient is a compromise.
 
 These fictions, while seemingly harmless, create an environment where unethical behavior becomes normalized. We begin to accept shortcuts as necessary, and the line between expediency and integrity becomes blurred.
 
@@ -40,10 +40,10 @@ Before diving into how to *build* an ethical culture, it’s vital to understand
 To build a truly ethical engineering culture, you need to:
 
 * **Embrace Radical Candor:** Encourage open and honest communication, even when it's difficult. Create a safe space for team members to raise concerns without fear of retribution.
-* **Prioritize Quality & Transparency:** Make quality a non-negotiable priority. Be transparent about risks and challenges. 
+* **Prioritize Quality & Transparency:** Make quality a non-negotiable priority. Be transparent about risks and challenges.
 * **Realistic Planning & Time Allocation:** Don't ask your team to do the impossible. Allocate sufficient time for testing, code reviews, and addressing technical debt. This ties back to the cleantech example – understanding fundamental constraints is vital. Just as cleantech companies failed by ignoring fundamental constraints, software projects can fail when unrealistic timelines are imposed.
 * **Lead by Example:** Be honest about your own mistakes and limitations. Demonstrate a commitment to ethical behavior in all your interactions.
-* **Focus on Systems, Not Individuals:** When something goes wrong, focus on identifying the systemic factors that contributed to the failure, not on blaming individuals. 
+* **Focus on Systems, Not Individuals:** When something goes wrong, focus on identifying the systemic factors that contributed to the failure, not on blaming individuals.
 * **Regular Ethical Check-ins:** Dedicate time in team meetings to discuss ethical considerations related to the current project.
 
 Ethical engineering isn't about avoiding all risks or achieving perfection. It's about making conscious, informed decisions, prioritizing honesty and transparency, and creating a culture where ethical behavior is valued and rewarded. It’s about acknowledging that sometimes, the most ethical thing you can do is push back on unrealistic expectations, even if it means delaying a launch or admitting a mistake.

@@ -4,7 +4,7 @@ For many engineers, the CTO role represents the pinnacle of their career. It’s
 
 ## The Traditional View: The “Chief Techie”
 
-Historically, the CTO was primarily a highly skilled architect. They were the deepest technical mind in the room, responsible for choosing the right technologies, ensuring scalability, and solving the most challenging engineering problems. This “Chief Techie” model worked reasonably well in the early days of many tech companies, when the biggest challenge was simply *building* something. Think of the early days of many web startups – the CTO was often hands-on, coding alongside the team, and making critical architectural decisions. 
+Historically, the CTO was primarily a highly skilled architect. They were the deepest technical mind in the room, responsible for choosing the right technologies, ensuring scalability, and solving the most challenging engineering problems. This “Chief Techie” model worked reasonably well in the early days of many tech companies, when the biggest challenge was simply *building* something. Think of the early days of many web startups – the CTO was often hands-on, coding alongside the team, and making critical architectural decisions.
 
 However, even then, this model had limitations. A purely technical focus often meant the CTO was disconnected from the business realities – understanding market needs, revenue streams, and competitive pressures. This disconnect could lead to building technically brilliant solutions that didn’t address actual customer problems or align with the company’s strategic goals.
 
@@ -29,20 +29,19 @@ So, what skills and traits define the successful modern CTO? Here’s what I’v
 * **Risk Management:** Assessing and mitigating technical and business risks.
 * **Adaptability:** Being able to navigate change and uncertainty.
 
-
 ## Navigating the Path to Becoming a CTO
 
 For engineers aspiring to become CTOs, here’s some advice:
 
 * **Broaden Your Skillset:** Don’t just focus on technical expertise. Seek out opportunities to learn about business, product management, and marketing.
-* **Lead Without Authority:** Take on leadership roles within your team or organization, even if you don't have formal authority. 
-* **Develop Your Communication Skills:** Practice explaining complex technical concepts to non-technical audiences. 
+* **Lead Without Authority:** Take on leadership roles within your team or organization, even if you don't have formal authority.
+* **Develop Your Communication Skills:** Practice explaining complex technical concepts to non-technical audiences.
 * **Seek Mentorship:** Find a seasoned leader who can provide guidance and support.
 * **Understand the Business:** Learn how your company makes money and what drives its success.
 
-Many engineers find the shift to strategic leadership challenging, requiring a conscious effort to develop new skills and perspectives. 
+Many engineers find the shift to strategic leadership challenging, requiring a conscious effort to develop new skills and perspectives.
 
-The CTO role is no longer simply about being a brilliant engineer. It’s about being a strategic leader who can bridge the gap between technology and business, drive innovation, and build a high-performing team. By embracing this broader perspective, aspiring CTOs can position themselves for success and make a lasting impact on their organizations. 
+The CTO role is no longer simply about being a brilliant engineer. It’s about being a strategic leader who can bridge the gap between technology and business, drive innovation, and build a high-performing team. By embracing this broader perspective, aspiring CTOs can position themselves for success and make a lasting impact on their organizations.
 
 **Challenge:** Over the next month, identify one area where you can improve your cross-functional collaboration. Schedule a meeting with someone outside of engineering to understand their challenges and needs.
 

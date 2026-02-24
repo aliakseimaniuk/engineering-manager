@@ -2,7 +2,7 @@
 
 For engineering leaders, “business model” often feels like a term tossed around by the suits upstairs. Something to *support*, but rarely to deeply *understand*. We get tasked with building features for a “platform” or a “subscription service” without truly grasping *why* that model was chosen, or how our work directly impacts its success. This disconnect is a huge missed opportunity. Understanding the business model isn’t just about being a team player; it's about making better engineering decisions, prioritizing effectively, and ultimately, building products people *need*.
 
-I recently worked with a team building a new mobile app. They were incredibly focused on implementing the latest AI-powered features, believing it would set them apart. However, the core business model relied on high-volume, low-cost transactions. The AI features, while technically impressive, added significant complexity and cost, ultimately hindering their ability to achieve profitability. This misalignment highlighted a critical truth: technical brilliance *must* be grounded in a viable business foundation. 
+I recently worked with a team building a new mobile app. They were incredibly focused on implementing the latest AI-powered features, believing it would set them apart. However, the core business model relied on high-volume, low-cost transactions. The AI features, while technically impressive, added significant complexity and cost, ultimately hindering their ability to achieve profitability. This misalignment highlighted a critical truth: technical brilliance *must* be grounded in a viable business foundation.
 
 Over two decades in this field, I've seen brilliant engineering efforts flounder because they weren’t aligned with a viable business model. Conversely, I've seen simpler solutions thrive because they perfectly fit *how* the company intended to make money. Let’s move beyond the buzzword and explore how to build business models that actually work, from an engineering leadership perspective.
 
@@ -14,13 +14,13 @@ While the Canvas is excellent for understanding the current state, as engineerin
 
 * **Value Proposition & Customer Segments:** Who are we *really* solving a problem for? And what problem are we solving? This isn't a marketing exercise – it’s foundational to technical choices. Are we building for a mass market (think simplicity, scalability)? Or a niche audience requiring specialized features and high performance?
 * **Revenue Streams & Cost Structure:** How *exactly* does this translate to revenue? Subscription? Transaction fees? Advertising? Understanding this dictates how we measure success, prioritize features (e.g., focus on features that drive renewals vs. those that drive initial sign-ups), and even architect our systems. For example, a transaction-based model demands robust transaction processing and auditability, while a subscription model prioritizes customer retention and personalization. A freemium model, for instance, requires robust usage tracking and tiered access control in the codebase.
-* **Key Activities & Resources:** What are the core things the company *must* do well to make the model work? This dictates what technical capabilities we need to build and maintain in-house, versus what we can outsource or leverage through third-party services. 
+* **Key Activities & Resources:** What are the core things the company *must* do well to make the model work? This dictates what technical capabilities we need to build and maintain in-house, versus what we can outsource or leverage through third-party services.
 
 ## The Peril of Feature Creep & The Power of First Principles
 
 One of the biggest pitfalls I've seen? Chasing after the “next big thing” without a solid understanding of whether it aligns with the underlying business model. A classic example? Investing heavily in AI features for a product whose core value proposition is simplicity and affordability.
 
-As Peter Thiel points out, successful people “think about business from first principles instead of formulas.” What does that mean for us? Don’t just copy what competitors are doing. Deconstruct the business model. Understand the fundamental drivers of value. Ask “why” repeatedly until you get to the core assumptions. 
+As Peter Thiel points out, successful people “think about business from first principles instead of formulas.” What does that mean for us? Don’t just copy what competitors are doing. Deconstruct the business model. Understand the fundamental drivers of value. Ask “why” repeatedly until you get to the core assumptions.
 
 For example, before committing to a new feature, I always ask my team:
 

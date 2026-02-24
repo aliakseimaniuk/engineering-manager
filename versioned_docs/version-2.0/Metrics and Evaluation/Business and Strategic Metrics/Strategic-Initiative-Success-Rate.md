@@ -8,29 +8,24 @@ This isn’t a failing of Agile, Lean, or any specific methodology. As Fitzgeral
 
 So, why do strategic initiatives so often fail, and what can engineering leaders do to improve the odds? Let's dive in.
 
-
-
 ## The Core Problem: Disconnect Between Strategy & Execution
 
 The most common reason for failure isn't technical difficulty. It's a fundamental disconnect between the *stated* strategy and the *actual* work being done. This manifests in a few key ways:
 
-* **Vague Objectives:** Initiatives are launched with lofty goals like “Improve Customer Engagement” without clear, measurable outcomes. What *specifically* does “improved engagement” look like? A 10% increase in daily active users? A 5-point lift in Net Promoter Score? 
+* **Vague Objectives:** Initiatives are launched with lofty goals like “Improve Customer Engagement” without clear, measurable outcomes. What *specifically* does “improved engagement” look like? A 10% increase in daily active users? A 5-point lift in Net Promoter Score?
 * **Lack of Prioritization:**  Too many initiatives are started simultaneously, stretching resources thin and diluting focus.  Engineering teams are asked to juggle multiple “top priorities,” leading to context switching and reduced efficiency.
 * **Poor Communication:** The “why” behind the initiative isn’t effectively communicated to the engineers building the solution. They're given tasks, but not the broader context needed to make informed decisions.
 * **Insufficient Monitoring & Adaptation:**  Initiatives are launched and then largely ignored until the deadline. There’s little to no systematic tracking of progress or course correction based on real-world data.
 
-
-
-
 ## A Framework for Improving Success Rates: The "Outcome-Driven Initiative"
 
-To combat these issues, I've adopted what I call the "Outcome-Driven Initiative" framework. It's built on the idea that every strategic initiative must be defined, measured, and monitored based on its intended *outcome*, not just its output. 
+To combat these issues, I've adopted what I call the "Outcome-Driven Initiative" framework. It's built on the idea that every strategic initiative must be defined, measured, and monitored based on its intended *outcome*, not just its output.
 
 Here’s how it works:
 
 **1. Define the Desired Outcome (The "North Star")**
 
-This is the most crucial step. Start with the end in mind. What specific, measurable change are you trying to achieve?  Use the SMART criteria (Specific, Measurable, Achievable, Relevant, Time-bound). 
+This is the most crucial step. Start with the end in mind. What specific, measurable change are you trying to achieve?  Use the SMART criteria (Specific, Measurable, Achievable, Relevant, Time-bound).
 
 * **Instead of:** “Improve Search Functionality”
 * **Try:** “Increase conversion rate from search results page by 15% within Q3.”
@@ -57,8 +52,6 @@ Establish a clear dashboard to track progress against your key results.  This is
 
 As Drew Procaccino et al. discovered, early prediction of project success relies on the ability to adapt.  Things rarely go exactly as planned. Be prepared to pivot your strategy based on data and feedback.  Don’t be afraid to kill a feature or even an entire initiative if it’s not delivering the expected results.  
 
-
-
 ## Beyond the Metrics: The Human Factor
 
 While data is essential, don’t forget the human element. Successfully executing strategic initiatives requires:
@@ -68,8 +61,6 @@ While data is essential, don’t forget the human element. Successfully executin
 * **Empowerment:**  Give engineers the autonomy to make decisions and experiment with new ideas. Create a safe environment where it’s okay to fail fast and learn from mistakes.  
 
 Creating this environment isn’t always easy, but it’s crucial for fostering innovation and driving strategic success.
-
-
 
 **Final Thoughts:**
 

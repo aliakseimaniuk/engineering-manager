@@ -15,8 +15,6 @@ Let’s be honest. How many status reports have landed in your inbox that are ju
 
 These reports become noise – data without signal. We end up spending more time *creating* the report than *acting* on the information it contains.
 
-
-
 ## A Framework for Actionable Status Updates
 
 Instead of focusing on color-coding, I recommend a framework built around these four key areas:
@@ -30,11 +28,9 @@ Instead of focusing on color-coding, I recommend a framework built around these 
 |---|---|---|---|
 | Complete User Authentication | User Authentication completed with tests | Blocked on Payment API - 2 day delay | Begin work on Product Catalog |
 
-
-
 ## Leveraging Tools (But Don't Let Them Drive You)
 
-There are numerous tools that can help with status tracking. Tools like Linear, JIRA, or even simple spreadsheets can be effective, *if used strategically*. Don’t get caught up in the *tool* and forget the *purpose*. 
+There are numerous tools that can help with status tracking. Tools like Linear, JIRA, or even simple spreadsheets can be effective, *if used strategically*. Don’t get caught up in the *tool* and forget the *purpose*.
 
 Here's what to look for:
 
@@ -43,8 +39,6 @@ Here's what to look for:
 * **Automation (Judiciously):** Automate data gathering where possible, but don't rely on automation to replace critical thinking and communication.
 
 I've even seen teams successfully use short video updates (2-3 minutes) to share progress, especially for remote teams.
-
-
 
 ## Tailoring Status Updates to Your Audience
 
@@ -56,8 +50,6 @@ One size *does not* fit all. Your C-level stakeholders need a different level of
 
 Don’t just blast the same report to everyone. Segment your audience and tailor the content accordingly.
 
-
-
 ## From Reporting to Conversation
 
 The ultimate goal isn’t just to *deliver* a status report; it’s to *spark a conversation*. I strongly encourage incorporating a brief, focused discussion into your status update meetings (or following up immediately after).  
@@ -68,8 +60,6 @@ The ultimate goal isn’t just to *deliver* a status report; it’s to *spark a 
 
 This transforms the status report from a static document into a dynamic tool for collaboration and problem-solving.
 
-
-
-**In conclusion**, effective status reporting is about providing the *right* information, to the *right* people, in a way that drives *action*. Ditch the simplistic RYG approach, embrace a framework focused on risks and mitigation, tailor your communication to your audience, and – most importantly – use status updates as an opportunity for meaningful conversation. You will not only save time and reduce frustration, but you’ll also empower your team and build stronger relationships with your stakeholders. 
+**In conclusion**, effective status reporting is about providing the *right* information, to the *right* people, in a way that drives *action*. Ditch the simplistic RYG approach, embrace a framework focused on risks and mitigation, tailor your communication to your audience, and – most importantly – use status updates as an opportunity for meaningful conversation. You will not only save time and reduce frustration, but you’ll also empower your team and build stronger relationships with your stakeholders.
 
 This week, try reframing your next status report using the four-part framework outlined above.

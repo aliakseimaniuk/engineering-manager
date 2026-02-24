@@ -6,7 +6,7 @@ Imagine a scenario: your developers are spending more time configuring cloud res
 
 ## The Problem with "Just Cloud"
 
-Too often, teams celebrate "migrating to the cloud" only to find developers spending *more* time wrestling with infrastructure-as-code, configuring CI/CD pipelines, and debugging deployment issues. They're less time building features and more time being infrastructure operators. Simply lifting and shifting doesn’t unlock the cloud’s potential; it merely replicates existing problems in a new environment. 
+Too often, teams celebrate "migrating to the cloud" only to find developers spending *more* time wrestling with infrastructure-as-code, configuring CI/CD pipelines, and debugging deployment issues. They're less time building features and more time being infrastructure operators. Simply lifting and shifting doesn’t unlock the cloud’s potential; it merely replicates existing problems in a new environment.
 
 The core issue? We've often asked developers to be generalists, expecting them to be experts in *everything* – code, databases, networking, security, and the ever-changing landscape of cloud services. This creates cognitive overload, slows down velocity, and ultimately impacts quality. It’s unsustainable.  According to a recent study by DORA, teams with high DevOps maturity—meaning they've automated infrastructure and deployment—experience 200x more frequent deployments and 3x faster recovery times. Ignoring developer experience impacts not only morale but also key business metrics.
 
@@ -20,7 +20,7 @@ The goal? To give developers the tools and automation they need to deploy, manag
 
 A mature platform team doesn’t just build tools; they understand the *developer experience*. Here are some key responsibilities, illustrated with a practical example:
 
-Let's say a developer needs to deploy a new microservice. Instead of manually provisioning infrastructure, configuring networking, and setting up monitoring, a platform team provides a self-service portal. Through this portal, the developer simply selects a pre-defined template, specifies a few parameters (like scaling requirements and resource limits), and clicks “Deploy.” The platform team has automated all the underlying complexity, allowing the developer to focus on their code. 
+Let's say a developer needs to deploy a new microservice. Instead of manually provisioning infrastructure, configuring networking, and setting up monitoring, a platform team provides a self-service portal. Through this portal, the developer simply selects a pre-defined template, specifies a few parameters (like scaling requirements and resource limits), and clicks “Deploy.” The platform team has automated all the underlying complexity, allowing the developer to focus on their code.
 
 Here’s a breakdown of the key responsibilities:
 
@@ -52,8 +52,8 @@ Investing in Platform Engineering isn’t cheap, but the returns can be signific
 
 ## Final Thoughts
 
-The cloud is a powerful tool, but it’s not a magic bullet. To truly unlock its potential, we need to move beyond simply “moving to the cloud” and embrace a Platform Engineering mindset. This isn't just a technical shift; it's a leadership imperative. 
+The cloud is a powerful tool, but it’s not a magic bullet. To truly unlock its potential, we need to move beyond simply “moving to the cloud” and embrace a Platform Engineering mindset. This isn't just a technical shift; it's a leadership imperative.
 
-Implementing Platform Engineering isn’t without challenges. Expect cultural shifts as teams adjust to new ways of working. Transparency and open communication are key to overcoming these hurdles. 
+Implementing Platform Engineering isn’t without challenges. Expect cultural shifts as teams adjust to new ways of working. Transparency and open communication are key to overcoming these hurdles.
 
 By investing in the right team, prioritizing developer experience, and treating your internal platform as a product, you can empower your engineers to build better software, faster, and more reliably. And that's a win for everyone.

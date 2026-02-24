@@ -11,7 +11,7 @@ Engineering, by its nature, is a field of constant learning and refinement. Bugs
 * **Reduced Risk:** Small changes are easier to test, debug, and roll back. They minimize the risk of disrupting critical systems. Imagine a team rolling out daily micro-updates versus quarterly major releases – the former dramatically reduces the blast radius of any potential issues.
 * **Increased Adaptability:** A culture of continuous improvement makes teams more responsive to changing requirements and market demands. I recall a team that habitually implemented small, iterative changes to their UI. When a competitor released a similar feature, they were able to pivot and refine their approach within days, leaving the competition in the dust.
 * **Higher Morale:** When engineers see their suggestions implemented, even in small ways, they feel valued and empowered. (And conversely, suppressing good ideas *will* lead to disengagement. I've seen talented engineers quietly leave because their proposals were consistently ignored – a painful loss for everyone involved.)
-* **Sustainable Velocity:** Incremental gains don't lead to burnout. They build momentum over time, resulting in a more sustainable pace of development. 
+* **Sustainable Velocity:** Incremental gains don't lead to burnout. They build momentum over time, resulting in a more sustainable pace of development.
 
 ## From Retrospectives to Action: A Practical Framework
 
@@ -44,7 +44,7 @@ And remember, suppressing good ideas, even small ones, is a surefire way to stif
 
 **Key Takeaways:**
 
-*   **Embrace Small Wins:** Focus on incremental improvements rather than large-scale overhauls.
-*   **Data-Driven Validation:**  Don’t assume improvements are working – track metrics to confirm their impact.
-*   **Empower Your Team:** Encourage engineers to challenge assumptions, experiment, and share ideas.
-*   **Make it Consistent:** Integrate continuous improvement into your team's regular practices, not just during retrospectives.
+* **Embrace Small Wins:** Focus on incremental improvements rather than large-scale overhauls.
+* **Data-Driven Validation:**  Don’t assume improvements are working – track metrics to confirm their impact.
+* **Empower Your Team:** Encourage engineers to challenge assumptions, experiment, and share ideas.
+* **Make it Consistent:** Integrate continuous improvement into your team's regular practices, not just during retrospectives.

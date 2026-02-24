@@ -6,7 +6,7 @@ This post isn't about simply *tracking* metrics; it's about understanding and ap
 
 ## The Problem with Traditional Engineering Metrics
 
-Let's be honest: a lot of the metrics we traditionally track are…easy to track. They’re outputs, not outcomes. Deployments per week sound impressive, but if those deployments don’t lead to increased user engagement, revenue, or cost savings, they're just noise. 
+Let's be honest: a lot of the metrics we traditionally track are…easy to track. They’re outputs, not outcomes. Deployments per week sound impressive, but if those deployments don’t lead to increased user engagement, revenue, or cost savings, they're just noise.
 
 I remember leading a team at a fast-growing startup where we were obsessed with velocity – story points completed per sprint. We were hitting our sprint goals consistently, feeling good about our output. However, user acquisition was flat, and customer churn was creeping up. It took a painful retrospective to realize we were building features *we* thought were valuable, not necessarily what our *customers* needed. We had optimized for output, not outcome.
 
@@ -59,8 +59,8 @@ Let's illustrate how this works: A project with High ROI and High Effort (Priori
 ## Real-World Examples and Nuances
 
 * **Fintech & Transaction Volume:** Let’s say a fintech company invests $50,000 in optimizing a critical transaction processing pipeline. This optimization increases transaction throughput by 10%, enabling an additional 250,000 transactions per month, each generating $0.02 in revenue. These projections are based on current growth trends and market analysis.
-    * **Gain:** 250,000 transactions * $0.02/transaction = $5,000/month ($60,000 annually)
-    * **ROI:** ($60,000 - $50,000) / $50,000 = 20% (A solid return!)
+  * **Gain:** 250,000 transactions * $0.02/transaction = $5,000/month ($60,000 annually)
+  * **ROI:** ($60,000 - $50,000) / $50,000 = 20% (A solid return!)
 * **Refactoring Technical Debt:** It’s harder to quantify the ROI of tackling technical debt. However, a team consistently held back by flaky tests and complex code will be significantly less productive. Reducing technical debt can unlock significant engineering velocity, which then translates into faster feature delivery and increased revenue. Measurable proxies for this value could include a reduction in bug fix time, an increase in code review throughput, or faster onboarding of new engineers.
 * **Beware of the "Hockey Stick" Forecast:** Be skeptical of overly optimistic revenue projections. Integrate realistic data and conservative assumptions when estimating potential revenue gains.
 
@@ -72,9 +72,9 @@ Don’t get caught in the trap of vanity metrics. Focus on outcomes, track your 
 
 **Key Takeaways:**
 
-*   **Focus on Outcomes, Not Output:** Prioritize work that delivers measurable business value.
-*   **Embrace the ROI Formula:** Use it as a framework for evaluating and prioritizing projects.
-*   **Be Realistic with Estimates:** Ground your projections in data and conservative assumptions.
-*   **Continuously Track and Refine:** Monitor results and adjust your approach based on learnings.
+* **Focus on Outcomes, Not Output:** Prioritize work that delivers measurable business value.
+* **Embrace the ROI Formula:** Use it as a framework for evaluating and prioritizing projects.
+* **Be Realistic with Estimates:** Ground your projections in data and conservative assumptions.
+* **Continuously Track and Refine:** Monitor results and adjust your approach based on learnings.
 
 Start by identifying one critical project and applying the ROI framework outlined in this post. Track the results and share your learnings with your team.

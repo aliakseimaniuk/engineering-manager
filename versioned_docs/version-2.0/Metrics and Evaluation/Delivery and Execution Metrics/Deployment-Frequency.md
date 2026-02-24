@@ -18,7 +18,7 @@ Let's be clear: deployment frequency isn't a direct measure of team velocity or 
 
 I once worked with a team that was obsessed with increasing their deployment frequency. They meticulously tracked it on a dashboard and celebrated every incremental increase. The problem? Most of their deployments were tiny—single-line code changes or minor UI tweaks. They were technically deploying more often, but they weren't delivering meaningful value to the user any faster. They were deploying code changes that often took 15 minutes to test, resulting in a net loss of productivity.
 
-This exemplifies optimizing a metric without understanding its drivers. It created a sense of false progress and masked deeper problems with their development process. 
+This exemplifies optimizing a metric without understanding its drivers. It created a sense of false progress and masked deeper problems with their development process.
 
 ## Beyond the Frequency: Focusing on Lead Time & Change Failure Rate
 
@@ -59,6 +59,6 @@ Okay, so how do you actually *improve* deployment frequency in a meaningful way?
 
 ## Final Thoughts
 
-Deployment frequency isn't a magic bullet. It's a symptom of underlying health in your engineering organization. Focus on building a solid foundation of technical excellence, automation, and collaboration, and the deployment frequency will naturally increase. And more importantly, you’ll be delivering value to your customers faster, more reliably, and with reduced risk. 
+Deployment frequency isn't a magic bullet. It's a symptom of underlying health in your engineering organization. Focus on building a solid foundation of technical excellence, automation, and collaboration, and the deployment frequency will naturally increase. And more importantly, you’ll be delivering value to your customers faster, more reliably, and with reduced risk.
 
 To continue this improvement, start by analyzing your current deployment pipeline to identify bottlenecks and areas for improvement. Discuss the DevOps Triangle with your team to establish a shared understanding of key metrics.

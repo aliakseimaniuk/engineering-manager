@@ -36,8 +36,8 @@ Implementing DORA metrics doesn’t require a massive overhaul. Here’s a pract
 
 While the core DORA metrics are fantastic, understanding *why* they are what they are is key. To uncover deeper insights, consider visualizing your software delivery pipeline to identify bottlenecks and dependencies.
 
-Tools like Kumu.io can help you map your delivery pipeline, identify bottlenecks that contribute to long lead times, and ultimately improve your DORA metrics. 
+Tools like Kumu.io can help you map your delivery pipeline, identify bottlenecks that contribute to long lead times, and ultimately improve your DORA metrics.
 
 ## Final Thoughts
 
-DORA metrics are more than just numbers; they’re a lens into the health of your software delivery process. By focusing on outcomes, automating data collection, and avoiding blame, you can leverage these metrics to improve performance, reduce risk, and deliver more value to your users. As engineering leaders, our responsibility isn’t just to build things; it’s to build them *effectively*. DORA metrics give us the data we need to do just that. 
+DORA metrics are more than just numbers; they’re a lens into the health of your software delivery process. By focusing on outcomes, automating data collection, and avoiding blame, you can leverage these metrics to improve performance, reduce risk, and deliver more value to your users. As engineering leaders, our responsibility isn’t just to build things; it’s to build them *effectively*. DORA metrics give us the data we need to do just that.

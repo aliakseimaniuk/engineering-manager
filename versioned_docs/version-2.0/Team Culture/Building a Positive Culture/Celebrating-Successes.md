@@ -6,7 +6,7 @@ After two decades leading engineering teams, I’ve learned that celebration isn
 
 ## Why Celebration Isn't Just Fluff
 
-It's easy to dismiss celebrating as "soft skills." But consider this: engineering is inherently about solving difficult problems. It’s demanding, often frustrating, and failure is a constant companion. Without consistent acknowledgment of progress, teams can quickly become demoralized, innovation stifles, and burnout rises. In fact, studies show that teams with high levels of recognition experience 28.6% higher revenue and 31.3% lower employee turnover. 
+It's easy to dismiss celebrating as "soft skills." But consider this: engineering is inherently about solving difficult problems. It’s demanding, often frustrating, and failure is a constant companion. Without consistent acknowledgment of progress, teams can quickly become demoralized, innovation stifles, and burnout rises. In fact, studies show that teams with high levels of recognition experience 28.6% higher revenue and 31.3% lower employee turnover.
 
 Celebrating isn't just about boosting morale (though it does that!). It's about:
 
@@ -20,14 +20,14 @@ Too often, “celebration” defaults to a few predictable patterns: a team lunc
 
 * **Quick Wins (Daily/Weekly):** These are small, incremental successes. Think: a tricky bug fixed, a challenging code review completed, or a helpful contribution to documentation. **Recognition:** Public acknowledgement in a daily stand-up, a quick “kudos” in Slack (we regularly highlight bug fixes in our #wins channel), or a dedicated channel for sharing small wins.
 * **Project Milestones (Monthly):** Achieving significant milestones within a larger project deserves more attention. **Recognition:** A team lunch, a more detailed shout-out in a wider meeting, or a dedicated "milestone achieved" email outlining the team's accomplishments. For example, when we completed the beta release of our new API, we sent a team email detailing the challenges overcome and the key contributions of each member.
-* **Significant Achievements (Quarterly/Annually):** Launching a major feature, significantly improving performance, or driving a key innovation are moments that demand significant recognition. **Recognition:** A dedicated team offsite, a presentation to leadership, or a public blog post highlighting the achievement and the individuals involved. 
+* **Significant Achievements (Quarterly/Annually):** Launching a major feature, significantly improving performance, or driving a key innovation are moments that demand significant recognition. **Recognition:** A dedicated team offsite, a presentation to leadership, or a public blog post highlighting the achievement and the individuals involved.
 * **Individual Contributions (Ongoing):** Recognizing individuals for consistently going above and beyond, demonstrating exceptional skills, or embodying company values is crucial. **Recognition:** Performance reviews, promotions, opportunities for professional development, or simply a personal conversation acknowledging their contributions. We recently funded one engineer’s attendance at a specialized conference after recognizing their expertise in a critical technology.
 
 **Important Note:** Recognition doesn't *have* to be monetary. In fact, often the most meaningful recognition is thoughtful and personalized.
 
 ## Thinking From First Principles: What *Truly* Matters?
 
-Let’s borrow a bit of wisdom from Peter Thiel – think about celebration from first principles. Thiel encourages us to break down complex problems into their fundamental truths. In this case, the fundamental truth is that human beings are motivated by recognition and appreciation.  By asking “What would *genuinely* motivate my team?”, we move beyond simply copying what other companies do. 
+Let’s borrow a bit of wisdom from Peter Thiel – think about celebration from first principles. Thiel encourages us to break down complex problems into their fundamental truths. In this case, the fundamental truth is that human beings are motivated by recognition and appreciation.  By asking “What would *genuinely* motivate my team?”, we move beyond simply copying what other companies do.
 
 Here’s what I’ve learned:
 
@@ -40,14 +40,11 @@ Here’s what I’ve learned:
 
 Celebrating successes isn't a one-time event; it's an ongoing investment in your team's culture. It requires intentionality, empathy, and a genuine appreciation for the hard work and dedication of your engineers. It's also important to acknowledge that leaders are often stretched thin, so starting small—even with a simple daily acknowledgment—is better than aiming for grand gestures and falling short. By moving beyond superficial gestures and focusing on what truly matters, you can build a team that is motivated, engaged, and capable of achieving extraordinary things.
 
-
 Here's a 2x2 matrix visualizing the different levels of recognition:
 
 | **Effort/Impact** | **Low** | **High** |
 |---|---|---|
 | **Frequency - Daily/Weekly** | Bug fix shout-out, helpful documentation contribution | Successfully unblocking a teammate, mentoring a junior engineer |
 | **Frequency - Monthly/Quarterly** | Completing a sprint goal, reaching a project milestone | Launching a new feature, significantly improving performance |
-
-
 
 **This week, take the time to genuinely recognize one small win on your team. You’ll be surprised by the positive impact.**

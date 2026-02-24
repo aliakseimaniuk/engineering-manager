@@ -1,6 +1,6 @@
 # Business Alignment Score
 
-As engineering leaders, we often talk about building the *right* thing. But how do we *know* we're building the right thing? We meticulously gather requirements, prioritize features, and track velocity. Yet, despite our best efforts, projects sometimes launch to a lukewarm reception, or worse, flat-out fail to deliver the expected business value. 
+As engineering leaders, we often talk about building the *right* thing. But how do we *know* we're building the right thing? We meticulously gather requirements, prioritize features, and track velocity. Yet, despite our best efforts, projects sometimes launch to a lukewarm reception, or worse, flat-out fail to deliver the expected business value.
 
 Why does this happen? Often, it’s not a technical failing, but a *lack of alignment* between what engineering *thinks* the business needs and what the business *actually* needs. We get caught in the trap of solving interesting technical challenges without sufficient grounding in real customer problems and market realities. This isn't malice – it's often a consequence of operating with incomplete information and good intentions. But as the saying goes, the road to hell is paved with them.
 
@@ -8,7 +8,7 @@ Over the years, I’ve found a surprisingly simple metric, what I call the **Bus
 
 ## What *is* the Business Alignment Score?
 
-The BAS isn't a single number, but a qualitative assessment based on answering three key questions, rated on a simple scale of 1-5 (1 = Very Poor Alignment, 5 = Excellent Alignment).  Think of it as a quick “health check” before kicking off significant work. 
+The BAS isn't a single number, but a qualitative assessment based on answering three key questions, rated on a simple scale of 1-5 (1 = Very Poor Alignment, 5 = Excellent Alignment).  Think of it as a quick “health check” before kicking off significant work.
 
 Here are the questions:
 
@@ -20,7 +20,7 @@ Here are the questions:
 
 ## Why This Works: Beyond the Numbers
 
-The BAS isn’t about hitting a specific number; it’s about the *conversation* it sparks. The real value lies in forcing a cross-functional dialogue between product, engineering, and business stakeholders. 
+The BAS isn’t about hitting a specific number; it’s about the *conversation* it sparks. The real value lies in forcing a cross-functional dialogue between product, engineering, and business stakeholders.
 
 Here's how it helps, based on my experience:
 
@@ -52,8 +52,8 @@ The BAS is a powerful tool for *identifying* potential misalignment, but it’s 
 
 ## From “Bad Luck” to Intentional Outcomes
 
-As engineering leaders, we're often tasked with building complex systems. But sometimes, the most impactful thing we can do is create a simple framework that fosters clarity, alignment, and intentionality.  The Business Alignment Score is one such framework. 
+As engineering leaders, we're often tasked with building complex systems. But sometimes, the most impactful thing we can do is create a simple framework that fosters clarity, alignment, and intentionality.  The Business Alignment Score is one such framework.
 
-It's not a silver bullet, but it's a surprisingly effective way to prevent "good intentions" from becoming "bad luck" and ensures that our engineering efforts consistently deliver real business value. Ultimately, delivering real business value is the key objective. 
+It's not a silver bullet, but it's a surprisingly effective way to prevent "good intentions" from becoming "bad luck" and ensures that our engineering efforts consistently deliver real business value. Ultimately, delivering real business value is the key objective.
 
 We encourage you to implement the BAS in your next project kickoff and experience the benefits of increased alignment firsthand.

@@ -2,7 +2,7 @@
 
 For two decades, I’ve seen engineering teams drown in data. Dashboards glow with numbers, alerts fire constantly, and yet, somehow, critical issues still slip through the cracks. The problem isn't *lack* of metrics, it's often the *type* of metrics we're tracking. Too many teams remain stuck in a **reactive** mode, while the real power lies in becoming **proactive**. Let’s break down the difference and how to shift your focus for a healthier, more predictable engineering organization.
 
-Teams spend an average of 20-40% of their time on unplanned work – firefighting bugs, resolving incidents, and dealing with unexpected issues. This reactive cycle isn't just frustrating for engineers; it's costly in terms of lost development time, delayed features, and ultimately, unhappy customers. 
+Teams spend an average of 20-40% of their time on unplanned work – firefighting bugs, resolving incidents, and dealing with unexpected issues. This reactive cycle isn't just frustrating for engineers; it's costly in terms of lost development time, delayed features, and ultimately, unhappy customers.
 
 ## The Reactive Trap: Fighting Fires, Not Preventing Them
 
@@ -20,8 +20,6 @@ I remember leading a team at a fast-growing startup where we were constantly bat
 ## Beyond the Numbers: The Human Factor
 
 Before diving into *how* to shift to proactive metrics, it’s vital to acknowledge that data alone isn’t enough. Metrics should *empower* your team, not dictate their actions. Encourage open communication, collaboration, and a shared understanding of your goals.  Shifting to a proactive approach also requires buy-in, and that means addressing potential resistance to change and prioritizing which metrics will provide the most value. It's a journey, not a flip of a switch.
-
-
 
 ## The Power of Proactive Metrics: Predicting & Preventing
 
@@ -49,8 +47,8 @@ Moving from reactive to proactive isn't a flip of a switch. Here's how to start:
 
 ## Beyond the Numbers: The Human Factor
 
-Finally, remember that metrics are just *data points*. They don't tell the whole story. You need to combine quantitative data with qualitative insights from your team, customers, and user research. 
+Finally, remember that metrics are just *data points*. They don't tell the whole story. You need to combine quantitative data with qualitative insights from your team, customers, and user research.
 
-I've seen teams get so obsessed with hitting certain metric targets that they lost sight of the bigger picture. 
+I've seen teams get so obsessed with hitting certain metric targets that they lost sight of the bigger picture.
 
-Shifting to a proactive approach to engineering metrics is a journey, not a destination. It requires a commitment to continuous improvement, a willingness to experiment, and a focus on building a healthy, resilient engineering organization. 
+Shifting to a proactive approach to engineering metrics is a journey, not a destination. It requires a commitment to continuous improvement, a willingness to experiment, and a focus on building a healthy, resilient engineering organization.

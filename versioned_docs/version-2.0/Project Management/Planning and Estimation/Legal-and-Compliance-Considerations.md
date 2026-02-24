@@ -2,7 +2,7 @@
 
 For years, “compliance” felt like a checkbox item for legal teams, something engineering would grudgingly address *after* building the core product. Those days are gone. In today’s landscape, legal and compliance aren’t afterthoughts – they are *integral* to successful engineering project management. Ignoring them isn't just risky; it can be catastrophic, leading to hefty fines, reputational damage, and even the demise of a company. In 2022, compliance failures cost businesses an estimated $17.5 billion in fines and penalties – a statistic that underscores the urgency of proactive compliance.
 
-I’ve seen this firsthand, both at a fast-growing startup and within a large enterprise. At the startup, we nearly launched a feature that would have been a clear violation of evolving data privacy regulations. A last-minute review by our legal counsel (thankfully!) saved us from a major headache. At the larger company, I inherited a project built on a foundation of open-source components with unclear licensing. Untangling that web consumed weeks of effort and required significant refactoring. 
+I’ve seen this firsthand, both at a fast-growing startup and within a large enterprise. At the startup, we nearly launched a feature that would have been a clear violation of evolving data privacy regulations. A last-minute review by our legal counsel (thankfully!) saved us from a major headache. At the larger company, I inherited a project built on a foundation of open-source components with unclear licensing. Untangling that web consumed weeks of effort and required significant refactoring.
 
 This article isn't about becoming a lawyer. It's about equipping engineering managers with the awareness and practical strategies to proactively address legal and compliance concerns within their projects.
 
@@ -15,13 +15,11 @@ Several factors are driving this increased emphasis. Engineering managers are al
 * **Security Standards:** Regulations like SOC 2 and industry standards like PCI DSS require robust security measures, influencing architectural decisions and development practices.
 * **Increased Scrutiny:** Companies are facing heightened scrutiny from regulators, consumers, and the media, making compliance a matter of public trust and brand reputation. The recent issues with Celsius, a cryptocurrency platform that faced regulatory scrutiny due to misrepresenting its risk management practices and subsequently filed for bankruptcy after freezing customer assets, underscore this point.
 
-
-
 ## Practical Steps for Engineering Managers
 
 Here’s how you can integrate legal and compliance into your project management process:
 
-**1. Early Engagement with Legal & Compliance Teams:** Don't wait until the end of the project. Involve legal and compliance professionals during the *planning* phase. This allows them to identify potential risks and provide guidance on design choices. Treat legal and compliance professionals as core members of your project team, not gatekeepers at the end. 
+**1. Early Engagement with Legal & Compliance Teams:** Don't wait until the end of the project. Involve legal and compliance professionals during the *planning* phase. This allows them to identify potential risks and provide guidance on design choices. Treat legal and compliance professionals as core members of your project team, not gatekeepers at the end.
 
 **2. Build a Compliance Checklist:** Create a project-specific checklist tailored to the relevant regulations and standards. This should cover:
 
@@ -41,8 +39,6 @@ Here’s how you can integrate legal and compliance into your project management
 
 **7. Vendor Management:** If your project involves third-party vendors, ensure that they also comply with relevant regulations. Include compliance requirements in your vendor contracts.
 
-
-
 ## A Framework for Integrating Compliance: The "Compliance Lens"
 
 I've found it helpful to frame compliance as a "lens" through which we evaluate all project decisions. Before making a critical design choice or implementing a new feature, ask:
@@ -51,14 +47,12 @@ I've found it helpful to frame compliance as a "lens" through which we evaluate 
 * **Does this decision comply with all relevant regulations and standards?**
 * **What documentation will be required to demonstrate compliance?**
 
-For example, imagine you’re designing a new user authentication system. Applying the “Compliance Lens” would prompt you to consider data privacy regulations (like GDPR) and ensure you’re implementing appropriate consent mechanisms and data encryption. It would also necessitate documenting your design choices and security measures. 
+For example, imagine you’re designing a new user authentication system. Applying the “Compliance Lens” would prompt you to consider data privacy regulations (like GDPR) and ensure you’re implementing appropriate consent mechanisms and data encryption. It would also necessitate documenting your design choices and security measures.
 
 This simple exercise can help identify potential risks and ensure that compliance is considered throughout the project lifecycle.
 
-
-
 ## Conclusion
 
-Legal and compliance are no longer optional extras in engineering project management. They are fundamental to building trustworthy, sustainable products and protecting your company from costly legal battles and reputational damage. 
+Legal and compliance are no longer optional extras in engineering project management. They are fundamental to building trustworthy, sustainable products and protecting your company from costly legal battles and reputational damage.
 
-By proactively addressing these concerns, involving legal and compliance teams early on, and integrating compliance into your project processes, you can mitigate risks, build better products, and foster a culture of ethical responsibility. The key is to shift from a reactive, check-the-box approach to a proactive, integrated strategy that prioritizes compliance throughout the entire project lifecycle. 
+By proactively addressing these concerns, involving legal and compliance teams early on, and integrating compliance into your project processes, you can mitigate risks, build better products, and foster a culture of ethical responsibility. The key is to shift from a reactive, check-the-box approach to a proactive, integrated strategy that prioritizes compliance throughout the entire project lifecycle.

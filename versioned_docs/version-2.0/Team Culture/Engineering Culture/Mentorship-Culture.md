@@ -1,8 +1,8 @@
 # Mentorship Culture
 
-For two decades, I’ve witnessed engineering teams rise and fall, succeed and stumble. The technical prowess of a team is *always* important, but it’s the culture – the unspoken rules, the shared values, the support systems – that truly determines long-term success. And one of the most powerful, yet often underutilized, elements of a thriving engineering culture is a robust mentorship program. 
+For two decades, I’ve witnessed engineering teams rise and fall, succeed and stumble. The technical prowess of a team is *always* important, but it’s the culture – the unspoken rules, the shared values, the support systems – that truly determines long-term success. And one of the most powerful, yet often underutilized, elements of a thriving engineering culture is a robust mentorship program.
 
-I once worked with a team paralyzed by a critical bug. Technical skills weren’t the issue; everyone was competent. The real block was a lack of psychological safety. A senior engineer, through informal mentorship, fostered an environment where junior members felt comfortable asking “stupid” questions, ultimately leading to a breakthrough. This experience solidified my belief in the transformative power of mentorship. 
+I once worked with a team paralyzed by a critical bug. Technical skills weren’t the issue; everyone was competent. The real block was a lack of psychological safety. A senior engineer, through informal mentorship, fostered an environment where junior members felt comfortable asking “stupid” questions, ultimately leading to a breakthrough. This experience solidified my belief in the transformative power of mentorship.
 
 It’s easy to think of mentorship as a "nice-to-have" – something to tackle *after* you’ve solved the critical technical challenges. But I’ve learned the opposite is true. Investing in mentorship isn't just good for individuals; it's strategic for the team and the company as a whole.
 
@@ -16,7 +16,7 @@ But even seasoned engineers benefit from mentorship. I've personally been both m
 
 ## The Pitfalls of *Not* Learning From Experience
 
-Interestingly, research (Jørgensen & Sjøberg, 2000) highlights that simply *having* experience isn't enough. Their study demonstrated that experience doesn’t automatically translate into improved performance unless paired with intentional reflection and knowledge sharing. Without these elements, we risk repeating mistakes and failing to leverage the collective intelligence of the team. 
+Interestingly, research (Jørgensen & Sjøberg, 2000) highlights that simply *having* experience isn't enough. Their study demonstrated that experience doesn’t automatically translate into improved performance unless paired with intentional reflection and knowledge sharing. Without these elements, we risk repeating mistakes and failing to leverage the collective intelligence of the team.
 
 This is where mentorship shines. It provides a structured mechanism for transferring knowledge, promoting best practices, and preventing the re-invention of the wheel. It’s a conscious effort to make experience *learnable*.
 
@@ -31,16 +31,16 @@ Creating a true mentorship culture goes beyond simply assigning mentors and ment
 * **Recognize and Reward Mentorship:** Acknowledge and celebrate those who dedicate time and effort to mentoring others. It sends a clear message that mentorship is valued within the organization.
 * **Leverage Resources:** Don’t reinvent the wheel. Tools like Exercism, offering free programming education *with* human mentoring, can be a fantastic supplement to internal programs. It's a way to bring in diverse perspectives and expertise.
 
-It's also important to recognize that mentorship doesn't always flow from senior to junior. Peer mentorship and reverse mentorship (where junior engineers mentor senior engineers on new technologies or perspectives) can be equally valuable. 
+It's also important to recognize that mentorship doesn't always flow from senior to junior. Peer mentorship and reverse mentorship (where junior engineers mentor senior engineers on new technologies or perspectives) can be equally valuable.
 
 ## A Simple Metric: Genuine Care
 
-I’ve found the most effective teams are built on a foundation of genuine care. It sounds soft, but it’s profoundly impactful. When engineers feel genuinely cared for – when they know their leaders and colleagues have their best interests at heart – they are more engaged, more motivated, and more likely to succeed. 
+I’ve found the most effective teams are built on a foundation of genuine care. It sounds soft, but it’s profoundly impactful. When engineers feel genuinely cared for – when they know their leaders and colleagues have their best interests at heart – they are more engaged, more motivated, and more likely to succeed.
 
 Building this culture isn’t simply about “being nice”; it requires intentional effort and investment in people’s growth and well-being. It's a strategic advantage that directly impacts performance and retention. And genuine care is often expressed *through* mentorship – by taking the time to invest in someone's growth, to listen to their concerns, and to provide guidance and support.
 
 ## From Dogma to Practice
 
-The lessons about mentorship have become almost conventional wisdom in the startup world, popularized by sources like "Do More Faster" (Cohen, Davidson, & Hatch, 2014). But it’s easy for buzzwords to lose their meaning. The key is to move beyond the hype and focus on the fundamental principles: building relationships, fostering growth, and creating a culture of genuine care. 
+The lessons about mentorship have become almost conventional wisdom in the startup world, popularized by sources like "Do More Faster" (Cohen, Davidson, & Hatch, 2014). But it’s easy for buzzwords to lose their meaning. The key is to move beyond the hype and focus on the fundamental principles: building relationships, fostering growth, and creating a culture of genuine care.
 
 Mentorship isn’t a program; it’s a mindset. It’s a commitment to investing in people – not just as engineers, but as individuals – and helping them reach their full potential. And that, ultimately, is the most valuable investment any engineering leader can make.

@@ -6,7 +6,7 @@ I've seen too many talented engineers and leaders fall into the trap of believin
 
 ## The Problem with "Balance"
 
-The pursuit of balance often manifests as a constant feeling of being pulled in multiple directions. You’re trying to be “on” at work, then switch gears and be fully present at home, constantly negotiating competing demands. This leads to context switching, mental fatigue, and a sense of never truly being *fully* present anywhere. 
+The pursuit of balance often manifests as a constant feeling of being pulled in multiple directions. You’re trying to be “on” at work, then switch gears and be fully present at home, constantly negotiating competing demands. This leads to context switching, mental fatigue, and a sense of never truly being *fully* present anywhere.
 
 Think about it: are you truly "off" when you're at dinner with your family, while simultaneously mentally debugging a production issue? Or are you attempting to squeeze in "personal time" around the edges of an already packed workday, feeling rushed and unproductive? This isn’t sustainable. It’s a recipe for burnout and ultimately, diminished performance in both areas of your life.
 
@@ -32,13 +32,13 @@ As an engineering leader, your approach to work-life rhythm sets the tone for yo
 
 ## It's Not About Perfection, It's About Sustainability
 
-The pursuit of work-life balance often stems from a desire for perfection – to excel in all areas of life simultaneously. But that's unrealistic and unsustainable. Instead, focus on creating a rhythm that allows you to be productive, engaged, and fulfilled, both at work and in your personal life. It’s not about achieving a perfect split, but about building a sustainable cadence that allows you to thrive in the long run. 
+The pursuit of work-life balance often stems from a desire for perfection – to excel in all areas of life simultaneously. But that's unrealistic and unsustainable. Instead, focus on creating a rhythm that allows you to be productive, engaged, and fulfilled, both at work and in your personal life. It’s not about achieving a perfect split, but about building a sustainable cadence that allows you to thrive in the long run.
 
 And remember, this is a deeply personal journey. What works for one person may not work for another. Experiment, adjust, and find a rhythm that allows you to be your best self, both as an engineering leader and as a human being.
 
 **Key Takeaways:**
 
-*   **Shift from "Balance" to "Rhythm":** Embrace the natural fluctuations in energy and demand.
-*   **Prioritize Deep Work & Recovery:** Schedule dedicated time for both focused effort and genuine rest.
-*   **Lead by Example:** Model sustainable practices to create a healthy team culture.
-*   **Protect Your Energy:** Identify and minimize activities that drain your resources.
+* **Shift from "Balance" to "Rhythm":** Embrace the natural fluctuations in energy and demand.
+* **Prioritize Deep Work & Recovery:** Schedule dedicated time for both focused effort and genuine rest.
+* **Lead by Example:** Model sustainable practices to create a healthy team culture.
+* **Protect Your Energy:** Identify and minimize activities that drain your resources.

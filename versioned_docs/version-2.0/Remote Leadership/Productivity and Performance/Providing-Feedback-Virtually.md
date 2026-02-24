@@ -10,7 +10,7 @@ Let's be honest: virtual feedback is harder. Here’s why:
 
 * **Loss of Non-Verbal Cues:** You miss body language, facial expressions, and subtle signals that inform your understanding and allow you to adjust your delivery.
 * **Increased Potential for Misinterpretation:** Written communication (even in chat) lacks nuance and can easily be misconstrued. Tone is incredibly difficult to convey.
-* **The “Distance Effect”:** It's easier to avoid difficult conversations when there's physical distance. Procrastination creeps in, and small issues become larger ones. 
+* **The “Distance Effect”:** It's easier to avoid difficult conversations when there's physical distance. Procrastination creeps in, and small issues become larger ones.
 * **Zoom Fatigue & Interruptions:** Virtual meetings are exhausting. Distractions are plentiful, making it harder to give and receive feedback with full attention.
 
 These challenges can negatively impact team performance, erode morale, and ultimately derail project timelines. Recognizing these hurdles is the first step toward building a more effective virtual feedback system.
@@ -54,16 +54,14 @@ Feedback isn't a one-way street. Actively solicit feedback on *your* leadership.
 * **Anonymous Surveys:** Tools like Vidhook, Survicate, or even feedback.fish can provide honest feedback without fear of retribution.
 * **"Start, Stop, Continue" Exercise:** Ask your team what you should start doing, stop doing, and continue doing as a leader.
 
-
-
 ## Tools to Enhance Virtual Feedback
 
 Integrating the right tools can significantly streamline the feedback process. Here's how some tools can be leveraged:
 
 * **UsabilityHub:** Gather feedback on design mockups and website prototypes *before* significant development time is invested, ensuring you’re building the right solutions.
-* **Shake/Remarkbox/IntenseDebate:** For mobile apps or public-facing websites, these tools allow users to provide bug reports and feedback *directly within the application*, giving you real-time insights into user experience. 
+* **Shake/Remarkbox/IntenseDebate:** For mobile apps or public-facing websites, these tools allow users to provide bug reports and feedback *directly within the application*, giving you real-time insights into user experience.
 * **Anonymous Survey Tools (Vidhook, Survicate, feedback.fish):** Facilitate honest feedback on your leadership style and team dynamics *without fear of retribution*.
 
 ## The Bottom Line
 
-Delivering impactful feedback virtually requires intentionality, structure, and a willingness to adapt.  It’s also important to acknowledge the increased cognitive load remote work can place on individuals, impacting both their ability to give and receive feedback effectively. By establishing a robust feedback system, utilizing frameworks like STAR(R), and actively soliciting feedback on your own leadership, you can foster a culture of continuous improvement, even in a remote environment. It's about creating a feedback loop that helps everyone on the team grow and thrive. 
+Delivering impactful feedback virtually requires intentionality, structure, and a willingness to adapt.  It’s also important to acknowledge the increased cognitive load remote work can place on individuals, impacting both their ability to give and receive feedback effectively. By establishing a robust feedback system, utilizing frameworks like STAR(R), and actively soliciting feedback on your own leadership, you can foster a culture of continuous improvement, even in a remote environment. It's about creating a feedback loop that helps everyone on the team grow and thrive.

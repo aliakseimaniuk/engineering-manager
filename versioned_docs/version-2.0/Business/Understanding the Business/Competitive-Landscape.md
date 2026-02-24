@@ -19,7 +19,7 @@ As leaders, we must encourage our teams to look *beyond* the immediate competiti
 
 ## Beyond Benchmarking: Understanding Competitive *Forces*
 
-Simply "improving on the competition" is a reactive strategy. A truly resilient team proactively anticipates shifts in the market dynamics. This requires understanding the underlying *forces* at play. 
+Simply "improving on the competition" is a reactive strategy. A truly resilient team proactively anticipates shifts in the market dynamics. This requires understanding the underlying *forces* at play.
 
 Competitive markets can destroy profits, particularly in commoditized markets. This is because competition forces everyone to focus on price and features, leading to diminishing returns. However, healthy competition can also drive innovation and benefit consumers.
 
@@ -47,7 +47,7 @@ The context briefly mentions Lean, Agile, and Waterfall methodologies. The core 
 
 ## Beyond Competition: Creating Value
 
-Ultimately, true competitive advantage isn't about being better *than* the competition; it's about being uniquely valuable *to* our customers. The relentless focus on competition can lead to a race to the bottom. Instead, we should focus on understanding our customers' needs and creating solutions that solve their problems in innovative and meaningful ways. 
+Ultimately, true competitive advantage isn't about being better *than* the competition; it's about being uniquely valuable *to* our customers. The relentless focus on competition can lead to a race to the bottom. Instead, we should focus on understanding our customers' needs and creating solutions that solve their problems in innovative and meaningful ways.
 
 As engineering leaders, our role is to create an environment where innovation can thrive. That means encouraging experimentation, fostering collaboration, and empowering our teams to think outside the box. The competitive landscape will always be in flux. But by focusing on creating lasting value, we can build resilient teams that not only survive but thrive in the face of change.
 
@@ -55,5 +55,5 @@ As engineering leaders, our role is to create an environment where innovation ca
 
 **Further Reading:**
 
-*   **Porter, Michael E.** *Competitive Advantage: Creating and Sustaining Superior Performance*. Free Press, 1985.
-*   **Christensen, Clayton M.** *The Innovator’s Dilemma*. Harvard Business Review Press, 1997.
+* **Porter, Michael E.** *Competitive Advantage: Creating and Sustaining Superior Performance*. Free Press, 1985.
+* **Christensen, Clayton M.** *The Innovator’s Dilemma*. Harvard Business Review Press, 1997.

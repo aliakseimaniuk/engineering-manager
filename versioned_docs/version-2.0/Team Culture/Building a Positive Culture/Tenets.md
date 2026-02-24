@@ -6,7 +6,7 @@ This isn't about ping pong tables or free snacks. It’s about the fundamental b
 
 ## Why Explicit Tenets Matter
 
-Too often, team culture is left implicit – a collection of unspoken expectations and assumed norms. This works…until it doesn't. When ambiguity creeps in, it breeds inconsistency, frustration, and ultimately, diminished performance. 
+Too often, team culture is left implicit – a collection of unspoken expectations and assumed norms. This works…until it doesn't. When ambiguity creeps in, it breeds inconsistency, frustration, and ultimately, diminished performance.
 
 I once worked with a team paralyzed by indecision. Each member had a different understanding of “quality,” leading to endless debates and delayed releases. It wasn’t a lack of skill, but a lack of shared understanding. Defining core tenets – in their case, prioritizing “working software over perfect design” – resolved the conflict and unlocked their potential.
 
@@ -31,13 +31,13 @@ Don't pull these out of thin air. Your tenets should emerge from the collective 
 Here are a few examples of tenets I've seen work well. Note that the wording is crucial:
 
 * **Radical Transparency:** *“We believe in openly sharing information, even when it's difficult. We default to over-communication, and proactively surface risks and challenges.”*  This isn't just "be open." It specifies *how* openness manifests.
-    * **In Practice:** This means sharing project risks openly during stand-up, even if it means delaying a release. It also means proactively posting status updates, both good and bad, to the team’s communication channel.
+  * **In Practice:** This means sharing project risks openly during stand-up, even if it means delaying a release. It also means proactively posting status updates, both good and bad, to the team’s communication channel.
 * **Bias for Action:** *“We prioritize shipping working software over endless planning. We embrace calculated risks and learn quickly from failures.”*  This isn't just "be proactive." It emphasizes learning from mistakes.
-    * **In Practice:** This translates to releasing Minimum Viable Products (MVPs) to gather user feedback quickly, even if they aren’t feature-complete. It also means conducting post-mortems after every incident to identify areas for improvement.
+  * **In Practice:** This translates to releasing Minimum Viable Products (MVPs) to gather user feedback quickly, even if they aren’t feature-complete. It also means conducting post-mortems after every incident to identify areas for improvement.
 * **Ownership & Accountability:** *“We each take full responsibility for our work, from ideation to deployment and beyond. We celebrate wins as a team, and address failures with honesty and a commitment to improvement.”* This isn’t just “be responsible.” It explicitly links accountability to both success and failure.
-    * **In Practice:**  This means that team members own their features from start to finish, including monitoring performance and addressing bugs in production. It also means celebrating successes publicly and openly discussing failures as learning opportunities.
+  * **In Practice:**  This means that team members own their features from start to finish, including monitoring performance and addressing bugs in production. It also means celebrating successes publicly and openly discussing failures as learning opportunities.
 * **Relentless Curiosity:** *"We actively seek out new knowledge and perspectives. We challenge assumptions, ask 'why' repeatedly, and embrace continuous learning."* This fosters innovation and prevents stagnation.
-    * **In Practice:** This could mean dedicating time each week for “learning sprints” where team members explore new technologies or techniques. It also means actively seeking feedback from users and peers and challenging existing processes.
+  * **In Practice:** This could mean dedicating time each week for “learning sprints” where team members explore new technologies or techniques. It also means actively seeking feedback from users and peers and challenging existing processes.
 
 ## Bringing Tenets to Life:  Beyond the Poster
 
@@ -45,7 +45,7 @@ Simply *defining* tenets isn’t enough. You need to actively integrate them int
 
 * **Team Meetings:**  Start or end meetings by acknowledging how the team embodied (or didn't embody) a specific tenet.
 * **Performance Reviews:**  Incorporate tenets into performance evaluations. Assess how individuals demonstrate those values in their work.
-* **Decision-Making Framework:**  When facing a difficult decision, explicitly reference the relevant tenet(s) to guide the discussion. 
+* **Decision-Making Framework:**  When facing a difficult decision, explicitly reference the relevant tenet(s) to guide the discussion.
 * **Celebrate Examples:** Publicly acknowledge and reward team members who exemplify the tenets.
 
 Consider visually representing your tenets as a matrix. List your tenets as rows and examples of behaviors demonstrating each tenet as columns. This could be a shared document or a visually appealing poster that serves as a constant reminder.
@@ -56,6 +56,6 @@ Implementing these practices takes time and consistent effort, but the long-term
 
 It’s also important to acknowledge that establishing these tenets in an established team can be challenging. Expect resistance and address concerns openly. Focus on the benefits of increased clarity, collaboration, and innovation.
 
-Think of it like building a fortress.  You need strong foundations (tenets), solid walls (consistent behavior), and vigilant defenders (everyone on the team). The effort is worth it. A team built on shared values is worth the effort, becoming more resilient, innovative, and ultimately, successful. 
+Think of it like building a fortress.  You need strong foundations (tenets), solid walls (consistent behavior), and vigilant defenders (everyone on the team). The effort is worth it. A team built on shared values is worth the effort, becoming more resilient, innovative, and ultimately, successful.
 
 **Now, I encourage you to schedule a team workshop this week to begin defining your core tenets. Or, share your own examples of effective tenets in the comments below – I’d love to hear what’s working for you!**

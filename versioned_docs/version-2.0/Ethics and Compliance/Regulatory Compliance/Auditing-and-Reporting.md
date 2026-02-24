@@ -2,7 +2,7 @@
 
 For two decades, I’ve built and led engineering teams. We talk a lot about velocity, technical debt, and delivering value. But lately, I’ve been thinking about a surprisingly relevant parallel: auditing. Not in the sense of bug hunts (though those are important!), but in the rigorous, systematic examination of *how* we build things. The collapses of Enron and WorldCom – stemming from failures in financial reporting and internal controls [^1] – aren't just business school case studies; they’re stark reminders of what happens when systems of reporting and control break down. And as engineering leaders, we are, fundamentally, building and *running* complex systems.
 
-This isn’t about nitpicking code quality. It’s about recognizing that transparency, accountability, and verifiable processes are crucial for long-term success – and that it’s our responsibility to foster them. 
+This isn’t about nitpicking code quality. It’s about recognizing that transparency, accountability, and verifiable processes are crucial for long-term success – and that it’s our responsibility to foster them.
 
 ## The Fragility of “Just Make It Work”
 
@@ -13,8 +13,6 @@ For many engineering teams, especially in the early stages of a startup, the man
 * **Lack of Ownership:** Who is accountable for the performance, security, and scalability of a critical service? If the answer is “everyone,” the answer is actually “no one.”
 
 These are all symptoms of a lack of effective "auditing" – a systematic way to understand, verify, and report on the state of our systems.
-
-
 
 ## Building an Engineering “Truth Serum”: From Visibility to Verification
 
@@ -28,7 +26,6 @@ Here's how to shift from simply *seeing* what's happening to *verifying* the hea
 * **Regularly Review Audit Logs:** Don't just *collect* logs; *review* them. Set aside time each week to analyze audit data and identify potential issues. Look for patterns, anomalies, and trends that might indicate underlying problems.
 * **Establish Clear Ownership & Permissions:** Who has access to what data? Who is responsible for maintaining which systems? Clear ownership and permissions are essential for accountability.
 
-
 ## The Cost of Neglect: Lessons from the Past – and a Path Forward
 
 The failures of Enron and WorldCom serve as cautionary tales. These companies prioritized short-term gains over long-term sustainability, and they created cultures where transparency and accountability were lacking. The consequences were devastating, including bankruptcies, job losses, and a loss of public trust.
@@ -39,9 +36,6 @@ In our own organizations, neglecting auditing and reporting can lead to:
 * **Security Breaches:** Without proper monitoring and logging, we’re vulnerable to attacks and data breaches.
 * **Reduced Innovation:** When we’re constantly fighting fires, we have less time to focus on innovation.
 * **Erosion of Trust:** When things go wrong, it’s difficult to regain the trust of our users and stakeholders.
-
-
-
 
 ## Beyond Compliance: Building a Culture of Transparency and Continuous Improvement
 
@@ -55,14 +49,8 @@ As engineering leaders, we need to:
 
 By embracing these principles, we can build engineering organizations that are not only successful but also ethical, responsible, and sustainable.
 
-
-
 Ultimately, thinking like an auditor isn’t about finding fault; it’s about ensuring the long-term health and resilience of the systems we build – and the organizations we lead.  
 
-
-
 **To get started, identify the key metrics for your most critical services and implement basic logging and monitoring. This simple step can provide valuable insights into the health of your systems and help you proactively address potential issues.**
-
-
 
 [^1]:  See, for example, "The Fall of Enron" by Bethany McLean and Peter Elkind, and reports from the Securities and Exchange Commission regarding the accounting failures at both Enron and WorldCom.

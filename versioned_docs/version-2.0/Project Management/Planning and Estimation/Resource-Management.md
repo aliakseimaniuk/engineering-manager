@@ -20,14 +20,13 @@ I remember a particularly painful incident early in my career. A critical bug hi
 
 Moving to a proactive approach requires two core components: **Capacity Planning** and a **Skill Matrix**.
 
-**1. Capacity Planning:** This is about understanding how much *available* time your team actually has. 
+**1. Capacity Planning:** This is about understanding how much *available* time your team actually has.
 
 * **Estimate Fully Loaded Time:** Don’t just look at 40 hours a week. Factor in meetings, administrative tasks, learning/training, and a buffer for unexpected issues (trust me, there will be unexpected issues!). A rule of thumb is to assume around 60-70% of an engineer’s time is truly available for focused work.
 * **Track Ongoing Commitments:** Beyond current projects, know what each engineer is committed to in the near future. This includes on-call rotations, code reviews, and mentorship responsibilities.
 * **Forecast Future Needs:** Collaborate with product and stakeholders to get a realistic roadmap. Even a high-level understanding of upcoming projects allows you to anticipate resource constraints.  Regularly scheduled roadmap refinement meetings, or even a shared document outlining priorities, can greatly facilitate this collaboration.
 
-
-**2. Skill Matrix:** This is a table mapping your team’s skills to specific areas of expertise. It doesn't need to be overly complex; a simple rating system (e.g., Beginner, Intermediate, Expert) is sufficient. 
+**2. Skill Matrix:** This is a table mapping your team’s skills to specific areas of expertise. It doesn't need to be overly complex; a simple rating system (e.g., Beginner, Intermediate, Expert) is sufficient.
 
 * **Identify Skill Gaps:** The matrix immediately highlights areas where you lack expertise, allowing you to proactively address them through training or hiring.
 * **Optimal Assignment:** When a new task arrives, you can quickly identify the *best* person, not just the *available* person.
@@ -43,9 +42,9 @@ Moving to a proactive approach requires two core components: **Capacity Planning
 
 **Important Note:** Skill matrices can be tricky to maintain. Start simple and iterate. Be mindful of individuals potentially inflating their skill levels; regular 1:1s and code reviews can help maintain accuracy.
 
-##  Beyond the Spreadsheet:  Human-Centered Resource Allocation
+## Beyond the Spreadsheet:  Human-Centered Resource Allocation
 
-Even with a solid capacity plan and skill matrix, remember you’re dealing with *people*. 
+Even with a solid capacity plan and skill matrix, remember you’re dealing with *people*.
 
 * **Individual Preferences:** Talk to your team members about their career goals and areas of interest. Whenever possible, align assignments with their passions. Motivated engineers produce better work.
 * **Workload Balancing:** Monitor individual workloads closely. Don't let anyone become consistently overloaded. Proactively redistribute tasks when necessary.
@@ -54,11 +53,11 @@ Even with a solid capacity plan and skill matrix, remember you’re dealing with
 
 I’ve found that regular “check-ins” – not just project status updates, but genuine conversations about wellbeing and workload – are invaluable.
 
-##  Tools & Platforms
+## Tools & Platforms
 
 There are many project management platforms that can assist with resource management (Shortcut, Asana, Jira, etc.). While they can be helpful, *don’t let the tool dictate the process*. Focus on the principles outlined above, and choose a tool that supports them. A simple spreadsheet can often be sufficient, especially for smaller teams.
 
-##  Conclusion:  Investing in Your Team's Potential
+## Conclusion:  Investing in Your Team's Potential
 
 Effective resource management isn’t about squeezing every last ounce of productivity from your team. It’s about strategically allocating resources, fostering individual growth, and creating a sustainable environment where engineers can thrive. It’s an investment in your team’s potential – and ultimately, in the success of your product. By moving beyond reactive fire-fighting and embracing a proactive, human-centered approach, you can build a team that consistently delivers high-quality work while remaining engaged, motivated, and happy.
 

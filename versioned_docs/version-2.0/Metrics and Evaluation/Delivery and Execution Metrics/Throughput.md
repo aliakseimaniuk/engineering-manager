@@ -6,7 +6,7 @@ Throughput, simply put, is the amount of work completed over a specific period. 
 
 ## Why Velocity Falls Short
 
-Let's be honest: story points are *estimates*. They're subjective, prone to inflation, and heavily influenced by team dynamics. A team that consistently assigns higher story points isn't necessarily more productive; they might just be better at estimating… or they might be gaming the system. 
+Let's be honest: story points are *estimates*. They're subjective, prone to inflation, and heavily influenced by team dynamics. A team that consistently assigns higher story points isn't necessarily more productive; they might just be better at estimating… or they might be gaming the system.
 
 Here’s where velocity breaks down:
 
@@ -21,7 +21,7 @@ Throughput offers a more tangible and reliable way to measure team performance. 
 
 * **Features Deployed to Production:** The gold standard.
 * **User Stories Completed & Verified:**  A good intermediate step, especially for smaller teams.
-* **Pull Requests Merged & Deployed:** A useful metric for tracking code flow and reducing cycle time. 
+* **Pull Requests Merged & Deployed:** A useful metric for tracking code flow and reducing cycle time.
 * **Incidents Resolved:**  Important for reliability and operational excellence.
 
 The key is to choose a unit of work that directly reflects *value delivered* to the end user or the business. It’s important to define these "units of work" clearly as discrete, measurable deliverables.
@@ -49,9 +49,9 @@ While throughput is a powerful metric, it’s not without its challenges. Defini
 
 ## Throughput vs. Velocity: A Practical Analogy
 
-Think of a factory assembly line. Velocity is like estimating how many widgets the workers *think* they can build in an hour. Throughput is the actual number of completed, inspected widgets leaving the factory floor. Which metric is more reliable? Which metric drives better results? 
+Think of a factory assembly line. Velocity is like estimating how many widgets the workers *think* they can build in an hour. Throughput is the actual number of completed, inspected widgets leaving the factory floor. Which metric is more reliable? Which metric drives better results?
 
-As engineering managers, our focus should be on the latter – the actual value delivered. 
+As engineering managers, our focus should be on the latter – the actual value delivered.
 
 **Final Thoughts**
 

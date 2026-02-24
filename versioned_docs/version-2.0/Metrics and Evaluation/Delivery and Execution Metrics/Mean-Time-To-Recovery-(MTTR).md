@@ -1,12 +1,12 @@
 # Mean Time To Recovery (MTTR)
 
-For years, “uptime” has been a primary goal for engineering reliability. We obsess over nines – 99.9%, 99.99%, even 99.999% – and rightfully so. But chasing ever-increasing uptime figures can be a deceptive goal. A system *can* be up while still frustrating users, creating technical debt, and masking underlying problems. That's where Mean Time To Recovery (MTTR) comes in. 
+For years, “uptime” has been a primary goal for engineering reliability. We obsess over nines – 99.9%, 99.99%, even 99.999% – and rightfully so. But chasing ever-increasing uptime figures can be a deceptive goal. A system *can* be up while still frustrating users, creating technical debt, and masking underlying problems. That's where Mean Time To Recovery (MTTR) comes in.
 
 As engineering leaders, we need to shift our focus *from simply avoiding failure to minimizing the impact of failure*. MTTR isn’t just a metric; it's a window into the health of our systems, our processes, and – crucially – our team. This post will dive into why MTTR is so vital for engineering managers, how to calculate and track it effectively, and – most importantly – how to *use* it to drive meaningful improvement.
 
 ## Why MTTR Matters More Than You Think
 
-Let’s be honest, failures *will* happen. Even the most robust systems are susceptible to bugs, infrastructure hiccups, and unexpected edge cases. Users aren’t impressed by a perfect record of *no* incidents; they’re infuriated by long outages and slow recovery. 
+Let’s be honest, failures *will* happen. Even the most robust systems are susceptible to bugs, infrastructure hiccups, and unexpected edge cases. Users aren’t impressed by a perfect record of *no* incidents; they’re infuriated by long outages and slow recovery.
 
 Here's why MTTR is critical from an engineering leadership perspective:
 
@@ -15,8 +15,6 @@ Here's why MTTR is critical from an engineering leadership perspective:
 * **Reflects Team Maturity:** A team that can quickly diagnose, mitigate, and resolve issues is a sign of a mature engineering culture with strong processes and skilled engineers.
 * **Cost Savings:** Reduced downtime directly translates to fewer lost revenue opportunities and reduced support costs.
 * **Proactive Improvement:** Tracking MTTR isn’t just about reacting to incidents; it provides valuable data for identifying patterns and proactively addressing potential issues before they escalate.
-
-
 
 ## Calculating and Tracking MTTR: Beyond the Formula
 
@@ -32,8 +30,6 @@ But simply calculating the number isn’t enough. You need context. Here’s how
 4. **Automate Where Possible:** Automated rollbacks, circuit breakers, and self-healing infrastructure can dramatically reduce recovery time.
 5. **Don't Ignore the "Soft" Metrics**: While downtime is measurable, consider the impact of degraded performance. A service that's technically "up" but running slowly is still causing user frustration.
 
-
-
 ## From Data to Action: Using MTTR to Drive Improvement
 
 Tracking MTTR is useless if you don’t use it to drive meaningful change. Here’s how to translate data into actionable improvements:
@@ -47,11 +43,8 @@ Tracking MTTR is useless if you don’t use it to drive meaningful change. Here�
 
 **Analyzing Retrospective Findings:**  Post-incident reviews provide an opportunity to identify recurring issues and patterns. Use tools like easyretro.io to track findings across multiple reviews. If certain teams consistently flag the same problems, or if you notice a pattern of miscommunication or lack of documentation, this insight is invaluable for addressing systemic problems.
 
-
-
 ## MTTR as a Leadership Signal
 
-Finally, remember that MTTR isn’t just a technical metric; it’s a reflection of your leadership. A team with a consistently low MTTR demonstrates a commitment to reliability, a culture of learning, and a proactive approach to problem-solving. 
+Finally, remember that MTTR isn’t just a technical metric; it’s a reflection of your leadership. A team with a consistently low MTTR demonstrates a commitment to reliability, a culture of learning, and a proactive approach to problem-solving.
 
 By focusing on MTTR, you’re not just improving the reliability of your systems; you’re building a stronger, more resilient engineering organization. It's a shift in focus that moves us beyond simply *avoiding* failure, and towards *mastering* our ability to respond.
-

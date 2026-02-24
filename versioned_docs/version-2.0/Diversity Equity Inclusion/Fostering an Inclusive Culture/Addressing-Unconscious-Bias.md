@@ -6,7 +6,7 @@ Studies show that teams with diverse viewpoints are 15% more likely to achieve b
 
 Let’s be clear: most of us don't *intend* to discriminate. We believe we’re making objective decisions based on merit. However, research in cognitive psychology consistently demonstrates that our brains take shortcuts, relying on pre-existing patterns and associations. [1] These shortcuts can lead to biased evaluations of performance, potential, and even who gets opportunities to speak in meetings.
 
-I saw this play out vividly early in my career. I was leading a small team and had a brilliant, introverted engineer who consistently delivered exceptional code. During team meetings, he rarely volunteered to present his work, often deferring to more outspoken colleagues. I subconsciously began to view him as less engaged, and initially, I hesitated to put him forward for a high-visibility project. 
+I saw this play out vividly early in my career. I was leading a small team and had a brilliant, introverted engineer who consistently delivered exceptional code. During team meetings, he rarely volunteered to present his work, often deferring to more outspoken colleagues. I subconsciously began to view him as less engaged, and initially, I hesitated to put him forward for a high-visibility project.
 
 It wasn’t that I didn’t *like* him, or didn’t respect his work. It was that my brain, conditioned to equate assertiveness with competence, filled in the gaps with assumptions. It took a conversation with a trusted mentor, and a deliberate effort to solicit his input directly, to recognize my bias and correct course. He *was* ready for the challenge, and thrived when given the opportunity. This experience highlighted how easily we can misinterpret behaviors and overlook potential contributions based on unconscious biases.
 
@@ -19,7 +19,6 @@ Understanding *what* biases are at play is the first step toward mitigation. Her
 * **Halo/Horns Effect:** Allowing a general impression (positive or negative) to color all subsequent evaluations.
 * **Confirmation Bias:** Seeking out information that confirms pre-existing beliefs and dismissing contradictory evidence. This is especially dangerous when evaluating candidates or performance reviews.
 * **Competency Bias:** Assuming that competence in one area translates to competence in others. "He's a senior backend engineer, so he’ll automatically be a good architect."
-
 
 ## What Can *You* Do? Practical Steps for Mitigation
 
@@ -35,12 +34,12 @@ Addressing unconscious bias isn’t about achieving “bias-free” thinking (th
 
 5. **To unlock hidden potential,** encourage dissent & psychological safety. Create a culture where team members feel comfortable challenging assumptions and offering alternative viewpoints. This requires actively soliciting input from quieter team members and valuing diverse perspectives.
 
-6. **To set the tone for inclusivity,** be a model of inclusive behavior. Demonstrate inclusive language, actively listen to all team members, and address biased behavior when you see it. 
+6. **To set the tone for inclusivity,** be a model of inclusive behavior. Demonstrate inclusive language, actively listen to all team members, and address biased behavior when you see it.
 
 ## The Ongoing Work of Self-Awareness
 
-Addressing unconscious bias is not a one-time fix. It requires ongoing self-reflection, deliberate practice, and a commitment to creating a more equitable and inclusive environment. It’s easy to fall back on ingrained patterns of thought. I’ve caught myself making biased assumptions many times since that early experience with the introverted engineer. The key is to recognize it when it happens, challenge your thinking, and course-correct. 
+Addressing unconscious bias is not a one-time fix. It requires ongoing self-reflection, deliberate practice, and a commitment to creating a more equitable and inclusive environment. It’s easy to fall back on ingrained patterns of thought. I’ve caught myself making biased assumptions many times since that early experience with the introverted engineer. The key is to recognize it when it happens, challenge your thinking, and course-correct.
 
-It’s natural to feel uncomfortable challenging ingrained assumptions, but creating a safe space for dissenting opinions is crucial. Many engineers strongly believe in meritocracy, and that’s admirable. However, it’s essential to recognize how unconscious biases can undermine even the most well-intentioned meritocratic systems. 
+It’s natural to feel uncomfortable challenging ingrained assumptions, but creating a safe space for dissenting opinions is crucial. Many engineers strongly believe in meritocracy, and that’s admirable. However, it’s essential to recognize how unconscious biases can undermine even the most well-intentioned meritocratic systems.
 
 Remember, diverse, equitable, and inclusive teams *are* simply better performing teams. They foster innovation, improve performance, and ultimately, lead to better outcomes for everyone. And as engineering leaders, we have a responsibility to lead the way. Start by auditing your last three hiring decisions. What patterns do you see? What steps can you take to mitigate bias in the future?

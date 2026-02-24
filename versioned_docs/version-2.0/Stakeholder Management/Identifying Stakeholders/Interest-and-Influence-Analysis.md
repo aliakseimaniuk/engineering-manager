@@ -34,7 +34,7 @@ This exercise reveals the underlying motivations, allowing you to tailor your co
 
 ## Decoding Influence: Beyond Title and Authority
 
-Influence isn't just about who holds a leadership position. It's about who others *listen to*, who can sway opinions, and who can mobilize resources. 
+Influence isn't just about who holds a leadership position. It's about who others *listen to*, who can sway opinions, and who can mobilize resources.
 
 Consider a junior engineer with deep expertise in a specific area. While lacking formal authority, their technical insights can be incredibly influential with senior engineers and architects. Ignoring this informal influence is a mistake.
 
@@ -55,7 +55,7 @@ The real power comes from analyzing the *intersection* of interest and influence
 
 ## Beyond the Map: A Continuous Process
 
-Stakeholder management isn’t a one-time exercise. Interests and influence shift over time. Regularly revisit your analysis, gather feedback, and adjust your approach accordingly. 
+Stakeholder management isn’t a one-time exercise. Interests and influence shift over time. Regularly revisit your analysis, gather feedback, and adjust your approach accordingly.
 
 Think of it as a dynamic, evolving system. The more you invest in understanding your stakeholders, the more effectively you can navigate complex situations, build strong relationships, and deliver impactful results. And remember, the goal isn’t just to *manage* stakeholders; it’s to *collaborate* with them to achieve shared success.
 

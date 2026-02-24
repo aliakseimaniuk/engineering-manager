@@ -19,9 +19,9 @@ I’ve seen this firsthand. I once worked with a product manager who was brillia
 
 So, how do we move beyond transactions and build lasting relationships with our stakeholders? Here's a framework based on three key principles:
 
-**1. Understand Their World:** 
+**1. Understand Their World:**
 
-This goes beyond understanding their immediate needs. Take the time to learn about their challenges, their priorities, and what success looks like *from their perspective*. 
+This goes beyond understanding their immediate needs. Take the time to learn about their challenges, their priorities, and what success looks like *from their perspective*.
 
 * **Regular 1:1s (Beyond Status Updates):** Don't just talk about project progress. Ask about their biggest frustrations, their long-term goals, and how your team can help.
 * **Contextual Inquiry:** If possible, spend time observing how they work. This can reveal hidden pain points and opportunities for collaboration.
@@ -35,7 +35,7 @@ Don’t wait for them to come to you with questions or concerns. Be proactive in
 
 * **“Pre-Briefs” Before Meetings:** Send a quick summary of what you plan to cover, giving them time to prepare and formulate questions.
 * **Early Issue Escalation:** Communicate potential roadblocks or delays as early as possible, along with potential solutions.
-* **Share Context, Not Just Results:** Explain *why* certain decisions were made, even if they’re not immediately popular. 
+* **Share Context, Not Just Results:** Explain *why* certain decisions were made, even if they’re not immediately popular.
 
 I remember a situation where a critical feature was delayed due to unforeseen technical complexity. Instead of hiding the issue, I proactively informed the stakeholders, explained the problem, and outlined a revised plan. While they were initially disappointed, they appreciated the transparency and were more willing to collaborate on a solution.  I've also found this approach builds trust with stakeholders outside of product - like marketing or sales - who often need to prepare communication to customers.
 
@@ -51,8 +51,6 @@ This is where authentic concern comes in. Instead of viewing stakeholders as obs
 
 Building these relationships isn’t limited to internal stakeholders. I worked with a customer support manager who regularly connected with engineering to understand upcoming changes. This allowed her team to proactively prepare documentation and training, resulting in a smoother rollout and happier customers.
 
-
-
 ## The Long Game and Making it Work
 
 Building long-term relationships with stakeholders isn't always easy. It requires effort, empathy, and a willingness to invest in people. It also requires recognizing that many managers are already overloaded. This isn't about adding more meetings, but about making existing interactions more meaningful. By prioritizing relationships, we can create a more fulfilling and impactful work experience for everyone involved.
@@ -61,9 +59,8 @@ Building long-term relationships with stakeholders isn't always easy. It require
 
 Here are a few concrete steps you can take *this week* to start building stronger relationships with your stakeholders:
 
-1.  **Schedule a 1:1 with a key stakeholder:** Focus the conversation on *their* challenges and how your team can help.
-2.  **Proactively share a project update:** Don't just report on progress; explain the *why* behind your decisions.
-3.  **Actively listen in your next meeting:** Resist the urge to interrupt and truly hear what your stakeholders are saying.
-
+1. **Schedule a 1:1 with a key stakeholder:** Focus the conversation on *their* challenges and how your team can help.
+2. **Proactively share a project update:** Don't just report on progress; explain the *why* behind your decisions.
+3. **Actively listen in your next meeting:** Resist the urge to interrupt and truly hear what your stakeholders are saying.
 
 Ultimately, software is built by people, for people. By prioritizing relationships, we can create a more fulfilling and impactful work experience for everyone involved. And after 30 years in IT, that's a goal truly worth striving for.

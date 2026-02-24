@@ -12,31 +12,31 @@ Velocity is a measure of the *amount* of work completed in a sprint. It’s inhe
 
 * **Erosion of Trust:** Product managers and stakeholders lose faith in engineering’s commitments.
 * **Increased Context Switching:** Constant reprioritization and shifting goals kill focus and productivity.
-* **Burnout:** Engineers feel pressured and frustrated by the constant churn. 
+* **Burnout:** Engineers feel pressured and frustrated by the constant churn.
 
-The problem isn’t necessarily a lack of effort, but a lack of *understanding* of what contributes to successful sprint completion. We need to look beyond story points and dig into the factors that make a sprint predictable. 
+The problem isn’t necessarily a lack of effort, but a lack of *understanding* of what contributes to successful sprint completion. We need to look beyond story points and dig into the factors that make a sprint predictable.
 
 ## The Four Pillars of Sprint Predictability
 
 I've found that predictable sprints aren't built on complex formulas, but on consistent attention to four core areas:
 
-**1. Realistic Scope & Capacity:** This is the foundation. It's not about committing to *more* work, but to *appropriate* work. 
-    * **Account for Non-Feature Work:** A surprisingly common mistake is forgetting to factor in “hidden” work – bug fixes, technical debt, urgent support requests, internal tooling, and meetings. We typically allocate at least 20-30% of sprint capacity to these unavoidable activities. This percentage reflects the reality that dedicated feature work rarely occupies 100% of an engineer’s time.
+**1. Realistic Scope & Capacity:** This is the foundation. It's not about committing to *more* work, but to *appropriate* work.
+    ***Account for Non-Feature Work:** A surprisingly common mistake is forgetting to factor in “hidden” work – bug fixes, technical debt, urgent support requests, internal tooling, and meetings. We typically allocate at least 20-30% of sprint capacity to these unavoidable activities. This percentage reflects the reality that dedicated feature work rarely occupies 100% of an engineer’s time.
     * **Consider Individual Capacity:** Don't assume everyone is equally productive. New team members, people taking on mentorship roles, or those with external commitments will naturally have less capacity.
     * **Use Historical Data, With a Grain of Salt:** Review previous sprints, but don't blindly repeat past patterns. Account for changes in team composition, technology, or business priorities.
 
-**2. Stable Requirements:** The more a requirement changes mid-sprint, the less likely it is to be completed on time. 
-    * **Refinement is Key:** Dedicate sufficient time to backlog refinement *before* sprint planning. Ensure stories are well-defined, have clear acceptance criteria, and are broken down into manageable chunks.
-    * **Prioritize Stability:** When choosing stories for a sprint, give preference to those with the most stable requirements. 
+**2. Stable Requirements:** The more a requirement changes mid-sprint, the less likely it is to be completed on time.
+    ***Refinement is Key:** Dedicate sufficient time to backlog refinement *before* sprint planning. Ensure stories are well-defined, have clear acceptance criteria, and are broken down into manageable chunks.
+    * **Prioritize Stability:** When choosing stories for a sprint, give preference to those with the most stable requirements.
     * **Embrace the “Sprint Boundary”:** Protect the sprint from mid-sprint scope creep. Any significant changes should be deferred to the next sprint.
 
-**3.  Early Identification of Blockers:** Proactive risk management is critical. 
-    * **Daily Stand-ups Are Not Just Status Updates:** Use them to actively identify potential blockers. Encourage team members to voice concerns early, even if they seem minor.
+**3.  Early Identification of Blockers:** Proactive risk management is critical.
+    ***Daily Stand-ups Are Not Just Status Updates:** Use them to actively identify potential blockers. Encourage team members to voice concerns early, even if they seem minor.
     * **Dedicated “Blocker Removal” Time:** If blockers are a recurring issue, dedicate specific time each week to address them.
     * **Escalation Path:** Establish a clear process for escalating blockers that the team cannot resolve independently.
 
 **4.  Consistent Engineering Practices:** Solid practices reduce technical risk and improve predictability.
-    * **Test-Driven Development (TDD):** While not always feasible, TDD significantly reduces the risk of bugs and rework.
+    ***Test-Driven Development (TDD):** While not always feasible, TDD significantly reduces the risk of bugs and rework.
     * **Code Reviews:** Ensure code quality and knowledge sharing.
     * **Continuous Integration/Continuous Deployment (CI/CD):** Automate the build, test, and deployment process to reduce friction and accelerate delivery.
 
@@ -60,7 +60,7 @@ A visual representation will help you identify trends and areas for improvement.
 
 ## Tools to Help (But Don’t Rely On Them!)
 
-There are several tools that can support your efforts, but remember that tools are just enablers. We prioritize the *principles* discussed above. Tools like easyretro.io can help facilitate effective retrospectives to identify areas for improvement, directly supporting the principle of continuous improvement. Planning poker tools can improve estimation accuracy, while agile project management tools like Yodiz or ScrumFast can help track progress and visualize workflow. Team communication tools are also vital for daily stand-ups and seamless communication. 
+There are several tools that can support your efforts, but remember that tools are just enablers. We prioritize the *principles* discussed above. Tools like easyretro.io can help facilitate effective retrospectives to identify areas for improvement, directly supporting the principle of continuous improvement. Planning poker tools can improve estimation accuracy, while agile project management tools like Yodiz or ScrumFast can help track progress and visualize workflow. Team communication tools are also vital for daily stand-ups and seamless communication.
 
 ## The Bottom Line
 

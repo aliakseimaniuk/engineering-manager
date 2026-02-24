@@ -8,7 +8,7 @@ So, how do you move beyond the occasional "innovation day" and build a genuinely
 
 ## The Problem with “Trying” to be Creative
 
-Let's be honest: telling people to “be creative” is often counterproductive. It feels performative, and it puts pressure on individuals to conjure up brilliant ideas on demand. It's like asking someone to *feel* inspired. Inspiration doesn't respond to commands. 
+Let's be honest: telling people to “be creative” is often counterproductive. It feels performative, and it puts pressure on individuals to conjure up brilliant ideas on demand. It's like asking someone to *feel* inspired. Inspiration doesn't respond to commands.
 
 Many of us fall into the trap of equating creativity with radical, "blue sky" thinking. While that's important sometimes, it overlooks the power of *combinatorial creativity* - taking existing ideas and remixing them in new ways. This is far more accessible and sustainable.
 
@@ -24,13 +24,11 @@ Here are some practical strategies that have worked for me:
 * **Dedicated "Learning Time":** Protect time for developers to explore new technologies, read articles, or attend workshops. This isn’t just about professional development; it's about refueling the creative engine. A stagnant mind rarely produces innovative solutions.
 * **Rotate Roles & Responsibilities:** Breaking up the monotony of repetitive tasks is crucial. Encourage team members to shadow each other or take on new areas of the codebase. This exposes them to different perspectives and challenges, sparking new ideas.
 
-
-
 ## Addressing Motivation and the “Un-Bore” Factor
 
 Boredom is the enemy of creativity. Engineers are motivated when they understand *why* their work matters. Regularly share customer feedback, demonstrate the value of their contributions, and connect their tasks to the bigger picture.  
 
-Furthermore, providing autonomy and ownership over solutions is paramount. Micromanagement stifles creativity, often stemming from pressure to deliver or fear of failure. Trusting your team to make decisions and own their work unlocks their potential and fuels engagement.  Challenge and growth are also critical; ensuring everyone on the team is constantly learning prevents stagnation and keeps work interesting. 
+Furthermore, providing autonomy and ownership over solutions is paramount. Micromanagement stifles creativity, often stemming from pressure to deliver or fear of failure. Trusting your team to make decisions and own their work unlocks their potential and fuels engagement.  Challenge and growth are also critical; ensuring everyone on the team is constantly learning prevents stagnation and keeps work interesting.
 
 ## The Long Game
 
@@ -40,9 +38,9 @@ As the opening quote suggests, focusing on doing great work—work that expands 
 
 **Key Takeaways:**
 
-*   **Embrace Small Bets:** Dedicate a portion of time for exploratory projects.
-*   **Foster Psychological Safety:** Create a safe space for experimentation and learning from both successes and failures.
-*   **Empower Autonomy:** Give developers control over how they solve problems and encourage ownership of their work.
-*   **Connect to Impact:** Ensure engineers understand the value and purpose of their contributions.
+* **Embrace Small Bets:** Dedicate a portion of time for exploratory projects.
+* **Foster Psychological Safety:** Create a safe space for experimentation and learning from both successes and failures.
+* **Empower Autonomy:** Give developers control over how they solve problems and encourage ownership of their work.
+* **Connect to Impact:** Ensure engineers understand the value and purpose of their contributions.
 
 Start small – encourage one team member to dedicate 10% of their time to a side project this week.

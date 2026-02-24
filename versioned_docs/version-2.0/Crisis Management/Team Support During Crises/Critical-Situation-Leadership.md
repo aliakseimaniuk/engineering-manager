@@ -22,12 +22,10 @@ In normal times, we focus on things like long-term planning, performance reviews
 Here’s how to shift gears:
 
 * **Prioritize Clarity, Not Consensus:** You don’t have time for lengthy debates. Make clear, concise decisions based on the best available information. Explain *why* you're making those decisions, but avoid getting bogged down in endless justifications. I've seen too many situations delayed by the pursuit of perfect agreement, while the fire burned hotter.
-* **Embrace Direct Communication:** Now is *not* the time for sugarcoating or indirectness. Be honest about the severity of the situation and the challenges ahead. Transparency builds trust and motivates people to rally. 
+* **Embrace Direct Communication:** Now is *not* the time for sugarcoating or indirectness. Be honest about the severity of the situation and the challenges ahead. Transparency builds trust and motivates people to rally.
 * **Focus on Immediate Needs:** Break down the problem into manageable steps. What *absolutely* needs to be done in the next hour? The next three hours? Focus on those critical tasks and delegate effectively. Avoid getting distracted by secondary concerns.
 * **Protect Your Team:** Critical situations are draining. Shield your team from unnecessary pressure and bureaucratic roadblocks. Advocate for the resources they need and empower them to do their jobs. Remember, when one person is overburdened, the whole system fails.
 * **Be the Calm in the Storm:** Your emotional state is contagious. If you panic, your team will panic. Maintain a calm, focused demeanor, even when you’re feeling stressed. This isn’t about suppressing your emotions; it’s about modeling the behavior you want to see in your team.
-
-
 
 ## The Human Factor: Why “Genuine Care” Matters
 
@@ -35,13 +33,13 @@ The provided input emphasizes "genuine care," and it’s profoundly true. In a c
 
 I remember one situation where a crucial engineer was quietly struggling with a personal crisis *while* simultaneously trying to resolve a major production issue. A less empathetic leader might have simply demanded results. Instead, I took the time to listen, offer support, and adjust the workload. The engineer not only resolved the production issue but also remained a loyal and valuable member of the team.
 
-Unfortunately, not all leaders prioritize human well-being. Consider the example of a company that laid off a high-performing team member while retaining a less effective one who simply “spoke well.” This highlights a critical flaw – prioritizing optics over competence and loyalty. It’s a recipe for demoralization and ultimately, failure. 
+Unfortunately, not all leaders prioritize human well-being. Consider the example of a company that laid off a high-performing team member while retaining a less effective one who simply “spoke well.” This highlights a critical flaw – prioritizing optics over competence and loyalty. It’s a recipe for demoralization and ultimately, failure.
 
 Genuine care means recognizing the human toll of a crisis and providing support, understanding, and empathy. It means asking, “How are *you* doing?” as much as “What’s the status?”
 
 ## The Caboose Problem & Role Clarity
 
-The input correctly points out the “caboose problem” – who is left overburdened at the end of the line when things go wrong? This ties directly to the importance of clearly defined roles, even *before* a crisis hits. When roles aren’t sufficiently specified, or there aren’t enough people to fill them, the inevitable result is an overloaded individual whose diminished capacity increases the risk of errors and burnout, ultimately leading to systemic failure. 
+The input correctly points out the “caboose problem” – who is left overburdened at the end of the line when things go wrong? This ties directly to the importance of clearly defined roles, even *before* a crisis hits. When roles aren’t sufficiently specified, or there aren’t enough people to fill them, the inevitable result is an overloaded individual whose diminished capacity increases the risk of errors and burnout, ultimately leading to systemic failure.
 
 * **Pre-define escalation paths:** Everyone should know who to contact when something goes wrong.
 * **Document critical procedures:** Having readily available documentation can save valuable time and reduce confusion.
@@ -49,7 +47,7 @@ The input correctly points out the “caboose problem” – who is left overbur
 
 ## Beyond the Crisis: Learning and Improvement
 
-Once the immediate crisis is resolved, it’s crucial to conduct a thorough post-mortem. What went wrong? What could we have done better? What lessons can we learn? The input also suggests comparative research on team/org retrospectives - valuable insight to improve process. 
+Once the immediate crisis is resolved, it’s crucial to conduct a thorough post-mortem. What went wrong? What could we have done better? What lessons can we learn? The input also suggests comparative research on team/org retrospectives - valuable insight to improve process.
 
 This isn’t about assigning blame; it’s about identifying opportunities for improvement. By taking the time to learn from our mistakes, we can build a more resilient organization and better prepare ourselves for future challenges.
 

@@ -2,7 +2,7 @@
 
 Technical debt. It’s a phrase thrown around in almost every engineering team. Often framed as a necessary evil, a pragmatic trade-off for speed, it can quickly become a silent killer of team velocity, morale, and ultimately, product innovation. But technical debt isn’t just a technical problem; it's fundamentally a *cultural* one. As engineering leaders, our job isn’t just to *pay down* debt, but to build a culture that proactively *prevents* its crippling accumulation.
 
-Consider this: a recent study by [mention a relevant source if possible, even a blog post - research and add a citation here if available] estimated that unaddressed technical debt costs organizations an average of 20% of their development effort. That's a significant drain on resources and innovation. I’ve seen this play out time and again, from the frantic rebuilds at early-stage startups trying to scale, to the monolithic refactoring efforts within established companies. I even witnessed it firsthand navigating the complexities of a financially burdened company (facing over $1 billion in debt!) where a culture of prioritizing short-term gains over long-term architectural health created a vicious cycle. The pressure to deliver *now* often meant accruing debt, and that debt, left unaddressed, exacerbated an already difficult situation. 
+Consider this: a recent study by [mention a relevant source if possible, even a blog post - research and add a citation here if available] estimated that unaddressed technical debt costs organizations an average of 20% of their development effort. That's a significant drain on resources and innovation. I’ve seen this play out time and again, from the frantic rebuilds at early-stage startups trying to scale, to the monolithic refactoring efforts within established companies. I even witnessed it firsthand navigating the complexities of a financially burdened company (facing over $1 billion in debt!) where a culture of prioritizing short-term gains over long-term architectural health created a vicious cycle. The pressure to deliver *now* often meant accruing debt, and that debt, left unaddressed, exacerbated an already difficult situation.
 
 This post will focus on how to manage technical debt, not as a reactive cleanup task, but as an integral part of building a healthy team culture.
 
@@ -18,15 +18,13 @@ The “debt” metaphor is helpful, suggesting a cost to be repaid later. But it
 
 These aren't individual failings; they’re systemic issues that stem from team dynamics and the environment you, as a leader, cultivate.
 
-
-
 ## Building a Culture of Proactive Debt Management
 
 Here's how to shift from reacting to technical debt to preventing it:
 
-**1. Normalize the Conversation:** 
+**1. Normalize the Conversation:**
 
-Debt needs to be openly discussed, not whispered about in code reviews. Make it a standard agenda item in sprint planning or backlog refinement. Ask questions like: 
+Debt needs to be openly discussed, not whispered about in code reviews. Make it a standard agenda item in sprint planning or backlog refinement. Ask questions like:
 
 * "What potential debt are we incurring with this approach?"
 * "What’s the trade-off between speed and quality here?"
@@ -55,7 +53,7 @@ Knowledge silos are breeding grounds for technical debt. Foster knowledge sharin
 
 **5.  Lead by Example:**
 
-As a leader, you set the tone.  Prioritize code quality, advocate for refactoring, and demonstrate a commitment to long-term health.  Don’t just *tell* your team to manage debt; *show* them how. Remember the company struggling with debt? A key issue wasn’t *just* financial, but a cultural expectation of “ship it now, fix it later” that had become ingrained – a belief reinforced by leadership decisions and a lack of dedicated time for addressing architectural concerns. 
+As a leader, you set the tone.  Prioritize code quality, advocate for refactoring, and demonstrate a commitment to long-term health.  Don’t just *tell* your team to manage debt; *show* them how. Remember the company struggling with debt? A key issue wasn’t *just* financial, but a cultural expectation of “ship it now, fix it later” that had become ingrained – a belief reinforced by leadership decisions and a lack of dedicated time for addressing architectural concerns.
 
 ## Identifying Technical Debt: Recognizing the Warning Signs
 
@@ -69,7 +67,7 @@ Before you can manage or prevent debt, you need to be able to recognize it. Look
 
 ## From Reactive Cleanup to Proactive Prevention
 
-Managing technical debt isn't about eliminating it entirely. It's about making informed decisions, prioritizing long-term health, and building a culture of quality. 
+Managing technical debt isn't about eliminating it entirely. It's about making informed decisions, prioritizing long-term health, and building a culture of quality.
 
 By proactively preventing debt instead of simply reacting to it, we can create teams that are more productive, more innovative, and more resilient. And that, ultimately, is what separates high-performing engineering organizations from the rest.
 

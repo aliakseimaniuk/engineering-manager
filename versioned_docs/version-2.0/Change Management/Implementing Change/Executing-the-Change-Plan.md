@@ -10,7 +10,7 @@ I remember one particularly frustrating refactor at a previous company. Leadersh
 
 ## Shift the Focus: Business Requirements, Not Implementation Details
 
-The key to avoiding this trap is to focus your specifications on *what* needs to be achieved, not *how*. Think in terms of business requirements and desired outcomes. Instead of saying, "Implement a new authentication system using OAuth 2.0," try, "Improve security and user experience by streamlining the login process." 
+The key to avoiding this trap is to focus your specifications on *what* needs to be achieved, not *how*. Think in terms of business requirements and desired outcomes. Instead of saying, "Implement a new authentication system using OAuth 2.0," try, "Improve security and user experience by streamlining the login process."
 
 This seemingly small shift unlocks a wealth of benefits:
 
@@ -36,7 +36,7 @@ This approach doesn’t eliminate risk, but it dramatically reduces it by surfac
 
 ## Incremental Advances – Building Momentum with Smaller Steps
 
-Large-scale changes are inherently risky and difficult to manage. Whenever possible, break down the change into smaller, manageable increments.  Focus on delivering value through iterative improvements rather than attempting a massive overhaul. By tackling smaller pieces, engineers gain more autonomy and receive faster feedback, fostering a more agile and responsive development process. 
+Large-scale changes are inherently risky and difficult to manage. Whenever possible, break down the change into smaller, manageable increments.  Focus on delivering value through iterative improvements rather than attempting a massive overhaul. By tackling smaller pieces, engineers gain more autonomy and receive faster feedback, fostering a more agile and responsive development process.
 
 This approach offers several advantages:
 
@@ -48,11 +48,11 @@ Think of it like climbing a staircase instead of trying to jump to the top floor
 
 ## A Good Plan, Even an Imperfect One, is Better Than No Plan
 
-Finally, remember that perfection is the enemy of progress. It’s tempting to wait until you have a perfect plan before you start, but that’s a recipe for paralysis. Get something down on paper, start experimenting, and iterate based on what you learn. 
+Finally, remember that perfection is the enemy of progress. It’s tempting to wait until you have a perfect plan before you start, but that’s a recipe for paralysis. Get something down on paper, start experimenting, and iterate based on what you learn.
 
 Don't fall into analysis paralysis. Your initial plan will likely need adjustments, and that's okay. The important thing is to start moving forward.
 
-**In conclusion:** Executing a change plan successfully requires a shift in mindset. Focus on business requirements, empower your engineers, embrace iterative progress, and don’t be afraid to start with an imperfect plan. By incorporating these principles, you can increase your chances of delivering impactful change and building a more resilient and adaptable engineering organization. What does this look like in practice? It means fostering a culture of collaboration, encouraging experimentation, and prioritizing continuous learning. 
+**In conclusion:** Executing a change plan successfully requires a shift in mindset. Focus on business requirements, empower your engineers, embrace iterative progress, and don’t be afraid to start with an imperfect plan. By incorporating these principles, you can increase your chances of delivering impactful change and building a more resilient and adaptable engineering organization. What does this look like in practice? It means fostering a culture of collaboration, encouraging experimentation, and prioritizing continuous learning.
 
 **To put this into action, consider these questions:**
 

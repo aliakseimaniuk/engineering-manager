@@ -1,12 +1,12 @@
 # Experiment Success Rate
 
-For two decades, I've seen engineering teams chase velocity like it's the holy grail. Story points, sprint burndown charts, code commits per hour – we obsess over *output*. But after leading teams at both startups and large organizations, I’ve come to believe that a far more critical metric is often overlooked: **Experiment Success Rate.** 
+For two decades, I've seen engineering teams chase velocity like it's the holy grail. Story points, sprint burndown charts, code commits per hour – we obsess over *output*. But after leading teams at both startups and large organizations, I’ve come to believe that a far more critical metric is often overlooked: **Experiment Success Rate.**
 
 It’s not about *how much* you ship, it’s about *how often what you ship actually moves the needle.* And tracking your experiment success rate is the key to unlocking sustainable growth and avoiding the pitfall of busywork disguised as progress.
 
 ## The Problem with Output-Focused Metrics
 
-We’re conditioned to measure what’s easily measurable. Lines of code, number of features, even story points are easily tracked. These *are* useful, but they’re *leading indicators*. They tell you how much effort is being expended, not whether that effort is yielding positive results. 
+We’re conditioned to measure what’s easily measurable. Lines of code, number of features, even story points are easily tracked. These *are* useful, but they’re *leading indicators*. They tell you how much effort is being expended, not whether that effort is yielding positive results.
 
 Think about it like baking. You can meticulously follow a recipe (your process, velocity) and *still* end up with a burnt cake. As Drew Procaccino highlights, a rigid process isn’t enough; a skilled chef adapts and iterates. This relates directly to ESR – simply *doing* the work doesn’t guarantee a positive outcome. A good process is *necessary*, but it's not *sufficient*.
 
@@ -14,7 +14,7 @@ I’ve seen too many teams churning out features that no one uses, solving probl
 
 ## Defining Experiment Success Rate
 
-Experiment Success Rate (ESR) is simply the percentage of experiments (A/B tests, feature flags, prototypes, even small user interviews) that achieve a statistically significant positive result. This means the experiment demonstrably improved the key metric you were targeting (conversion, engagement, retention, etc.). 
+Experiment Success Rate (ESR) is simply the percentage of experiments (A/B tests, feature flags, prototypes, even small user interviews) that achieve a statistically significant positive result. This means the experiment demonstrably improved the key metric you were targeting (conversion, engagement, retention, etc.).
 
 **It's not about perfection.** Not every experiment will succeed. The goal isn't to achieve a 100% success rate – that's unrealistic and would suggest you're playing it too safe. A healthy ESR typically falls between 30-50%. This range is supported by observing successful growth-stage companies, where a consistent proportion of experiments drive meaningful impact. While internal data will always be most relevant, this provides a reasonable starting point. Anything consistently below 30% suggests a deeper problem.
 
@@ -24,7 +24,7 @@ A consistently low ESR indicates several underlying issues:
 
 * **Poor Hypothesis Generation:** Are you asking the right questions? Are your hypotheses grounded in user research and data?  
 * **Misunderstood Users:** Do you truly understand your users' needs, pain points, and motivations?
-* **Flawed Implementation:** Are your experiments designed and implemented correctly, with proper controls and statistical rigor?  Understanding the unseen consequences of our actions – the assumptions we make – is crucial here, as Henry Hazlitt eloquently points out in *Economics in One Lesson*. Flawed assumptions can lead to wasted effort and misleading results. 
+* **Flawed Implementation:** Are your experiments designed and implemented correctly, with proper controls and statistical rigor?  Understanding the unseen consequences of our actions – the assumptions we make – is crucial here, as Henry Hazlitt eloquently points out in *Economics in One Lesson*. Flawed assumptions can lead to wasted effort and misleading results.
 * **Technical Debt:** Is your infrastructure making it difficult to run and analyze experiments effectively?
 * **Lack of Focus:** Are you spreading your resources too thinly, trying to solve too many problems at once?
 

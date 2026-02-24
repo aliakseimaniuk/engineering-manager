@@ -6,9 +6,9 @@ Recently, I was struck by an article highlighting how we often mistake process f
 
 This isn’t about lofty philosophical ideals; it’s about practical engineering leadership. A well-defined Code of Ethics isn’t a document that gathers dust on a shelf. It's a living framework that shapes team culture, guides decision-making, and protects both your engineers *and* your users.
 
-## Why a Code of Ethics? Beyond Compliance.
+## Why a Code of Ethics? Beyond Compliance
 
-Many companies have codes of conduct, but those are often focused on legal compliance and avoiding obvious pitfalls like harassment or fraud. A *Code of Ethics for Engineering* goes deeper. It tackles the grey areas – the ethical dilemmas that arise during the design, development, and deployment of software. 
+Many companies have codes of conduct, but those are often focused on legal compliance and avoiding obvious pitfalls like harassment or fraud. A *Code of Ethics for Engineering* goes deeper. It tackles the grey areas – the ethical dilemmas that arise during the design, development, and deployment of software.
 
 Here's what a robust Code of Ethics can achieve:
 
@@ -45,4 +45,4 @@ It’s easy for a Code of Ethics to become a performative exercise. Here are som
 * **Lack of Enforcement:** While fostering a safe and open environment is important, consistent application of the Code is necessary.
 * **Ignoring the Human Element:**  Ethical dilemmas are often complex and nuanced.  Encourage open dialogue and provide support to engineers who are grappling with difficult decisions.
 
-The article I referenced earlier highlights a crucial point: we’re often so focused on *how* we build software that we forget *why*.  A Code of Ethics isn't just about preventing bad code; it's about empowering your engineers to build *good* things—software that is not only functional and reliable but ethical, responsible, and beneficial to society. It’s about shifting the focus from simply following instructions to actively shaping the future. 
+The article I referenced earlier highlights a crucial point: we’re often so focused on *how* we build software that we forget *why*.  A Code of Ethics isn't just about preventing bad code; it's about empowering your engineers to build *good* things—software that is not only functional and reliable but ethical, responsible, and beneficial to society. It’s about shifting the focus from simply following instructions to actively shaping the future.

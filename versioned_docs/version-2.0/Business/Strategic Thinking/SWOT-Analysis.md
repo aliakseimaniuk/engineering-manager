@@ -1,6 +1,6 @@
 # SWOT Analysis
 
-For two decades, I’ve seen engineering teams navigate periods of intense pressure and remarkable success. I once witnessed a mobile app team on the verge of shipping a critical feature fall behind schedule, not due to technical roadblocks, but because a key competitor released a similar feature, creating an urgent market threat they hadn't anticipated. Understanding the landscape – the forces working *for* and *against* the team’s ability to deliver – is often the deciding factor. That’s where SWOT analysis comes in. 
+For two decades, I’ve seen engineering teams navigate periods of intense pressure and remarkable success. I once witnessed a mobile app team on the verge of shipping a critical feature fall behind schedule, not due to technical roadblocks, but because a key competitor released a similar feature, creating an urgent market threat they hadn't anticipated. Understanding the landscape – the forces working *for* and *against* the team’s ability to deliver – is often the deciding factor. That’s where SWOT analysis comes in.
 
 You’ve likely encountered SWOT – Strengths, Weaknesses, Opportunities, Threats – in business school or a strategy workshop. It's a framework originally developed to analyze business competition, and it’s often presented as a basic matrix, a brainstorming exercise. But when applied thoughtfully, with a specific engineering lens, SWOT becomes a powerful tool for an engineering manager to proactively guide their team. It’s about more than just listing items; it's about *actionable insights*.
 
@@ -26,17 +26,17 @@ To avoid these pitfalls, here's a structured approach:
 **3. The Four Quadrants – With Engineering Examples:**
 
 * **Strengths (Internal, Helpful):** What does your team do *really* well? Be specific.
-    *  *Example:* “Strong expertise in React Native development with 3 senior engineers proficient in performance optimization.”
-    *  *Example:* “Automated CI/CD pipeline reduces deployment time by 60%."
+  * *Example:* “Strong expertise in React Native development with 3 senior engineers proficient in performance optimization.”
+  * *Example:* “Automated CI/CD pipeline reduces deployment time by 60%."
 * **Weaknesses (Internal, Harmful):** Where are you falling short? Be brutally honest.
-    *  *Example:* “Lack of automated end-to-end testing leading to frequent regression bugs.”
-    *  *Example:* “High dependency on a single developer for critical backend services (single point of failure)."
+  * *Example:* “Lack of automated end-to-end testing leading to frequent regression bugs.”
+  * *Example:* “High dependency on a single developer for critical backend services (single point of failure)."
 * **Opportunities (External, Helpful):** What external trends or changes can you leverage?
-    *  *Example:* “The release of a new cloud-based testing platform that could improve test coverage.”
-    *  *Example:* "Open-source library 'X' addresses a key performance bottleneck in our application."
+  * *Example:* “The release of a new cloud-based testing platform that could improve test coverage.”
+  * *Example:* "Open-source library 'X' addresses a key performance bottleneck in our application."
 * **Threats (External, Harmful):** What external factors could hinder your progress?
-    *  *Example:* “A competitor is rapidly innovating in the same space, potentially eroding our market share.”
-    *  *Example:* “Upcoming changes to the iOS operating system could require significant code refactoring."
+  * *Example:* “A competitor is rapidly innovating in the same space, potentially eroding our market share.”
+  * *Example:* “Upcoming changes to the iOS operating system could require significant code refactoring."
 
 ## From Analysis to Action: The SOAR Framework
 
@@ -51,7 +51,7 @@ The real value comes from *acting* on the SWOT analysis. However, simply creatin
 
 A SWOT analysis isn't a one-time event. The landscape shifts constantly. I recommend revisiting the analysis quarterly, or whenever significant changes occur in your environment – such as a major project change, the entry of a new market competitor, or a significant shift within the team.  
 
-**Tools to help:** Tools like easyretro.io can facilitate collaborative retrospectives, prompting discussions that uncover strengths, weaknesses, opportunities, and threats. Platforms like Molasses or Statsig can provide data-driven insights for A/B testing and feature flagging, informing your threat assessment. These are just examples, and many other tools can facilitate these processes. 
+**Tools to help:** Tools like easyretro.io can facilitate collaborative retrospectives, prompting discussions that uncover strengths, weaknesses, opportunities, and threats. Platforms like Molasses or Statsig can provide data-driven insights for A/B testing and feature flagging, informing your threat assessment. These are just examples, and many other tools can facilitate these processes.
 
 ## Beyond the Matrix: Leading with Insight
 

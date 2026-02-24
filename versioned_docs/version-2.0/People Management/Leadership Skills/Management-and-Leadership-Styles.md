@@ -20,13 +20,11 @@ The trap many fall into is believing one style is universally superior. That’s
 
 I’ve often heard the cynical observation that most managers don’t truly care about their subordinates. And while I’ve met plenty who pay lip service to empathy, the managers I admire – the ones who truly excel – operate from a place of authentic concern for their team members.
 
-This isn't about being a "softie." It’s about understanding that your team members are *people* – with their own strengths, weaknesses, aspirations, and challenges. It’s about actively listening, providing support, and investing in their growth. 
+This isn't about being a "softie." It’s about understanding that your team members are *people* – with their own strengths, weaknesses, aspirations, and challenges. It’s about actively listening, providing support, and investing in their growth.
 
-When you genuinely care, the *how* of management becomes less rigid. You’re more likely to tailor your approach to each individual and situation. A junior engineer might benefit from more direct guidance, while a seasoned developer thrives with autonomy. A team struggling with a complex problem needs collaborative problem-solving, not a top-down directive. 
+When you genuinely care, the *how* of management becomes less rigid. You’re more likely to tailor your approach to each individual and situation. A junior engineer might benefit from more direct guidance, while a seasoned developer thrives with autonomy. A team struggling with a complex problem needs collaborative problem-solving, not a top-down directive.
 
 As one colleague pointed out, understanding this level of empathy enables more effective adaptation of your style.
-
-
 
 ## Moving Beyond "What" to "Why" – The Importance of Context
 
@@ -39,7 +37,6 @@ Consider these factors:
 * **Urgency:** In crisis situations, a more directive approach may be necessary.
 * **Individual Needs:** Some team members thrive with autonomy, while others need more support.
 
-
 ## The Power of Retrospectives: Learning and Adapting
 
 Effective management isn't a static skill; it's a continuous learning process. Regularly conducting retrospectives – both at the team level and potentially organization-wide – is crucial.
@@ -51,17 +48,17 @@ By actively listening to your team and learning from past experiences, you can c
 
 ## When Management Fails: The Ripple Effect
 
-It's easy to dismiss bad management as a personal failing of the individual. But the reality is that ineffective leadership creates a ripple effect throughout the organization. 
+It's easy to dismiss bad management as a personal failing of the individual. But the reality is that ineffective leadership creates a ripple effect throughout the organization.
 
 When one person is consistently blocked or unsupported, it impacts their productivity, morale, and hinders team performance. It's a clear signal that something is fundamentally broken. A lack of consistent retrospectives often contributes to this failure by preventing early identification and resolution of underlying issues.
 
 ## Final Thoughts
 
-There's no silver bullet in management. The most effective leaders are those who are adaptable, empathetic, and sincerely invested in the growth of their teams. Stop chasing the perfect style and start focusing on understanding your people, the context, and continuously learning from your experiences. 
+There's no silver bullet in management. The most effective leaders are those who are adaptable, empathetic, and sincerely invested in the growth of their teams. Stop chasing the perfect style and start focusing on understanding your people, the context, and continuously learning from your experiences.
 
 Remember: **Management is not about control; it’s about empowerment.** And that starts with genuine concern.
 
 **Try This Week:**
 
-*   Schedule a 1:1 with each of your team members and specifically ask them how you can better support their growth.
-*   Facilitate a short team retrospective focusing on one area for improvement.
+* Schedule a 1:1 with each of your team members and specifically ask them how you can better support their growth.
+* Facilitate a short team retrospective focusing on one area for improvement.

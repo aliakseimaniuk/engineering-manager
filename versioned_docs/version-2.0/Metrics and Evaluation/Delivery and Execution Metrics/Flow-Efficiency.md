@@ -1,6 +1,6 @@
 # Flow Efficiency
 
-For years, engineering teams have fixated on velocity – the amount of work completed in a sprint. It's a useful metric, sure, but it often paints an incomplete, even misleading, picture. A team *can* achieve high velocity while simultaneously being deeply frustrated, constantly context-switching, and churning through unplanned work. That's where **Flow Efficiency** comes in. It’s about measuring not just *how much* work gets done, but *how smoothly* it gets done. 
+For years, engineering teams have fixated on velocity – the amount of work completed in a sprint. It's a useful metric, sure, but it often paints an incomplete, even misleading, picture. A team *can* achieve high velocity while simultaneously being deeply frustrated, constantly context-switching, and churning through unplanned work. That's where **Flow Efficiency** comes in. It’s about measuring not just *how much* work gets done, but *how smoothly* it gets done.
 
 As an engineering leader with two decades under my belt, I've seen teams prioritize speed at the expense of sanity. The result? Burnout, technical debt, and ultimately, *slower* delivery in the long run. Flow Efficiency offers a way to diagnose and address those underlying friction points.
 
@@ -30,7 +30,7 @@ Both teams have the same velocity, but Team B is delivering value *much* faster 
 
 Here’s a practical approach:
 
-1. **Visualize Your Workflow:** Use a Kanban board (physical or digital – Jira, Trello, Linear are good options) to map out the stages of your development process. This provides transparency into where work gets stuck. 
+1. **Visualize Your Workflow:** Use a Kanban board (physical or digital – Jira, Trello, Linear are good options) to map out the stages of your development process. This provides transparency into where work gets stuck.
 2. **Track Lead Time & Cycle Time:** These are crucial metrics.
     * **Lead Time:** From request to delivery (as defined above).
     * **Cycle Time:** The time spent *actively working* on the item.
@@ -48,10 +48,10 @@ Here’s a practical approach:
 
 ## Beyond the Numbers: A Culture of Flow
 
-Ultimately, Flow Efficiency isn’t just about metrics. It’s about fostering a culture of continuous improvement and empowering your team to deliver value with less friction. It requires psychological safety, open communication, and a proactive approach to obstacle removal. 
+Ultimately, Flow Efficiency isn’t just about metrics. It’s about fostering a culture of continuous improvement and empowering your team to deliver value with less friction. It requires psychological safety, open communication, and a proactive approach to obstacle removal.
 
 I recall one team I worked with initially resistant to focusing on flow, accustomed to solely chasing velocity. After visualizing their workflow and realizing the sheer amount of time spent waiting, they were motivated to proactively address bottlenecks. The result was not only a significant increase in Flow Efficiency, but also a noticeable improvement in team morale.
 
 Shifting focus from velocity can feel counterintuitive, but the long-term benefits – reduced burnout, increased predictability, and faster delivery – outweigh the initial adjustments.
 
-By shifting your focus from *how much* work you’re completing to *how smoothly* it’s flowing, you can unlock a new level of productivity, reduce burnout, and deliver exceptional value to your customers. 
+By shifting your focus from *how much* work you’re completing to *how smoothly* it’s flowing, you can unlock a new level of productivity, reduce burnout, and deliver exceptional value to your customers.

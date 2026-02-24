@@ -1,8 +1,8 @@
 # Interview Questions For Managers
 
-For years, I’ve sat on both sides of the interview table – as a candidate and, more frequently, as the person doing the hiring. Early in my career, I fell into the trap of asking the standard “tell me about yourself,” “what are your strengths and weaknesses,” and “where do you see yourself in five years?” While those questions aren't *bad*, they rarely reveal what *really* matters when evaluating a candidate for a management role. 
+For years, I’ve sat on both sides of the interview table – as a candidate and, more frequently, as the person doing the hiring. Early in my career, I fell into the trap of asking the standard “tell me about yourself,” “what are your strengths and weaknesses,” and “where do you see yourself in five years?” While those questions aren't *bad*, they rarely reveal what *really* matters when evaluating a candidate for a management role.
 
-How many times have you hired a technically brilliant engineer, only to discover they struggle to lead a team? Technical prowess is important, but effective engineering management isn't about being the best coder; it’s about building high-performing teams, navigating complex technical decisions, and fostering a culture of growth. 
+How many times have you hired a technically brilliant engineer, only to discover they struggle to lead a team? Technical prowess is important, but effective engineering management isn't about being the best coder; it’s about building high-performing teams, navigating complex technical decisions, and fostering a culture of growth.
 
 This post dives into the types of interview questions I now prioritize – questions designed to unearth a candidate’s genuine managerial capabilities. These aren't trick questions; they're behavioral and situational prompts that reveal *how* a candidate thinks, acts, and leads.
 
@@ -20,9 +20,7 @@ Before diving into specific questions, let’s categorize the managerial skills 
 * **Growth & Development:**  Invests in team members' professional development and provides constructive feedback.
 * **Ownership & Accountability:**  Takes responsibility for both successes and failures and learns from mistakes.
 
-
-
-**Actionable Interview Questions (and what to listen for)**
+## Actionable Interview Questions (and what to listen for) 
 
 Here's a breakdown of questions, categorized by the area they assess, along with indicators of strong, weak, and potential red flag responses.
 
@@ -41,7 +39,7 @@ Here's a breakdown of questions, categorized by the area they assess, along with
 **3. Delegation & Empowerment: “Imagine you have a new engineer on your team who is eager to take on more responsibility, but is still relatively inexperienced. What would you do to help them grow?”**
 
 * **Strong Response:**  The candidate describes a deliberate approach to delegation, starting with smaller, well-defined tasks, providing clear expectations, and offering ongoing support and mentorship.  They emphasize giving the engineer the *opportunity* to learn and grow, even if it means accepting some initial mistakes.
-* **Weak Response:**  The candidate defaults to doing the work themselves, expresses a lack of trust in the engineer’s abilities, or focuses solely on avoiding errors. 
+* **Weak Response:**  The candidate defaults to doing the work themselves, expresses a lack of trust in the engineer’s abilities, or focuses solely on avoiding errors.
 * **Potential Red Flag:** The candidate suggests assigning the engineer a task without providing any guidance or support.
 
 **4. Growth & Development: “Tell me about a time you had to deliver difficult feedback to a team member. How did you approach it, and what was the result?”**
@@ -56,16 +54,14 @@ Here's a breakdown of questions, categorized by the area they assess, along with
 * **Weak Response:**  The candidate blames others, downplays their own role, or fails to identify any meaningful lessons learned.
 * **Potential Red Flag:** The candidate describes the failure without taking any responsibility or offering any suggestions for improvement.
 
-
-
 **Going Beyond Questions: Behavioral Interviewing Best Practices**
 
 * **Follow-up Questions are Key:** Don’t just accept the initial response. Dig deeper with "Tell me more about that," or "What was your thinking behind that decision?"
 * **The STAR Method:** Encourage candidates to answer using the STAR method (Situation, Task, Action, Result) to provide concrete examples. This provides context and allows you to assess the situation thoroughly.
 * **Listen Actively:** Pay attention not only to *what* the candidate says, but *how* they say it.  Are they thoughtful, articulate, and empathetic? Holistic assessment is about looking at the whole picture.
 
-**Final Thoughts**
+## Final Thoughts
 
-Hiring an engineering manager is a critical investment. By asking the right questions and actively listening to the responses, you can identify candidates who possess the skills, experience, and leadership qualities to build high-performing teams and drive your organization forward.  Remember, technical skills are important, but leadership is what ultimately unlocks potential. 
+Hiring an engineering manager is a critical investment. By asking the right questions and actively listening to the responses, you can identify candidates who possess the skills, experience, and leadership qualities to build high-performing teams and drive your organization forward.  Remember, technical skills are important, but leadership is what ultimately unlocks potential.
 
 What are *your* go-to interview questions for assessing managerial potential? Share them in the comments below!

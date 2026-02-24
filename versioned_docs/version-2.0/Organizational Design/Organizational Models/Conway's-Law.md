@@ -4,9 +4,9 @@ For over 50 years, Conway’s Law has quietly dictated the shape of software sys
 
 ## The Law Itself: A Simple Statement, Profound Implications
 
-Melvin Conway articulated his Law in 1968 in his paper, “How Do We Organize Effective Organizations”. It states: “Any organization that designs a system, will produce a system that mirrors the organization’s communication structure.” 
+Melvin Conway articulated his Law in 1968 in his paper, “How Do We Organize Effective Organizations”. It states: “Any organization that designs a system, will produce a system that mirrors the organization’s communication structure.”
 
-Think about that for a moment. It doesn’t say *good* or *bad* architecture. It simply states that the way your teams communicate – how information flows, who talks to whom – will *manifest* in the code you create. 
+Think about that for a moment. It doesn’t say *good* or *bad* architecture. It simply states that the way your teams communicate – how information flows, who talks to whom – will *manifest* in the code you create.
 
 Here's a classic example: imagine a company organized into separate database, UI, and business logic teams, with limited direct communication. Chances are, the resulting software will feature tightly coupled modules, with a clear separation of concerns mirroring the team structure, and complex interfaces used for communication *between* those modules. A request to change a field in the database, for instance, might require a ticket, a meeting with the UI team to update the display, and then re-testing. This coordination adds significant overhead and slows down development.
 
@@ -44,8 +44,8 @@ Conway's Law isn’t *just* about architecture. It's a reminder that software de
 
 **Key Takeaways:**
 
-*   **Assess your organization:** Look for the symptoms of Conway’s Law – siloed architecture, difficult changes, duplicated logic, and slow cycles.
-*   **Prioritize cross-functional communication:** Organize teams around capabilities, embrace small “two-pizza” teams, and encourage full-stack skillsets.
-*   **Invest in APIs and shared components:** Treat everything as a service and build reusable components to reduce duplication and dependencies.
+* **Assess your organization:** Look for the symptoms of Conway’s Law – siloed architecture, difficult changes, duplicated logic, and slow cycles.
+* **Prioritize cross-functional communication:** Organize teams around capabilities, embrace small “two-pizza” teams, and encourage full-stack skillsets.
+* **Invest in APIs and shared components:** Treat everything as a service and build reusable components to reduce duplication and dependencies.
 
 By prioritizing communication and aligning your organization with your architecture, you can unlock the full potential of your teams and build truly scalable, resilient software.
