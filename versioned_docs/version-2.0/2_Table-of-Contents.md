@@ -156,24 +156,24 @@
 - [Stress Management](<./Crisis Management/Team Support During Crises/Stress-Management.md>)
 - [Work Life Balance during crises](<./Crisis Management/Team Support During Crises/Work-Life-Balance-during-crises.md>)
 
-## Diversity, Equity, and Inclusion (DEI)
+## Diversity Equity Inclusion
 
 ### Fostering an Inclusive Culture
-- [Addressing Unconscious Bias](<./Diversity, Equity, and Inclusion (DEI)/Fostering an Inclusive Culture/Addressing-Unconscious-Bias.md>)
-- [Celebrating Diversity](<./Diversity, Equity, and Inclusion (DEI)/Fostering an Inclusive Culture/Celebrating-Diversity.md>)
-- [Encouraging Open Dialogue](<./Diversity, Equity, and Inclusion (DEI)/Fostering an Inclusive Culture/Encouraging-Open-Dialogue.md>)
-- [Supporting Employee Resource Groups](<./Diversity, Equity, and Inclusion (DEI)/Fostering an Inclusive Culture/Supporting-Employee-Resource-Groups.md>)
+- [Addressing Unconscious Bias](<./Diversity Equity Inclusion/Fostering an Inclusive Culture/Addressing-Unconscious-Bias.md>)
+- [Celebrating Diversity](<./Diversity Equity Inclusion/Fostering an Inclusive Culture/Celebrating-Diversity.md>)
+- [Encouraging Open Dialogue](<./Diversity Equity Inclusion/Fostering an Inclusive Culture/Encouraging-Open-Dialogue.md>)
+- [Supporting Employee Resource Groups](<./Diversity Equity Inclusion/Fostering an Inclusive Culture/Supporting-Employee-Resource-Groups.md>)
 
 ### Implementing DEI Initiatives
-- [DEI Training Programs](<./Diversity, Equity, and Inclusion (DEI)/Implementing DEI Initiatives/DEI-Training-Programs.md>)
-- [Inclusive Workplace Practices](<./Diversity, Equity, and Inclusion (DEI)/Implementing DEI Initiatives/Inclusive-Workplace-Practices.md>)
-- [Measuring DEI Progress](<./Diversity, Equity, and Inclusion (DEI)/Implementing DEI Initiatives/Measuring-DEI-Progress.md>)
-- [Recruitment Strategies for Diversity](<./Diversity, Equity, and Inclusion (DEI)/Implementing DEI Initiatives/Recruitment-Strategies-for-Diversity.md>)
+- [DEI Training Programs](<./Diversity Equity Inclusion/Implementing DEI Initiatives/DEI-Training-Programs.md>)
+- [Inclusive Workplace Practices](<./Diversity Equity Inclusion/Implementing DEI Initiatives/Inclusive-Workplace-Practices.md>)
+- [Measuring DEI Progress](<./Diversity Equity Inclusion/Implementing DEI Initiatives/Measuring-DEI-Progress.md>)
+- [Recruitment Strategies for Diversity](<./Diversity Equity Inclusion/Implementing DEI Initiatives/Recruitment-Strategies-for-Diversity.md>)
 
 ### Understanding DEI
-- [Benefits of a Diverse Workforce](<./Diversity, Equity, and Inclusion (DEI)/Understanding DEI/Benefits-of-a-Diverse-Workforce.md>)
-- [Importance of DEI in the Workplace](<./Diversity, Equity, and Inclusion (DEI)/Understanding DEI/Importance-of-DEI-in-the-Workplace.md>)
-- [Key Concepts and Terminology](<./Diversity, Equity, and Inclusion (DEI)/Understanding DEI/Key-Concepts-and-Terminology.md>)
+- [Benefits of a Diverse Workforce](<./Diversity Equity Inclusion/Understanding DEI/Benefits-of-a-Diverse-Workforce.md>)
+- [Importance of DEI in the Workplace](<./Diversity Equity Inclusion/Understanding DEI/Importance-of-DEI-in-the-Workplace.md>)
+- [Key Concepts and Terminology](<./Diversity Equity Inclusion/Understanding DEI/Key-Concepts-and-Terminology.md>)
 
 ## Ethics and Compliance
 
@@ -220,18 +220,18 @@
 
 ## Metrics and Evaluation
 
-### Business & Strategic Metrics
-- [Budget Variance](<./Metrics and Evaluation/Business & Strategic Metrics/Budget-Variance.md>)
-- [Business Alignment Score](<./Metrics and Evaluation/Business & Strategic Metrics/Business-Alignment-Score.md>)
-- [Cost Efficiency](<./Metrics and Evaluation/Business & Strategic Metrics/Cost-Efficiency.md>)
-- [Customer Satisfaction (CSAT)](<./Metrics and Evaluation/Business & Strategic Metrics/Customer-Satisfaction-(CSAT).md>)
-- [Experiment Success Rate](<./Metrics and Evaluation/Business & Strategic Metrics/Experiment-Success-Rate.md>)
-- [Feature Adoption](<./Metrics and Evaluation/Business & Strategic Metrics/Feature-Adoption.md>)
-- [Net Promoter Score (NPS)](<./Metrics and Evaluation/Business & Strategic Metrics/Net-Promoter-Score-(NPS).md>)
-- [OKR Achievement Rate](<./Metrics and Evaluation/Business & Strategic Metrics/OKR-Achievement-Rate.md>)
-- [ROI](<./Metrics and Evaluation/Business & Strategic Metrics/ROI.md>)
-- [Strategic Initiative Success Rate](<./Metrics and Evaluation/Business & Strategic Metrics/Strategic-Initiative-Success-Rate.md>)
-- [Time to Market](<./Metrics and Evaluation/Business & Strategic Metrics/Time-to-Market.md>)
+### Business and Strategic Metrics
+- [Budget Variance](<./Metrics and Evaluation/Business and Strategic Metrics/Budget-Variance.md>)
+- [Business Alignment Score](<./Metrics and Evaluation/Business and Strategic Metrics/Business-Alignment-Score.md>)
+- [Cost Efficiency](<./Metrics and Evaluation/Business and Strategic Metrics/Cost-Efficiency.md>)
+- [Customer Satisfaction (CSAT)](<./Metrics and Evaluation/Business and Strategic Metrics/Customer-Satisfaction-(CSAT).md>)
+- [Experiment Success Rate](<./Metrics and Evaluation/Business and Strategic Metrics/Experiment-Success-Rate.md>)
+- [Feature Adoption](<./Metrics and Evaluation/Business and Strategic Metrics/Feature-Adoption.md>)
+- [Net Promoter Score (NPS)](<./Metrics and Evaluation/Business and Strategic Metrics/Net-Promoter-Score-(NPS).md>)
+- [OKR Achievement Rate](<./Metrics and Evaluation/Business and Strategic Metrics/OKR-Achievement-Rate.md>)
+- [ROI](<./Metrics and Evaluation/Business and Strategic Metrics/ROI.md>)
+- [Strategic Initiative Success Rate](<./Metrics and Evaluation/Business and Strategic Metrics/Strategic-Initiative-Success-Rate.md>)
+- [Time to Market](<./Metrics and Evaluation/Business and Strategic Metrics/Time-to-Market.md>)
 
 ### Defining Metrics
 - [Data Collection and Analysis](<./Metrics and Evaluation/Defining Metrics/Data-Collection-and-Analysis.md>)
@@ -271,18 +271,18 @@
 - [Severity and Impact Scores](<./Metrics and Evaluation/Quality and Reliability Metrics/Severity-and-Impact-Scores.md>)
 - [System Availability](<./Metrics and Evaluation/Quality and Reliability Metrics/System-Availability.md>)
 
-### Team Health & People Metrics
-- [Attrition Rate](<./Metrics and Evaluation/Team Health & People Metrics/Attrition-Rate.md>)
-- [Burnout Indicators](<./Metrics and Evaluation/Team Health & People Metrics/Burnout-Indicators.md>)
-- [Employee Engagement](<./Metrics and Evaluation/Team Health & People Metrics/Employee-Engagement.md>)
-- [Hiring Velocity](<./Metrics and Evaluation/Team Health & People Metrics/Hiring-Velocity.md>)
-- [Manager Effectiveness Score](<./Metrics and Evaluation/Team Health & People Metrics/Manager-Effectiveness-Score.md>)
-- [Onboarding Success Metrics](<./Metrics and Evaluation/Team Health & People Metrics/Onboarding-Success-Metrics.md>)
-- [Psychological Safety Indicators](<./Metrics and Evaluation/Team Health & People Metrics/Psychological-Safety-Indicators.md>)
-- [Retention Rate](<./Metrics and Evaluation/Team Health & People Metrics/Retention-Rate.md>)
-- [Skill Development Progress](<./Metrics and Evaluation/Team Health & People Metrics/Skill-Development-Progress.md>)
-- [Team Happiness Score](<./Metrics and Evaluation/Team Health & People Metrics/Team-Happiness-Score.md>)
-- [Workload Balance Metrics](<./Metrics and Evaluation/Team Health & People Metrics/Workload-Balance-Metrics.md>)
+### Team Health and People Metrics
+- [Attrition Rate](<./Metrics and Evaluation/Team Health and People Metrics/Attrition-Rate.md>)
+- [Burnout Indicators](<./Metrics and Evaluation/Team Health and People Metrics/Burnout-Indicators.md>)
+- [Employee Engagement](<./Metrics and Evaluation/Team Health and People Metrics/Employee-Engagement.md>)
+- [Hiring Velocity](<./Metrics and Evaluation/Team Health and People Metrics/Hiring-Velocity.md>)
+- [Manager Effectiveness Score](<./Metrics and Evaluation/Team Health and People Metrics/Manager-Effectiveness-Score.md>)
+- [Onboarding Success Metrics](<./Metrics and Evaluation/Team Health and People Metrics/Onboarding-Success-Metrics.md>)
+- [Psychological Safety Indicators](<./Metrics and Evaluation/Team Health and People Metrics/Psychological-Safety-Indicators.md>)
+- [Retention Rate](<./Metrics and Evaluation/Team Health and People Metrics/Retention-Rate.md>)
+- [Skill Development Progress](<./Metrics and Evaluation/Team Health and People Metrics/Skill-Development-Progress.md>)
+- [Team Happiness Score](<./Metrics and Evaluation/Team Health and People Metrics/Team-Happiness-Score.md>)
+- [Workload Balance Metrics](<./Metrics and Evaluation/Team Health and People Metrics/Workload-Balance-Metrics.md>)
 
 ## Organizational Design
 
