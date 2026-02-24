@@ -45,7 +45,7 @@ Here’s a framework I’ve used to apply ROI thinking to engineering decisions:
 4. **Calculate ROI:** Plug the numbers into the formula and get a clear ROI percentage.
 5. **Prioritize & Track:** Use ROI as a key factor in prioritization. Track actual results *after* implementation to validate your assumptions and refine your estimates for future projects.
 
-**Visual Aid: ROI Prioritization Matrix**
+**ROI Prioritization Matrix**
 
 I often use a simple 2x2 matrix to visualize project prioritization based on ROI and Effort:
 

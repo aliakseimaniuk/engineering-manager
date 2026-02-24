@@ -57,9 +57,9 @@ Here’s a framework, drawing on established practices (see resources at the end
 
 
 
-## Visual Aid: The Incident Timeline & Root Cause Diagram
+## The Incident Timeline & Root Cause Diagram
 
-Consider using these visual aids during the PIA session:
+Consider using these during the PIA session:
 
 * **Incident Timeline:** A chronological list of events, with timestamps.
 * **Root Cause Diagram (Fishbone Diagram or Ishikawa Diagram):** This helps visualize the various contributing factors to the incident.

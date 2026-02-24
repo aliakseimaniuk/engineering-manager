@@ -38,8 +38,6 @@ To avoid these pitfalls, here's a structured approach:
     *  *Example:* “A competitor is rapidly innovating in the same space, potentially eroding our market share.”
     *  *Example:* “Upcoming changes to the iOS operating system could require significant code refactoring."
 
-**Visual Aid:** A simple 2x2 matrix is best. Consider using a digital whiteboard tool for collaborative brainstorming and prioritization.
-
 ## From Analysis to Action: The SOAR Framework
 
 The real value comes from *acting* on the SWOT analysis. However, simply creating a list isn’t enough. I’ve found the **SOAR** framework a helpful companion to SWOT. This framework builds upon the SWOT analysis, leveraging the identified strengths, weaknesses, opportunities, and threats to formulate strategic actions.

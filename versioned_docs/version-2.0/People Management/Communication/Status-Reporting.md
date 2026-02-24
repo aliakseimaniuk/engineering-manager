@@ -26,8 +26,6 @@ Instead of focusing on color-coding, I recommend a framework built around these 
 3. **Impediments & Risks:**  *This is the most important section.*  Don’t just list roadblocks. Frame them as risks with potential impact.  For example: "Blocked on API access from the Payments team. This delays the payment integration by an estimated 2 days and may impact our launch date."  Include potential mitigation strategies.  (e.g., “We’re exploring a mock API in the interim.”)
 4. **What’s Next:** Briefly outline the team’s priorities for the upcoming period. This demonstrates forward momentum and helps stakeholders understand the team’s trajectory.
 
-**Visual Aid Suggestion:** Consider a simple table format to present this information consistently.  Using a table enforces consistency, highlights key information at a glance, and makes it easy to scan. Here's an example:
-
 | What We Committed To | What We Actually Achieved | Impediments & Risks | What's Next |
 |---|---|---|---|
 | Complete User Authentication | User Authentication completed with tests | Blocked on Payment API - 2 day delay | Begin work on Product Catalog |

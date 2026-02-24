@@ -31,10 +31,6 @@ This framework provides a practical application of the principles discussed abov
 4. **Visualize the Timeline:**  Use a simple tool (Basecamp, Toggl Plan, or even a spreadsheet) to visualize the timeline and track progress. 
 5. **Regular Check-ins – Focused on Learning:** Hold regular check-ins to review progress, identify roadblocks, and adjust the plan as needed. The focus should be on learning and adaptation, not blame or finger-pointing.
 
-**A Visual Aid:** Consider a simple timeline chart where milestones are marked as "validation points" rather than just dates. Under each milestone, include a brief description of what was learned.  Here's a basic example:
-
-[Imagine a simple timeline graphic here showing milestones marked as "validation points" with brief descriptions of learnings underneath.  A screenshot of a basic Toggl Plan or Basecamp timeline would be ideal.]
-
 ## Tools to Help You Stay on Track
 
 Several lightweight options can help you visualize your timeline and track progress. Here are a few:

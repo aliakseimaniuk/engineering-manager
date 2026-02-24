@@ -26,8 +26,6 @@ Here's how it works:
     * **Systemic Improvements:** What changes can we make to prevent this from happening again? This could involve process improvements, better tooling, or increased training.
     * **Personal Reflection:** What did *I* learn from this experience? How can I improve my own leadership skills? 
 
-**Visual Aid Suggestion:** A simple diagram illustrating the cyclical nature of Focus-Relax, with arrows indicating the flow and highlighting the importance of regular transitions.
-
 ## Building the Cycle Into Your Workflow
 
 This isn’t just about individual practice; it’s about embedding the Focus-Relax cycle into your team’s workflow. 

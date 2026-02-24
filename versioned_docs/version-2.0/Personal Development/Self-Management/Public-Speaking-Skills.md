@@ -33,7 +33,6 @@ This is where many engineers excel…and sometimes stumble. We *love* detail. Bu
 * **Identify Your Audience:**  What's their technical background? What are their priorities? What are they *already* likely to agree with? Tailor your message accordingly.
 * **The "So What?" Test:**  For every technical detail you present, ask yourself: “So what?”  If you can’t clearly explain the *value* of that detail to your audience, leave it out.
 * **Structure Your Talk:** Use a clear, logical structure (e.g., Problem/Solution/Benefits). Start with the “big picture” and then zoom in on the details.  Signpost your ideas: “First, we’ll discuss X. Then, we’ll move on to Y.”
-* **Visual Aids – Less is More:** Slides should *support* your talk, not *be* your talk.  Use images, charts, and keywords, but avoid walls of text. I recommend the "10/20/30" rule – 10 slides, 20 minutes, 30-point font.
 
 **2. Connection: Build Rapport & Engage**
 

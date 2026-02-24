@@ -27,7 +27,6 @@ This phase is designed to quickly assess candidates beyond their resumes and ide
 
 * **Asynchronous Screening:** Instead of immediately jumping on a phone screen, consider an asynchronous assessment. This could be a short coding challenge (focused on problem-solving, not just syntax), a take-home assignment simulating a real-world task, or a short video response to a few pre-defined questions. This saves everyone time and gives you a clearer signal before investing in a live conversation.
 * **Behavioral-First Phone Screen:**  If the asynchronous assessment looks promising, *lead with behavioral questions* on the initial phone screen. Don't immediately dive into technical details. Ask about past projects, challenges they've faced, and how they worked with others. "Tell me about a time you had to learn a new technology quickly" is far more valuable than "Are you proficient in Python?"
-* **Visual Aid Suggestion:** Create a "screening scorecard" with key attributes (communication, problem-solving, teamwork) and a rating scale. This helps maintain consistency and objectivity.
 
 **3. The Collaborative Deep Dive**
 

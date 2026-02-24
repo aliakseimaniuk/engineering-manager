@@ -51,8 +51,6 @@ A smooth, predictable process is critical. Here’s what I recommend:
 4. **Document Decisions and Action Items:** Clearly record all decisions, action items, and outstanding questions. Assign owners and deadlines.
 5. **Follow-Up:** Ensure action items are addressed and the presenter incorporates feedback into the design.
 
-**Visual Aid Suggestion:** A simple decision matrix can be a powerful tool. List key requirements or constraints along one axis and potential architectural choices along the other. Score each option based on how well it meets each requirement. You can find templates and resources online, and even use simple spreadsheets to create one.
-
 ## Avoiding Common Pitfalls
 
 * **The "Ivory Tower" Syndrome:** Don’t let the board become detached from the realities of development. Encourage participation from a diverse range of engineers.

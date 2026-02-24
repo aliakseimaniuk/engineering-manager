@@ -38,7 +38,7 @@ Here’s how to implement the BAS in your team:
 4. **Action Plan:**  Based on the discussion, develop an action plan to address any identified misalignment. This might involve further customer research, refining the business case, or adjusting project priorities.
 5. **Revisit as Needed:**  The BAS isn’t a one-time exercise. Revisit the assessment periodically (e.g., during sprint planning, after key milestones) to ensure continued alignment.
 
-**Visual Aid Suggestion:**  Consider using a simple grid like the one below to capture individual scores during your alignment session.
+Consider using a simple grid like the one below to capture individual scores during your alignment session.
 
 | Question                        | Stakeholder 1 | Stakeholder 2 | Stakeholder 3 |
 |---------------------------------|---------------|---------------|---------------|

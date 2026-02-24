@@ -57,8 +57,6 @@ The reality is that pure top-down or bottom-up approaches are rarely optimal. Th
 3. **Establish Clear Boundaries & Guardrails:** Define the constraints within which teams operate. This ensures alignment and prevents conflicting priorities.
 4. **Regular Communication & Feedback:** Create channels for open communication and feedback between leadership and teams. This fosters trust and ensures everyone is on the same page.
 
-**Visual Aid:** A simple 2x2 matrix can illustrate this well. 
-
 |                    | **Top-Down (High Direction)** | **Bottom-Up (High Autonomy)** |
 |--------------------|---------------------------------|---------------------------------|
 | **Clear Problems** |  Effective for execution         |  Effective for refinement      |

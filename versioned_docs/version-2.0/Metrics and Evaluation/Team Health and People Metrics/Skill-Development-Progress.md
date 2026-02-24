@@ -36,12 +36,6 @@ So, how do we move beyond simply tracking output and start measuring *skill deve
 *   **Constructive Feedback:** Are they able to give and receive constructive feedback gracefully?
 *   **Cross-Functional Collaboration:** Can they effectively communicate technical concepts to non-technical stakeholders?
 
-**Visual Aid Suggestion:** A simple radar chart, with these three areas as axes, can visually represent an engineer's overall growth.  Here's a basic example of what that might look like:
-
-[Imagine a simple radar chart graphic here with the three axes labeled: Technical Proficiency, Problem-Solving & Design Skills, and Collaboration & Communication. Each axis would have a scale from 1-5, and a shaded area representing the engineer’s current skill level.]
-
-You can track progress over time and identify areas where focused development is needed.
-
 ## Actionable Steps for Implementation
 
 Measuring skill development isn’t about adding more burdensome tasks. It's about integrating it into existing processes:

@@ -30,10 +30,6 @@ So, what does emotional support *look* like in the heat of a crisis? It's not ab
 * **Lead By Example: Be Vulnerable (Appropriately):** Sharing your own anxieties (within reason!) can help normalize vulnerability and create a more human connection.  "I'm also feeling the weight of this, but I'm confident we can get through it together."
 * **Protect Your Team (From External Pressure):** Shield your team from unnecessary demands or criticism from stakeholders.  You can act as a buffer and manage expectations.
 
-**Visual Aid Suggestion:** A simple "Team Well-being Check-in" framework. During a crisis, implement a quick, recurring check-in (5-10 minutes, either verbally or via a dedicated Slack channel) where each person shares a quick status on both the technical issue *and* their emotional state (e.g., "Feeling stressed but making progress," "Good, focused, and on track").
-
-
-
 ## Beyond the Immediate Crisis
 
 Emotional support isn’t just a crisis-time tactic. It’s an ongoing practice. Fostering a culture of psychological safety—where team members feel comfortable taking risks, sharing ideas, and admitting mistakes—is vital for both crisis response and everyday innovation. 

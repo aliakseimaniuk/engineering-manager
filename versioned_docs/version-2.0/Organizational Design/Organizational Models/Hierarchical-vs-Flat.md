@@ -59,7 +59,7 @@ The truth is, very few organizations truly operate at either extreme. The most s
 
 **Transitioning to a Hybrid Model:** Shifting an existing team isn't done overnight. Start by identifying areas where greater autonomy would be beneficial. For traditionally hierarchical teams, consider piloting a flatter structure with a single feature team. Provide clear guidelines and support, but allow them to own their process. Regularly check in and gather feedback to refine the approach.
 
-**Here’s an example of how to visually represent this:** Imagine a small, well-defined core platform team with clear reporting lines. Branching out from this are several autonomous feature teams, each responsible for a specific product area. And separate from both is a small “spike” team dedicated to exploring a new technology. (Visual Aid: Simple org chart showing this structure).
+**Here’s an example of how to visually represent this:** Imagine a small, well-defined core platform team with clear reporting lines. Branching out from this are several autonomous feature teams, each responsible for a specific product area. And separate from both is a small “spike” team dedicated to exploring a new technology.
 
 
 

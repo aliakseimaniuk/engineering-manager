@@ -25,7 +25,7 @@ Here’s a pragmatic approach, built on principles of transparency, empowerment,
 
 **3. Co-Create the New Structure (Where Possible):** While some reorganization decisions are non-negotiable, actively solicit input from your team, especially those directly impacted. Can teams self-organize to address specific challenges? Can individuals take on new roles that align with their strengths and interests? This builds buy-in and reduces resistance. Think of it as collaborative design, not an autocratic decree.
 
-**4. Focus on Clarity of Ownership:** One of the biggest benefits of a reorganization is defining clear lines of accountability. Ensure everyone understands their roles, responsibilities, and reporting structures. Use org charts (a simple visual aid here is very effective) and document key decision-making processes. Ambiguity is the enemy of execution.
+**4. Focus on Clarity of Ownership:** One of the biggest benefits of a reorganization is defining clear lines of accountability. Ensure everyone understands their roles, responsibilities, and reporting structures. Use org charts and document key decision-making processes. Ambiguity is the enemy of execution.
 
 **5. Embrace Incremental Changes:** Resist the urge to overhaul everything at once. A phased approach allows you to test assumptions, gather feedback, and adjust course as needed. The idea here is to make incremental advances, constantly refining the structure based on real-world results.  Iterative change allows for faster adaptation and reduces risk. You can always iterate, but undoing a massive, poorly planned reorganization is a nightmare.
 

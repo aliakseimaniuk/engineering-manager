@@ -28,8 +28,6 @@ This seemingly small shift allows engineers to leverage their expertise to devis
 
 **3. Collaborative Refinement Sessions:** Instead of handing down requirements, facilitate collaborative sessions where engineers, product managers, and designers discuss and refine the needs together. These sessions should focus on identifying ambiguities, clarifying assumptions, and ensuring technical feasibility.
 
-**Visual Aid Suggestion:** A circular flow diagram visually reinforces the collaborative nature of this process, preventing siloed thinking. This diagram illustrates the constant communication between Product, Design, and Engineering, promoting shared ownership and understanding.
-
 ## The Agile Sprinkle: Why Terminology Isn't Enough
 
 I’ve seen teams adopt Agile terminology – sprints, burndown charts, backlog grooming – without fundamentally changing their requirements gathering process. This is the “Agile sprinkle” – adding a bit of buzzword compliance without addressing the core problem. We continued delivering software with our specs, but the underlying friction remained. True agility requires a shift in mindset, empowering engineers to actively participate in defining the problem, not just solving it.

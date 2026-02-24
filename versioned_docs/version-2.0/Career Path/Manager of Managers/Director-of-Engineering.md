@@ -32,7 +32,7 @@ Technical prowess is important, but it’s not enough. Here are a few mindset sh
 
 Even as you transition to a Director role, some core principles remain essential. A strong technical understanding is still valuable for providing guidance and context. Clear and concise communication is crucial for aligning teams and stakeholders. And a commitment to quality and continuous improvement remains paramount. 
 
-**Visual Aid Suggestion: A Responsibility Matrix**
+**A Responsibility Matrix**
 
 Consider creating a simple matrix that outlines the responsibilities of an Engineering Manager vs. a Director. Columns could be “Individual Contribution,” “Team Execution,” “Cross-Team Collaboration,” and “Strategic Planning.” Rows could represent each role. This helps visualize the key differences in focus and can be a useful tool for discussing expectations with your managers.  Use it to answer questions like: "Who owns technical debt?", "Who is responsible for sprint planning?", and "Who represents the team in strategic discussions?"
 

@@ -20,8 +20,6 @@ This creates a subtle but damaging disconnect. Your team *hears* your expectatio
 4. **Delegate with Support:** Now, delegate a similar task. Offer guidance, but let them own it. Encourage questions and provide constructive feedback. 
 5. **Reinforce and Repeat:** Consistently model and reinforce the desired behaviors. It's not a one-time fix; it's an ongoing practice.
 
-**Visual Aid Suggestion:** 
-
 | **Desired Behavior** | **"Do, Then Delegate" Action** | **Potential Challenges** |
 |---|---|---|
 | Thorough Code Reviews | Personally conduct a detailed, constructive review of a pull request, explaining your reasoning. | Team member may perceive review as overly critical if not delivered with empathy. |

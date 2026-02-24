@@ -49,8 +49,6 @@ I'm not advocating for strict ROI calculations.  Instead, think in terms of *rel
 * **Low Benefit / Low Cost:**  May be worth doing if there’s spare capacity, but prioritize higher-value items first.
 * **Low Benefit / High Cost:**  Don’t do it.  This is a clear waste of resources.
 
-**Visual Aid Suggestion:** A simple 2x2 matrix with "Benefit" on one axis and "Cost" on the other can be a powerful way to visualize and communicate these trade-offs.
-
 ## Real-World Example: The “Shiny New Framework” Dilemma
 
 I once faced a situation where a team was eager to adopt a new JavaScript framework. It was exciting, modern, and promised significant performance improvements. But a proper CBA revealed a hidden cost:

@@ -30,10 +30,6 @@ Okay, great. But *how* do you actually do this without adding more meetings to a
 4. **Create a "Feedback-Friendly" Culture:** Encourage your team to give each other feedback directly.  Model vulnerability by asking for feedback yourself ("What could I have done differently in that meeting?").
 5. **Focus on Strengths:** While addressing areas for improvement is important, don’t neglect to acknowledge and celebrate successes.  Positive reinforcement is incredibly powerful.
 
-**Visual Aid Suggestion:**
-
-Consider a simple 2x2 matrix. One axis is "Positive/Constructive," the other is "Formal/Informal." Map different feedback mechanisms onto this matrix to illustrate the importance of balancing all four quadrants. (e.g., Annual Performance Review - Formal/Constructive, Slack Praise - Informal/Positive, Weekly One-on-One - Both).
-
 **Navigating the Challenges**
 
 Implementing regular feedback isn’t always easy.  Here are a few common challenges and how to address them:

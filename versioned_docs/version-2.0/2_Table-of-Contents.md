@@ -1,12 +1,6 @@
 # Table of Contents
 
-Generated automatically.
-
-
-## Introduction.md
 - [Introduction](<./1_Introduction.md>)
-
-## Table of Contents.md
 - [Table of Contents](<./2_Table-of-Contents.md>)
 
 ## Business

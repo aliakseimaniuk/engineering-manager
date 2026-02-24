@@ -34,10 +34,6 @@ I've found a three-pronged approach works best: **Definition, Documentation, and
 * **Team Check-Ins:** Conduct regular team meetings focused on alignment and problem-solving. Create a safe space for team members to voice concerns and challenge assumptions.
 * **Active Listening & Clarification:** Don't just *hear* your team members – *listen* to them. Ask clarifying questions to ensure you understand their perspective. Paraphrase their statements to confirm your understanding.
 
-**Visual Aid Suggestion:** A simple RACI matrix (Responsible, Accountable, Consulted, Informed) can be incredibly helpful in clarifying roles and responsibilities, especially for cross-functional projects.
-
-
-
 ## Avoiding Common Pitfalls
 
 * **Assuming Understanding:** Never assume your team members understand your expectations. Always ask them to reiterate what they understand.

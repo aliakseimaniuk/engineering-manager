@@ -43,8 +43,6 @@ Consider this scenario: you notice a spike in error rates (quantitative). Your i
 
 Tools like MetricsWave offer a privacy-focused alternative to Google Analytics and allow you to visualize some of these key data points, but remember that those are *indicators*, not the full story.
 
-**Visual Aid:** Consider a simple 2x2 matrix: 
-
 |                     | **Quantitative High** | **Quantitative Low** |
 |---------------------|-----------------------|----------------------|
 | **Qualitative Positive** |  Things are good! Continue monitoring. |  Investigate disconnect. Why aren't numbers reflecting positive sentiment? |

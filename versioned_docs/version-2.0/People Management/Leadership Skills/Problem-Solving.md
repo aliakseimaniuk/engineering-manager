@@ -32,8 +32,6 @@ I remember one engineer, Sarah, who was initially assigned to a routine bug-fixi
 
 This isn’t always possible, of course. Balancing individual interests with project needs can be challenging. But making a conscious effort to understand what motivates your engineers and assigning tasks accordingly can yield surprising results. I’ve seen engineers go above and beyond when given the opportunity to work on something they truly care about.
 
-**Visual Aid Suggestion:** A simple timeline depicting iterative problem-solving, showing cycles of "Define -> Experiment -> Learn -> Refine" can be helpful.  (See resources on iterative development methodologies for examples.)
-
 ## Coevolving with the Problem
 
 A key part of fostering this environment is embracing the idea that problems aren't static. They *evolve*.  

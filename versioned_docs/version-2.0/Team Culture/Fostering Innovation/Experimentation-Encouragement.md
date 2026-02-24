@@ -35,7 +35,7 @@ This isn’t just about saying “it’s okay to fail.” It's about actively ce
 * **Define a Clear Goal:** What question is the spike meant to answer?
 * **Timebox It:**  Two to three days is often a good starting point.  Crucially, *stop* when the time is up, even if the answer isn’t definitive.  This prevents scope creep and forces prioritization.
 * **Focus on Learning, Not Delivery:** The output of a spike isn’t production-ready code; it’s data. “This approach is viable,” “This library is too complex,” “We need to revisit our assumptions.”
-* **Visual Aid:** A simple Kanban board with a "Spike" column can help track these short-term investigations.
+* **Visuals:** A simple Kanban board with a "Spike" column can help track these short-term investigations.
 
 **3. Encourage "Micro-Experiments" in Daily Work**
 

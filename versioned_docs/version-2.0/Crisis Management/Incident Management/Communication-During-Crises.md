@@ -26,10 +26,6 @@ Here’s how to move beyond broadcast mode and foster genuine, effective communi
 
 **4. Consistent and Cadenced Updates:** Silence breeds anxiety. Even if you don't have a complete solution, provide regular updates – even if it’s just to say “We’re still working on it, and here’s what we’ve done so far.” A consistent cadence (e.g., every hour, every two hours) provides reassurance and demonstrates that progress is being made.
 
-* **Visual Aid Suggestion:** A simple timeline showing key milestones and estimated timelines can be incredibly helpful. This provides transparency, reduces uncertainty, and fosters accountability, even if those timelines are subject to change.
-
-
-
 **Building Trust Through Honest Wins**
 
 I’ve found inspiration in fields outside of tech. Thinking about negotiation and conflict resolution, the concept of “honest wins” resonates strongly. A truly successful outcome isn’t about “winning” at all costs; it’s about ensuring all parties feel satisfied and respected. This translates directly to crisis communication – building trust and rapport during challenging times. Acknowledge the pain points, be transparent about the challenges, and demonstrate a commitment to finding a solution that addresses everyone's needs.

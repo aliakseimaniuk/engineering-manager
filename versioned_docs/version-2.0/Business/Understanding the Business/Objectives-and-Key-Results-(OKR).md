@@ -56,8 +56,7 @@ OKRs are *not* about achieving 100% on every Key Result. Aim for ambitious targe
 
 
 
-**Visual Aid: OKR Scorecard**
-
+**OKR Scorecard**
 Tracking progress visually can be incredibly helpful. Here’s a simplified example of an OKR scorecard:
 
 | Objective | Key Result | Target | Current Progress | Notes/Blockers |
