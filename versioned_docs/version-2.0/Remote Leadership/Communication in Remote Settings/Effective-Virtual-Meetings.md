@@ -32,7 +32,7 @@ I’ve found this framework consistently improves the effectiveness of virtual (
 * **Facilitating Participation:** Actively solicit input from all attendees.  Use tools like polls or virtual hand-raising to encourage participation, especially in larger meetings.
 * **Staying on Track:** Monitor the time and gently guide the conversation back to the agenda when necessary.
 * **Timekeeping:** Keep a close eye on the clock and adjust the agenda as needed. If you’re running short on time, prioritize the most important topics.
-* **Visual Aids:** Share your screen to present data, diagrams, or presentations. Visuals help to maintain focus and convey information more effectively.
+* **Visuals:** Share your screen to present data, diagrams, or presentations. Visuals help to maintain focus and convey information more effectively.
 
 **3. Post-Meeting: The "Drive Results" Phase**
 
