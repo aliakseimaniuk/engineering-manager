@@ -36,10 +36,7 @@ function Hero() {
         </p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/docs/Introduction">
-            Explore the Knowledge Base 📚
-          </Link>
-          <Link className="button button--outline button--lg" to="https://discord.gg" style={{ marginLeft: '1rem' }}>
-            Join the Community 💬
+            Explore the Knowledge Base
           </Link>
         </div>
       </div>
@@ -140,9 +137,6 @@ function CommunityCTA() {
         <div className={styles.buttons} style={{ justifyContent: 'center' }}>
           <Link className="button button--primary button--lg" to="/docs/Introduction">
             Start Learning
-          </Link>
-          <Link className="button button--secondary button--lg" to="https://discord.gg">
-            Join the Community
           </Link>
         </div>
       </div>
