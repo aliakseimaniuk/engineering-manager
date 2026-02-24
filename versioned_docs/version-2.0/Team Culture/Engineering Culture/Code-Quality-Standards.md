@@ -56,13 +56,3 @@ Ultimately, a culture of code quality isn’t about *rules*; it's about investin
 Building a truly effective culture of code quality takes time and effort. But the rewards – a more maintainable codebase, a more engaged team, and a more sustainable development process – are well worth the investment. It's not about striving for perfection; it’s about fostering a collective commitment to continuous improvement.  
 
 Consider starting with one small change – perhaps a team workshop to define your core principles. Revisit these principles periodically as your team evolves. Remember that a thriving code quality culture isn't a destination, but an ongoing journey.
-
-**Resources:**
-
-Here are a few tools that can help:
-
-* **Linters/Static Analysis:** ESLint (JavaScript), Pylint (Python), SonarQube (Multiple languages)
-* **Code Formatting:** Prettier (JavaScript/TypeScript), Black (Python)
-* **Code Metrics:** wakatime.com, Code Time 
-* **Free Code Tools:** [https://freecodetools.com/](https://freecodetools.com/)
-* **Cloud Coding Environments**: Replit

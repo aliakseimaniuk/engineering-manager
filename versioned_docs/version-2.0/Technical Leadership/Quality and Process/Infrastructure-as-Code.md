@@ -16,9 +16,6 @@ At its core, IaC is the practice of managing and provisioning infrastructure thr
 
 This isn't just about automating the *what* of infrastructure, but also the *how*. You're describing the desired state of your infrastructure, and the IaC tool takes care of making it so.  
 
-![IaC vs Traditional Infrastructure](https://example.com/iac_diagram.png)  
-*(Note: Replace this placeholder with an actual diagram contrasting traditional infrastructure provisioning (manual steps, tickets, handoffs) with IaC (code repository, automated pipeline, desired state).)*
-
 ## Leading the Shift to IaC: It's More Than Just Tools
 
 Here's where the leadership piece gets crucial. Simply handing your team a Terraform tutorial won't cut it. Here’s what I’ve found effective:

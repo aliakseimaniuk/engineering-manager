@@ -6,7 +6,7 @@ Consider this: a recent study by Gallup found that employees who feel a strong c
 
 ## Beyond Skills: Ability *and* Interest
 
-Noam Wasserman's *The Founder’s Dilemmas* beautifully articulates this point, originally focused on startup founders, but deeply applicable to building *any* high-performing engineering team. [Link to The Founder's Dilemmas on Amazon](https://www.amazon.com/Founders-Dilemmas-Revolutionizing-Decision-Making/dp/0670022863) He highlights the crucial balance between ability and interest. It’s tempting to assemble the “best” engineers – the ones with the most impressive resumes and years of experience. But technical brilliance alone isn’t enough. 
+Noam Wasserman's *The Founder’s Dilemmas* beautifully articulates this point, originally focused on startup founders, but deeply applicable to building *any* high-performing engineering team. He highlights the crucial balance between ability and interest. It’s tempting to assemble the “best” engineers – the ones with the most impressive resumes and years of experience. But technical brilliance alone isn’t enough. 
 
 You need people who are genuinely *interested* in the problem you're solving. Why? Because passion fuels commitment, drives innovation, and sustains motivation through the inevitable challenges. I’ve learned this the hard way. Early in my career, I inherited a team assembled solely on skill. They *could* deliver, but they lacked ownership. Every roadblock felt like a crisis, and innovation was minimal. It felt like pushing a boulder uphill.  
 
@@ -37,8 +37,6 @@ There's no inherently "right" approach, but *you need to be conscious of which p
 It’s easy to get caught up in processes and methodologies (Agile, Scrum, DevOps…the list goes on). These are tools, not goals. Wasserman touches on this when he describes the pitfall of adhering rigidly to methodology at the expense of getting the work done. 
 
 I see this frequently with early-career engineering managers. They focus so much on *how* things are done that they lose sight of the *what*. The initial team needs to be pragmatic, adaptable, and focused on delivering value, not on perfectly implementing a process.
-
-**Visual Aid:**
 
 |                       | **Focus on Process** | **Focus on Outcome** |
 |-----------------------|------------------------|-----------------------|

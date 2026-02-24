@@ -19,12 +19,6 @@ Setting clear expectations isn’t just about assigning tasks. It needs to be ho
 * **Behavioral Expectations:** How should team members interact with each other? What are the norms around code review, feedback, and conflict resolution? This is where you define the team's operating principles and foster psychological safety. Clear behavioral expectations create a safe space for vulnerability and open communication.
 * **Performance Expectations:** How will individual contributions be evaluated? What are the key performance indicators (KPIs)? Be transparent about how performance impacts career growth.
 
-**Visualizing Expectations:** A simple 2x2 matrix can be a helpful tool. 
-
-![Example Expectations Matrix](https://i.imgur.com/examplematrix.png) 
-
-*(This is a placeholder image; you can create a simple matrix with "Technical Expectations" on one axis and "Behavioral Expectations" on the other, listing specific examples in each quadrant)*
-
 ## Proactive Communication: A Holistic Approach
 
 Setting expectations isn't a one-time event. It requires ongoing, proactive communication – a consistent investment in shared understanding. Rather than simply listing tactics, view communication as a holistic approach to expectation management. Here’s what I’ve found to be effective:

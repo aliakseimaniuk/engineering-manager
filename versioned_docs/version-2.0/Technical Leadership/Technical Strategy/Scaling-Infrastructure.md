@@ -18,7 +18,7 @@ Here are three pillars to build a foundation for proactive infrastructure scalin
 
 **1. Architectural Foresight**
 
-* **Embrace a Microservices Approach (When Appropriate):** I often get asked if *every* application needs microservices. The answer is a resounding *no*. But if you anticipate significant scale, and have the team maturity to support it, a well-architected microservices approach allows you to scale individual components independently. This isn’t about splitting everything up day one; it’s about designing with modularity in mind. [Learn more about the benefits and drawbacks of microservices](https://martinfowler.com/microservices/).
+* **Embrace a Microservices Approach (When Appropriate):** I often get asked if *every* application needs microservices. The answer is a resounding *no*. But if you anticipate significant scale, and have the team maturity to support it, a well-architected microservices approach allows you to scale individual components independently. This isn’t about splitting everything up day one; it’s about designing with modularity in mind.
 * **Design for Failure:** Assume things *will* break. Implement robust error handling, retries, and circuit breakers. Redundancy is crucial. Think about how your system will degrade gracefully under load.
 * **Consider Serverless:** Don’t underestimate the power of serverless technologies. They can drastically reduce operational overhead and automatically scale based on demand. It’s not a silver bullet, but it's worth exploring.
 

@@ -9,7 +9,7 @@ It’s not about *avoiding* incidents entirely – that's unrealistic. Complex s
 Think of it this way: high incident frequency is the canary in the coal mine. It signals deeper issues brewing beneath the surface. 
 
 * **Erosion of Trust:** Every incident, even a minor one, erodes trust – trust in the system, trust in the process, and crucially, trust within the team. Constant firefighting leaves engineers feeling anxious and reactive, hindering their ability to focus on proactive work.
-* **Context Switching Costs:** Frequent incidents force engineers to abandon their current tasks and switch to emergency mode. The cognitive cost of this context switching is significant. Research consistently demonstrates that it takes considerable time to regain full focus after an interruption. [Here's a resource that delves into the science of cognitive load and context switching](https://www.rescuetime.com/blog/context-switching-and-how-it-affects-productivity/). This lost time accumulates and seriously impacts productivity.
+* **Context Switching Costs:** Frequent incidents force engineers to abandon their current tasks and switch to emergency mode. The cognitive cost of this context switching is significant. Research consistently demonstrates that it takes considerable time to regain full focus after an interruption. This lost time accumulates and seriously impacts productivity.
 * **Technical Debt Amplification:** Quick fixes and workarounds implemented during incidents often contribute to technical debt. This creates a vicious cycle: more technical debt exacerbates bugs and drives up incident frequency.
 * **Hidden Costs:** Beyond the immediate time spent resolving incidents, there are hidden costs associated with communication, investigation, and post-incident analysis. These costs ripple through the organization, impacting customer satisfaction and potentially leading to revenue loss. 
 
@@ -23,7 +23,6 @@ Simply counting the number of incidents isn't enough. You need context. Here's h
 * **Normalize for Scale:** A service with 10,000 requests per minute will naturally have more "opportunities" for incidents than one with 100 requests. Calculate **Incident Rate** (Incidents per X Requests, or Incidents per User/Month) to account for scale. For example, if your service handles 1,000,000 requests in a month and experiences 50 incidents, your Incident Rate is 50 incidents / 1,000,000 requests = 0.00005 incidents per request.
 * **Severity Matters:** Not all incidents are equal. Categorize incidents by severity (e.g., Critical, Major, Minor) and track the incident rate for each category. A spike in critical incidents is a far more serious concern than a rise in minor ones.
 * **Mean Time Between Failures (MTBF):** This metric, while related to availability, provides insight into how reliably a system operates over a period. Tracking MTBF is a proactive approach.
-* **Tools to Help:** There are a number of tools that can automate incident tracking and reporting. Consider exploring services like [honeybadger.io](https://honeybadger.io/), [rollbar.com](https://rollbar.com/), or [sentry.io](https://sentry.io/). They can significantly streamline the process.
 
 ## Lowering Incident Frequency: Actionable Steps
 
@@ -47,5 +46,3 @@ Okay, you're measuring incident frequency. Now what? Here are some strategies I�
 Lowering incident frequency isn’t a quick fix. It’s a long-term commitment to building a more reliable and resilient system. It requires a shift in mindset – from simply reacting to incidents to proactively preventing them. This investment *will* require time and resources, but the payoff – increased velocity, improved morale, and a more stable system – is well worth the effort.
 
 I’ve seen teams dramatically improve their velocity and morale by focusing on this often-overlooked metric. By prioritizing reliability and investing in observability, you can create a more stable and predictable system, allowing your engineers to focus on what they do best: building great products. 
-
-**This week, take a look at your incident data and identify one area where you can start to reduce incident frequency.**

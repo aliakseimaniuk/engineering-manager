@@ -19,10 +19,6 @@ Emotional support helps mitigate this. Here's how:
 * **Build trust & resilience:** Genuine care strengthens team bonds and creates a foundation for long-term success.
 * **Prevent burnout:** Regularly acknowledging effort helps combat exhaustion, particularly during prolonged incidents.
 
-[Research on cognitive load and stress demonstrates that high-stress environments demonstrably reduce cognitive function and problem-solving abilities.](https://www.apa.org/topics/stress/manage)
-
-
-
 ## Practical Ways to Provide Emotional Support
 
 So, what does emotional support *look* like in the heat of a crisis? It's not about becoming a therapist, but about conscious, intentional leadership.

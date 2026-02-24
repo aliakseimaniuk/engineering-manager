@@ -81,14 +81,6 @@ A matrix organization attempts to combine the benefits of both functional and pr
 
 **When it works:**  Best suited for organizations with complex projects that require specialized skills from multiple departments. Often seen in larger companies where resources need to be shared across multiple product lines. *However*, matrix organizations require exceptional leadership and communication to avoid becoming paralyzed by conflicting priorities.
 
-## Visualizing Organizational Structures
-
-Here's a simple illustration of how work flows in each structure:
-
-![Organizational Structure Flow](https://example.com/org-structure-flow.png) *(Replace with actual image link)*
-
-*(Linear = Functional, End-to-End = Product, Branching/Complex = Matrix)*
-
 ## Beyond the Structure: The Importance of Flow
 
 Ultimately, the success of any organizational structure hinges on maximizing *flow*. This means minimizing bottlenecks, reducing handoffs, and empowering teams to deliver value quickly and efficiently. 

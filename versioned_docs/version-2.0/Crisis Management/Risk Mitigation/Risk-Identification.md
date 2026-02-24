@@ -32,12 +32,6 @@ After the pre-mortem, don’t let the ideas languish. For each identified risk, 
 
 This isn’t about precise calculations. It’s about prioritizing. Risks with High Probability *and* High Impact demand immediate attention. 
 
-**(See visual below: Risk Prioritization Matrix)**
-
-![Risk Prioritization Matrix](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Impact_vs_probability.svg/800px-Impact_vs_probability.svg.png)
-
-*A simple 2x2 matrix. X-axis = Probability (Low to High). Y-axis = Impact (Low to High). Plot identified risks on the matrix to visually prioritize them.*
-
 ## Integrating Risk Identification into Your Workflow
 
 This isn’t a one-time exercise. The goal is to weave risk identification into your regular processes:

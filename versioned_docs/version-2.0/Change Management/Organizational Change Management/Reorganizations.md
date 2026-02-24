@@ -19,7 +19,7 @@ The failure rate is high. Why? Often, it boils down to a few key mistakes:
 
 Here’s a pragmatic approach, built on principles of transparency, empowerment, and continuous improvement:
 
-**1. Diagnose, Don’t Just React:** Before *any* structural changes, understand the *root causes* of the problem. Are you reorganizing because of technical debt, skill gaps, a shifting market, or a lack of clear ownership? Tools like the "5 Whys" can be invaluable here. Don’t treat symptoms; address the underlying issues. Toys "R" Us’s “TRU Transformation” recognized the need to fix “foundational issues,” not just put a band-aid on declining sales. [https://www.toysrusinc.com/news/news-details/2017/Toys-R-Us-U.S.-Announces-Transformation-Plan](https://www.toysrusinc.com/news/news-details/2017/Toys-R-Us-U.S.-Announces-Transformation-Plan)
+**1. Diagnose, Don’t Just React:** Before *any* structural changes, understand the *root causes* of the problem. Are you reorganizing because of technical debt, skill gaps, a shifting market, or a lack of clear ownership? Tools like the "5 Whys" can be invaluable here. Don’t treat symptoms; address the underlying issues. Toys "R" Us’s “TRU Transformation” recognized the need to fix “foundational issues,” not just put a band-aid on declining sales.
 
 **2. Communicate, Communicate, Communicate:** This cannot be overstated. Be radically transparent about *why* the reorganization is happening, *what* the goals are, and *how* it will impact individuals. Hold all-hands meetings, smaller team sessions, and one-on-ones. Answer questions honestly, even the difficult ones. Don't shy away from acknowledging uncertainty. Remember that political considerations are often at play, and navigating these complexities requires empathy and diplomacy.
 

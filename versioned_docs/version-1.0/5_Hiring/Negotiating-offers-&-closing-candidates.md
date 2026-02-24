@@ -26,7 +26,7 @@ Negotiation shouldn’t be an adversarial process. Frame it as a collaborative d
 * **Listen Actively:** Understand the candidate’s priorities and address their concerns thoughtfully.
 * **Be Flexible (Where Possible):**  Consider negotiating beyond salary, such as signing bonuses, equity, or professional development budgets.
 
-**Visualizing the Offer:** Consider creating a simple table outlining key components of the offer – compensation, benefits, growth opportunities, and impact – to help candidates visually assess the total package. [Link to a sample table or template](https://example.com/offer-template)
+**Visualizing the Offer:** Consider creating a simple table outlining key components of the offer – compensation, benefits, growth opportunities, and impact – to help candidates visually assess the total package.
 
 ## The Power of Strategic Sourcing & Recruiting Partnerships
 

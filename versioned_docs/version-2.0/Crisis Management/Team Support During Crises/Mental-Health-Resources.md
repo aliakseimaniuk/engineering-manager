@@ -40,10 +40,6 @@ This is the most crucial – and often the most overlooked – step.
 
 Consider creating a visual representation of available resources to make them more accessible and engaging. A mind map can be a powerful tool for this. 
 
-![Team Wellbeing Mind Map Example](https://i.imgur.com/examplemindmap.png)
-
-*(This is a placeholder image. You can create a simple mind map using tools like MindMeister or Whimsical. The map should center on "Team Wellbeing," with branches for "Internal Support" (manager check-ins, team retrospectives), "External Resources" (links to MHA, NAMI, Crisis Text Line), and "Skill Building" (stress management workshops).)*
-
 **Beyond the Checklist: Fostering a Culture of Psychological Safety**
 
 Resources are important, but they’re only effective within a culture of psychological safety. This means creating an environment where engineers feel comfortable:

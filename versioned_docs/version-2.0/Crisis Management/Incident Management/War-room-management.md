@@ -75,13 +75,3 @@ And importantly, consider *where* these corrective actions need to be implemente
 ## Final Thoughts
 
 Managing a crisis is never easy. Incidents are stressful, and maintaining a calm, structured approach is vital. By embracing structure, clear communication, and a focus on systemic improvement, you can transform the chaos of the “war room” into a powerful engine for resilience and growth. 
-
-**To help you get started, download our free incident command system template:** [Link to template]. Share this article with your team and discuss how you can improve your incident management process.
-
-
-
-**Resources:**
-
-*   **Zenduty:** [https://zenduty.com/](https://zenduty.com/)
-*   **ITIL Framework:** [https://www.axelos.com/itil](https://www.axelos.com/itil)
-*   **SRE Principles:** [https://sre.google/](https://sre.google/)

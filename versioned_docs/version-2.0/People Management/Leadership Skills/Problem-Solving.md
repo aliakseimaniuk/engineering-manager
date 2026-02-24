@@ -40,7 +40,7 @@ A key part of fostering this environment is embracing the idea that problems are
 
 Often, we attempt to define a problem completely upfront, creating detailed requirements and specifications. But this can be counterproductive. It creates a rigid plan that doesn't allow for new insights or changing circumstances.
 
-Instead, encourage your team to approach problems iteratively, treating them as learning opportunities.  Focus on breaking down complex issues into smaller, manageable chunks, and validating assumptions along the way. Tools like [Chpokify](https://chpokify.com/) can be useful for visually breaking down complex projects into smaller, manageable tasks.
+Instead, encourage your team to approach problems iteratively, treating them as learning opportunities.  Focus on breaking down complex issues into smaller, manageable chunks, and validating assumptions along the way. 
 
 This requires a mindset shift. You’re not just trying to *solve* a problem, you’re trying to *understand* it. And that understanding will evolve as you gather more information and experiment with different solutions.  
 
@@ -63,5 +63,3 @@ And that, in my experience, is a far more sustainable and rewarding approach to 
 
 *   **Schedule a 1:1 with each team member** to discuss their interests and skills.
 *   **Identify one process that's consistently causing friction** and brainstorm ways to simplify it.
-
-[Here's a link to a Harvard Business Review article on psychological safety.](https://hbr.org/2017/03/how-to-create-a-psychologically-safe-workplace) This can provide a good foundation for building trust within your team.

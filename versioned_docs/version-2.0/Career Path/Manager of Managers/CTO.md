@@ -18,8 +18,6 @@ Today, the role demands a significant shift. The modern CTO must be a strategic 
 * **Innovation & Experimentation:** Driving innovation through experimentation, research, and exploration of new technologies.
 * **Budget & Resource Allocation:** Making smart decisions about how to allocate limited resources to maximize impact.
 
-Think about Voyager Digital. [https://www.voyagerdigital.com/](https://www.voyagerdigital.com/) Founded in 2018, its initial CTO likely focused on building a crypto asset trading platform. But as the company evolved, and faced financial difficulties, the need shifted. The appointment of a retail specialist CEO signals a change in strategic direction, requiring the CTO to potentially overhaul the technology to support a different business model – perhaps integrating more with POS systems for in-store experiences, or streamlining operations for cost efficiency. This requires a fundamental shift in priorities and technological roadmap.
-
 ## The "Shape" of a Modern CTO: Skills & Traits
 
 So, what skills and traits define the successful modern CTO? Here’s what I’ve observed:

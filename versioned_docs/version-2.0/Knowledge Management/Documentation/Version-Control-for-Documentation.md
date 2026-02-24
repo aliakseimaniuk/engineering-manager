@@ -27,8 +27,6 @@ Version control systems (like Git) are designed to track changes over time, allo
 * **Code & Docs in Sync:** Keep documentation alongside your code in the same repository, making it easier to maintain consistency.
 * **Automated Documentation Updates:** Integrate documentation updates into your CI/CD pipeline.
 
-![Documentation Workflow](https://via.placeholder.com/600x300/007bff/ffffff?text=Documentation+Update/Build/Deploy+Process)  *(Replace this placeholder with an actual diagram illustrating the documentation update, build, and deploy process)*
-
 ### How to Implement Version Control for Documentation
 
 Okay, let's get practical. Here’s a breakdown of how to get started:
@@ -41,15 +39,10 @@ Okay, let's get practical. Here’s a breakdown of how to get started:
     * **Sphinx:** A powerful documentation generator that supports reStructuredText and other formats.
     * **Hugo/Jekyll/Gatsby:** Static site generators that can be customized for documentation.
 5. **Leverage Available Tools:** There’s a growing ecosystem of tools designed to simplify documentation hosting and management:
-    * **Read the Docs ([readthedocs.org](https://readthedocs.org/))**: Free documentation hosting with versioning, PDF generation, and more. Excellent for open-source projects.
-    * **Readme.com ([readme.com](https://readme.com/))**: Beautiful documentation made easy, free for Open Source.
-    * **Docs ([docs.new](https://docs.new/))**: Free for 5 users with limited storage.
-    * **Render ([render.com](https://render.com/))**: Can host static documentation sites alongside your applications.
 
 **Example Workflow:** A developer makes a code change that affects the API. They simultaneously update the documentation in the repository, commit both changes with a linked commit message (e.g., "Fix: Updated API endpoint and documentation"), and trigger a build process that automatically deploys the updated documentation.
 
 6. **Consider Notebooks:** For data science or machine learning projects, consider using Binder ([https://mybinder.org/](https://mybinder.org/)) to turn a Git repo into a collection of interactive notebooks.
-
 
 
 ### Making Documentation a Priority

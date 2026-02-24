@@ -6,7 +6,7 @@ This isn’t about adding another number to track. It's about shifting our focus
 
 ## What *are* DORA Metrics?
 
-The DORA (DevOps Research and Assessment) metrics, popularized by the annual [Accelerate State of DevOps report](https://cloud.google.com/solutions/devops/accelerate/state-of-devops/), aren’t just arbitrary KPIs. They’re based on years of research analyzing the performance of thousands of software development teams. The core four metrics are:
+The DORA (DevOps Research and Assessment) metrics, popularized by the annual 'Accelerate State of DevOps report', aren’t just arbitrary KPIs. They’re based on years of research analyzing the performance of thousands of software development teams. The core four metrics are:
 
 * **Deployment Frequency:** How often does your team successfully release code to production? (e.g., daily, weekly, monthly)
 * **Lead Time for Changes:** How long does it take a code change to go from commit to successfully running in production? (measured in hours or days)
@@ -41,5 +41,3 @@ Tools like Kumu.io can help you map your delivery pipeline, identify bottlenecks
 ## Final Thoughts
 
 DORA metrics are more than just numbers; they’re a lens into the health of your software delivery process. By focusing on outcomes, automating data collection, and avoiding blame, you can leverage these metrics to improve performance, reduce risk, and deliver more value to your users. As engineering leaders, our responsibility isn’t just to build things; it’s to build them *effectively*. DORA metrics give us the data we need to do just that. 
-
-**Start by identifying one DORA metric to focus on this quarter. Share this article with your team and discuss how DORA metrics could benefit your organization. Explore the [Accelerate State of DevOps report](https://cloud.google.com/solutions/devops/accelerate/state-of-devops/) to learn more.**

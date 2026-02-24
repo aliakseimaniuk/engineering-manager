@@ -2,7 +2,7 @@
 
 For two decades, I’ve led engineering teams through rapid growth, challenging projects, and the ever-present pressure to *just ship*. But over time, I’ve realized that technical excellence alone isn’t enough. Building *high-performing* teams means building *inclusive* teams – and it goes far beyond simply ticking DEI boxes. It's about creating an environment where everyone feels empowered, valued, and able to bring their whole selves to work. 
 
-This isn't just “the right thing to do” (though it absolutely *is*). Diverse teams are demonstrably more innovative, resilient, and better at solving complex problems. [A meta-analysis by Rock & Grant (2016) demonstrated a significant correlation between diverse teams and increased innovation.](https://hbr.org/2016/03/how-diverse-teams-can-outperform-others) But achieving true inclusivity requires a deliberate, ongoing effort – and a shift in how we think about management.
+This isn't just “the right thing to do” (though it absolutely *is*). Diverse teams are demonstrably more innovative, resilient, and better at solving complex problems. But achieving true inclusivity requires a deliberate, ongoing effort – and a shift in how we think about management.
 
 **The Problem with Performative Inclusion**
 

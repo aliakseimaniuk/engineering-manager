@@ -8,7 +8,7 @@ This isn’t about creating a separate, elite force. It’s about *designing* a 
 
 Traditional incident response often involves pulling individuals from ongoing projects, disrupting workflow, and potentially exacerbating the problem due to context switching. Imagine it’s 3 AM, and your primary database is failing. Your on-call engineer is juggling multiple responsibilities, scrambling to diagnose the issue while simultaneously trying to avoid impacting other critical systems. This reactive approach leads to increased stress, slower resolution times, and ultimately, a negative impact on your customers. A dedicated rapid response team addresses these issues by:
 
-* **Reduced Mean Time To Resolution (MTTR):** Having pre-identified, skilled individuals ready to jump on critical issues drastically speeds up diagnosis and resolution. Studies show teams implementing a dedicated incident response model can see a 15-20% reduction in MTTR. [Learn more about MTTR and other key metrics here](https://www.atlassian.com/incident-management/kpis).
+* **Reduced Mean Time To Resolution (MTTR):** Having pre-identified, skilled individuals ready to jump on critical issues drastically speeds up diagnosis and resolution. Studies show teams implementing a dedicated incident response model can see a 15-20% reduction in MTTR.
 * **Minimized Disruption:** Less context switching for the broader team, allowing them to remain focused on planned work.
 * **Improved Learning:** Consistent involvement in critical incidents fosters a deeper understanding of the system and potential failure points.
 * **Enhanced Resilience:** A well-practiced response process builds confidence and prepares the team to handle future challenges.

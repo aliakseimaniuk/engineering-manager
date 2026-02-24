@@ -58,8 +58,3 @@ One of the biggest challenges in transitioning to managing managers is letting g
 ## Conclusion
 
 The transition from managing engineers to managing managers requires a fundamental shift in mindset and approach. By focusing on leadership development, building strong systems, and empowering your team, you can create a high-performing organization that thrives on innovation and collaboration. Remember, your success is now measured by the success of your managers and the teams they lead.
-
-
-
-![Diagram of the layers of an organization. The base is individual contributors, the next level is engineering managers, and the top level is managers of managers. Arrows showing the flow of responsibility and leverage. ](https://via.placeholder.com/600x400/007bff/ffffff?text=Organizational+Structure)
-*(Diagram depicting organizational structure with individual contributors, engineering managers, and managers of managers)*

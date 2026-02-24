@@ -11,7 +11,7 @@ This article isn’t about becoming a mediator. It’s about equipping you with 
 Imagine this: a critical path feature is blocked because two senior engineers are locked in a tense debate about the best implementation approach. Hours are wasted, deadlines slip, and the team’s morale suffers. This isn’t just about technical disagreement; it’s about the cost of unmanaged conflict. Successfully de-escalating conflict:
 
 * **Preserves Relationships:** Healthy working relationships are built on trust and respect. A poorly handled disagreement can erode that foundation.
-* **Boosts Psychological Safety:** When team members feel safe expressing dissenting opinions without fear of retribution, innovation thrives. Research consistently demonstrates the link between psychological safety and team performance. (See, for example, the work of Amy Edmondson at Harvard Business School: [https://hbr.org/2018/03/the-leader-s-guide-to-psychological-safety](https://hbr.org/2018/03/the-leader-s-guide-to-psychological-safety)).
+* **Boosts Psychological Safety:** When team members feel safe expressing dissenting opinions without fear of retribution, innovation thrives. Research consistently demonstrates the link between psychological safety and team performance.
 * **Improves Decision-Making:** Heated arguments often cloud judgment. De-escalation allows for clearer thinking and more rational decision-making.
 * **Unlocks Productivity:** Conflict consumes energy and time. Addressing it constructively frees up resources for actual work.
 

@@ -26,7 +26,7 @@ We often assume boredom stems from a lack of *work*. But in high-performing engi
 
 Here’s where it moves from diagnosis to action.
 
-* **The 20% Project (or Similar):** Google famously allowed engineers to spend 20% of their time on side projects. [https://www.wired.com/2013/07/google-20-percent-time/](https://www.wired.com/2013/07/google-20-percent-time/) While 20% might not be feasible, dedicate *some* time for exploration. It’s an investment in learning, innovation, and engineer satisfaction.
+* **The 20% Project (or Similar):** Google famously allowed engineers to spend 20% of their time on side projects. While 20% might not be feasible, dedicate *some* time for exploration. It’s an investment in learning, innovation, and engineer satisfaction.
 * **Rotate Responsibilities:** Don't let individuals become pigeonholed. Rotate responsibilities, encourage cross-functional collaboration, and expose engineers to different parts of the codebase and product.
 * **Invest in Learning & Development:** Provide opportunities for training, conferences, and online courses. Support engineers in pursuing certifications and expanding their skillsets.
 * **Foster Psychological Safety:** Create an environment where engineers feel comfortable taking risks, voicing opinions, and challenging assumptions. This is essential for innovation and problem-solving.

@@ -78,8 +78,3 @@ Ultimately, the choice between top-down and bottom-up isn't about choosing one o
 *   **Pilot a hybrid approach:** Start by implementing it on a small project before rolling it out organization-wide.
 *   **Reflect on your current projects:** Where could more autonomy be given, and where does tighter control make sense? 
 *   **Assess team skills:** Do your teams have the necessary skills and experience to thrive in a self-organizing environment?
-
-
-
-
-[Here's a link to a research paper on high-performing teams](https://www.google.com/search?q=high+performing+teams+research) for further reading.

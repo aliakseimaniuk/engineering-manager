@@ -62,11 +62,7 @@ Here’s a framework, drawing on established practices (see resources at the end
 Consider using these visual aids during the PIA session:
 
 * **Incident Timeline:** A chronological list of events, with timestamps.
-    ![Example Incident Timeline](https://via.placeholder.com/400x150/007bff/ffffff?text=Incident+Timeline)
 * **Root Cause Diagram (Fishbone Diagram or Ishikawa Diagram):** This helps visualize the various contributing factors to the incident.
-    ![Example Fishbone Diagram](https://via.placeholder.com/400x200/28a745/ffffff?text=Root+Cause+Diagram)
-
-(You can easily find templates online.)
 
 ## Beyond Just Fixing Bugs
 
@@ -80,10 +76,6 @@ Effective post-incident analysis isn't just about preventing future outages. It�
 **Articles:**
 * Dingsøyr T (2005) Postmortem reviews: purpose and approaches in software engineering.
 * Lehtinen TOA (2014) Development and evaluation of a lightweight root cause analysis method in software project retrospectives.
-
-**Online Resources:**
-* [Link to relevant blog post on post-incident analysis](https://example.com) (replace with an actual link)
-* [Link to a template for Ishikawa diagrams](https://example.com) (replace with an actual link)
 
 **Takeaway and Challenge:**
 

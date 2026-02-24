@@ -50,7 +50,7 @@ This framework helps you:
 
 * **Quantify Reliability:** Define exactly what “reliable” means for your service.
 * **Make Trade-offs:** Use the error budget to prioritize features and technical debt reduction.  For example, you might choose to allocate a portion of the error budget to allow for riskier deployments of new features.
-* **Promote Innovation:** Allow for calculated risks and experimentation within the error budget. Google's SLO documentation ([https://sre.google/sre-fundamentals/measuring-sli/](https://sre.google/sre-fundamentals/measuring-sli/)) provides excellent resources on implementing this framework.
+* **Promote Innovation:** Allow for calculated risks and experimentation within the error budget.
 
 ## Building a Culture of Reliability: It’s More Than Just the Contract
 

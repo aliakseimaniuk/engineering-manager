@@ -6,7 +6,7 @@ Imagine a team energized by a shared purpose, consistently delivering innovative
 
 Let’s be honest: how many vision statements can you recall *verbatim*? Probably very few. That’s because most are broad, aspirational, and utterly disconnected from the concrete work engineers do. Think phrases like “revolutionize the industry” or “become the leading provider.” While ambitious, these statements lack the specificity needed to guide daily decisions. 
 
-The problem isn't ambition; it's *translation*. Engineers aren't motivated by abstract ideals; they're motivated by solving challenging problems and building things that matter. A vision needs to bridge the gap between lofty goals and concrete deliverables. Studies have shown that teams with a clearly defined and understood purpose are significantly more engaged and productive; a vague vision simply doesn’t cut it. [https://hbr.org/2018/03/a-company-vision-shouldnt-be-just-about-making-money](https://hbr.org/2018/03/a-company-vision-shouldnt-be-just-about-making-money)
+The problem isn't ambition; it's *translation*. Engineers aren't motivated by abstract ideals; they're motivated by solving challenging problems and building things that matter. A vision needs to bridge the gap between lofty goals and concrete deliverables. Studies have shown that teams with a clearly defined and understood purpose are significantly more engaged and productive; a vague vision simply doesn’t cut it. 
 
 ## From Vision to “What Are We Building & Why?”
 

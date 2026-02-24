@@ -38,7 +38,7 @@ Once you’ve identified the leaks, here's what you can do:
     * **Conflict Resolution:** Address conflicts quickly and constructively. Don’t let them fester.
 * **Optimize Mental Energy:**
     * **Reduce Context Switching:** Protect engineers' focus time. Minimize interruptions and encourage deep work. Consider techniques like "maker time" or "focus blocks."
-    * **Clear Requirements:** Ambiguity is energy-sapping. Ensure requirements are well-defined, documented, and understood. [Link to resource on writing good user stories](https://www.atlassian.com/agile/user-stories).
+    * **Clear Requirements:** Ambiguity is energy-sapping. Ensure requirements are well-defined, documented, and understood.
     * **Manage Cognitive Load:** Break down large tasks into smaller, manageable chunks.
 * **Fuel Purposeful Energy:**
     * **Connect to the “Why”:** Regularly explain how the team’s work contributes to the overall company goals.

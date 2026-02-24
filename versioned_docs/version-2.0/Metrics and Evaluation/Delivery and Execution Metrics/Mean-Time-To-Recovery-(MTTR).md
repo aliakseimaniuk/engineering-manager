@@ -39,7 +39,7 @@ But simply calculating the number isn’t enough. You need context. Here’s how
 Tracking MTTR is useless if you don’t use it to drive meaningful change. Here’s how to translate data into actionable improvements:
 
 * **Post-Incident Reviews (Blameless Postmortems):** This is *the* most crucial step. Focus on *what* happened and *why*, not *who* made a mistake. Tools like easyretro.io can facilitate structured, collaborative postmortems. Analyze the timeline of events, identify bottlenecks, and document lessons learned. Specifically look for recurring themes in postmortems. Are you seeing the same types of incidents over and over? This is a signal you need to address a systemic issue.
-* **Root Cause Analysis (RCA):** Go beyond the immediate symptom and identify the underlying cause of the issue. The “5 Whys” technique is a simple but effective method. [Learn more about Root Cause Analysis](https://www.mindtools.com/pages/article/newTMC_5W.htm).
+* **Root Cause Analysis (RCA):** Go beyond the immediate symptom and identify the underlying cause of the issue. The “5 Whys” technique is a simple but effective method.
 * **Prioritize Technical Debt Reduction:** High MTTR often indicates accumulated technical debt. Dedicate time to refactoring, improving code quality, and addressing known vulnerabilities.
 * **Invest in Automation:** Automate repetitive tasks, such as deployments, rollbacks, and scaling.
 * **Improve On-Call Procedures:** Ensure your on-call engineers have clear documentation, access to the right tools, and the authority to make decisions.

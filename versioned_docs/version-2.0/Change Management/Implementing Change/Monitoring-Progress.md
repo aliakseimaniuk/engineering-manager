@@ -47,7 +47,7 @@ This is your daily/weekly pulse check on the technical health of the change.
     * Test failure rate.
     * Number of open bugs.
     * SonarQube/similar tool metrics (code smells, vulnerabilities).
-    * Cycle Time and Lead Time (indicators of development efficiency) [See resources on Cycle Time and Lead Time: [https://en.wikipedia.org/wiki/Cycle_time](https://en.wikipedia.org/wiki/Cycle_time)].
+    * Cycle Time and Lead Time (indicators of development efficiency).
 * **Tools:** This is where tools like Uptrace (distributed tracing) can be incredibly valuable – helping pinpoint performance bottlenecks and failures. Monitoring tools like Xitoring, Keywords AI, and Embrace fall into this category too – keeping an eye on system health.  We selected these tools based on their comprehensive monitoring capabilities and integrations with our existing tech stack.
 * **Visual:** A dashboard showing key quality metrics over time.
 * **Example:** Track code coverage percentage and aim for at least 80% to ensure adequate test coverage.

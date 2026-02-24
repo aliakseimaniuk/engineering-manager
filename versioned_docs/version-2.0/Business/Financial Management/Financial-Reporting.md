@@ -32,19 +32,4 @@ You don't need an MBA, but familiarity with these concepts will significantly en
 * **Don’t Rely on Others to Care:** Don’t rely on your boss to do this *for* you. Take ownership of understanding the financial implications of your team’s work. 
 
 
-
-## Resources to Get You Started
-
-**For Beginners:**
-
-* **Investopedia:** A fantastic resource for learning about financial terms and concepts: [https://www.investopedia.com/](https://www.investopedia.com/)
-* **Khan Academy:** Offers free courses on accounting and finance: [https://www.khanacademy.org/economics-finance-domain](https://www.khanacademy.org/economics-finance-domain)
-
-**For Deeper Dive:**
-
-* **SEC EDGAR Database:** Access public company financial statements: [https://www.sec.gov/edgar/search/](https://www.sec.gov/edgar/search/)
-
-
-
-
 Understanding financial reporting isn't about becoming an accountant. It's about becoming a more effective leader, a more informed decision-maker, and a more responsible advocate for your team and your organization. We know you’re busy, but investing a few hours in understanding these concepts can save your team significant headaches down the road. By taking the time to learn these concepts, you’ll be better equipped to navigate the complex financial landscape, build a more sustainable future for your organization, and potentially open doors to new leadership opportunities. Consider starting by reviewing the key metrics for your current project. What are the revenue projections, and what assumptions are they based on?

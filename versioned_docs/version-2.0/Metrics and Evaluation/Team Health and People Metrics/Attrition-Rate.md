@@ -37,7 +37,7 @@ Engineers, especially, are motivated by learning and tackling challenging proble
 
 * **Dedicated Learning Time:** Allocate a specific percentage of work time for personal development – attending conferences, taking online courses, or working on side projects.
 * **Clear Career Paths:** Outline clear progression paths for different roles and skillsets. What does it take to move from Mid-Level to Senior? From IC to Manager?
-* **Mentorship Programs:** Pair junior engineers with more experienced colleagues to foster knowledge sharing and provide guidance. [Here's a resource on best practices for mentorship programs](https://www.shrm.org/resourcesandtools/hr-topics/employee-engagement-and-retention/pages/mentoring.aspx).
+* **Mentorship Programs:** Pair junior engineers with more experienced colleagues to foster knowledge sharing and provide guidance.
 * **Stretch Assignments:** Give team members opportunities to work on projects that push their boundaries and help them learn new skills.
 
 **3. Cultivate a Positive Team Culture:**

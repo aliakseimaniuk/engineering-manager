@@ -36,7 +36,7 @@ During the initial screening phase, we implemented blind resume reviews, removin
 
 **3. Re-evaluate Your Job Descriptions:**
 
-* **Inclusive Language:**  Avoid gendered or exclusionary language in your job descriptions.  Tools like Textio ([https://textio.io/](https://textio.io/)) can help identify and correct biased wording. Be aware that Textio is a paid tool; numerous free resources for identifying biased language are also available online.
+* **Inclusive Language:**  Avoid gendered or exclusionary language in your job descriptions.
 * **Focus on Skills, Not Years of Experience:**  Years of experience can be a barrier to entry for candidates who have taken time off or have non-traditional career paths.  Instead, focus on the specific skills and knowledge required for the role.
 * **Highlight Your DEI Commitment:**  Make it clear that your company values diversity and inclusion. This will attract candidates who share those values.
 
@@ -50,6 +50,6 @@ Recruitment is only one piece of the puzzle.  To truly retain diverse talent, yo
 
 **The Bottom Line:**
 
-Building a diverse engineering team isn't just about ticking boxes. It's about creating a more innovative, resilient, and successful organization.  Research consistently demonstrates the link between diverse teams and improved business outcomes. (See, for example, McKinsey’s “Diversity Wins” report: [https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusive-companies-outperform](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusive-companies-outperform)). It requires a proactive, intentional approach to recruitment and a commitment to fostering an inclusive culture. It’s hard work, but it's work worth doing. The benefits – both for your team and for society – are undeniable.
+Building a diverse engineering team isn't just about ticking boxes. It's about creating a more innovative, resilient, and successful organization.  Research consistently demonstrates the link between diverse teams and improved business outcomes.
 
 **Take the First Step:** Audit your current recruitment process, starting with your job descriptions and sourcing channels. Identify areas where bias might be creeping in and commit to making changes.  Even small adjustments can have a significant impact.

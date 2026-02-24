@@ -63,16 +63,4 @@ You don't need to be a performance expert to be an effective engineering manager
 
 Teams often get bogged down chasing every millisecond of optimization, only to realize they were solving the wrong problems. The goal isn't to achieve perfect performance; it’s to deliver a consistently excellent user experience. 
 
-## What to Do Next
-
-Here are a few resources to help you get started:
-
-*   **SLO/SLI Resources:** [https://www.google.com/site/site-reliability-engineering/](https://www.google.com/site/site-reliability-engineering/)
-*   **Distributed Tracing (Uptrace):** [https://uptrace.dev/](https://uptrace.dev/) 
-*   **Grafana:** [https://grafana.com/](https://grafana.com/)
-
-Consider challenging your team to define SLOs for one critical service this sprint.  
-
-
-
 In conclusion, moving beyond basic uptime monitoring and embracing latency and performance indicators is no longer optional – it’s essential for success. As an engineering manager, you have a critical role to play in building a performance-focused culture and ensuring that your team has the tools and resources they need to deliver a consistently excellent user experience.

@@ -13,11 +13,9 @@ Yes, visualization is foundational. It exposes bottlenecks and makes work transp
 * **Implement Feedback Loops:** Regularly inspect and adapt the process. This is where retrospectives are crucial.
 * **Improve Collaboratively, Evolve Experimentally:** Kanban isn't about rigid adherence to rules. It’s about continuous learning and incremental improvements.
 
-
-
 ## The Power of WIP Limits: Not Just a Number
 
-I’ve seen teams resist WIP limits initially. It's natural for teams to push back against perceived constraints, so acknowledge this resistance and emphasize the benefits. The truth is, multitasking is a myth. Cognitive switching costs are significant, leading to reduced productivity and increased errors. [Research on cognitive switching](https://www.researchgate.net/publication/228738273_The_cost_of_switching_task) demonstrates the impact of task switching on efficiency. 
+I’ve seen teams resist WIP limits initially. It's natural for teams to push back against perceived constraints, so acknowledge this resistance and emphasize the benefits. The truth is, multitasking is a myth. Cognitive switching costs are significant, leading to reduced productivity and increased errors.
 
 Here’s how to approach WIP limits:
 

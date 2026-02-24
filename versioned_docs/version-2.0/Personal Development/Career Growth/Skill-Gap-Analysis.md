@@ -27,10 +27,6 @@ Here’s a framework I’ve found effective, moving beyond simple checklists:
 
 **3. Visualizing the Gaps (Consider a Skill Matrix):** A simple skill matrix (a table listing skills across the top and team members down the side, with a rating indicating proficiency level) can quickly highlight team-wide gaps. Don't aim for perfect precision; the goal is to identify patterns and prioritize development efforts.
 
-![Skill Matrix Example](https://i.imgur.com/example_skill_matrix.png) 
-
-*(Note: This is a basic example – a spreadsheet would be much more functional)*
-
 **4. Focus on Growth, Not Deficiency:** Frame the conversation around *opportunities for growth* rather than *skill deficiencies*. This fosters a positive learning environment and encourages individuals to take ownership of their development.
 
 **5. Create Personalized Development Plans:** Work with each team member to create a personalized development plan that aligns with their career goals and the team’s needs. This could include:

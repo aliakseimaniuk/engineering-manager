@@ -47,5 +47,3 @@ Don’t focus on “fixing” boredom, but on giving engineers the agency to sol
 ## Conclusion
 
 Collaboration isn't about forcing people to work together; it’s about creating an environment where they *want* to. By focusing on psychological safety, providing the right tools, and fostering intrinsic motivation, you can build a team that thrives on collaboration, innovation, and shared success. It takes effort, consistency, and a genuine commitment to creating a culture of trust and respect. 
-
-**What assumptions are you making about collaboration within your team? Challenge them.**  Consider identifying one practice you can implement this week to foster psychological safety within your team.  You can learn more about Amy Edmondson’s work on psychological safety [here](https://www.psychologicalsafety.net/). But the rewards – a more engaged, productive, and innovative team – are well worth it.

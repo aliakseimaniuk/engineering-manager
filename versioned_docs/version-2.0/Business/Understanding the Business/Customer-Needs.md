@@ -43,7 +43,7 @@ Here's how we can build a better system. It's not about eliminating PMs or UX â€
 
 ## A Mental Model: From Requirements to "Jobs To Be Done"
 
-Thinking in terms of "Jobs To Be Done" (JTBD) is a powerful way to shift the focus from feature requests to underlying customer needs. Instead of asking "What features should we build?" ask "What *job* is the customer trying to accomplish?" Learn more about the JTBD framework [here](https://www.jobs-to-be-done.com/).
+Thinking in terms of "Jobs To Be Done" (JTBD) is a powerful way to shift the focus from feature requests to underlying customer needs. Instead of asking "What features should we build?" ask "What *job* is the customer trying to accomplish?" 
 
 For example, a customer might request a "complex reporting feature." But the underlying *job* they're trying to accomplish might be "demonstrate the value of our product to stakeholders." This opens up a wider range of potential solutions â€“ perhaps a simpler dashboard, a pre-built presentation template, or even a dedicated customer success manager.
 

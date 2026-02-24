@@ -4,7 +4,7 @@ For years, “velocity” in software engineering felt like a buzzword, often th
 
 ## The Problem with Point Estimates (and Why We Still Use Them)
 
-Let's be honest: estimating work in “story points” feels… imprecise. It’s subjective. It relies on relative sizing rather than absolute time. And yet, it’s a powerful tool. Why? Because trying to estimate in *hours* is even *more* inaccurate. Humans are notoriously bad at predicting how long things will *actually* take. Points, as a relative measure of effort, complexity, risk, and uncertainty, give us a common language for conversation and a surprisingly good indicator of how much work a team can accomplish.  You can find more information about story point estimation from resources like [Atlassian](https://www.atlassian.com/agile/story-points) and [Scrum.org](https://www.scrum.org/resources/what-is-a-story-point). 
+Let's be honest: estimating work in “story points” feels… imprecise. It’s subjective. It relies on relative sizing rather than absolute time. And yet, it’s a powerful tool. Why? Because trying to estimate in *hours* is even *more* inaccurate. Humans are notoriously bad at predicting how long things will *actually* take. Points, as a relative measure of effort, complexity, risk, and uncertainty, give us a common language for conversation and a surprisingly good indicator of how much work a team can accomplish. 
 
 However, simply *having* points isn’t enough. The real value lies in consistently tracking how those points translate into delivered value.  It’s also worth acknowledging that some methodologies, like Work of Weeks (#WOW), attempt to address the scaling challenges inherent in story point estimation. 
 

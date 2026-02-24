@@ -6,7 +6,7 @@ Over two decades in this field, I’ve seen code review done well (and terribly)
 
 ## The Problem with Traditional Code Review
 
-Let’s be honest, the “traditional” approach often falls short. As decades of research in software engineering have shown e.g., Beck & Cunningham’s work on [Extreme Programming](https://www.extremeprogramming.org/), focusing solely on defect identification misses crucial opportunities for learning and improvement. The scenario of a developer feeling unsupported with ambiguous requirements, or being left to "just work it out," is frustratingly common. This isn’t a skill issue; it’s a process issue. 
+Let’s be honest, the “traditional” approach often falls short. As decades of research in software engineering have shown e.g., Beck & Cunningham’s work on Extreme Programming, focusing solely on defect identification misses crucial opportunities for learning and improvement. The scenario of a developer feeling unsupported with ambiguous requirements, or being left to "just work it out," is frustratingly common. This isn’t a skill issue; it’s a process issue. 
 
 A common pattern I’ve witnessed is a review focused *solely* on identifying errors. While important, this narrow focus misses opportunities for:
 

@@ -22,7 +22,7 @@ Okay, so we’re bought in. Now what? Here’s a practical framework for buildin
 
 **2. Start Small – and Internal First.** Don’t immediately push for contributions to massive, complex projects. 
     * **Internal Open Source:** Begin by “open sourcing” internal libraries or tools. This allows your team to practice the workflow in a familiar environment, build confidence, and refine processes before venturing outside.
-    * **"Good First Issues":** Guide engineers toward projects with clearly labeled "good first issues" - tasks specifically designed for newcomers. This lowers the barrier to entry. Websites like [goodfirstissue.dev](https://goodfirstissue.dev/) are fantastic resources.
+    * **"Good First Issues":** Guide engineers toward projects with clearly labeled "good first issues" - tasks specifically designed for newcomers. This lowers the barrier to entry.
 
 **3. Facilitate Discovery & Matching.** Not everyone knows *what* to contribute to. 
     * **Team Brainstorm:** Hold a team session to identify projects aligned with your team's tech stack and interests.

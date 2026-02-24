@@ -31,7 +31,7 @@ The best PIP is the one you avoid. Here’s how to create a team culture that pr
 * **Invest in Growth:** Provide opportunities for professional development and skill-building. This shows your team that you're invested in their success.
 * **Foster Open Communication:** Create a safe and supportive environment where team members feel comfortable raising concerns and asking for help.
 
-This proactive approach directly contributes to reducing the need for PIPs. By establishing clear expectations and providing ongoing support, you create a culture where performance issues are addressed early and effectively.  This aligns with Drew Procaccino’s research on the importance of involving developers in the planning stage [https://www.infoq.com/articles/procaccino-guidance-planning](https://www.infoq.com/articles/procaccino-guidance-planning). When we ensure clear specifications that outline *what* needs to be achieved (rather than *how*), we set our teams up for success from the start.
+This proactive approach directly contributes to reducing the need for PIPs. By establishing clear expectations and providing ongoing support, you create a culture where performance issues are addressed early and effectively.  This aligns with Drew Procaccino’s research on the importance of involving developers in the planning stage. When we ensure clear specifications that outline *what* needs to be achieved (rather than *how*), we set our teams up for success from the start.
 
 ## Connecting to the Bigger Picture – Why it Matters
 

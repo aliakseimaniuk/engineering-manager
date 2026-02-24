@@ -50,7 +50,7 @@ Addressing issues is important, but preventing them is even better. Consider the
 * **Clear Expectations:** Ensure everyone understands their roles, responsibilities, and performance expectations.
 * **Ongoing Feedback:** Provide regular, constructive feedback – not just during performance reviews. Frequent check-ins and informal feedback sessions can prevent small issues from escalating.
 * **Growth Opportunities:** Invest in your team's growth by providing opportunities for training, mentorship, and challenging projects.
-* **Psychological Safety:** Foster a culture where team members feel safe to admit mistakes, ask for help, and take risks. [Here's an article discussing the importance of psychological safety in the workplace](https://www.forbes.com/sites/amyblaschka/2023/03/23/psychological-safety-why-it-matters-and-how-to-build-it/?sh=24b9f57a61b3).
+* **Psychological Safety:** Foster a culture where team members feel safe to admit mistakes, ask for help, and take risks.
 
 
 

@@ -20,7 +20,6 @@ Technical tools are important, but they’re only effective if the team understa
 
 1. **Make Dependencies Visible:** Dependencies shouldn’t be hidden in configuration files or assumed knowledge.
     * **Dependency Maps:** Visually represent your system's dependencies. This could be a simple diagram, a dedicated document, or a tool that automatically generates dependency graphs. 
-    ![Dependency Map Example](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dependency_graph.svg/800px-Dependency_graph.svg.png) *(A simple directed graph showing service A relies on service B, which relies on database C)*
     * **Regular Dependency Reviews:** During sprint planning or architecture discussions, dedicate time to explicitly discuss dependencies.
 2. **Ownership & Communication:**
     * **Defined Owners:** Assign ownership of key dependencies. This ensures someone is responsible for monitoring, updating, and addressing issues.

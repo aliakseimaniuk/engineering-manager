@@ -4,7 +4,7 @@ For over 50 years, Conway’s Law has quietly dictated the shape of software sys
 
 ## The Law Itself: A Simple Statement, Profound Implications
 
-Melvin Conway articulated his Law in 1968 in his paper, “How Do We Organize Effective Organizations” (you can find it referenced [here](https://www.melconway.com/research/)). It states: “Any organization that designs a system, will produce a system that mirrors the organization’s communication structure.” 
+Melvin Conway articulated his Law in 1968 in his paper, “How Do We Organize Effective Organizations”. It states: “Any organization that designs a system, will produce a system that mirrors the organization’s communication structure.” 
 
 Think about that for a moment. It doesn’t say *good* or *bad* architecture. It simply states that the way your teams communicate – how information flows, who talks to whom – will *manifest* in the code you create. 
 

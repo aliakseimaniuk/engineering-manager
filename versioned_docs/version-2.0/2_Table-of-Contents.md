@@ -1,9 +1,12 @@
 # Table of Contents
 
-## Introduction
+Generated automatically.
+
+
+## Introduction.md
 - [Introduction](<./1_Introduction.md>)
 
-## Table of Contents
+## Table of Contents.md
 - [Table of Contents](<./2_Table-of-Contents.md>)
 
 ## Business
@@ -497,23 +500,6 @@
 - [Key Satisfaction Metrics](<./Stakeholder Management/Measuring Stakeholder Satisfaction/Key-Satisfaction-Metrics.md>)
 - [Reporting to Stakeholders](<./Stakeholder Management/Measuring Stakeholder Satisfaction/Reporting-to-Stakeholders.md>)
 - [Satisfaction Surveys](<./Stakeholder Management/Measuring Stakeholder Satisfaction/Satisfaction-Surveys.md>)
-
-## Sustainability in Engineering
-
-### Implementing Sustainable Practices
-- [Energy Efficient Infrastructure](<./Sustainability in Engineering/Implementing Sustainable Practices/Energy-Efficient-Infrastructure.md>)
-- [Green Software Engineering](<./Sustainability in Engineering/Implementing Sustainable Practices/Green-Software-Engineering.md>)
-- [Sustainable Supply Chain Management](<./Sustainability in Engineering/Implementing Sustainable Practices/Sustainable-Supply-Chain-Management.md>)
-
-### Promoting Sustainability Culture
-- [Employee Engagement in Sustainability](<./Sustainability in Engineering/Promoting Sustainability Culture/Employee-Engagement-in-Sustainability.md>)
-- [Measuring and Reporting Sustainability Efforts](<./Sustainability in Engineering/Promoting Sustainability Culture/Measuring-and-Reporting-Sustainability-Efforts.md>)
-- [Sustainability Training Programs](<./Sustainability in Engineering/Promoting Sustainability Culture/Sustainability-Training-Programs.md>)
-
-### Understanding Sustainability
-- [Environmental Impact of Technology](<./Sustainability in Engineering/Understanding Sustainability/Environmental-Impact-of-Technology.md>)
-- [Key Concepts and Principles](<./Sustainability in Engineering/Understanding Sustainability/Key-Concepts-and-Principles.md>)
-- [Sustainable Development Goals (SDGs)](<./Sustainability in Engineering/Understanding Sustainability/Sustainable-Development-Goals-(SDGs).md>)
 
 ## Team Culture
 

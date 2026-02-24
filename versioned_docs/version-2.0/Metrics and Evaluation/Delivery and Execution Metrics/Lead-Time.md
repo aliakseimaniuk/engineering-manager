@@ -56,10 +56,4 @@ Reducing Lead Time isn't just about efficiency. It's about responsiveness, innov
 
 Reducing Lead Time isn’t always easy. There will be challenges and setbacks along the way. But the benefits – increased velocity, improved morale, and a more competitive product – are well worth the effort.
 
-
-
 I’ve seen firsthand how a focus on Lead Time can revitalize a team. It forces you to identify and address systemic issues, rather than just treating the symptoms. The team I mentioned earlier? The talent exodus continued. The remaining team member who was good at talking remained, but the damage to team morale and productivity was irreversible. Don't let a slow Lead Time become the silent killer of your engineering velocity and your team's morale. 
-
-**What’s one thing you can do *today* to start measuring and improving your team’s Lead Time?** Start measuring, analyze the data, and begin chipping away at those bottlenecks. 
-
-[1] [https://www.atlassian.com/agile/lean/lead-time](https://www.atlassian.com/agile/lean/lead-time)

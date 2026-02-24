@@ -39,7 +39,7 @@ A beautiful scorecard is useless if it doesn't drive improvement. Here's how to 
 * **Set Clear Targets:** Define what "good" looks like for each indicator. Use historical data or industry benchmarks.
 * **Regular Review:** Review the scorecard with the team *regularly* (e.g., weekly or bi-weekly).
 * **Focus on Trends, Not Just Numbers:** Are things getting better or worse? Understand *why*.
-* **Root Cause Analysis:** When an indicator falls below target, don’t just fix the symptom. Dig deeper to identify the underlying cause. (This is where techniques like the “5 Whys” can be invaluable. You can find a detailed explanation and example of the 5 Whys technique here: [https://www.mindtools.com/pages/article/new-pp_5why.htm](https://www.mindtools.com/pages/article/new-pp_5why.htm))
+* **Root Cause Analysis:** When an indicator falls below target, don’t just fix the symptom. Dig deeper to identify the underlying cause. (This is where techniques like the “5 Whys” can be invaluable.
 * **Transparency:** Share the scorecard widely within the engineering organization. 
 
 ## Beyond the Numbers: The Human Element

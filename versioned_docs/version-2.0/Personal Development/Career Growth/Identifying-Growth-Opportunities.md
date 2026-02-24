@@ -26,12 +26,6 @@ Here are a few examples I've seen (and experienced):
 * **From Desktop App to Mobile:**  Seems obvious, right? But often the mobile version isn’t a direct port. It’s a streamlined, focused experience addressing a different user need (on-the-go access, quick tasks).
 * **From Feature to Standalone Product:**  A complex feature within a larger application proved so valuable it spun out into a separate, targeted product.
 
-**Visual Aid:** 
-
-![2x2 Matrix](https://via.placeholder.com/400x300?text=Core+Technology+%5BAxis+1%5D+vs.+User+Needs+%5BAxis+2%5D)
-
-*(This is a placeholder image. A real 2x2 matrix would visually map potential intersections of core technology and user needs to identify adjacent opportunities.)*
-
 To identify these opportunities, actively encourage your team to:
 
 * **Spend time with user research data.** Don’t just look at bug reports; dig into user interviews and feedback sessions.

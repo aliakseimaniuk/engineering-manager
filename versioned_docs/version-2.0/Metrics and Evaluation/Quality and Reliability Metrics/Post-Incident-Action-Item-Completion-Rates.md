@@ -29,8 +29,6 @@ Building on the classic SMART framework (Specific, Measurable, Achievable, Relev
 
 This can be visualized using a simple Impact vs. Risk matrix. Action items plotted on this matrix quickly highlight priorities:
 
-![Impact vs Risk Matrix](https://example.com/impact_risk_matrix.png) *(Replace this with an actual image or link to an image)*
-
 **2. Allocating Time for Reliability Work**
 
 This is critical. Allocate a dedicated block of time (e.g., one sprint per quarter, one day per month) specifically for addressing post-incident action items and other technical debt. Protect this time fiercely.

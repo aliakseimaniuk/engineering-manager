@@ -1,6 +1,6 @@
 # Best Practices
 
-Knowledge Management. It sounds…dry. Like a policy you’ll enforce rather than a system your team embraces. But in engineering, effective knowledge management isn’t about forcing documentation; it’s about cultivating a *learning* team. Over two decades leading engineering organizations, I've seen firsthand that a team’s ability to learn, adapt, and build on past experiences is a key predictor of long-term success. Research consistently demonstrates that organizations with robust learning cultures are more innovative, resilient, and adaptable to change. [Here's a relevant article on the topic](https://hbr.org/2021/03/how-to-build-a-learning-organization).
+Knowledge Management. It sounds…dry. Like a policy you’ll enforce rather than a system your team embraces. But in engineering, effective knowledge management isn’t about forcing documentation; it’s about cultivating a *learning* team. Over two decades leading engineering organizations, I've seen firsthand that a team’s ability to learn, adapt, and build on past experiences is a key predictor of long-term success. Research consistently demonstrates that organizations with robust learning cultures are more innovative, resilient, and adaptable to change.
 
 This isn’t just about having good documentation (though that *is* important). It’s about creating systems, habits, and a culture where knowledge flows freely, is actively shared, and is continuously improved. Here’s how to move beyond simply *storing* knowledge to *leveraging* it.
 

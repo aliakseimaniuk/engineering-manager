@@ -2,7 +2,7 @@
 
 For two decades, I’ve led engineering teams through periods of rapid growth, technical upheaval, and the constant pressure to deliver. And through it all, one thing has become undeniably clear: Diversity, Equity, and Inclusion (DEI) isn't some HR-driven initiative to check boxes. It's a fundamental driver of engineering *excellence*. 
 
-I've seen firsthand how teams that embrace DEI consistently outperform those that don't. Not just in terms of “doing the right thing” (though that's critical), but in innovation, problem-solving, and ultimately, delivering a better product. This isn’t about altruism; it’s about building a more robust and effective engineering organization. In fact, a McKinsey report found that companies in the top quartile for racial and ethnic diversity are 35% more likely to have financial returns above their national industry medians. [https://www.mckinsey.com/diversity-and-inclusion/diversity-wins-how-inclusive-companies-outperform](https://www.mckinsey.com/diversity-and-inclusion/diversity-wins-how-inclusive-companies-outperform)
+I've seen firsthand how teams that embrace DEI consistently outperform those that don't. Not just in terms of “doing the right thing” (though that's critical), but in innovation, problem-solving, and ultimately, delivering a better product. This isn’t about altruism; it’s about building a more robust and effective engineering organization. In fact, a McKinsey report found that companies in the top quartile for racial and ethnic diversity are 35% more likely to have financial returns above their national industry medians.
 
 ## The Problem with Homogenous Thinking
 

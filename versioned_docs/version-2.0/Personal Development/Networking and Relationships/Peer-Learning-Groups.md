@@ -11,7 +11,7 @@ Think about the typical learning scenarios for an engineering manager. You might
 Here's why that matters:
 
 * **Contextual Relevance:** Challenges faced by other engineering managers are likely to resonate with your own, making discussions immediately applicable.
-* **Psychological Safety:** A trusted group provides a safe space to admit vulnerabilities, ask “difficult” questions, and experiment with new ideas without fear of judgment. This is *critical* for growth. [Here's a resource on the importance of psychological safety in teams: https://www.psychologicalsafety.net/](https://www.psychologicalsafety.net/)
+* **Psychological Safety:** A trusted group provides a safe space to admit vulnerabilities, ask “difficult” questions, and experiment with new ideas without fear of judgment. This is *critical* for growth.
 * **Diverse Perspectives:** Each member brings a unique background, experience, and perspective. Diverse perspectives spark creative problem-solving and a wider understanding of complex issues.
 * **Accountability & Motivation:** Knowing you’ll be discussing your progress (or lack thereof!) with your peers provides powerful motivation to take action.
 * **It’s Sustainable:** Unlike a one-off workshop, a peer learning group is a continuous process that can adapt to evolving needs.

@@ -32,7 +32,7 @@ Here’s how to move beyond broadcast mode and foster genuine, effective communi
 
 **Building Trust Through Honest Wins**
 
-I’ve found inspiration in fields outside of tech. Thinking about negotiation and conflict resolution, the concept of “honest wins” resonates strongly. A truly successful outcome isn’t about “winning” at all costs; it’s about ensuring all parties feel satisfied and respected. This translates directly to crisis communication – building trust and rapport during challenging times. Acknowledge the pain points, be transparent about the challenges, and demonstrate a commitment to finding a solution that addresses everyone's needs. [Here's a resource on crisis leadership from Harvard Business Review that explores similar themes.](https://hbr.org/topic/crisis-leadership)
+I’ve found inspiration in fields outside of tech. Thinking about negotiation and conflict resolution, the concept of “honest wins” resonates strongly. A truly successful outcome isn’t about “winning” at all costs; it’s about ensuring all parties feel satisfied and respected. This translates directly to crisis communication – building trust and rapport during challenging times. Acknowledge the pain points, be transparent about the challenges, and demonstrate a commitment to finding a solution that addresses everyone's needs.
 
 **Empowering Teams with Organized Responsiveness**
 

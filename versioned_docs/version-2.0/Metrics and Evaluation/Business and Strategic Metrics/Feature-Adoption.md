@@ -17,10 +17,6 @@ Here’s a breakdown of metrics that move beyond surface-level activity:
 * **Impact on Key Outcomes:** This is where things get interesting. Did the feature *actually* improve the metric it was designed to influence? (e.g., increased conversion rates, reduced support tickets, faster task completion times). This is the ultimate measure of success.
 * **Task Completion Rate:** If the feature is designed to help users achieve a specific task, track how successfully they complete that task *with* the feature versus *without* it.
 
-![Activity vs. Adoption Metrics](https://via.placeholder.com/600x300/007bff/ffffff?text=Activity%20vs.%20Adoption%20Metrics%20Table)
-
-*This simple table illustrates the difference between tracking basic activity and measuring actual adoption. (Example Table: Columns - Metric Type, Activity Metric, Adoption Metric. Rows - Basic Usage, Engagement, Value)*
-
 ## Why Feature Flags Are Your Secret Weapon
 
 Let’s be honest: launching a new feature and hoping for the best is a risky game. What if it introduces bugs? What if it confuses users? What if it just… doesn’t resonate? 
@@ -33,10 +29,6 @@ I've seen teams use feature flags to:
 * **A/B Testing:** Compare different versions of the feature to see which performs better.
 * **Targeted Rollouts:** Release the feature to specific user segments (e.g., beta testers, premium subscribers).
 * **Instant Kill Switch:** If something goes wrong, you can instantly disable the feature without a code rollback.
-
-![Feature Flag Workflow](https://via.placeholder.com/600x300/28a745/ffffff?text=Feature%20Flags%20Decouple%20Deployment%20and%20Release)
-
-*This diagram illustrates how feature flags separate code deployment from feature release, enabling controlled rollouts and risk mitigation.*
 
 Tools like [Toggled.dev](https://toggled.dev/) help manage these flags at scale. Even in the early 2000s, researchers noted the benefits of configurable functionality in reducing risk and increasing flexibility.  A 2001 paper presented at PROFES demonstrated that configurable systems could significantly reduce deployment failures. In today’s world of rapid iteration, that principle is even *more* relevant.
 

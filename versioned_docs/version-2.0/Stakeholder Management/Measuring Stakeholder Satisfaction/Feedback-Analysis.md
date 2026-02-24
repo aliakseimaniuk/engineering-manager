@@ -49,10 +49,6 @@ This is where the real work begins. Don’t just look for isolated incidents. Lo
 
 Not all feedback is created equal. Use a simple framework like an Impact/Effort matrix to prioritize what to address first. 
 
-Here's an example of what an Impact/Effort matrix might look like:
-
-![Impact/Effort Matrix](https://example.com/impact-effort-matrix.png)  *(Replace with an actual image link)*
-
 * **High Impact, Low Effort:** These are “quick wins.” Address them immediately.
 * **High Impact, High Effort:** These require more planning and resources. Break them down into smaller, manageable steps.
 * **Low Impact, Low Effort:** Address these if you have time.

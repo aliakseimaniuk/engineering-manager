@@ -26,7 +26,7 @@ New team members, and even experienced ones taking on new roles, need guidance a
 
 **Why it happens:** A focus on immediate deliverables and a belief that technical skills are enough. 
 
-**How to avoid it:**  Prioritize thorough onboarding – providing clear expectations, necessary resources, and opportunities for learning.  Pair new team members with mentors who can offer guidance, answer questions, and help them navigate the organization. Good onboarding reduces time to productivity and increases retention, providing a strong return on investment. [Consider exploring onboarding checklists and mentorship program resources for guidance.](https://www.example.com/onboarding-resources)
+**How to avoid it:**  Prioritize thorough onboarding – providing clear expectations, necessary resources, and opportunities for learning.  Pair new team members with mentors who can offer guidance, answer questions, and help them navigate the organization. Good onboarding reduces time to productivity and increases retention, providing a strong return on investment.
 
 ### Mistake #4: Being Reactive Instead of Proactive
 

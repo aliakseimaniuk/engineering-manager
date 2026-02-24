@@ -32,7 +32,7 @@ Instead of relying solely on the basic formula, I recommend a more holistic fram
     * **Cost Reduction:** Estimate savings in areas like infrastructure, support, or manual effort.
     * **Efficiency Gains:** How much time will the investment save the team? (Translate this into cost savings).
     * **Risk Mitigation:**  How does the investment reduce the risk of failures or security breaches? (This can be harder to quantify, but vital to consider).
-    * **Developer Happiness & Retention:** (Estimate based on industry benchmarks or internal surveys). High developer satisfaction translates to lower turnover and improved productivity. (See the [Stack Overflow Developer Survey](https://survey.stackoverflow.co/2023/) and [GitLab’s State of DevOps Report](https://about.gitlab.com/topics/devops-research/) for industry benchmarks).
+    * **Developer Happiness & Retention:** (Estimate based on industry benchmarks or internal surveys). High developer satisfaction translates to lower turnover and improved productivity.
 
 **4. Scenario Planning & Sensitivity Analysis:** Don’t rely on a single projection.  Create best-case, worst-case, and most-likely scenarios.  Run sensitivity analysis to understand how changes in key variables (e.g., adoption rate, development time) impact the ROI.  This helps identify potential risks and build contingency plans. 
 

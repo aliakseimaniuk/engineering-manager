@@ -54,8 +54,3 @@ It’s important to acknowledge that ethical decision-making can be emotionally 
 Ultimately, the question isn’t just “can we build this?” but “*should* we build this?” And answering that question requires more than just technical expertise—it demands ethical reasoning, empathy, and a commitment to building technology that benefits humanity. 
 
 I encourage you to schedule a team discussion next week to review a recent ethical dilemma your team faced, or to revisit your team's coding standards through an ethical lens. 
-
-**Resources for Further Reading:**
-
-*   [The Markkula Center for Applied Ethics](https://www.scu.edu/ethics/)
-*   [Ethics and Technology - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-technology/)

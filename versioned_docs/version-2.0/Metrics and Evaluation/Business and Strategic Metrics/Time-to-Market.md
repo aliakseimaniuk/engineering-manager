@@ -19,7 +19,7 @@ I once worked with a fintech startup building a crypto trading platform. They we
 
 What followed wasn’t the market dominance they envisioned. The rapid development led to significant bugs – including a critical vulnerability allowing unauthorized access to user wallets – and a fragile infrastructure that crashed repeatedly during peak trading times. The company spent almost as much time firefighting as building new features. They boasted 3.5 million active customers at their peak, but ultimately struggled to retain them due to the unreliable experience. 
 
-This example illustrates a crucial point: speed without quality is a mirage. In highly competitive markets (and let’s face it, most of tech is), simply being first isn't enough. Profits are quickly destroyed if you don't deliver a stable, reliable product. [According to a study by Bain & Company, companies that prioritize customer experience are 60% more profitable than those that don't](https://www.bain.com/insights/customer-experience-is-the-new-frontier).
+This example illustrates a crucial point: speed without quality is a mirage. In highly competitive markets (and let’s face it, most of tech is), simply being first isn't enough. Profits are quickly destroyed if you don't deliver a stable, reliable product.
 
 ## Evaluating Long-Term Defensibility: Beyond the Launch
 

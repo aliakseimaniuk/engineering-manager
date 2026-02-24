@@ -6,7 +6,7 @@ Too often relegated to the “documentation dump” or treated as an afterthough
 
 ## The Problem with Tacit Knowledge
 
-We talk a lot about technical debt, but what about *knowledge* debt? In any growing engineering organization, a huge amount of critical information lives *only* in people’s heads. “Who knows how to deploy the X service?” “Where did we decide on the architecture for Y?” These questions often lead to frustrating Slack threads, context switching, and ultimately, wasted time. Studies on context switching consistently demonstrate significant productivity losses – often exceeding 20% – highlighting the real cost of relying on undocumented tribal knowledge. [https://www.rescuetime.com/blog/context-switching-cost/](https://www.rescuetime.com/blog/context-switching-cost/)
+We talk a lot about technical debt, but what about *knowledge* debt? In any growing engineering organization, a huge amount of critical information lives *only* in people’s heads. “Who knows how to deploy the X service?” “Where did we decide on the architecture for Y?” These questions often lead to frustrating Slack threads, context switching, and ultimately, wasted time. Studies on context switching consistently demonstrate significant productivity losses – often exceeding 20% – highlighting the real cost of relying on undocumented tribal knowledge.
 
 This "tacit knowledge" is incredibly fragile. What happens when that key person leaves the company? Or goes on vacation? Or simply forgets the intricate details after working on something else for a while? That knowledge, and all the effort that went into acquiring it, is effectively lost.
 

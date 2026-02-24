@@ -15,9 +15,6 @@ Before addressing the issue, it's crucial to understand *why* an employee is str
 * **Poor Communication:** Misunderstandings, lack of clarity, or insufficient feedback contribute to the issue. *Potential Solution:* Implement regular one-on-one meetings, provide clear expectations, and encourage open dialogue.
 * **Conflict with Colleagues:** Interpersonal issues disrupt teamwork and negatively impact performance. *Potential Solution:* Facilitate mediation or coaching to address the conflict and foster a more collaborative environment.
 
-A helpful tool for identifying root causes is a Fishbone Diagram (also known as an Ishikawa diagram). You can learn more about creating one here: [https://www.mindtools.com/pages/article/new-fishbone.htm](https://www.mindtools.com/pages/article/new-fishbone.htm)
-
-
 
 ### Having the Conversation
 

@@ -23,12 +23,6 @@ Now, let’s talk about a more realistic – and effective – target: **60-70% 
 * **It Encourages Innovation:** A challenging target fosters a culture of experimentation. Teams are more likely to explore creative solutions when they know they're not penalized for taking calculated risks.
 * **It Differentiates Between Effort and Impact:**  Hitting 60-70% requires focused effort on the *right* things. It forces prioritization and ruthlessly cuts away tasks that don’t contribute to the objective.
 
-**Visual Aid:**
-
-![Bell Curve Diagram](https://via.placeholder.com/400x200/007bff/ffffff?text=OKR+Achievement+Distribution)
-
-*A simple bell curve diagram illustrating the distribution of achievement rates. One peak at 60-70%, a smaller peak at near 100% (representing sandbagging), and a tail extending to lower rates (representing significant challenges and learning opportunities).*
-
 ## Beyond the Percentage: Qualitative Review
 
 While the 60-70% guideline is useful, don't treat it as a rigid rule. Numbers alone don't tell the whole story. Complement your quantitative analysis with a thorough qualitative review:

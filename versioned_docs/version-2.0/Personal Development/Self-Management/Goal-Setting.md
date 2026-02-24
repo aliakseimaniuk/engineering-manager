@@ -18,8 +18,6 @@ I've found success using a three-layered system that connects high-level strateg
 * **Objectives (The "What"):** These are measurable statements that support the strategy. For example, "Increase user engagement by 20% in Q3." Objectives are *results*-focused. They answer the question, “How will we know we’re making progress towards our strategy?”
 * **Tactical Goals (The "How"):** These are the specific, actionable steps your team will take to achieve the objective. *This* is where SMART goals come in. For example, "Refactor the user onboarding flow to improve completion rates by 10% by the end of July."
 
-![Funnel Diagram](https://via.placeholder.com/400x200/007bff/ffffff?text=Strategy%20%3E%20Objectives%20%3E%20Tactical%20Goals)  *(A simple illustration of the layered approach)*
-
 This approach isn't the only game in town, of course. Frameworks like OKRs (Objectives and Key Results) also offer valuable guidance. However, this layered model provides a clear and intuitive structure for connecting strategic vision to daily execution.
 
 ## Beyond the Layers: Alignment & Investor Expectations

@@ -50,7 +50,3 @@ Leading budget reviews isn’t always easy. Teams may be resistant to the extra 
 As engineering leaders, we’re often focused on building amazing products. But equally important is building a system that allows us to understand *how* we’re building them. Budget variance isn't a sign of failure; it’s a valuable source of feedback. Embracing variance allows us to improve planning, execution, and deliver more value.
 
 Start implementing regular budget reviews this week and empower your teams to deliver exceptional results.
-
-**Further Resources:**
-
-* [A Guide to Earned Value Management](https://www.apm.org.uk/resources/find-resources/guides/earned-value-management/) - A detailed overview of a powerful project performance measurement technique.

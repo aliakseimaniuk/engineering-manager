@@ -15,7 +15,7 @@ I remember leading a team at a fast-growing startup where we were constantly fir
 
 ## A Framework for Intentional Allocation: RICE & Beyond
 
-Prioritization frameworks are helpful, but they're not silver bullets. I've found the RICE scoring model (Reach, Impact, Confidence, Effort) a good starting point, but it needs to be complemented with a more strategic understanding of team capacity. [Learn more about the RICE scoring model here.](https://www.intercom.com/blog/rice-scoring-formula/)
+Prioritization frameworks are helpful, but they're not silver bullets. I've found the RICE scoring model (Reach, Impact, Confidence, Effort) a good starting point, but it needs to be complemented with a more strategic understanding of team capacity.
 
 **RICE Breakdown:**
 

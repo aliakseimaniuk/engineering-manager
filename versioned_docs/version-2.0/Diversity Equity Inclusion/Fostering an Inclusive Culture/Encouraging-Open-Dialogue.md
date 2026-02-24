@@ -38,7 +38,7 @@ Okay, you've built some psychological safety. Now what? Here's how to approach d
 
 Often, engineering leaders rely on HR or DEI committees to address these critical conversations. While those resources are invaluable, the most significant change happens when we, as leaders, create a culture of open communication *within* our teams.  
 
-This means being willing to have these conversations ourselves, modeling vulnerability, and empowering our teams to address issues directly and respectfully. It's about building the *muscle* of direct, constructive dialogue, rather than deferring to external resources. [For further reading on fostering psychological safety, see Amy Edmondson's work on the topic.](https://www.amyedmondson.com/)
+This means being willing to have these conversations ourselves, modeling vulnerability, and empowering our teams to address issues directly and respectfully. It's about building the *muscle* of direct, constructive dialogue, rather than deferring to external resources.
 
 ## Actionable Steps & Integrating Feedback Mechanisms
 

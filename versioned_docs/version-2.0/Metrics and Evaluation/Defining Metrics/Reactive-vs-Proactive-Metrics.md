@@ -54,5 +54,3 @@ Finally, remember that metrics are just *data points*. They don't tell the whole
 I've seen teams get so obsessed with hitting certain metric targets that they lost sight of the bigger picture. 
 
 Shifting to a proactive approach to engineering metrics is a journey, not a destination. It requires a commitment to continuous improvement, a willingness to experiment, and a focus on building a healthy, resilient engineering organization. 
-
-**Take 15 minutes this week to brainstorm leading indicators for your most critical user journey.** You can find a helpful template to get started [here](https://example.com/metricstemplate) .

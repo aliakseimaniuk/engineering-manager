@@ -10,7 +10,7 @@ But how do we move beyond simply *wanting* engaged employees to actually *measur
 
 Annual engagement surveys are a starting point, but they're often too infrequent and broad to be truly insightful. We need a more nuanced and continuous approach. Here are a few metrics I’ve found particularly valuable:
 
-* **eNPS (Employee Net Promoter Score):** A simple, yet powerful question: "On a scale of 0-10, how likely are you to recommend this company as a place to work?" Subtract the percentage of Detractors (0-6) from the percentage of Promoters (9-10). This gives you a single number, but *follow up with qualitative questions* to understand the 'why' behind the score.  It’s important to note that eNPS scores can be influenced by recent experiences and shouldn’t be viewed in isolation. [Learn more about the pros and cons of eNPS here](https://www.questionpro.com/blog/employee-net-promoter-score-enps/).
+* **eNPS (Employee Net Promoter Score):** A simple, yet powerful question: "On a scale of 0-10, how likely are you to recommend this company as a place to work?" Subtract the percentage of Detractors (0-6) from the percentage of Promoters (9-10). This gives you a single number, but *follow up with qualitative questions* to understand the 'why' behind the score.  It’s important to note that eNPS scores can be influenced by recent experiences and shouldn’t be viewed in isolation.
 * **Contribution Metrics:** This is where we move beyond *feeling* and into *doing*. Track things like:
     * **Pull Request/Code Review Participation:** Are engineers actively contributing and reviewing each other’s work? A decline could signal disengagement.
     * **Volunteering for Stretch Goals/New Projects:** Are people raising their hands for challenging opportunities?

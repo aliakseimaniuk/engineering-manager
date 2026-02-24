@@ -31,7 +31,7 @@ I've found a simple framework helps. I call it the 3 Ps: **Purpose, Participants
 
 **2. Participants: Be Ruthless**
 
-* **The “Two Pizza Rule”:** Jeff Bezos famously advocated for teams small enough to be fed with two pizzas. [https://www.businessinsider.com/jeff-bezos-two-pizza-rule-team-size-amazon-2018-1](https://www.businessinsider.com/jeff-bezos-two-pizza-rule-team-size-amazon-2018-1) Apply this to meetings. Keep the group as lean as possible.
+* **The “Two Pizza Rule”:** Jeff Bezos famously advocated for teams small enough to be fed with two pizzas. Apply this to meetings. Keep the group as lean as possible.
 * **Consider who *needs* to be there vs. who *wants* to be there.**  It’s okay to politely exclude people. “I want to keep this focused, but I’ll share a summary of the key takeaways with you afterward.”
 * **Designate a facilitator.** This person is responsible for keeping the discussion on track, ensuring everyone has a chance to speak, and capturing action items. Rotate this role to develop leadership skills within the team and distribute the workload.
 

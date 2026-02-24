@@ -61,7 +61,3 @@ Let’s be real. A poorly run meeting with five engineers is a significant drain
 Meetings are inevitable. But they don’t have to be unproductive. By being intentional about purpose, attendees, and facilitation, you can transform them into powerful tools for collaboration, alignment, and progress.  
 
 Take a look at your team’s calendar this week. Identify one recurring meeting that could be shortened, cancelled, or restructured. Experiment with these principles. This week, challenge your team to cancel one meeting that doesn't deliver clear value. You might be surprised by the impact you can have. 
-
-**Resources:**
-
-* [Effective Meeting Facilitation Guide](https://www.example.com/meeting-facilitation-guide) *(Replace with a relevant link)*

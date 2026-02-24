@@ -6,7 +6,7 @@ This post will focus on how engineering managers can move beyond simply *impleme
 
 ## The Evolving Landscape of Engineering Compliance
 
-Traditionally, compliance in engineering meant things like secure coding practices (OWASP Top 10, etc.) and adherence to industry standards. While still vital, the scope has expanded dramatically. We now grapple with concerns around data privacy (GDPR, CCPA), open-source license compliance, third-party component security, and ethical AI development. Ignoring these areas can be costly; recent reports indicate that non-compliance with data privacy regulations alone results in billions of dollars in fines annually. [https://www.gdpr.eu/](https://www.gdpr.eu/)
+Traditionally, compliance in engineering meant things like secure coding practices (OWASP Top 10, etc.) and adherence to industry standards. While still vital, the scope has expanded dramatically. We now grapple with concerns around data privacy (GDPR, CCPA), open-source license compliance, third-party component security, and ethical AI development. Ignoring these areas can be costly; recent reports indicate that non-compliance with data privacy regulations alone results in billions of dollars in fines annually.
 
 Tools like **Osano** for consent management, **Vault** for secure password management (primarily designed as an organizational solution, with individual plans available), and systems that track open-source dependencies (like those integrated within **FOSSA**) are essential parts of the toolkit. But these are *tools*. They are not a substitute for a thoughtful, proactive approach.
 

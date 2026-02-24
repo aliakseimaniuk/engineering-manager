@@ -33,9 +33,6 @@ Here’s a practical framework I’ve adapted over the years, moving from identi
 
 This is where qualitative data can be incredibly valuable.  Combine your quantitative findings with insights from team check-ins and pulse surveys to understand *how* and *why* changes are (or aren't) effective.  For instance, if cycle time hasn't improved, qualitative feedback might reveal a hidden dependency or a persistent process bottleneck.
 
-
-![Sample Run Chart](https://example.com/run_chart.png)  *(Replace with an actual image)*
-
 ## Beyond Hard Numbers: Qualitative Data and Pulse Surveys
 
 Regular pulse surveys (short, frequent surveys asking a single question, like "On a scale of 1-5, how blocked do you feel today?") can provide valuable context and identify unexpected consequences. We've found that combining quantitative data with regular “how are we doing?” check-ins with the team is the sweet spot. The data shows *what* is changing, while the qualitative feedback helps explain *how* it is changing.

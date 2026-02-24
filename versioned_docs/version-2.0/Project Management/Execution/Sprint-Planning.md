@@ -68,7 +68,3 @@ Effective Sprint Planning isn't about checking boxes. It's about fostering a sha
 **Challenge:**
 
 For your next sprint planning meeting, focus on actively identifying potential risks for each story. Document them clearly and discuss how you’ll mitigate them. 
-
-**Explore Further:**
-
-Visit [easyretro.io](https://www.easyretro.io/) to learn more about facilitating effective retrospectives and improving your team’s processes.

@@ -22,9 +22,9 @@ Here's a practical approach to establish a shared terminology. I recommend adapt
 
 Don't reinvent the wheel. Leverage established definitions, but *critically discuss them as a team*. Here’s a starting point, with links to further resources:
 
-* **Diversity:** The presence of differences within a group, encompassing dimensions like race, ethnicity, gender, sexual orientation, socioeconomic background, neurodiversity, and more. [SHRM Diversity Definition](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/diversity-and-inclusion/pages/defining-diversity-and-inclusion.aspx) *Important nuance*: Diversity is often about representation, but it’s only the first step.
-* **Equity:** Recognizing that individuals start from different places and require different levels of support to achieve fair outcomes. Equity isn't about treating everyone the same; it's about providing what each person *needs* to succeed. [Deloitte Equity Definition](https://www2.deloitte.com/us/en/insights/focus/equity/diversity-equity-inclusion.html)
-* **Inclusion:** Creating an environment where everyone feels valued, respected, and has equal access to opportunities. It’s about ensuring all voices are heard and considered. [Harvard Business Review Inclusion Definition](https://hbr.org/2017/12/what-does-inclusion-really-look-like)
+* **Diversity:** The presence of differences within a group, encompassing dimensions like race, ethnicity, gender, sexual orientation, socioeconomic background, neurodiversity, and more. *Important nuance*: Diversity is often about representation, but it’s only the first step.
+* **Equity:** Recognizing that individuals start from different places and require different levels of support to achieve fair outcomes. Equity isn't about treating everyone the same; it's about providing what each person *needs* to succeed. 
+* **Inclusion:** Creating an environment where everyone feels valued, respected, and has equal access to opportunities. It’s about ensuring all voices are heard and considered.
 * **Belonging:** The feeling of being accepted and valued for who you are, allowing you to bring your authentic self to work. Belonging goes beyond inclusion; it’s about psychological safety and a sense of connection.
 
 **2. Operationalize the Concepts – Move Beyond Theory**

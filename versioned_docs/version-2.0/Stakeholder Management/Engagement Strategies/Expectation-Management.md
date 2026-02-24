@@ -22,9 +22,6 @@ Here's a framework I've found helpful, built around three key phases: **Set Clea
 
 * **Regular Updates:** Don't wait for status meetings. Provide frequent, concise updates on progress, roadblocks, and any changes to the timeline. Short daily stand-ups are invaluable.
 * **Visual Progress Tracking:** Use tools like Jira, Trello, or even a simple spreadsheet to visually represent progress. A burndown chart can be a powerful way to show how work is being completed. 
-
-![Simple Burndown Chart Example](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burndown_chart.svg/600px-Burndown_chart.svg.png)
-
 * **Be Honest About Challenges:** Don't sugarcoat problems. If something is going wrong, communicate it immediately. Acknowledge the impact and propose solutions.
 * **Active Listening:** Truly listen to concerns from stakeholders. Understand their priorities and address them thoughtfully.
 * **Document Everything:** Keep a record of all key decisions, estimates, and agreements. This provides a single source of truth and prevents misunderstandings.

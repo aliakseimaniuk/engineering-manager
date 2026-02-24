@@ -12,7 +12,7 @@ We often hear about the CEO’s responsibility for “vision” and “strategy.
 * **Talent Acquisition & Retention (at the Executive Level):** While HR handles the majority of hiring, the CEO is ultimately responsible for building and maintaining a strong executive team.
 * **External Representation:** Being the face of the company to the public, the media, and potential partners.
 
-Understanding *these* responsibilities—the constant pressure, the long hours spent wrestling with incredibly complex problems—provides crucial context. The CEO isn't just dreaming up cool features; they're wrestling with the survival of the company. [Here's a relevant article discussing the core responsibilities of a CEO: https://hbr.org/2018/03/the-ceo-s-most-important-job-is-strategist](https://hbr.org/2018/03/the-ceo-s-most-important-job-is-strategist)
+Understanding *these* responsibilities—the constant pressure, the long hours spent wrestling with incredibly complex problems—provides crucial context. The CEO isn't just dreaming up cool features; they're wrestling with the survival of the company.
 
 ## How This Impacts *You* as an Engineering Manager
 

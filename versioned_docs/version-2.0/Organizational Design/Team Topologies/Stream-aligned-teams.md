@@ -28,17 +28,6 @@ Here’s how it works:
 
 Imagine a factory assembly line – each team focuses on a specific step, passing the product down the line. This visual can help illustrate the flow-based nature of stream-aligned teams.
 
-**Visualizing the Difference**
-
-**(See diagram below)**
-
-| **Traditional Cross-Functional Teams** | **Stream-Aligned Teams with Enabling & Complicated Subsystem Teams** |
-|---|---|
-| ![Cross Functional Diagram](https://via.placeholder.com/400x200/007bff/ffffff?text=Cross-Functional+Teams) | ![Stream Aligned Diagram](https://via.placeholder.com/400x200/28a745/ffffff?text=Stream-Aligned+Teams) |
-| Multiple teams, each with duplicated roles (engineer, designer, QA).  | Stream-aligned teams focused on specific value streams.  Enabling and Complicated Subsystem teams provide specialized support. |
-
-
-
 **A Real-World Example**
 
 At a previous company, we were struggling with slow feature delivery for our mobile app. We had three cross-functional teams, each trying to own the entire mobile experience. This led to constant back-and-forth, duplicated effort, and a slow release cadence. 

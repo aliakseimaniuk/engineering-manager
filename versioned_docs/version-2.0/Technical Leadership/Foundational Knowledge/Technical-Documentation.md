@@ -22,7 +22,7 @@ The idea of “documentation” often conjures images of exhaustive, meticulousl
 
 Here’s a breakdown of the types of documentation I've found most effective:
 
-* **API Documentation:** Essential for any service or library. Tools like [readme.com](https://readme.com/) are great for this, offering beautiful, searchable documentation and collaborative editing.
+* **API Documentation:** Essential for any service or library.
 * **Architecture Decision Records (ADRs):** Short, text-based documents that capture the reasoning behind significant architectural choices. This is *huge*. Why did we choose this database? What tradeoffs did we consider? ADRs prevent revisiting the same decisions repeatedly.
 * **Conceptual Overviews:** High-level explanations of key concepts, system components, and data flows. Think of these as "explain it to me like I'm five" guides.
 * **Code Comments:** Targeted, concise explanations of complex or non-obvious code. Don't explain *what* the code does; explain *why* it does it that way.
@@ -37,7 +37,6 @@ Here's how to lead the change:
 
 1. **Lead by Example:** As a leader, you need to demonstrate the importance of documentation by contributing yourself. Write ADRs, update conceptual overviews, and contribute to troubleshooting guides.
 2. **Integrate Documentation into the Workflow:** Don't treat documentation as an afterthought. Include documentation tasks in sprint planning and code reviews. Make it a "definition of done."
-3. **Choose the Right Tools:** Don't overcomplicate things. Tools like [gleek.io](https://gleek.io/) for diagramming (expressing them in code is a bonus!), [diagrams.net](https://www.diagrams.net/), and even simple Markdown files can be highly effective. Focus on ease of use and accessibility.
 4. **Automate Where Possible:** Use tools to automatically generate API documentation from your code.
 5. **Recognize and Reward Documentation Efforts:** Acknowledge and appreciate team members who contribute to documentation. Make it part of their performance reviews.
 
