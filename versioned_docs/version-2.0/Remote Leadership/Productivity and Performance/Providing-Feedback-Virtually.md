@@ -67,7 +67,3 @@ Integrating the right tools can significantly streamline the feedback process. H
 ## The Bottom Line
 
 Delivering impactful feedback virtually requires intentionality, structure, and a willingness to adapt.  It’s also important to acknowledge the increased cognitive load remote work can place on individuals, impacting both their ability to give and receive feedback effectively. By establishing a robust feedback system, utilizing frameworks like STAR(R), and actively soliciting feedback on your own leadership, you can foster a culture of continuous improvement, even in a remote environment. It's about creating a feedback loop that helps everyone on the team grow and thrive. 
-
-**[Visual Suggestion]:** A simple diagram illustrating the "Virtual Feedback Loop" with arrows showing the flow of feedback between manager and team member (1:1s, Pulse Checks, Real-Time Feedback, Solicited Feedback).
-
-**Actionable Takeaway:** This week, schedule a 1:1 with each of your direct reports and dedicate 15 minutes specifically to soliciting their feedback on your leadership.

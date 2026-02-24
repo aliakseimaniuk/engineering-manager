@@ -23,8 +23,6 @@ So, if "Achievable" is the wrong metric, what *should* we focus on? The most eff
 3. **Effort:** How much effort will this goal require? This is where realistic assessment comes in. Don't underestimate the long-term commitment. (Thiel notes we often overestimate what we can accomplish *today* but underestimate what we can achieve *over years*.)
 4. **Luck:** While we can't control luck, acknowledging its role is crucial. Some initiatives will naturally benefit from favorable circumstances. Factor in contingency planning for unexpected challenges.
 
-**[Visual Suggestion: A simple 2x2 matrix with Ability on the X-axis and Interest on the Y-axis. Quadrants could be labeled: "High Priority," "Consider," "Delegate/Outsource," "Avoid." This visually represents prioritizing based on these key factors.]**
-
 ## A Revised Framework for Ambitious Goals
 
 Let's adapt the SMART framework to better reflect these principles. I propose this revised approach:

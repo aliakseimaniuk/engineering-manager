@@ -19,14 +19,14 @@ Instead of relying on feelings, focus on these concrete indicators. Think of the
 * **Balanced Participation in Meetings:** Is the same handful of people dominating the conversation? A truly safe team sees equitable distribution of speaking time. A good starting point is to track who speaks in meetings over a couple of sprints. You might be surprised.
 * **Ideas from All Levels:** Are junior engineers comfortable sharing ideas, even if they’re not fully formed?  A lack of contribution from newer team members is a red flag.  Encourage them specifically to share their perspectives.
 * **Proactive Problem Reporting:** Are issues raised early, or are they swept under the rug until they become critical? This is a huge indicator. 
-* **Active Listening & Acknowledgement:** Do team members genuinely listen to each other, asking clarifying questions and acknowledging contributions? (Visual suggestion: a simple checklist for meeting facilitators to assess this during meetings).
+* **Active Listening & Acknowledgement:** Do team members genuinely listen to each other, asking clarifying questions and acknowledging contributions?
 
 **2. Candidness – Is vulnerability being *rewarded*, not punished?**
 
 * **Open Admission of Mistakes:** This is *critical*. Are people comfortable admitting errors without fear of blame?  A safe team views mistakes as learning opportunities.  As a manager, model this behavior *first*. Publicly admit your own mistakes and share what you learned.
 * **Seeking Help:** Do engineers readily ask for help when they're stuck, or do they struggle in silence?  A reluctance to ask for help can indicate a fear of appearing incompetent. Create a culture where asking for help is seen as a strength, not a weakness.
 * **Sharing "Half-Formed" Ideas:**  Are people comfortable pitching ideas that aren’t fully polished?  Innovation rarely comes from perfect solutions. It stems from experimentation and iteration. 
-* **Providing Honest Feedback (Upward & Peer-to-Peer):** Is there a genuine flow of constructive criticism, not just sugarcoating?  (Visual suggestion:  an anonymous feedback mechanism, used sparingly and with clear guidelines).
+* **Providing Honest Feedback (Upward & Peer-to-Peer):** Is there a genuine flow of constructive criticism, not just sugarcoating? 
 
 **3. Challenge – Is healthy debate *encouraged*, not suppressed?**
 

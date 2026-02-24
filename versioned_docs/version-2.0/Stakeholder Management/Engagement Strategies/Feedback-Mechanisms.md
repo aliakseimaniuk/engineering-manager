@@ -22,7 +22,6 @@ These are quick, informal check-ins designed to surface immediate concerns.
 * **Daily Stand-up Enhancement:** Beyond the standard "What did you do, what will you do, are there any blockers?", add a rotating question: "What's one thing slowing you down, even if it appears minor?", or "What’s one thing we could do to improve our workflow today?". This isn't a problem-solving session, just a data-gathering opportunity.
 * **Weekly Team Health Checks:** A simple, anonymized survey (think a 1-5 scale rating on questions like “How happy are you with the current workload?” or “How effectively are we collaborating?”) can provide early warning signals. Tools like Polly (Slack integration) are great for this.
 
-**(Visual Suggestion: A simple chart showing trend lines for key team health metrics collected weekly – such as team morale, perceived workload, and blocker resolution time. This helps visualize improvements or declines.)**
 
 **2. Stakeholder Feedback Loops:**
 

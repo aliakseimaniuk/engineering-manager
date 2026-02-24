@@ -51,8 +51,3 @@ It's important to anticipate potential resistance to change from teams accustome
 
 They’re a powerful tool for engineering managers looking to build high-performing teams and deliver exceptional value to their users.
 
-
-
-**[Visual Suggestion:]** A simple diagram illustrating the relationship between SLIs, SLOs, and Error Budgets. A circular graph showing the error budget "shrinking" as errors occur, and the team needing to proactively address issues before the budget is exhausted.
-
-**Next Steps:** Start by identifying the most critical user journey for your team and begin defining SLIs and SLOs for the services that power it.

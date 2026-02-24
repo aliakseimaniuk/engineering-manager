@@ -40,9 +40,6 @@ Instead of fixating on a single number, think of performance metrics as a layere
 * **Number of Bugs Discovered in Production:**  A rising number suggests issues with testing or code quality.
 
 
-
-**(Visual Suggestion: A layered diagram showing the three layers described above, with examples of metrics in each layer.  Each layer could be represented as a section of a stack.)**
-
 ## Turning Metrics into Actionable Insights
 
 Collecting metrics is only half the battle.  Here’s how to make them truly valuable:

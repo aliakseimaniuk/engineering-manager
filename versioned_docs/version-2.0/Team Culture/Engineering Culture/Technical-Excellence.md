@@ -16,8 +16,6 @@ Often, “technical excellence” is narrowly defined as writing clean, well-doc
 * **Knowledge Sharing:** Actively contributing to the collective understanding of the codebase and system architecture. This is where pairing, documentation, and internal tech talks shine.
 * **Pragmatism:** Balancing long-term quality with short-term needs. Knowing *when* to refactor, *when* to optimize, and *when* to “good enough” is crucial.  A good question to ask is: “What’s the *long-term* cost of this shortcut versus the *immediate* benefit?” 
 
-**(Visual Suggestion: A Venn Diagram showing the overlap of Craftsmanship, System Thinking, Continuous Improvement, Knowledge Sharing, and Pragmatism, with "Technical Excellence" in the overlapping center.)**
-
 ## The Cost of Neglecting Technical Excellence: The Tech Debt Spiral
 
 I’ve seen too many teams fall into the tech debt spiral. They prioritize shipping features, cut corners on testing and documentation, and accumulate technical debt. Initially, this might seem like a win – faster time to market, more features delivered. But the cracks start to show. 
@@ -59,5 +57,3 @@ While qualitative assessments are important, tracking key metrics can provide va
 Building technical excellence isn’t about achieving some unattainable level of perfection. It's about building a sustainable culture of quality that allows your team to deliver value consistently over the long term. It’s about empowering engineers to take pride in their work and building products that are not only functional but also elegant, maintainable, and scalable. 
 
 In today’s fast-paced world, prioritizing technical excellence might feel like a luxury. But I argue it's a necessity. It's the foundation for long-term success, innovation, and a thriving engineering team. And in the end, that's worth more than any short-term velocity gain.
-
-**What’s one thing you can do *today* to begin cultivating technical excellence in your team?**

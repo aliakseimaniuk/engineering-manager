@@ -31,9 +31,6 @@ So, how do you cultivate stability within your engineering organization? Here ar
 * **Be a Consistent Leader:** Provide clear direction, set realistic expectations, and offer consistent support. Be available to your team, listen to their concerns, and advocate for their needs.  Regular one-on-one meetings are crucial for building trust and providing individual guidance.
 * **Embrace "Slow is Smooth, Smooth is Fast":** Rushing decisions or cutting corners might provide short-term gains, but it often leads to long-term instability. Take the time to do things right, even if it means slowing down initially.  Investing in proper design and code review upfront can save significant time and effort down the line.
 
-**[Visual Suggestion: A simple diagram illustrating the four dimensions of stability (Technical, Process, Team, Leadership) with interconnected circles, demonstrating how they influence each other.]**  
-
-**[Visual Suggestion: A graphic depicting a crumbling foundation or a chaotic system, representing the negative impact of instability.]**
 
 ## Stability Isn’t the Opposite of Agility – It’s the Prerequisite
 

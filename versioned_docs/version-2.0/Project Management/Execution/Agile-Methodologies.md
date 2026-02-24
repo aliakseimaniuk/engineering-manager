@@ -28,12 +28,6 @@ So, how do you move beyond surface-level "Agile" and create a team that genuinel
 
 **5.  Remember the "Why"**: Constantly remind the team of the *purpose* behind Agile. It's not about following a rigid framework; it's about delivering value to the customer faster and more efficiently. This keeps everyone aligned and motivated.
 
-
-
-**[Visual Suggestion: A simple diagram comparing "Traditional" vs. "Agile" team structures. Traditional could show a hierarchical pyramid, while Agile shows a flat, collaborative network.]** 
-
-
-
 ## The Case for "Waterfall-ish"
 
 Interestingly, I've found that with a few key tweaks, even a Waterfall approach can be surprisingly effective.  The key is to break down large projects into smaller, manageable phases, and to incorporate feedback loops at the end of each phase.  This allows you to validate assumptions, identify potential problems early on, and adjust course as needed.  

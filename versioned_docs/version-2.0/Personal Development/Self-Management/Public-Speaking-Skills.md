@@ -70,5 +70,3 @@ Start small. Identify one upcoming team meeting where you can practice applying 
 *   **Clarity:** Know your audience, focus on value, and structure your message logically.
 *   **Connection:** Build rapport, use “you” language, and encourage interaction.
 *   **Confidence:** Practice relentlessly and manage your physical and mental state.
-
-**[Visual Suggestion: A simple diagram illustrating the "Clarity, Connection, Confidence" model as a tripod, with each leg representing one of the pillars.]**

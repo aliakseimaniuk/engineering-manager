@@ -36,8 +36,6 @@ Just like technical debt, we can accumulate “resilience debt” by consistentl
 
 As leaders, we need to proactively address this resilience debt by investing in the human aspects of our teams. This isn’t a “nice to have” – it’s a critical investment in our long-term success.
 
-**[Visual Suggestion: A graphic depicting a network diagram with interconnected nodes representing team members.  The connections should vary in thickness, symbolizing varying levels of knowledge sharing and collaboration.  Overlaid on this diagram is a wave representing disruption, demonstrating how strong connections help the network withstand the shock.]**
-
 Building resilient engineering teams isn’t about eliminating all risk; it’s about preparing for the inevitable disruptions and empowering your team to navigate them effectively. It’s about recognizing that the strength of your system lies not just in the code, but in the people who build and maintain it. And it starts with leading with vulnerability, empathy, and a commitment to building a culture of continuous learning and adaptation.
 
 **Key Takeaways:**
@@ -47,5 +45,3 @@ Building resilient engineering teams isn’t about eliminating all risk; it’s 
 * **Embrace Experimentation:** Encourage learning through small, frequent experiments.
 * **Prioritize Wellbeing:**  Recognize and address the factors that contribute to burnout.
 * **Invest in Resilience:** Proactively address “resilience debt” by prioritizing the human aspects of your team.
-
-**Take Action:** Schedule a team retrospective focused on identifying areas where you can improve psychological safety and knowledge sharing.

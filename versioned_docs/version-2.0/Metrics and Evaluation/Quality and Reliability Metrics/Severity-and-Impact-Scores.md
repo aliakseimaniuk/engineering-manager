@@ -49,8 +49,6 @@ Think of it like this: a minor UI glitch might have low impact, but a security v
     *   **4 - High:** Affects a large number of users (more than 20 %) or blocks a critical workflow.
     *   **5 - Critical:** Causes widespread outage, significant data loss, or severe reputational damage.
 
-![Severity/Impact Matrix](https://example.com/severity_impact_matrix.png)  *(Visual Suggestion: A 5x5 matrix visually representing the combined scores. Each cell could be color-coded to indicate priority – e.g., Red for high priority, Yellow for medium, Green for low.)*
-
 ## Combining Scores for Prioritization
 
 Once you have both scores, you can calculate a combined priority score. A simple approach is multiplication: `Priority = Severity * Impact`. 
@@ -87,11 +85,3 @@ I’ve seen firsthand how a small change to this fundamental process can yield s
 *   Train your team on the new system and ensure everyone understands the scoring criteria.
 *   Encourage open discussion during bug triage to ensure consistent scoring.
 *   Regularly review and refine the scoring criteria based on feedback and evolving product needs.
-
-
-
-**References:**
-
-*   Bjørnson, F. E., et al. (2009). Root cause analysis: A handbook. Auerbach Publications.
-*   Cerpa, N., et al. (2010). Estimating software project outcomes: An empirical study. IEEE Transactions on Software Engineering, 36(6), 763–775.
-*   McLeod, D., & MacDonell, S. G. (2011). Factors affecting project outcomes: A study of software projects. Information and Software Technology, 53(1), 64–76.

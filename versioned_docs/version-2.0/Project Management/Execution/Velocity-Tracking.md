@@ -18,8 +18,6 @@ Velocity, in its simplest form, is the average amount of story points a team con
 * **Beware of Velocity “Gaming”:** If teams are incentivized solely on velocity, they might start inflating estimates or sandbagging (underestimating) to look good. We once worked with a team that was clearly gaming the system, leading to inaccurate forecasts and ultimately, a delayed release.  Foster a culture of honesty and focus on delivering value, not just points.
 * **Visualize it – but thoughtfully:** A simple line chart showing rolling velocity is useful. However, pair it with a chart showing completed stories *per sprint*. Velocity alone can be misleading if the *size* of the stories completed varies significantly. 
 
-**(Visual Suggestion: A combined line chart showing rolling velocity alongside a bar chart of completed story count per sprint.)**
-
 ## Digging Deeper: Understanding Velocity Fluctuations
 
 Velocity isn't a static number. It will fluctuate. The key is understanding *why*. Here are common causes and how to address them:
@@ -29,8 +27,6 @@ Velocity isn't a static number. It will fluctuate. The key is understanding *why
 * **Skill Gaps:** If a team lacks the skills needed for a particular task, velocity will suffer. Invest in training and mentorship.
 * **Dependencies:** External dependencies (other teams, third-party services) can block progress. Improve communication and collaboration to minimize delays.
 * **Process Bottlenecks:** Identify and eliminate process inefficiencies that hinder development. This could be slow code reviews, cumbersome testing procedures, or lengthy approval processes.
-
-**(Visual Suggestion: A fishbone diagram (Ishikawa diagram) to help teams brainstorm the root causes of velocity fluctuations.)**
 
 ## What if Velocity Decreases Significantly?
 
@@ -53,5 +49,3 @@ It's crucial to remember that velocity is a *metric*, not a *target*. It's a too
 * **Celebrate Successes:**  Recognize and celebrate the team's accomplishments. 
 
 By approaching velocity tracking with empathy, transparency, and a focus on continuous improvement, you can build a high-performing engineering team that consistently delivers value. And that, ultimately, is what matters most. 
-
-**To get started, review your team’s sprint data and identify opportunities to implement rolling velocity. Focus on transparency and collaboration to build a more predictable and empowered engineering team.**

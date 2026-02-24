@@ -18,8 +18,6 @@ The core problem isn't the automation itself; it's the *lack of strategic alignm
 
 To effectively lead your team towards strategic automation, I've found it helpful to think in three layers: **Task Automation, Workflow Automation, and Strategic Automation.**
 
-**(Visual Suggestion: A simple three-tiered diagram showcasing these layers, with examples listed under each.)**
-
 * **Task Automation (The Foundation):** This is the familiar ground of scripting repetitive actions - running tests, linting code, deploying builds. It's about eliminating the truly mundane. Tools like CI/CD pipelines (Jenkins, GitLab CI, CircleCI) excel here.
 * **Workflow Automation (The Integration Layer):** This moves beyond single tasks and connects different tools and processes. It’s about automating entire flows - for example, automatically creating a bug report in Jira when a test fails, triggering a deployment, and notifying the relevant stakeholders. Tools like Zapier, Integrately, and Webhooks are critical here. I'm seeing a growing trend of using these tools to integrate with AI-powered tools – for example, automatically logging AI-generated code changes into a version control system. 
 * **Strategic Automation (The Game Changer):** This is where automation moves beyond efficiency and becomes a competitive advantage. It’s about proactively identifying areas where automation can *fundamentally change* how your team operates. This could involve automating code review processes (like automated static analysis or pull request reviews), dynamically scaling infrastructure based on demand, or even using AI to automatically generate documentation. The tools listed in the context (Zenable, Keywords AI, Cody, FabForm) fit squarely into this layer.

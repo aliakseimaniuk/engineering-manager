@@ -27,8 +27,6 @@ Don't reinvent the wheel. Leverage established definitions, but *critically disc
 * **Inclusion:** Creating an environment where everyone feels valued, respected, and has equal access to opportunities. It’s about ensuring all voices are heard and considered. [Harvard Business Review Inclusion Definition](https://hbr.org/2017/12/what-does-inclusion-really-look-like)
 * **Belonging:** The feeling of being accepted and valued for who you are, allowing you to bring your authentic self to work. Belonging goes beyond inclusion; it’s about psychological safety and a sense of connection.
 
-[Visual Suggestion: A simple Venn diagram. Three overlapping circles labeled "Diversity," "Equity," and "Inclusion." The overlapping area could be labeled "Belonging." ]
-
 **2. Operationalize the Concepts – Move Beyond Theory**
 
 Defining terms is good, but making them *actionable* is critical. For each core concept, brainstorm specific behaviors and indicators.

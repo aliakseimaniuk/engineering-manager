@@ -16,7 +16,6 @@ In the aftermath of the 2008 crisis, I realized the importance of intentionally 
 
 What’s more, consistently exceeding individual and team capacity isn't just a personal problem; it creates systemic failure. As Laura points out, if roles aren’t adequately defined or there aren’t enough people to fill them, the burden falls on those who remain. This leads to bottlenecks, increased errors, and ultimately, project delays. 
 
-**[Visual Suggestion: A simple diagram illustrating the ‘Focus-Relax Cycle’. Show a wave-like graph with ‘Focus’ peaks followed by ‘Relax/Recovery’ troughs. Label the consequences of eliminating the ‘Relax’ phase: Burnout, Errors, Reduced Productivity.]**
 
 ## Practical Strategies for Engineering Leaders
 
@@ -34,11 +33,3 @@ So, what can we do *practically* to maintain work-life balance during a crisis? 
 Maintaining work-life balance during a crisis isn’t just about *surviving* the immediate challenges. It’s about building *resilience* – the ability to bounce back from adversity and thrive in the face of uncertainty. When we prioritize our well-being and the well-being of our teams, we create a more sustainable and effective organization. 
 
 As leaders, we must remember that our teams are looking to us for guidance, not just during times of stability, but especially during times of crisis. By modeling healthy work-life balance, we not only protect ourselves but also empower our teams to navigate challenges with greater resilience and achieve lasting success. 
-
-**This week, take a moment to reflect on your own work-life balance – where are you thriving, and where could you improve?**
-
-**Resources for Further Reading:**
-
-*   [Harvard Business Review: Preventing Burnout](https://hbr.org/topic/burnout)
-*   [Mindful.org: Stress Management](https://www.mindful.org/stress-management/)
-*   [American Psychological Association: Managing Stress](https://www.apa.org/topics/stress/)

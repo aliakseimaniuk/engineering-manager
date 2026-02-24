@@ -26,8 +26,6 @@ I’ve developed a framework to guide my response to escalations, focusing on ca
 * **Rapid Containment:** What can you do *immediately* to limit the impact? Roll back a deployment, disable a feature, temporarily increase resources. Focus on stemming the bleeding. Think "Band-Aid" not "cure" at this stage.
 * **Initial Triaging:** Quickly gather essential information. What's the impact? Who's affected? What have we tried already? (A well-maintained incident response document is a lifesaver here.)
 
-**(Visual Suggestion: A simple timeline graphic showing these first 60 minutes, highlighting the key actions)**
-
 **2. Deep Dive & Diagnosis (The Next Few Hours)**
 
 * **Cross-Functional Collaboration:** This isn't a solo mission. Collaboration is essential. Assemble the right people – developers, QA, operations, product managers. Clear communication is paramount. A dedicated Slack channel or video conference is essential.

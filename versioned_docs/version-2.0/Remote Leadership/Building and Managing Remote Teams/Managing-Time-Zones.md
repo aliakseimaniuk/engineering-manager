@@ -28,9 +28,6 @@ First, get a clear picture of where everyone is located. Don't rely on memory.
 * **Visual Tools:** Consider tools that visually represent team members' locations and time zones.  Many team communication platforms (Slack, Microsoft Teams) offer integrations for this.
 * **"Working Hours" Policy:** Establish a clear expectation of core working hours *per location*.  This doesn't mean everyone *must* work those hours, but it sets a baseline for synchronous communication.
 
-**(Visual Suggestion: A world map with team members pinned to their locations and their current time displayed.)**
-
-
 
 **2. Asynchronous Communication First**
 
@@ -49,8 +46,6 @@ Sometimes, a meeting *is* necessary. Here's how to make it productive, even with
 * **Minimize Meeting Length:** Be ruthless about keeping meetings focused and concise to respect everyone's time and focus. Set a clear agenda and stick to it. 25-minute "focused" meetings can be surprisingly productive.
 * **Consider "Core Collaboration" Hours:** Identify a few hours each day that overlap across most time zones. These are the ideal times for crucial synchronous communication.
 * **"Meeting-Free" Days/Times:** Experiment with designated meeting-free days or blocks of time to allow team members to focus on deep work.
-
-**(Visual Suggestion: A simple table illustrating a rotating meeting schedule for a team across three time zones.)**
 
 **4. Empathy & Individual Accommodation**
 

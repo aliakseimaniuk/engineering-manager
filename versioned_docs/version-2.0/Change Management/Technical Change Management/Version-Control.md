@@ -12,7 +12,7 @@ Think about the last time a seemingly small change caused a major outage. Perhap
 
 I once led a team that experienced exactly this. A minor UI tweak, pushed live without proper review or versioning, broke a critical integration with a partner system. This outage resulted in approximately $5,000 in lost revenue and over 8 hours of developer time spent debugging. Had that change been tracked within a version control system, with a clear commit message and associated review history, we could have identified the issue within minutes and rolled back instantly. 
 
-The cost of unmanaged change isn't just technical downtime; it erodes team trust, increases stress, and diminishes morale. Studies show that unplanned downtime costs businesses an average of $16,000 per minute, further highlighting the financial impact of inadequate change control. [https://www.gartner.com/en/documents/3985678](https://www.gartner.com/en/documents/3985678)
+The cost of unmanaged change isn't just technical downtime; it erodes team trust, increases stress, and diminishes morale. Studies show that unplanned downtime costs businesses an average of $16,000 per minute, further highlighting the financial impact of inadequate change control.
 
 ## Expanding Version Control Beyond Code
 
@@ -23,7 +23,6 @@ Okay, so version control is vital for code. What about everything *else*? This i
 * **Requirements & User Stories:** Tools like Shortcut can integrate with Git to link user stories and requirements to specific code commits.  Even if you don’t have a direct integration, consider a naming convention for requirement documents (stored in a shared drive) that maps to Git commit messages.  “REQ-123: Updated API endpoint for user authentication” – this provides traceability.
 * **Design Decisions:**  Document key architectural decisions in a shared repository (Markdown files work great!).  Treat these documents as “living” artifacts that evolve with the system.  Use pull requests to discuss and approve design changes.
 
-**(Visual Suggestion: A simple diagram showing a central Git repository branching out to various areas: Code, Documentation, Infrastructure, Requirements, Design Docs. Arrows showing the flow of changes and reviews.)**
 
 ## Leading the Change: Implementing a Comprehensive System
 

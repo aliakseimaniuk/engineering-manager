@@ -37,8 +37,6 @@ It’s easy to get caught up in metrics, deadlines, and deliverables. But ultima
 
 I remember a factory in the 80s, a cautionary tale. Management ignored worker complaints about unsafe conditions and lack of input, leading to resentment, declining quality, and ultimately, significant financial losses. The lesson is clear: ignoring the voices of your team, however small, is a recipe for disaster.
 
-**[Visual Suggestion: A simple framework illustrating the shift from "Motivation" (external rewards) to "Agency" (internal control) with corresponding actions in each quadrant.]**
-
 ## Avoiding a Dismal View & Taking Action
 
 Not every problem can be solved overnight. But by focusing on restoring agency, fostering genuine care, and consistently acting on feedback, you can create a more engaged, resilient, and ultimately, successful team—even in the face of ongoing challenges.

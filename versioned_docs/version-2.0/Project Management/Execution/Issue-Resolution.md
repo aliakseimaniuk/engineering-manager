@@ -22,8 +22,6 @@ Beyond that, add a “Type” category:
 
 This categorization immediately helps with routing and sets expectations. A documented system like this allows the team to understand *why* certain issues are tackled first.
 
-**(Visual Suggestion: A simple 2x2 matrix with Severity on one axis and Priority on the other. Color-coding based on urgency.)**
-
 ## 2. The 5 Whys – Digging Deeper Than Symptoms
 
 Once an issue is categorized, resist the urge to jump to a fix. Instead, employ the “5 Whys” technique. This is a simple but powerful method for root cause analysis. 
@@ -47,8 +45,6 @@ Once the root cause is understood, assign ownership. This isn’t about blame; i
 
 Transparency is key. Regular updates (even short ones) prevent stakeholders from feeling ignored and build trust. Consider using a shared status document or a dedicated Slack channel for major issues. Don’t over-engineer this; simple and frequent is better than complex and infrequent.
 
-**(Visual Suggestion: A simple workflow diagram showing the stages of issue resolution – Report, Triage, Analyze, Resolve, Verify, Close – with assigned roles for each stage.)**
-
 ## 4. Post-Mortem & Learning – The Most Valuable Step
 
 This is where many teams drop the ball. Once an issue is resolved, *always* conduct a post-mortem (also known as a retrospective). 
@@ -68,7 +64,3 @@ The tools are there to *support* your process, not replace it. Focus on establis
 **Final Thoughts:**
 
 Effective issue resolution isn't just about fixing bugs; it’s about building a high-performing team, improving your processes, and delivering a better product. By shifting your focus from reactive firefighting to proactive problem-solving, you can transform issues from roadblocks into opportunities for growth. And remember, the most valuable fix isn’t always the one that closes the ticket – it’s the one that builds resilience into your system. 
-
-**Take Action:**
-
-Take 15 minutes this week to review your team's issue resolution process. Where are the bottlenecks? How can you shift from reactive firefighting to proactive problem-solving? Consider facilitating a ‘5 Whys’ session with your team to address a recent recurring issue.

@@ -8,8 +8,6 @@ The initial Facebook engineering culture was forged in the fires of rapid iterat
 
 The legendary hackathons weren’t just about building cool features; they were a crucial part of onboarding and cultural transmission. New engineers were *thrown* into these intense coding sessions, forced to collaborate with seasoned veterans and learn by doing. This created a shared language, a common understanding of priorities, and a culture where shipping code – even imperfect code – was valued over endless planning. 
 
-**(Visual Suggestion: A simple timeline illustrating the evolution of Facebook’s engineering culture – Early Hackathon Focus -> Scale & Infrastructure -> AI-First – with key dates and milestones.)**
-
 ## Scaling to a Billion Users: The Rise of Infrastructure & Tooling
 
 The pivot from a scrappy startup to a global platform forced a dramatic shift. The focus wasn't just on *building* new features, but on building an *infrastructure* that could handle billions of users, petabytes of data, and constant uptime.
@@ -31,8 +29,6 @@ More recently, Facebook has doubled down on Artificial Intelligence, positioning
 However, with scale comes bureaucracy. As the company has grown, it’s become increasingly difficult to maintain the speed and agility of its early days. Layers of management, increased process, and competing priorities can stifle innovation. 
 
 I’ve spoken with several engineers who left Facebook citing the increasing difficulty of getting things done. While quantifying this trend is challenging, anecdotal evidence from platforms like Glassdoor corroborates these concerns. The initial “Move Fast and Break Things” mantra feels increasingly at odds with the need for stability and responsible innovation, especially concerning privacy and misinformation. 
-
-**(Visual Suggestion: A simple diagram comparing the organizational structure of a startup (flat, agile) to a large tech company (hierarchical, layered) highlighting the challenges of maintaining speed and innovation at scale.)**
 
 ## Lessons for Other Engineering Leaders
 

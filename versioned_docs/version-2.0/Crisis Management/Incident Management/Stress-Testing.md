@@ -37,8 +37,6 @@ Okay, so you're convinced. Now what? Here's a framework, drawing on principles f
 * **Problem-solving approaches:** Are they systematic? Do they rely on tribal knowledge? Are they utilizing the right tools?
 * **Emotional responses:** Are people remaining calm and focused, or are they panicking? (This is an indicator of underlying stress and potential burnout.)
 
-**(Visual Suggestion: A simple diagram illustrating the observation/note-taking aspect of the simulation. Show an observer taking notes on team interactions and problem-solving approaches.)**
-
 **The Debrief:**
 
 **3. Debrief – The Most Important Step:** This isn't about finger-pointing. It’s a structured conversation focused on learning and improvement. Use these guiding questions:
@@ -57,12 +55,3 @@ Okay, so you're convinced. Now what? Here's a framework, drawing on principles f
 Ultimately, stress testing isn't just about finding technical bugs or process inefficiencies. It’s about building a resilient team—one that can handle pressure, adapt to change, and learn from its mistakes. A lean and flexible approach to stress testing, combined with a focus on psychological safety, will equip your team to not just survive crises, but to thrive in the face of adversity. 
 
 As leaders, we need to prioritize building that capacity. We understand that engineering leaders are often stretched thin, but investing in this proactive practice strengthens your team's ability to handle future challenges and is time well spent. Because the goal isn't to avoid crises altogether – that's unrealistic. It’s to ensure that when they inevitably occur, we're prepared. 
-
-
-
-**(Visual Suggestion: A simple diagram showing the iterative stress testing process: Define Scenario -> Run Simulation -> Debrief -> Action Items -> Repeat.)**
-
-**Resources:**
-
-* [Psychological Safety Resources](https://www.google.com/search?q=psychological+safety+resources) (Example link - Replace with a relevant resource)
-* [ARCA Method](https://www.google.com/search?q=arca+method+incident+analysis) (Example link - Replace with a relevant resource)

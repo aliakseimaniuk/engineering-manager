@@ -6,13 +6,9 @@ This article isn’t a deep dive into *how* to write tests (plenty of resources 
 
 ## The Testing Pyramid: A Foundation for Discussion
 
-Before we delve into specifics, let's revisit the classic Testing Pyramid. (Visual Suggestion: A simple pyramid diagram with Unit Tests at the base, Integration Tests in the middle, and End-to-End Tests at the top). This model provides a useful framework for understanding the balance between different testing types:
-
 * **Unit Tests:** Fast, isolated tests of individual components. The foundation of a robust testing strategy.
 * **Integration Tests:** Verify the interaction between different components or services. They confirm things “play well together.”
 * **End-to-End (E2E) Tests:** Simulate real user flows, testing the entire system from start to finish. Slow and brittle, these should be used sparingly.
-
-The Testing Pyramid is a well-established concept; for further reading, see resources like [https://martinfowler.com/articles/test-pyramid.html](https://martinfowler.com/articles/test-pyramid.html). While a great starting point, modern development often necessitates additional layers.
 
 ## Expanding the Testing Landscape: Modern Challenges and Approaches
 

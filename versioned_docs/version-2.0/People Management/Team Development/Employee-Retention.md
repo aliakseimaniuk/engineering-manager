@@ -61,7 +61,3 @@ Employee retention isn’t about throwing money at the problem. It's about creat
 Stop focusing on boredom, and start understanding why voices are being silenced. 
 
 Take a moment to consider: How can *you* create a culture where voices are heard and contributions are valued?
-
-
-
-**[Visual Suggestion]:** A simple flow chart illustrating the "Idea Intake" process described above, highlighting the importance of rapid triage, transparent communication, and follow-through.

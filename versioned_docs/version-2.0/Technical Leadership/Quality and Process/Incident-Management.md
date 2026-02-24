@@ -51,7 +51,3 @@ Leading through incidents isn't about being a hero; it's about empowering your t
 Genuine care underpins each of these pillars. Genuine care means *providing* psychological safety during Support, *trusting* your team’s judgment during Empowerment, *communicating* clearly during Clarity, and *investing* in learning and improvement through the Learning pillar. It's about showing your team that you value them as individuals, not just as problem-solvers.
 
 
-
-**(Visual Suggestion:** A simple diagram illustrating the four pillars of incident leadership – Clarity, Empowerment, Support, and Learning – with brief descriptions under each.)
-
-**Take Action:** Take 15 minutes this week to discuss with your team how you can improve your incident response process. Share this article and start a conversation about how to build a more resilient organization.

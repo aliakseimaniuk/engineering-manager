@@ -38,8 +38,6 @@ Instead of relying solely on the basic formula, I recommend a more holistic fram
 
 **5. Post-Implementation Review:** Once the investment is implemented, track actual results against projected KPIs.  What worked? What didn't?  What lessons can be learned for future investments?  This feedback loop is crucial for refining your ROI analysis process.
 
-**(Visual Suggestion: A simple table or framework outlining the above categories – Costs, Tangible Benefits, Intangible Benefits, Risks – with space to fill in estimates and notes. A simplified example might look like this:)**
-
 | Category          | Item                         | Estimate | Notes                                   |
 |-------------------|------------------------------|----------|-----------------------------------------|
 | **Costs**        | Software License             | $10,000  | Annual cost                           |

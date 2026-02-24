@@ -20,10 +20,6 @@ Here’s how to frame it:
 * **Empowerment & Psychological Safety:** A key finding from studies on retrospectives (Lassenius, 2012; Normann & Speicher, 2014) is that teams need to feel safe to voice concerns and suggest improvements without fear of retribution. This requires fostering a culture of psychological safety.
 * **Small Batches & Frequent Feedback:** Breaking down large tasks into smaller, manageable chunks allows for quicker feedback loops and faster iteration. This reduces risk and accelerates learning.
 
-![Simple diagram illustrating the compounding effect of small improvements over time. A line graph showing a steady, incremental increase in performance compared to a line showing sporadic, large jumps.]
-
-*(Visual Suggestion: A simple diagram illustrating the compounding effect of small improvements over time. A line graph showing a steady, incremental increase in performance compared to a line showing sporadic, large jumps.)*
-
 ## Stakeholder Management: Getting Buy-In for Continuous Improvement
 
 The biggest hurdle isn’t *doing* the small improvements; it’s convincing others of their value. Here’s where stakeholder management comes in.  It’s common to encounter resistance – “We don’t have time for this,” or “It feels like extra work.” Addressing these concerns proactively is key.
@@ -43,19 +39,3 @@ Don’t confine continuous improvement to the engineering team. Encourage cross-
 
 
 Continuous improvement isn’t a destination; it's a journey. By embracing incrementalism, empowering your team, and building strong stakeholder relationships, you can create a culture of continuous learning and innovation that drives long-term success. It’s about shifting from reactive problem-solving to proactive prevention, one small improvement at a time.
-
-**Actionable Step:** Schedule a 15-minute team retrospective this week to identify one small improvement you can implement immediately.
-
-**Resources:**
-
-*   **"The Toyota Way"** by Jeffrey Liker
-*   **"Continuous Delivery"** by Jez Humble and David Farley
-*   **Agile Retrospective Techniques:** [https://www.retromat.org/](https://www.retromat.org/)
-
-
-
-**References:**
-
-*   TechStars Mentors & Alums. (2010). *The Startup Owner's Manual*.
-*   Lassenius, E. (2012). *Agile Retrospective Facilitation*.
-*   Normann, T., & Speicher, T. (2014). *The Agile Retrospective: A Powerful Tool for Team Improvement*.

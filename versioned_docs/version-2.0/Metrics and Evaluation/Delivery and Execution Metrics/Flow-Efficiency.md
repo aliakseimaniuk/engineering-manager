@@ -31,7 +31,6 @@ Both teams have the same velocity, but Team B is delivering value *much* faster 
 Here’s a practical approach:
 
 1. **Visualize Your Workflow:** Use a Kanban board (physical or digital – Jira, Trello, Linear are good options) to map out the stages of your development process. This provides transparency into where work gets stuck. 
-   **[Visual Suggestion: a simple Kanban board diagram showcasing "To Do," "In Progress," "Code Review," "Testing," "Done" columns.]**
 2. **Track Lead Time & Cycle Time:** These are crucial metrics.
     * **Lead Time:** From request to delivery (as defined above).
     * **Cycle Time:** The time spent *actively working* on the item.
@@ -47,8 +46,6 @@ Here’s a practical approach:
     * **Invest in CI/CD:** Automated build, test, and deployment pipelines accelerate delivery.
 5. **Use Flow Metrics Tools:** Consider tools like Jellyfish or Waydev which are purpose built for analyzing flow metrics.
 
-**[Visual Suggestion: a simple diagram showing the relationship between Lead Time, Cycle Time, and Flow Efficiency.]**
-
 ## Beyond the Numbers: A Culture of Flow
 
 Ultimately, Flow Efficiency isn’t just about metrics. It’s about fostering a culture of continuous improvement and empowering your team to deliver value with less friction. It requires psychological safety, open communication, and a proactive approach to obstacle removal. 
@@ -58,5 +55,3 @@ I recall one team I worked with initially resistant to focusing on flow, accusto
 Shifting focus from velocity can feel counterintuitive, but the long-term benefits – reduced burnout, increased predictability, and faster delivery – outweigh the initial adjustments.
 
 By shifting your focus from *how much* work you’re completing to *how smoothly* it’s flowing, you can unlock a new level of productivity, reduce burnout, and deliver exceptional value to your customers. 
-
-**Start by visualizing your team's workflow today. A simple Kanban board can reveal hidden bottlenecks and kickstart your journey towards greater flow efficiency.**

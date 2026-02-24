@@ -16,8 +16,6 @@ I’ve seen countless teams start a sprint with a seemingly realistic burndown, 
 
 Think of it this way: a flat or erratic burndown isn't a *failure* of the team; it’s a *signal* that the initial estimation was off, or that something unexpected happened. Treating it as a problem to be “fixed” through sheer willpower ignores the root cause.
 
-**[Visual Suggestion: A simple line graph showing an ideal burndown vs. a realistic burndown with unexpected spikes or plateaus. Label the realistic burndown "Reality" and highlight the areas where investigation is needed.]**
-
 ## Investigating and Addressing the Root Causes
 
 Instead of obsessing over points burned down, shift your focus to these key areas, and use them to investigate *why* the burn is behaving as expected:
@@ -28,8 +26,6 @@ Instead of obsessing over points burned down, shift your focus to these key area
 * **Team Sentiment:** Are your engineers feeling stressed and overwhelmed? A healthy team is a productive team. Regularly check in with your team and address any concerns.
 
 These metrics provide a more holistic view of team performance and product health than a simple burndown chart ever could. When you see a stall in the burndown, these are the areas to probe. What's blocking progress on stories? Is technical debt slowing things down? Are team members feeling pressured?
-
-**[Visual Suggestion: A diagram showing the interconnectedness of factors influencing software delivery – Estimation, Dependencies, Technical Debt, Team Health, Business Value.]**
 
 ## Digging Deeper: Asking the Right Questions
 
@@ -49,8 +45,3 @@ Finally, remember that software development isn’t just about technical executi
 Focus on building a culture of transparency, where team members feel safe admitting when estimates are off or when dependencies are blocking progress. Encourage honest conversations about technical debt and prioritize addressing it proactively. This is the foundation of a sustainable and effective development process.
 
 Don't let your burndown chart become a symbol of illusory control. Use it as a starting point for deeper investigation and a catalyst for meaningful conversations. Focus on building a healthy team, delivering value to your customers, and creating a sustainable development process. That’s a burn that will truly last.
-
-**This week, during your next sprint retrospective, dedicate time to discussing *why* your burndown chart deviated from the plan, rather than just focusing on *how* to get it back on track.**
-
-[Resource on Agile Metrics](https://www.atlassian.com/agile/metrics)
-[Resource on Team Health](https://www.radicalcandor.com/)

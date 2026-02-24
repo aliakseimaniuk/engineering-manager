@@ -19,10 +19,6 @@ I’ve found the “5 Whys” technique incredibly valuable. When a problem aris
 
 The power of this technique is amplified when combined with clear context. Engineers need to understand the "why" *behind* the work, not just *what* to do. I remember leading a team developing a new feature. We were hitting roadblocks, and frustration was mounting. I realized I hadn't adequately explained *why* this feature was critical to the company's long-term strategy. Once I shared the broader context, the team rallied, and we shipped a successful product. 
 
-**[Visual Suggestion: A simple diagram illustrating the "5 Whys" flow. A central problem, branching out with "Why?" questions leading to root causes.]**
-
-
-
 ## Leading by Example: The Most Powerful Signal
 
 All the frameworks and techniques in the world won't matter if you, as the engineering leader, aren't modeling open communication. 

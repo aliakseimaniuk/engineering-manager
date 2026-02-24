@@ -26,8 +26,6 @@ Many teams *do* retrospectives, but often the insights generated *become* Jira t
 4. **Track and Visualize:** Use a Kanban board or similar tool to track progress. Make this visible to the team.
 5. **Empirical Validation:** (As Lassenius & colleagues highlight in their research on retrospectives [Lassenius, E., et al. "Experiences on Using Retrospectives in Agile Software Development." *Proceedings of the 2013 International Conference on Agile Software Development* (2013): 1-8.]) Don't assume your improvements *are* improvements. Track metrics before and after implementation to validate their impact. Are cycle times actually down? Is bug count decreasing? Data speaks volumes.
 
-**(Visual Suggestion: A simple 2x2 Impact/Effort matrix diagram would be helpful here. Also, a screenshot of a Kanban board tracking retrospective action items would be effective.)**
-
 ## Beyond Retrospectives: Cultivating a Continuous Improvement Mindset
 
 Continuous improvement shouldn't be confined to retrospectives. Encourage engineers to:
@@ -50,7 +48,3 @@ And remember, suppressing good ideas, even small ones, is a surefire way to stif
 *   **Data-Driven Validation:**  Don’t assume improvements are working – track metrics to confirm their impact.
 *   **Empower Your Team:** Encourage engineers to challenge assumptions, experiment, and share ideas.
 *   **Make it Consistent:** Integrate continuous improvement into your team's regular practices, not just during retrospectives.
-
-
-
-**To get started, schedule a 30-minute discussion with your team to identify one small process improvement you can implement this week.**

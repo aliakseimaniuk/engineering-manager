@@ -25,8 +25,6 @@ I’ve found a simple framework helps bridge this gap. I call it the “Impact T
 2. **Business Value:** How does this contribute to the company’s bottom line? (Revenue, cost savings, market share, etc.)
 3. **Technical Feasibility:** What are the technical challenges, risks, and effort required?
 
-**(Visual Suggestion: A simple triangle diagram with each vertex labeled. Lines connecting the vertices emphasize that all three aspects must be considered.)**
-
 Every feature, project, or initiative should be evaluated through the lens of this triangle. A truly impactful solution sits at the intersection of all three. If any vertex is weak, the solution is likely to fail. Imagine a new feature with high user value and technical feasibility, but no clear path to revenue. It might be a delightful experience, but a dead end for the business. 
 
 Here's how to apply it in practice:

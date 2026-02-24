@@ -71,6 +71,3 @@ Finally, remember that resource forecasting isn’t just about maximizing output
 
 Effective resource forecasting is an ongoing process – a commitment to data-driven planning, realistic expectations, and a genuine concern for your team’s wellbeing. It’s not about predicting the future; it’s about preparing for it. And that makes all the difference.
 
-
-
-[Visual Suggestion]: A simple Gantt chart illustrating planned work vs. actual delivery. This would show a clear comparison between projected timelines and actual progress, highlighting any discrepancies.

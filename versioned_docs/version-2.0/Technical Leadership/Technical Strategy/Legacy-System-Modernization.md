@@ -23,8 +23,6 @@ There isn’t a single “right” way to modernize. The approach must align wit
 3. **Replatforming:** Migrate the system to a new platform with minimal code changes. This might involve switching databases or application servers. *Best for:*  Addressing specific platform limitations or leveraging new technologies. A financial institution might replatform a legacy loan application system to a modern database to improve data integrity and reporting capabilities.
 4. **Refactoring/Rewriting:**  Re-architect and rebuild the system from scratch, often using modern technologies and patterns. *Best for:* Systems that are fundamentally broken, unsustainable, or require significant new functionality. A logistics company, struggling with a complex and brittle legacy tracking system, might rewrite it using microservices and event-driven architecture to improve scalability and resilience.
 
-**[Visual Suggestion: A simple 2x2 matrix with “Risk” on one axis and “Effort” on the other. Plot each of the four modernization paths on the matrix to visually represent their relative cost and risk.]**
-
 **Leading the Change: Practical Strategies for Success**
 
 Modernization projects are rarely just technical exercises. They require strong leadership to navigate the inevitable challenges.  It's important to acknowledge the emotional burden that comes with these projects - the fear of breaking something critical, the frustration with undocumented code, and the pressure to deliver results with limited resources.  
@@ -46,5 +44,3 @@ While a phased approach is crucial, avoid "analysis paralysis." Spending too lon
 **Final Thoughts**
 
 Legacy system modernization isn’t about eliminating the past; it’s about securing the future. It requires a strategic approach, strong leadership, and a willingness to embrace incremental change.  Don't let legacy systems become a drag on innovation. Start by assessing your current systems, identifying key pain points, and developing a phased modernization plan. The future of your business depends on it.
-
-[Gartner](https://www.gartner.com/en/topics/application-modernization) provides valuable insights into the latest trends and best practices in application modernization.

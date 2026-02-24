@@ -67,7 +67,3 @@ Don’t overlook resources designed for students. These often provide excellent 
 Finally, remember that sustainable engineering isn’t just about *what* technologies we use, it’s about *how* we approach problems. Encourage engineers to develop their systems thinking skills. This means understanding how different parts of a system interact, anticipating unintended consequences, and considering the long-term impact of their decisions. For example, a seemingly efficient new material might require a resource-intensive manufacturing process, negating its environmental benefits when considering the full lifecycle. 
 
 Building a truly sustainable engineering team requires a commitment to continuous learning and a shift in mindset.  It's not enough to simply equip engineers with the technical skills they need. We need to empower them to become lifelong learners, critical thinkers, and responsible stewards of our planet.  
-
-**(Visual Suggestion: A diagram illustrating the cyclical nature of a sustainable learning program - Identify gaps -> Curate resources -> Integrate learning -> Foster safety -> Repeat)**
-
-**Take Action:** Start by identifying one skill gap within your team and allocating dedicated learning time this week. Small steps can lead to significant improvements in team performance and sustainability.

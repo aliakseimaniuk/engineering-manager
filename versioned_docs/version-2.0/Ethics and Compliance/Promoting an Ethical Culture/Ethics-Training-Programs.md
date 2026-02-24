@@ -22,8 +22,6 @@ The key is to build a program that cultivates *moral imagination*. Here’s how:
 * **Introduce Psychological Safety:** This is critical. Engineers need to feel comfortable raising ethical concerns without fear of retribution. Encourage dissenting opinions and create a culture where challenging the status quo is valued. This isn't just about training; it's about leadership modeling the right behavior.
 * **Leverage External Resources:**  There's a wealth of free and low-cost resources available. Cisco Networking Academy and DevNet Academy offer valuable training paths that can be adapted to incorporate ethical considerations into technical skill development – for example, DevNet Academy’s automation training can be used to emphasize responsible AI development and data privacy. Exercism provides a platform for practicing ethical coding alongside technical skills, with mentoring available.
 
-**[Visual Suggestion: A simple diagram illustrating the shift from "Compliance-Focused" (rule-based, fear-driven) to "Understanding-Focused" (principle-based, empathy-driven) ethics programs.]**
-
 ##  Beyond the Initial Training: Continuous Reinforcement
 
 A one-time training isn’t enough. Ethical behavior requires constant reinforcement. Consider these strategies:

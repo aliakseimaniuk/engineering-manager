@@ -13,8 +13,6 @@ Before we measure, we need to define. Too often, TTM is calculated simply as the
 * **MVP to General Availability (GA):** This phase often gets overlooked, but it’s where the rubber meets the road. It includes bug fixing, performance optimization, scalability work, and documentation. A prolonged GA phase suggests underlying technical debt or an immature engineering process.
 * **Sustained Value Delivery:** This is the most important, yet often ignored, aspect. How long does it take to realize a return on investment from the launched product? Are you iterating quickly based on user feedback and delivering continuous value? This is where *long-term* TTM really matters.
 
-**(Visual Suggestion: A simple timeline illustrating these four phases with estimated durations. This would visually demonstrate the breakdown of TTM beyond just "launch date.")**
-
 ## The Hidden Costs of Speed: Lessons from the Crypto World
 
 I once worked with a fintech startup building a crypto trading platform. They were laser-focused on speed, fueled by the belief that being first to market with support for new crypto assets would attract users. They *did* launch features quickly, onboarding new assets at a breakneck pace. 
@@ -44,5 +42,3 @@ So, what can *you* do as an engineering leader?
 6. **Regularly Review and Adapt:** TTM isn’t static. Continuously review your process and adapt it to changing circumstances. What worked last quarter might not work this quarter.
 
 True Time to Market isn't about being the fastest; it's about being the *smartest*. It's about delivering sustainable value, building a defensible position, and ultimately, winning in the long run. Let’s focus on building not just quickly, but *well*. 
-
-**Challenge:** Take a look at your current TTM metrics and identify areas where you can shift your focus from speed to sustainability. What one change can you implement this week to prioritize long-term value over short-term gains?

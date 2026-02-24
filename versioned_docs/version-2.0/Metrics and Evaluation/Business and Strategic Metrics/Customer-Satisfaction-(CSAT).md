@@ -54,7 +54,3 @@ Early in my career, we launched a new feature that we were *very* proud of. We w
 ## Final Thoughts
 
 CSAT isn’t just a number; it’s a window into the customer experience. As engineering managers, we have a responsibility to not only build great products but also to ensure that those products are delivering value and delighting our customers. By treating CSAT as a strategic metric and taking a proactive approach to addressing feedback, we can build better products, foster stronger customer relationships, and drive sustainable growth.
-
-<!-- **To put these principles into practice, start by scheduling a meeting with your support team to review recent CSAT data and identify key pain points. This simple step can kickstart a powerful cycle of customer-focused improvement.**
-
-![Visual Suggestion: A simple framework illustrating the cycle: Collect CSAT Data -> Analyze (Segment, Qualitative Data) -> Identify Root Causes -> Take Action -> Measure Impact -> Repeat. This visually reinforces the iterative process.]() -->

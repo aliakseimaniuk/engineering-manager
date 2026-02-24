@@ -13,8 +13,6 @@ Before diving into solutions, let’s acknowledge the insidious ways unsustainab
 * **Lack of Psychological Safety:** Teams afraid to speak up, admit mistakes, or challenge assumptions operate at a fraction of their potential. Innovation stifles, problems fester, and the entire system becomes brittle. This is a *huge* waste of talent and potential. Fostering psychological safety requires creating a culture of trust and open communication where team members feel comfortable sharing ideas and concerns without fear of retribution.
 * **Ignoring Root Causes:** We often treat the *symptoms* of problems instead of digging into the underlying issues. A failing test? Quick fix it. A consistently blocked developer? Add more resources. But what if the real issue is a poorly defined API or a flawed process?
 
-**(Visual Suggestion: A simple diagram showing a ‘waste cycle’ with inputs like ‘pressure to deliver fast’, ‘poor communication’, and outputs like ‘technical debt’, ‘bugs’, ‘burnout’.)**
-
 ## Cultivating a Sustainable Engineering Culture: Practical Strategies
 
 So, how do we break this cycle and build a truly sustainable environment? Here are a few strategies I've found effective:
@@ -33,7 +31,7 @@ So, how do we break this cycle and build a truly sustainable environment? Here a
 
 **3. Foster Psychological Safety & Continuous Learning:**
 
-* **Blameless Postmortems:** When things go wrong, focus on *what* happened, not *who* caused it. Identify systemic issues and prevent them from recurring. (I've seen firsthand how these sessions can transform a culture of fear into one of learning.)  You can find helpful resources on conducting effective blameless postmortems here: [https://www.atlassian.com/blog/postmortems](https://www.atlassian.com/blog/postmortems).
+* **Blameless Postmortems:** When things go wrong, focus on *what* happened, not *who* caused it. Identify systemic issues and prevent them from recurring. (I've seen firsthand how these sessions can transform a culture of fear into one of learning.) 
 * **Encourage Experimentation:**  Create a safe space for developers to try new things, even if they fail. Innovation requires risk-taking.
 * **Invest in Growth:**  Provide opportunities for professional development, training, and mentorship. 
 
@@ -45,8 +43,6 @@ Often, we're operating within organizations that *inherently* create waste. Fina
 * **Map the Value Stream:**  Identify the steps involved in delivering value to the customer and eliminate any non-value-added activities. This aligns with Lean principles, which emphasize minimizing waste in all forms.
 * **Look for Systemic Issues:** Don't just fix individual problems; address the root causes that contribute to them. While challenging, recognizing and addressing these systemic issues is crucial for long-term sustainability.  It's important to acknowledge that navigating these complex structures can be difficult and often requires negotiation and compromise.
 
-**(Visual Suggestion: A simple flowchart illustrating the value stream with highlighted areas of waste.)**
-
 ## Beyond Short-Term Gains
 
 True sustainability isn't about achieving short-term gains; it’s about building a resilient, adaptable team that can thrive in the long run. It requires a shift in mindset, a commitment to continuous improvement, and a willingness to challenge the status quo.
@@ -54,5 +50,3 @@ True sustainability isn't about achieving short-term gains; it’s about buildin
 It’s a demanding task, especially when operating within complex organizations. But the rewards – a more engaged, productive, and innovative team – are well worth the effort. 
 
 And remember, even within seemingly rigid structures, we can often find opportunities to create pockets of sustainability – small changes that accumulate over time to make a meaningful difference. It's about empowering our teams to deliver truly valuable work.
-
-**Start by identifying one area of technical debt to address this sprint. Or, schedule a retrospective to discuss how you can reduce interruptions for your team. Share this article with your team and start a conversation about building a more sustainable engineering culture.**

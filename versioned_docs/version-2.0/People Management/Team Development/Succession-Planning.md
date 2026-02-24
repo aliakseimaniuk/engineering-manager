@@ -36,8 +36,6 @@ Here's a four-step framework I've adapted over the years. Instead of viewing thi
 
 4. **Regular Review & Update:** Succession planning isn’t a “set it and forget it” exercise. Regularly review your plan, update skill assessments, and adjust your development initiatives as needed. Team structures and priorities change, and your succession plan should reflect those changes.
 
-**[Visual Suggestion: A simple matrix showing critical roles, required skills, current skill levels, and development actions would be a powerful accompaniment to this section.]**
-
 ## The Importance of "Post Mortems" – And How They Relate
 
 Each time someone leaves the team (even for a new opportunity – not just unexpectedly), conduct a thorough retrospective. This is a critical step in refining your succession plan. 

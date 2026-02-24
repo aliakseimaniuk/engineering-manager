@@ -18,8 +18,6 @@ The core principle is this: prioritize *knowledge flow* over *knowledge storage*
 
 And importantly, validate those learnings. Too often, we identify an issue in a retrospective, create an action item, and then… nothing happens. Track those action items, ensure they're implemented, and *verify* that the corrective action actually solved the problem. I’ve seen initiatives where teams diligently documented post-mortems, but never closed the loop on the improvements. That's wasted effort. Empirically validating your findings is crucial.
 
-**(Visual Suggestion: A simple "Retrospective Loop" diagram showing: Incident -> Retrospective -> Action Items -> Implementation -> Verification -> Back to Incident)**
-
 **2. Foster "Just-in-Time" Knowledge Sharing:** Documentation is great, but speed matters. Encourage engineers to share knowledge *directly* when a problem arises. Pair programming, impromptu screen shares, and quick Slack threads are invaluable. This is about reducing friction and enabling immediate learning. Don’t fall into the trap of needing perfectly polished documentation before anyone is allowed to help. For example, encourage engineers to narrate their debugging process in a quick video recording to share with the team, rather than waiting for a fully documented solution.
 
 **3. Build a "Team Knowledge Map":** Who knows what? Often, critical knowledge resides in the heads of a few key individuals. Create a simple, shared document (a wiki page works well) outlining each team member’s areas of expertise. This isn’t about assigning ownership; it’s about knowing *who to ask* when you’re stuck. It also highlights potential single points of failure.

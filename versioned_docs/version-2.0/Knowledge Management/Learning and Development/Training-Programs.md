@@ -56,5 +56,3 @@ Early in my career, I inherited a team struggling with a complex legacy system. 
 ## Conclusion: Investing in Your Team is Investing in the Future
 
 Building a culture of continuous learning isn't a one-time project—it’s an ongoing commitment. It requires intentionality, resource allocation, and a willingness to adapt. But the payoff—a highly skilled, engaged, and empowered engineering team—is well worth the effort. Don’t just send people to training. Build a *learning organization* where growth is woven into the fabric of your team’s DNA.
-
-**(Visual Suggestion):** A simple diagram illustrating the “Training Program Framework” outlined above, with each step (Needs Assessment, Learning Paths, Knowledge Capture, Measure & Iterate) represented as a circle in a continuous loop.

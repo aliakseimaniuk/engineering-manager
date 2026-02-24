@@ -43,10 +43,6 @@ I like to think of trust like a bank account. You make deposits through consiste
 
 Constantly monitor your "trust balance" with each team member. Are you making more deposits than withdrawals? If not, you need to course-correct.
 
-![Trust Bank Account Graphic](https://via.placeholder.com/400x200/007bff/ffffff?text=Trust+Bank+Account+(Insert+Visual+Here)) 
-
-*(Visual Suggestion: A simple graphic of a bank balance with deposits (positive actions) and withdrawals (negative actions) illustrating the concept of building and eroding trust.)*
-
 Earning trust isn’t a one-time event; it’s an ongoing process. It requires consistent effort, genuine care, and a commitment to building a team based on mutual respect and psychological safety. It’s not always easy, but it’s the most rewarding investment you can make as an engineering leader. And it's the foundation upon which all high-performing teams are built. 
 
 **Take a moment this week to reflect on your "trust balance" with each team member. Identify one action you can take to make a deposit.**

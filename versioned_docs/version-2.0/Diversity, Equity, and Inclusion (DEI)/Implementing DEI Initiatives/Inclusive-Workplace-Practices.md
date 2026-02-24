@@ -43,13 +43,3 @@ Disengagement can exacerbate feelings of exclusion. As leaders, we need to creat
 **Final Thoughts**
 
 Building truly inclusive engineering teams isn’t easy. It requires ongoing effort, self-reflection, and a willingness to challenge the status quo. But the benefits – increased innovation, improved performance, and a more engaged workforce – are well worth the investment. Start by challenging assumptions in your next design review or actively soliciting feedback from quieter team members.  It’s about creating a workplace where everyone feels valued, respected, and empowered to bring their whole selves to work. Creating this environment isn’t just the right thing to do; it’s also the smart thing to do.
-
-**(Visual Suggestion:** A simple diagram illustrating the difference between "Compliance" (checking boxes) and "Inclusion" (creating a culture of belonging). Imagine two concentric circles. The outer circle, labeled "Compliance," contains elements like diversity training and reporting metrics. The inner core, labeled "Inclusion," contains elements like psychological safety, belonging, and shared purpose. The diagram visually represents that true inclusion goes beyond surface-level measures.)
-
-**Resources:**
-
-*   **Radical Candor:** [https://www.radicalcandor.com/](https://www.radicalcandor.com/)
-*   **Diversity & Inclusion Resources from SHRM:** [https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/diversity-and-inclusion/pages/default.aspx](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/diversity-and-inclusion/pages/default.aspx)
-
----
-[Rock, D., & Grant, H. (2016). Why diverse teams are smarter. *Harvard Business Review*.](https://hbr.org/2016/03/how-diverse-teams-can-outperform-others)

@@ -36,8 +36,6 @@ Creating a Code of Ethics isn’t about dictating rules; it's about collaborativ
 4. **Leadership Modeling:**  Ethics starts at the top. Engineering leaders *must* model ethical behavior in their own decision-making.
 5. **Regular Review and Updates:**  Technology and societal norms are constantly evolving. Your Code of Ethics should be reviewed and updated regularly to ensure it remains relevant and effective.
 
-**(Visual Suggestion: A simple flowchart illustrating the process of ethical decision-making – Identify the issue, Consider the principles, Evaluate the options, Make a decision, Reflect on the outcome.)**
-
 ## Avoiding the Pitfalls
 
 It’s easy for a Code of Ethics to become a performative exercise. Here are some things to avoid:
@@ -48,19 +46,3 @@ It’s easy for a Code of Ethics to become a performative exercise. Here are som
 * **Ignoring the Human Element:**  Ethical dilemmas are often complex and nuanced.  Encourage open dialogue and provide support to engineers who are grappling with difficult decisions.
 
 The article I referenced earlier highlights a crucial point: we’re often so focused on *how* we build software that we forget *why*.  A Code of Ethics isn't just about preventing bad code; it's about empowering your engineers to build *good* things—software that is not only functional and reliable but ethical, responsible, and beneficial to society. It’s about shifting the focus from simply following instructions to actively shaping the future. 
-
-**Resources for Further Exploration:**
-
-*   **IEEE Code of Ethics:** [https://www.ieee.org/about/corporate/governance/code-of-ethics.html](https://www.ieee.org/about/corporate/governance/code-of-ethics.html)
-*   **ACM Code of Ethics and Professional Conduct:** [https://www.acm.org/code-of-ethics](https://www.acm.org/code-of-ethics)
-
-**Taking the First Steps:**
-
-Implementing a Code of Ethics requires effort, but it's an investment worth making. Here are a few "quick wins" to get you started:
-
-*   **Schedule a team discussion** on common ethical dilemmas in your domain.
-*   **Add ethical considerations** to your code review process.
-*   **Create a dedicated Slack channel** for engineers to discuss ethical concerns.
-*   **Document your Code of Ethics** and make it easily accessible to all team members.
-
-What steps will *you* take to embed ethical considerations into your engineering practices?

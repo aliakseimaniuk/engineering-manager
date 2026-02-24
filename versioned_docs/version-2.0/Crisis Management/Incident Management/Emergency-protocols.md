@@ -62,5 +62,3 @@ The CORE framework is a starting point. Here’s how to turn it into actionable 
 Emergency protocols aren’t about predicting every possible failure. They're about creating a structure for responding effectively *when* failures inevitably occur. By focusing on clear communication, defined ownership, rapid assessment, and a clear escalation path, you can empower your team to navigate crises with confidence and minimize the impact on your customers.  
 
 To truly prepare your team, I encourage you to schedule a team workshop in the next two weeks to discuss and refine your incident response protocols. Running a tabletop exercise within the next month will further solidify these procedures and build crucial muscle memory. Finally, take some time to review your current runbooks and identify areas where you can implement the CORE framework. 
-
-**[Visual Suggestion: A simple flowchart illustrating the CORE framework. Each element (Communication, Ownership, Rapid Assessment, Escalation) would be a box with key bullet points outlining the actions within each.]**

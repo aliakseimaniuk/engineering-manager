@@ -35,8 +35,6 @@ So how do we shift from a 'just-in-case' to a 'just-in-time' approach? Here are 
 * **Leverage Asynchronous Communication:** Encourage written explanations. Tools like Desk or even well-organized Slack channels can serve as knowledge repositories. A thoughtfully written explanation is far more valuable than a hurried verbal one.
 * **Promote "Draft PRs" as Learning Tools:** Encourage engineers to submit pull requests even when the code isn't fully finished. These "draft PRs" can spark valuable discussions and knowledge sharing.
 
-**[Visual Suggestion: A simple diagram showing the shift from "Just-in-Case" (large documentation pile, infrequent access) to "Just-in-Time" (knowledge flowing between team members, readily available when needed). ]**
-
 ## Tools & Techniques to Facilitate Sharing
 
 While culture is paramount, the right tools can amplify your efforts. Here are a few I've found effective:

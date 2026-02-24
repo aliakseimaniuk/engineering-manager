@@ -61,5 +61,3 @@ DEI isn’t a one-time fix; it’s a journey. As engineering leaders, we need to
 Don't just *deliver* training; foster ongoing dialogue, encourage vulnerability, and celebrate diversity in all its forms. The payoff? More innovative products, stronger teams, and a more equitable future for everyone.
 
 **To get started, consider scheduling a workshop on inclusive code reviews with your team or reviewing your hiring process to identify and eliminate potential biases.**
-
-**[Visual Suggestion]:** A simple diagram illustrating the three stages of the framework (Foundation, Skill Building, Systemic Change) with arrows showing the progression and feedback loops for continuous improvement.

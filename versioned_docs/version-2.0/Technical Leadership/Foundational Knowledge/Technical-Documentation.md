@@ -48,5 +48,3 @@ Investing in technical documentation isn’t a short-term fix; it’s a long-ter
 I've seen firsthand that teams prioritizing documentation consistently outperform those that don't. It's not just about writing code; it’s about building a shared, evolving understanding. 
 
 To get started, I encourage you to pick one small documentation task this week – perhaps write an ADR for a recent architectural decision or update a key conceptual overview. Start small and focus on the documentation that will have the biggest impact for *your* team.
-
-**(Visual Suggestion:** A simple diagram showing the cycle of "Code -> Document -> Understand -> Improve" could visually reinforce the core message of the post.)

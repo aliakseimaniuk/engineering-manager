@@ -52,8 +52,6 @@ This framework helps you:
 * **Make Trade-offs:** Use the error budget to prioritize features and technical debt reduction.  For example, you might choose to allocate a portion of the error budget to allow for riskier deployments of new features.
 * **Promote Innovation:** Allow for calculated risks and experimentation within the error budget. Google's SLO documentation ([https://sre.google/sre-fundamentals/measuring-sli/](https://sre.google/sre-fundamentals/measuring-sli/)) provides excellent resources on implementing this framework.
 
-**(Visual Suggestion: A simple diagram illustrating the relationship between SLO, SLI, and Error Budget. A target with a bullseye representing the SLO, and the area outside the bullseye representing the Error Budget.)**
-
 ## Building a Culture of Reliability: It’s More Than Just the Contract
 
 Creating a great SLA is just the first step. To truly improve reliability, you need to foster a culture where:
@@ -63,8 +61,4 @@ Creating a great SLA is just the first step. To truly improve reliability, you n
 * **Reliability is a Shared Responsibility:** Make reliability a priority for all team members, not just the on-call engineer. Encourage a "you build it, you run it" mentality.
 * **Continuous Improvement is the Norm:** Regularly review performance, identify areas for improvement, and iterate on your SLAs.
 
-
-
 **In conclusion**, SLAs aren’t about ticking boxes and avoiding penalties. They’re about building trust, aligning priorities, and driving engineering excellence. By focusing on user impact, adopting a practical framework, and fostering a culture of reliability, you can create SLAs that truly deliver value to your business and your users. 
-
-**Challenge:** Start by identifying *one* key metric that truly reflects user impact for a critical service. Define an initial SLO for it – even a conservative one – and begin tracking it. This simple step can be the foundation for a more robust and effective SLA strategy.

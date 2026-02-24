@@ -20,8 +20,6 @@ These are the costs that a technical leader *must* address. They're not always v
 
 I've found a simple framework incredibly helpful in guiding cost optimization efforts: the Value-Impact Matrix. It forces prioritization based on what truly matters.
 
-**(Visual Suggestion: A 2x2 matrix with axes labeled "Value to User" (Low to High) and "Impact to Engineering Effort" (Low to High). Quadrants labeled: "Quick Wins", "Major Projects", "Fill-Ins", "Thankless Tasks".)**
-
 Here's how it works:
 
 1. **List all potential optimization efforts:** Everything from reducing cloud spend to simplifying a complex API.

@@ -20,8 +20,6 @@ Proactive stakeholder analysis, done *before* you even begin planning, helps you
 
 There are many stakeholder analysis techniques, but I’ve found the “Power/Interest” grid consistently delivers results. It’s simple enough to use quickly, yet insightful enough to drive real action. Techniques like this are often aligned with established change management methodologies, such as those described in Kotter's 8-Step Change Model.
 
-**(Visual Suggestion: A 2x2 grid with "Power" on the Y-axis (Low to High) and "Interest" on the X-axis (Low to High). Label each quadrant: Low Power/Low Interest (Monitor), Low Power/High Interest (Keep Informed), High Power/Low Interest (Keep Satisfied), High Power/High Interest (Manage Closely).)**
-
 Here’s how it works:
 
 * **Power:** The ability to influence the project’s outcome – can be formal authority, control over resources, or simply significant influence.

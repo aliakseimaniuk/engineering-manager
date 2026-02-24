@@ -12,8 +12,6 @@ Let's face it, environmental sustainability is crucial. But limiting sustainabil
 * **Economic Sustainability:** Building solutions that are financially viable in the long term. A brilliant, eco-friendly design that bankrupts the company isn’t sustainable. This means considering the total cost of ownership, including maintenance, upgrades, and eventual decommissioning.
 * **Social Sustainability:** Ensuring our work benefits people – both the end-users and the teams building the solutions. This includes accessibility, inclusivity, ethical considerations, and a positive impact on communities. Consider how a new technology might impact employment in a local community and proactively address potential challenges. 
 
-**(Visual Suggestion: A Venn diagram illustrating the three pillars of sustainability, with overlapping areas representing synergy and true sustainable solutions.)**
-
 ## Principles for Leading a Sustainable Engineering Team
 
 These concepts are great, but how do we *actually* translate them into action? Here are a few core principles I’ve found invaluable:
@@ -45,7 +43,3 @@ Sustainable solutions require considering the impact on *all* stakeholders. This
 Sustainability isn’t a checklist item; it’s a fundamental shift in mindset. As engineering leaders, our role isn't just to build things; it's to build a culture that prioritizes long-term value, ethical considerations, and continuous improvement.
 
 Focusing on these principles – first principles thinking, long-term vision, iterative improvement, diverse perspectives, and delivering value – isn't just good for the planet; it’s good for business. It fosters innovation, builds stronger teams, and creates solutions that truly make a difference.
-
-**(Visual Suggestion: A simple graphic depicting a cyclical process of "Plan-Do-Check-Act" with sustainability principles integrated into each stage.)**
-
-**Take Action Today:** Start by identifying one area in your current projects where you can apply first principles thinking. Challenge the underlying assumptions and explore alternative solutions that prioritize sustainability, long-term value, and positive impact. Share this article with your teams and encourage a conversation about how to cultivate a more sustainable engineering culture.

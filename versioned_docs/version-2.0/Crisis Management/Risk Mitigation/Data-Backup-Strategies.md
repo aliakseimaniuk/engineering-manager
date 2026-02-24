@@ -25,7 +25,6 @@ Simple backups aren’t enough. You need a multi-layered strategy that addresses
 * **Testing, Testing, Testing:** This is the most overlooked component. Backups are useless if you can't *restore* them. Regularly test your restoration process to identify and fix any issues. Schedule this as part of your regular maintenance cycle. (I recommend quarterly, at a minimum.) *Prioritize this step – a tested backup provides peace of mind and ensures a faster recovery when disaster strikes.*
 * **Database Specifics:**  Databases require special attention. Simple file copies might not be sufficient for consistency. Use database-specific backup tools (like `mysqldump` for MySQL or `pg_dump` for PostgreSQL) to ensure data integrity.  Services like SimpleRestore specialize in MySQL restoration.
 
-**(Visual Suggestion: A diagram showing the layered backup strategy – frequency, offsite, type, testing – like concentric circles around the data itself.)**
 
 ## Choosing the Right Tools: From DIY to Managed Services
 

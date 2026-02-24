@@ -33,8 +33,6 @@ This layer requires more frequent review and adjustment, especially in fast-movi
 
 **3. The Execution Layer (Now - 3 Months):** This is the "how." This is where you map out specific tasks, sprints, and deliverables. This layer *should* be highly flexible and driven by your agile processes. It's the shortest-term view, focused on incremental progress.
 
-**(Visual Suggestion: A simple three-layered diagram visually representing these layers – perhaps concentric circles, or stacked boxes.)**
-
 ## Making it Work: Practical Tips for Engineering Leaders
 
 * **Collaborative Creation:** *Never* create a technical roadmap in isolation. Involve your senior engineers, architects, and product managers in the process. Their input is crucial for identifying technical risks and dependencies.
@@ -48,5 +46,3 @@ This layer requires more frequent review and adjustment, especially in fast-movi
 Ultimately, a technical roadmap is just a tool. It’s not a substitute for strong leadership, clear communication, and a culture of continuous learning. As an engineering leader, your job isn’t to *predict* the future, but to *prepare* your team to navigate it. That means fostering a mindset of adaptability, cultivating experimentation, and empowering your engineers to make informed decisions.
 
 The best roadmaps don't eliminate uncertainty; they *clarify* it. They give your team a shared understanding of the challenges ahead, and the confidence to tackle them, together. 
-
-**Take a moment to reflect on your current roadmap process. What one change will you make this week to incorporate these principles and improve your team’s ability to deliver impactful results?**

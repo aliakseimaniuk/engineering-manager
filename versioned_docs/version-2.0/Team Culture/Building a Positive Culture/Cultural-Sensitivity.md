@@ -24,8 +24,7 @@ So, how do we move beyond simply avoiding offense and cultivate proactive cultur
 
 **The Power of “Not Knowing”**
 
-Jørgensen and Sjøberg’s work highlights the importance of *not* learning from experience – specifically, the danger of prematurely solidifying assumptions based on past successes. This can lead to teams overlooking innovative solutions that don't align with past successes. This connects directly to cultural sensitivity. Be open to the possibility that *your* way isn’t necessarily the best way. Encourage experimentation and learning from failures. [https://www.researchgate.net/publication/228856785_Learning_not_to_learn_The_fragility_of_knowledge_in_engineering_work](https://www.researchgate.net/publication/228856785_Learning_not_to_learn_The_fragility_of_knowledge_in_engineering_work)
-
+Jørgensen and Sjøberg’s work highlights the importance of *not* learning from experience – specifically, the danger of prematurely solidifying assumptions based on past successes. This can lead to teams overlooking innovative solutions that don't align with past successes. This connects directly to cultural sensitivity. Be open to the possibility that *your* way isn’t necessarily the best way. Encourage experimentation and learning from failures.
 I've found that the most successful teams aren’t necessarily the ones with the smartest people, but the ones where people feel safe enough to admit what they *don’t* know and to ask for help. This vulnerability fosters collaboration and allows the team to leverage the collective intelligence of its members. 
 
 **Leading with Empathy**
@@ -35,5 +34,3 @@ Ultimately, cultural sensitivity isn't a skill to be mastered, but a mindset to 
 As a leader, cultivate an environment where people are encouraged to explore their interests, regardless of their perceived relevance. Trust your team's instincts and empower them to take risks. And remember, the most valuable lessons often come from embracing the uncomfortable tensions that arise when different cultures collide.
 
 This week, try actively soliciting feedback from team members who typically remain quiet in meetings. What unconscious biases might be hindering your team’s innovation?
-
-**(Visual Suggestion: A simple diagram illustrating the concept of "cultural intelligence" with overlapping circles representing self-awareness, active listening, perspective-taking, and empathy.)**

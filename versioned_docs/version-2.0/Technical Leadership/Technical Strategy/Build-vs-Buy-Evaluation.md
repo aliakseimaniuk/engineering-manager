@@ -46,7 +46,7 @@ Here's a framework that considers factors beyond just cost. I recommend scoring 
 *   **Security Vulnerabilities:** Evaluate the security implications of both options.
 *   **Dependency Risk:** What happens if the vendor goes out of business or discontinues the product?
 
-**(Visual Suggestion: A weighted scoring matrix.)**
+**A weighted scoring matrix.**
 
 | Factor                    | Weight | Build Score | Buy Score | Weighted Build Score | Weighted Buy Score |
 | ------------------------- | ------ | ----------- | --------- | -------------------- | ------------------ |

@@ -14,7 +14,7 @@ A proactive approach recognizes this new reality. It’s about assuming compromi
 
 This isn’t a task for a dedicated security team alone. It needs to be woven into the fabric of your engineering culture.  The good news is, building security in doesn’t have to be a massive overhaul. It's about integrating smart practices into your existing workflows. Here's how:
 
-* **Threat Modeling as a Standard Practice:** Before you write a single line of code, ask: "What are the potential threats to this system? What could go wrong?" Threat modeling (using frameworks like STRIDE or PASTA) forces engineers to think like attackers and identify vulnerabilities early in the development lifecycle.  *(Visual Suggestion: A simple diagram showing the stages of threat modeling – identifying assets, threats, vulnerabilities, and mitigation strategies).*
+* **Threat Modeling as a Standard Practice:** Before you write a single line of code, ask: "What are the potential threats to this system? What could go wrong?" Threat modeling (using frameworks like STRIDE or PASTA) forces engineers to think like attackers and identify vulnerabilities early in the development lifecycle.  
 * **Secure Coding Practices:** Invest in training your team on secure coding principles (OWASP Top 10 is a great starting point). Static analysis tools can automate much of this, flagging potential vulnerabilities before they make it to production.
 * **Automated Security Testing:** Integrate security testing into your CI/CD pipeline. Automated vulnerability scans, penetration testing, and fuzzing can identify weaknesses continuously, not just at the end of a development cycle.
 * **Infrastructure as Code (IaC) with Security in Mind:** When using IaC tools like Terraform or CloudFormation, incorporate security configurations from the start. Don't treat security as an afterthought.
@@ -27,7 +27,7 @@ You can't boil the ocean. Focus your initial efforts on areas with the highest r
 
 * **Authentication & Authorization:** Implement strong authentication mechanisms (multi-factor authentication is a must) and granular authorization controls. Least privilege access is key – grant users only the permissions they need.
 * **Data Encryption:** Encrypt sensitive data at rest and in transit. Proper key management is crucial.
-* **Dependency Management:** Third-party libraries and dependencies are often a major source of vulnerabilities. Use dependency management tools (like FOSSA) to track and manage dependencies, and proactively address vulnerabilities. *(Visual Suggestion: A simple chart illustrating the attack surface created by third-party dependencies).*
+* **Dependency Management:** Third-party libraries and dependencies are often a major source of vulnerabilities. Use dependency management tools (like FOSSA) to track and manage dependencies, and proactively address vulnerabilities. 
 * **Supply Chain Security:** Understand the security practices of your vendors and partners. Supply chain attacks are increasingly common, so it’s vital to assess the risks.
 * **Incident Response Plan:** A documented incident response plan is essential. It should outline the steps to take in the event of a security incident, including roles, responsibilities, and communication procedures.
 

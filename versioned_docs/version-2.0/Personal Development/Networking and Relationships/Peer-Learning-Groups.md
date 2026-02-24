@@ -38,8 +38,6 @@ Okay, you’re convinced. Now how do you actually *build* a peer learning group?
     * **Challenge/Success Share (15-20 minutes):** Members share a current challenge or recent success. This is where the real peer support happens.
     * **Action Items/Wrap-up (5 minutes):** Identify next steps and schedule the next meeting.
 
-**(Visual Suggestion: A simple diagram illustrating the meeting structure above – a circular flow with sections for Check-in, Discussion, Share, and Action Items.)**
-
 5. **Leverage Free Resources**: Consider the following platforms to facilitate discussion. Teamwork.com offers integrated project management and chat features ideal for tracking action items and facilitating asynchronous discussions. Alternatively, GitHub can be useful for document storage and collaboration. There are a number of free tiers for small groups.
 
 

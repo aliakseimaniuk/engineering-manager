@@ -40,7 +40,3 @@ Here's a simple framework I’ve found helpful when leading teams through change
 It's also vital to be aware of the potential for detrimental group dynamics during periods of change. Timothy Snyder’s *On Tyranny* provides chilling lessons from 20th-century history, highlighting how easily societies can succumb to manipulation and conformity. While seemingly distant from the challenges of engineering leadership, the core principle applies: a willingness to question authority, defend truth, and resist the erosion of independent thought is crucial, especially when faced with rapid change and pressure to conform.  This means actively encouraging dissenting opinions and creating a safe space for constructive criticism.
 
 Cultural change isn't about making everyone happy. It’s about building a resilient, adaptable organization that can navigate an increasingly complex and uncertain world. It’s uncomfortable, challenging, and often requires us to confront difficult truths. But embracing that discomfort is the price of survival.
-
-**(Visual Suggestion: A diagram illustrating the stages of adaptation: Discomfort -> Learning -> Growth. This could show a curve with initial decline (discomfort), followed by a learning phase, and ultimately leading to growth and improved performance.)**
-
-**Take Action:** Reflect on a recent change initiative within your team. Where did the focus on perceived “happiness” potentially hinder progress? What steps could you take to foster a more adaptable culture that embraces discomfort as a catalyst for growth?

@@ -33,8 +33,6 @@ Here’s where it moves from diagnosis to action.
 * **Actively Solicit Feedback (And *Act* On It):** Regular 1:1s are crucial, but go beyond status updates. Ask engineers about their challenges, their aspirations, and what could make their work more engaging. And most importantly, demonstrate that you’re listening by taking action on their feedback.
 * **Connect Work to Impact:** Help engineers understand how their contributions are making a difference. Share customer feedback, highlight successful outcomes, and celebrate achievements.
 
-**[Visual Suggestion: A simple framework outlining the "Engagement Loop": Challenge -> Skill Utilization -> Impact -> Recognition -> Repeat. This visually represents how these factors contribute to sustained engagement.]**
-
 ## It’s Not Just About Perks – It’s About Respect
 
 Ultimately, employee engagement isn’t about ping pong tables or free snacks. It’s about respect. Respect for their skills, their ideas, and their contributions. It’s about creating an environment where they feel valued, challenged, and empowered. 

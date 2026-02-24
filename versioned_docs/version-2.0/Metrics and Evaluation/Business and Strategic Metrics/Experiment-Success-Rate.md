@@ -40,8 +40,6 @@ Here’s how to start tracking and improving your ESR:
 4. **Regularly Review & Analyze:**  At least monthly, review your experiment log.  Identify patterns, common failure points, and areas for improvement.
 5. **Focus on Learning, Not Just Success:** Treat every experiment as a learning opportunity, even the failures.  What did you learn about your users?  What could you do differently next time?
 
-**(Visual Suggestion: A simple "Experiment Log" table with columns: Experiment Name, Hypothesis, Key Metric, Result (Success/Failure/Inconclusive), Learnings, Confidence Level.)**
-
 ## Beyond the Number: Why a Learning Culture Matters
 
 Tracking ESR is valuable, but it’s just the beginning. The true power lies in fostering a culture of experimentation and learning. Encourage your team to:
@@ -53,5 +51,3 @@ Tracking ESR is valuable, but it’s just the beginning. The true power lies in 
 Some teams may initially resist this shift, prioritizing output over learning. It's crucial to emphasize that experimentation isn't about slowing down development; it’s about ensuring that the effort invested leads to meaningful impact.
 
 Don't just chase velocity.  Focus on building the right things, learning from your mistakes, and continuously improving your experiment success rate.  It’s not just a metric; it’s a reflection of your team’s ability to deliver real value to your users.
-
-**To get started, schedule a team discussion to define clear metrics for your next experiment and map out your current experimentation process to identify areas for improvement.**

@@ -12,8 +12,6 @@ Think of the early days of wearable fitness trackers. The UP series, initially s
 
 This is why constantly asking "What's *not* being done?" is more valuable than "What are they doing?". Encourage your team to spend time exploring tangential problems, adjacent markets, and completely different solutions. A competitor is trying to *beat* you at the same game. A true disrupter is playing a different game altogether.
 
-**(Visual Suggestion: A simple 2x2 matrix with axes "Familiar Problem" vs. "Familiar Solution". Plot competitors in the "Familiar/Familiar" quadrant, and potential disruptors in "Unfamiliar/Unfamiliar" or "Familiar/Unfamiliar" quadrants.)**
-
 ## From Analysis to Action: Building a Resilient Engineering Vision
 
 It's easy to get caught up in the daily grind of feature development and competitive analysis, but truly resilient engineering leadership requires stepping back and proactively scanning the horizon. Before we dive into identifying these potential disruptors, let’s look at how to translate awareness into action.
@@ -31,8 +29,6 @@ So, how do you identify these "key players" – those who pose the real threat, 
 * **The Ecosystem Builder:** These players aren't focused on a single product, but on creating a platform or ecosystem that attracts users and developers. (Example: Apple. They don’t just sell phones, they sell an entire experience.)
 * **The "Low-End" Disruptor:** These companies initially target a niche market with a simpler, cheaper solution. They gradually improve and expand, eventually challenging the incumbents. (Example: Early Linux distributions challenging established operating systems – and ultimately becoming a major player in the market).
 * **The Funding Magnet:** Pay attention to startups receiving significant investment, even if their current product seems irrelevant. Funding provides the oxygen for experimentation and the ability to pivot quickly.
-
-**(Visual Suggestion: A network diagram showing various players – direct competitors, adjacent innovators, ecosystem builders, funded startups – and the connections between them. Highlight potential areas of disruption.)**
 
 Crucially, understanding *their motivations* is key. As highlighted in *Venture Deals* by Brad Feld and Jason Mendelson, venture capitalist interests aren’t always aligned with your own. What are their long-term goals? Who are *they* trying to displace? Knowing this will help you anticipate their moves and adjust your strategy.
 

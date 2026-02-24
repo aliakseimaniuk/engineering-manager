@@ -19,8 +19,6 @@ Let's quickly recap what each role means:
 * **C - Consulted:** Those whose opinions are sought. This is two-way communication. You need their input *before* a decision is made.
 * **I - Informed:** Those who are kept up-to-date on progress, often after a decision is made. This is one-way communication.
 
-**(Visual Suggestion: A simple 4x4 grid with RACI across the top and common engineering tasks down the side – e.g., "Deploying to Production," "Designing a New API," "Investigating a Production Incident," "Writing Unit Tests." Filled with the appropriate RACI designations.)**
-
 ## Beyond the Matrix: RACI in Practice
 
 Here's where it gets interesting. It’s not enough to *create* the matrix; you need to integrate it into your workflow.

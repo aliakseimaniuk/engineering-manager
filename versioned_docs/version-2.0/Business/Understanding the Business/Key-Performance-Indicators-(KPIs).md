@@ -41,9 +41,6 @@ Focusing on Defect Rate helps us ensure a positive customer experience and minim
 * **Test Coverage (Focused on Critical Paths):** As mentioned earlier, coverage *matters*, but only if it's focused on the most important areas of your code.
 
 
-
-**(Visual Suggestion: A simple 2x3 grid visualizing these three pillars with example KPIs under each. A color-coding scheme to indicate 'healthy', 'warning', and 'critical' statuses for each KPI would add clarity. Consider: Green (healthy/on track), Yellow (warning/needs attention), Red (critical/immediate action required).)**
-
 ## Connecting the Dots: The Importance of Correlation, Not Just Numbers
 
 Tracking these KPIs is only the first step. The real power comes from understanding the *relationships* between them. 

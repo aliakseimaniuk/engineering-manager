@@ -45,5 +45,3 @@ Ultimately, cultivating an Agile mindset is about shifting from a traditional, c
 It requires a willingness to embrace ambiguity, challenge assumptions, and prioritize continuous improvement. And while tools like Yodiz, Ora, or Tenzu can help facilitate the process, they are ultimately just that – tools. The real power lies in the mindset of the people who use them.
 
 What's one small step *you* can take this week to cultivate a more Agile mindset within your team?
-
-**[Visual Suggestion]:** A simple diagram showing the difference between "Doing Agile" (focus on processes and tools) and "Being Agile" (focus on mindset, values, and continuous improvement). A concentric circle diagram would work well, with “Being Agile” at the core and the processes surrounding it.

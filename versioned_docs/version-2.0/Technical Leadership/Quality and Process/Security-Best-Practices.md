@@ -22,8 +22,6 @@ Reactive security is like constantly patching holes in a sinking boat. Proactive
     * **Software Composition Analysis (SCA):** Identifies vulnerabilities in third-party libraries and dependencies (a huge and often overlooked area - tools like FOSSA can help manage this).
 * **Penetration Testing (Post-Deployment):** Even with all the preventative measures, it’s vital to have ethical hackers attempt to exploit your system. Think of this as a “red team” exercise. 
 
-**(Visual Suggestion: A diagram illustrating the SDLC with security checks integrated at each stage - Design, Development, Testing, Deployment.)**
-
 ## Beyond the Tech: Cultivating a Security Mindset
 
 Technical measures are essential, but they’re not enough. You need to foster a culture where security is everyone's responsibility. 
@@ -43,12 +41,10 @@ As an engineering leader, your actions speak louder than words. Demonstrate a co
 * **Staying Informed:** Keep up-to-date with the latest security threats and vulnerabilities. Read security blogs, attend conferences, and participate in online communities. 
 * **Considering User Privacy:** We know that prioritizing security can be challenging when facing tight deadlines and competing priorities. However, building systems that prioritize user privacy and data security is not just a technical requirement; it’s an ethical one. 
 
-**(Visual Suggestion: A simple graphic depicting a continuous loop representing the ongoing process of security improvement - Plan, Do, Check, Act.)**
 
 Ultimately, your job as an engineering leader is to protect your users, your team, and your company. And in today’s world, that means prioritizing security from the very beginning.
 
 **To start building a security-first culture today, consider these immediate steps:**
-
 * **Schedule a threat modeling workshop** with your team this week.
 * **Review your SDLC** to identify gaps in security integration.
 * **Prioritize security debt** in your next sprint planning.

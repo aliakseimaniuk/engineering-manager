@@ -24,10 +24,6 @@ I've found the most effective programs center around three key pillars: **Impact
 * **Effort:** Celebrates dedication, persistence, and going the extra mile, *even if* the outcome isn’t immediately visible. *Example:* “David, I noticed you stayed late for three nights this week to help onboard the new junior engineer. Your patience and commitment to mentorship are greatly appreciated.”
 * **Values:** Highlights behaviors that embody your team’s core principles (e.g., collaboration, ownership, innovation). *Example:* “Maria, the way you proactively shared your knowledge and assisted the frontend team during the API integration showcased true team spirit – that embodies our commitment to collaboration.”
 
-**(Visual Suggestion: A simple 3-circle Venn diagram illustrating the overlap between Impact, Effort, and Values. The center circle could be labeled "Exceptional Contribution".)**
-
-
-
 ## Practical Implementation: Moving Beyond the Basics
 
 Here’s how to translate this framework into actionable steps. Remember that consistent, small gestures often have a greater impact than infrequent, large-scale rewards. 
@@ -52,11 +48,3 @@ Don't limit recognition to purely technical achievements. Look for opportunities
 Recognition isn't about checking a box; it's about building a culture where people feel valued, appreciated, and motivated to do their best work. By focusing on Impact, Effort, and Values, and implementing a thoughtful, consistent recognition program, you can create a thriving team that consistently delivers exceptional results. 
 
 Remember, the most impactful recognition is often a simple, sincere "thank you."
-
-**This week, challenge yourself to identify one team member who consistently embodies your core values and publicly acknowledge their contribution.** This small gesture can go a long way in fostering a positive and engaged team environment.
-
----
-
-**Reference:** 
-
-[CIPD. (2023). Employee Recognition.](https://www.cipd.co.uk/knowledge/fundamentals/relations/recognition) (Example of a resource on employee recognition – feel free to substitute with a relevant citation)

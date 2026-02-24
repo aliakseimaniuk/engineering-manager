@@ -17,8 +17,6 @@ As leaders, we must encourage our teams to look *beyond* the immediate competiti
 * **What emerging technologies could render our current solutions obsolete?**
 * **Who are the potential disruptors – even if they're small startups or research labs – that could change the game?**
 
-**(Visual Suggestion: A simple 2x2 matrix. Y-axis: “Current Competitors” vs. “Potential Disruptors”. X-axis: “Incremental Improvement” vs. “Radical Innovation”. This helps visualize where a team’s focus should be.)**
-
 ## Beyond Benchmarking: Understanding Competitive *Forces*
 
 Simply "improving on the competition" is a reactive strategy. A truly resilient team proactively anticipates shifts in the market dynamics. This requires understanding the underlying *forces* at play. 
@@ -46,8 +44,6 @@ Understanding the competitive landscape is only half the battle. We need to buil
 ## The Value of Agile Methodologies
 
 The context briefly mentions Lean, Agile, and Waterfall methodologies. The core message is relevant. We need *some* common ideology to cooperate effectively. For engineering teams, this means adopting a framework that emphasizes iterative development, continuous feedback, and rapid adaptation. While no single methodology is perfect, the principles of agility are essential for navigating a competitive landscape.
-
-**(Visual Suggestion: A simple timeline illustrating the shift from Waterfall (predictive, long cycles) to Agile (iterative, short cycles) to emphasize the need for adaptability.)**
 
 ## Beyond Competition: Creating Value
 

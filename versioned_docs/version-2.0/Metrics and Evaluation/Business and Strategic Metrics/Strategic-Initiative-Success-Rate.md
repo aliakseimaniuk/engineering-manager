@@ -43,8 +43,6 @@ What metrics will indicate whether you’re on track to achieve the desired outc
 * Reduced bounce rate on search results page.
 * Improved search query relevance (measured through user feedback or A/B testing).
 
-**(Visual Suggestion: A simple table mapping Outcomes to Key Results with target metrics.)**
-
 **3. Break Down the Work into Incremental Advances**
 
 Large initiatives can feel overwhelming.  Break them down into smaller, manageable increments that deliver value quickly.  This allows for frequent feedback and course correction. As Cerpa et al. demonstrate in their research on project outcomes, focusing on incremental advances significantly improves predictability and allows for course correction.

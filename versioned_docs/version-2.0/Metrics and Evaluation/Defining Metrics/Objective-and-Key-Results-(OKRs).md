@@ -17,8 +17,6 @@ Let's quickly break down the components:
 
 The key isn't just *having* these components; it’s the relationship between them. Key Results are *not* simply a list of tasks. They should reflect genuine progress toward the objective.
 
-**(Visual Suggestion: A simple diagram showing a funnel. Top: Objective (broad, aspirational). Middle: Key Results (measurable progress). Bottom: Initiatives/Tasks (the *how* – often numerous).)**
-
 This funnel illustrates how a broad Objective is broken down into measurable Key Results, which, in turn, drive specific initiatives. By starting with the "what" and then defining "how" we'll measure success, we create a framework that encourages both ambition and accountability.
 
 ## Common Mistakes to Avoid
@@ -50,5 +48,3 @@ Here are a few scenarios from my experience:
 Ultimately, OKRs are a tool, not a magic bullet. Their true power lies in cultivating a culture of ambition, accountability, and continuous improvement. Encourage your team to think big, embrace challenges, and relentlessly focus on delivering value to your customers.  When you do that, the framework will fade into the background, and the results will speak for themselves.
 
 One team I worked with initially struggled to define meaningful Key Results. After a facilitated discussion, they realized they were focused on *building* features, not solving *customer problems*. By shifting their focus, they redefined their Key Results around customer engagement and saw a significant improvement in both their OKR achievement and overall impact.
-
-**To get started, schedule a team meeting to discuss one Key Result that could have the biggest impact on your next sprint. Focus on the *why* behind it and empower your team to define the *how*.**

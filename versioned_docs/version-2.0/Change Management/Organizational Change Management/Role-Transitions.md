@@ -46,6 +46,4 @@ While individual support is crucial, we also need to address the systemic issues
 
 **In conclusion:** Role transitions are inevitable. As engineering leaders, our job isn't to eliminate them, but to manage them effectively. By acknowledging the hidden load, providing proactive support, and addressing systemic issues, we can create a sustainable environment where individuals and teams can thrive – even through change.
 
-**(Visual Suggestion):** A simple diagram showing the “load curve” of a role transition. The x-axis represents time, and the y-axis represents “cognitive load” or “workload”. The diagram would show an initial spike in load during the transition period, followed by a gradual decrease as the individual adapts and the team adjusts. This visual would help illustrate the importance of proactive support and time allocation.
-
 Start a conversation with your team about role transitions today. A little proactive planning can go a long way in preventing burnout and fostering sustainable growth.

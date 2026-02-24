@@ -35,10 +35,6 @@ Here's a straightforward way to calculate CFR:
 
 **Post-Incident Reviews (PIRs) are gold.** Don't just focus on *what* broke; dig into *why*. Was it a lack of testing? A flawed deployment process? A gap in monitoring? These reviews should be blameless and focus on systemic improvements.  
 
-**[Visual Suggestion: A simple line graph showing CFR over time. Highlight any spikes or trends to emphasize the need for intervention.]**
-
-
-
 ## Reducing Change Failure Rate: Practical Strategies
 
 Okay, you're measuring CFR and it's higher than you'd like. Now what? Here's what I’ve found effective, organized into preventative and reactive measures:
@@ -61,23 +57,8 @@ Okay, you're measuring CFR and it's higher than you'd like. Now what? Here's wha
 It’s important to acknowledge that investing in quality assurance and robust testing comes with a cost.  There’s a trade-off between speed of delivery and system stability.  
 
 
-
-
 ## Beyond the Numbers
 
 Reducing CFR isn’t just about implementing better tools and processes. It’s about fostering a culture of quality, accountability, and learning. Encourage engineers to take ownership of their code and to prioritize stability alongside speed. 
 
 I’ve seen teams transform from reactive firefighting squads to proactive problem-solvers simply by shifting their mindset and investing in the right practices. While velocity is important, remember that **sustainable velocity requires a stable foundation.** 
-
-## Next Steps
-
-Start by calculating your team's CFR and identifying areas for improvement. Prioritize addressing the root causes of failures and focus on building a system that is both reliable and resilient. Reducing CFR isn’t just about improving technical metrics; it's about building a sustainable and thriving engineering organization.
-
-
-
-
-**References**
-
-Lehtinen, E., Koskinen, J., Iivonen, P., & Hautakoski, P. (2014a). Identifying and managing software development risks – A case study. *Information and Software Technology*, *56*(12), 1767–1781.
-
-McConnell, S. (1993). *Code Complete*. Microsoft Press. (McConnell stresses the importance of clear specifications and risk management throughout the software development lifecycle.)

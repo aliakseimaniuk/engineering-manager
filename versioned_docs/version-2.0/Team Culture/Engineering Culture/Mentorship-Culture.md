@@ -39,18 +39,8 @@ I’ve found the most effective teams are built on a foundation of genuine care.
 
 Building this culture isn’t simply about “being nice”; it requires intentional effort and investment in people’s growth and well-being. It's a strategic advantage that directly impacts performance and retention. And genuine care is often expressed *through* mentorship – by taking the time to invest in someone's growth, to listen to their concerns, and to provide guidance and support.
 
-**[Visual Suggestion: A simple diagram illustrating the positive feedback loop between mentorship, genuine care, and team success. Show how mentorship leads to increased engagement and growth, which in turn fosters a culture of care and ultimately drives better team performance.]**
-
 ## From Dogma to Practice
 
 The lessons about mentorship have become almost conventional wisdom in the startup world, popularized by sources like "Do More Faster" (Cohen, Davidson, & Hatch, 2014). But it’s easy for buzzwords to lose their meaning. The key is to move beyond the hype and focus on the fundamental principles: building relationships, fostering growth, and creating a culture of genuine care. 
 
 Mentorship isn’t a program; it’s a mindset. It’s a commitment to investing in people – not just as engineers, but as individuals – and helping them reach their full potential. And that, ultimately, is the most valuable investment any engineering leader can make.
-
-**Start small. Identify one team member you can mentor this week. Schedule a brief conversation to understand their goals and offer your support. You might be surprised by the impact you can have.**
-
-**Resources:**
-
-*   **Exercism:** [https://exercism.org/](https://exercism.org/)
-*   **"Do More Faster"** Cohen, D., Davidson, B., & Hatch, J. (2014). *Do More Faster: Techstars Guide to Accelrating Your Startup*. BenBella Books.
-*   **Jørgensen, M., & Sjøberg, D. (2000).** The importance of NOT learning from experience.

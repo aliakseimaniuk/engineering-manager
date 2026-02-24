@@ -57,7 +57,3 @@ In a remote-first world, transparency isn't a luxury; it’s a necessity. It bui
 Start small. Consider starting with one or two strategies from this post this week. What’s one area where you could increase transparency with your team this week?  
 
 Over time, you’ll create a culture of transparency that empowers your remote team to thrive.
-
-**Visual Suggestion**: A simple 2x2 matrix showing “Transparency Level” (Low to High) vs. “Team Engagement” (Low to High). This visually demonstrates the correlation between transparency and engagement.
-
-[^1]:  *State of Remote Work 2023.* Owl Labs. [https://www.owllabs.com/state-of-remote-work/2023](https://www.owllabs.com/state-of-remote-work/2023)

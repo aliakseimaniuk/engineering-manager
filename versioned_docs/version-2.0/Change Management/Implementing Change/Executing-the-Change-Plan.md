@@ -34,8 +34,6 @@ Here's how it works:
 
 This approach doesn’t eliminate risk, but it dramatically reduces it by surfacing potential issues *before* significant investment is made. It also creates buy-in and fosters a sense of ownership.
 
-**(Visual Suggestion: A simple flowchart illustrating the Timeboxed Exploration process – Problem Definition -> Exploration Team Assignment -> Timeboxed Exploration -> Findings Presentation)**
-
 ## Incremental Advances – Building Momentum with Smaller Steps
 
 Large-scale changes are inherently risky and difficult to manage. Whenever possible, break down the change into smaller, manageable increments.  Focus on delivering value through iterative improvements rather than attempting a massive overhaul. By tackling smaller pieces, engineers gain more autonomy and receive faster feedback, fostering a more agile and responsive development process. 

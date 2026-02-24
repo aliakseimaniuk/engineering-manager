@@ -21,7 +21,6 @@ So, what *should* long-term planning look like? Here’s how I approach it now:
 * **Prioritize Themes, Not Tasks:** Think in terms of larger themes or initiatives that span multiple sprints, rather than breaking everything down into granular tasks months in advance. This allows for adjustments and reprioritization based on evolving information.
 * **Separate Specification from Implementation:** Specs should outline *business requirements* – what problems we’re solving for users and the business.  They should *not* dictate *how* those requirements are implemented. Overly prescriptive specs stifle creativity and lead to less effective solutions. Empower your engineers to own the technical solutions. Let them explore different approaches and innovate.
 
-**[Visual Suggestion: A simple 2x2 matrix. X-axis: Detail Level (Low to High). Y-axis: Time Horizon (Near-Term to Long-Term).  Show a curve where Near-Term planning has high detail, and Long-Term planning has low detail, emphasizing the need for flexibility.]**
 
 ## Tools and the Solo Developer
 

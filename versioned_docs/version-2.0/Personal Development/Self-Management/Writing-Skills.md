@@ -23,7 +23,7 @@ Here’s how strong writing directly impacts your effectiveness as an engineerin
 
 Okay, you’re convinced. Now what? Here are some actionable steps you can take, starting today:
 
-1. **Embrace the "Pyramid Principle":** Barbara Minto's book, *The Minto Pyramid Principle*, is a game-changer. Start with your conclusion (the “so what?”), then support it with 3-5 key arguments. Each argument is further supported by data or evidence. This structure is particularly effective for technical communication because it mirrors the logical, systematic thinking engineers naturally employ. It forces you to prioritize the most important information and present it in a clear, concise manner. (Visual Suggestion: A simple diagram showing the pyramid structure: Conclusion at the top, supporting arguments as the middle layer, and supporting data at the base.)
+1. **Embrace the "Pyramid Principle":** Barbara Minto's book, *The Minto Pyramid Principle*, is a game-changer. Start with your conclusion (the “so what?”), then support it with 3-5 key arguments. Each argument is further supported by data or evidence. This structure is particularly effective for technical communication because it mirrors the logical, systematic thinking engineers naturally employ. It forces you to prioritize the most important information and present it in a clear, concise manner.
 
 2. **Prioritize Clarity Over Cleverness:** Technical writing isn’t about sounding smart; it’s about being *understood*. Avoid jargon whenever possible. If you must use it, define it. Short sentences, active voice, and concrete examples are your friends. Think "explain it like I’m a smart colleague who doesn’t specialize in this area."
 

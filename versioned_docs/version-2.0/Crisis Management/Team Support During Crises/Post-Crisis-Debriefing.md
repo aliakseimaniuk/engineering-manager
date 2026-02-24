@@ -57,8 +57,6 @@ Post-crisis debriefs are powerful, but they're just one piece of the puzzle. To 
 * **Practice Chaos Engineering:** Deliberately introduce failures into your system to test its resilience. This helps identify weaknesses and build confidence in your system's ability to withstand unexpected events. 
 * **Foster a Culture of Learning:** Encourage experimentation, knowledge sharing, and continuous improvement. Create a safe space for engineers to share their learnings, both successes and failures.
 
-**[Visual Suggestion: A simple flowchart outlining the steps of the Post-Crisis Debrief process – from Immediate Actions to Documentation & Follow-Up.]**
-
 By embracing these principles, you can transform crises from setbacks into opportunities for growth and innovation. Remember, the goal isn’t to eliminate failures – it’s to learn from them and become a stronger, more resilient engineering organization. 
 
 **Key Takeaways:**
@@ -67,13 +65,3 @@ By embracing these principles, you can transform crises from setbacks into oppor
 *   Use the 5 Whys (or similar) to identify root causes, not just symptoms.
 *   Track action items diligently and ensure they are implemented.
 *   Invest in monitoring, automation, and a culture of continuous learning.
-
-
-
-**References:**
-
-* Addison-Wesley, Collier B, DeMarco T, Fearey P (1996) A defined process for project post mortem review. Springer Verlag, Berlin Heidelberg, pp 150–160
-* Stålhane T, Dingsøyr T, Hanssen G, et al (2003) Post mortem–an assessment of two approaches. 
-* Dingsøyr T (2005) Postmortem reviews: purpose and approaches in software engineering. Pragmatic Bookshelf Raleigh, NC
-* Tiedeman MJ (1990) Post-mortems - methodology and experiences. Inf Softw Technol 47(5):293–303
-* Dingsøyr T, Moe NB, Nytrø Ø (2001) Augmenting experience reports with lightweight postmortem reviews.

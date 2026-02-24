@@ -13,7 +13,6 @@ DACI stands for:
 * **Consulted:** People whose input is *needed* to make a good decision. This is a two-way street – you’re actively seeking their expertise.
 * **Informed:** People who need to *know* the decision was made, but don't necessarily need to be involved in the process. This is one-way communication.
 
-**(Visual Suggestion: A simple 2x2 matrix. One axis: "Level of Involvement" (High to Low). Other axis: "Influence on Decision" (High to Low). Plot Driver/Approver in High/High, Consulted in High/Medium, and Informed in Low/Medium.)**
 
 ## Why DACI Often Beats RACI
 

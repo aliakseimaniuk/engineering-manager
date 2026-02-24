@@ -14,8 +14,6 @@ Kurt Lewin's model is a classic for a reason – it's simple and intuitive. It p
 
 **Practical Application:** I once led a team transitioning from waterfall to Agile. We didn't just *announce* the change. First, we openly acknowledged the frustrations with the existing process (Unfreeze). Then, we ran a series of workshops and pilot projects, allowing the team to experiment and contribute to the new Agile approach (Change). Finally, we established regular retrospectives and championed early wins to embed Agile into our DNA (Refreeze). The biggest mistake I see is rushing the “Unfreeze” stage. Teams need to understand *why* change is necessary before they’ll embrace it.
 
-**(Visual Suggestion: A simple diagram illustrating the three stages with arrows showing the flow – Unfreeze -> Change -> Refreeze. Consider using visual metaphors like an iceberg melting, a river changing course, or a plant growing.)**
-
 ## Kotter’s 8-Step Change Model: A More Detailed Roadmap
 
 John Kotter's model builds upon Lewin’s, offering a more granular, actionable roadmap. While Lewin provides the “what”, Kotter gives you the “how”. The eight steps are:
@@ -42,8 +40,6 @@ While Lewin and Kotter focus on organizational change, the ADKAR model addresses
 * **Reinforcement:** Sustaining the change through support and rewards.
 
 **Practical Application:** I had a team member who consistently resisted adopting a new testing framework. Initially, he expressed concern that it would add more overhead to his already busy schedule. Instead of forcing it on him, I took the time to understand his concerns (Awareness). I then showed him how the framework would reduce his workload and improve the quality of his work (Desire). I provided him with training and mentoring (Knowledge & Ability). Finally, I publicly recognized his efforts and contributions (Reinforcement). This individualized approach, focusing on his specific needs and concerns, ultimately led to his buy-in. 
-
-**(Visual Suggestion: A circular diagram showing the ADKAR stages with arrows indicating the flow and potential roadblocks at each stage. Consider using colors to represent each stage.)**
 
 ## Beyond the Models: First Principles and Unintended Consequences
 

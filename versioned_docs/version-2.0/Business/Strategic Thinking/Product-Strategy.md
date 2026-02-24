@@ -23,8 +23,6 @@ So, what *is* a good product strategy? It’s a plan that articulates *how* a pr
 3. **Identify Strategic Initiatives:** What broad initiatives will drive those outcomes? These are the high-level themes that guide your product development.
 4. **Prioritize Ruthlessly:** You can’t do everything. Based on your strategic initiatives and desired outcomes, prioritize the features and projects that will have the biggest impact.
 
-**[Visual Suggestion: A simple 2x2 matrix with "Impact" on the Y-axis and "Effort" on the X-axis. This helps visually prioritize initiatives based on their potential ROI.]**
-
 ## Distribution is Part of the Strategy (Don't Ignore it!)
 
 A brilliant product is useless if nobody can access it. This is where many teams stumble. We get so focused on *building* that we forget about *delivering*.  

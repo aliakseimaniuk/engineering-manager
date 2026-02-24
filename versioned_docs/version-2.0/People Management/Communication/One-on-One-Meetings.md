@@ -66,5 +66,3 @@ One-on-ones are powerful, but they're most effective when part of a broader cult
 **Final Thoughts:**
 
 Mastering the art of the one-on-one isn’t about perfecting a script or ticking off a checklist. It’s about building genuine relationships with your team members, understanding their aspirations, and empowering them to reach their full potential. This week, challenge yourself to dedicate the first 10 minutes of each one-on-one to asking about your team member’s career aspirations. It’s an investment of your time that yields significant returns – a more engaged, motivated, and high-performing engineering team. And, ultimately, that's what effective leadership is all about.
-
-**[Visual Suggestion]:** A simple diagram illustrating the four pillars of the one-on-one framework (Check-In, Career Growth, Challenges, Feedback) as concentric circles, emphasizing their interconnectedness. Alternatively, a "before & after" comparison could illustrate the difference between a task-focused agenda and the proposed framework.

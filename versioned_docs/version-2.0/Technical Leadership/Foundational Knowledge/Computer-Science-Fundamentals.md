@@ -20,7 +20,7 @@ Let's break down *why* these fundamentals are crucial for technical leadership.
 
 So, what should an engineering leader focus on? Here's a prioritized list, focusing on concepts, not implementation details.
 
-1. **Data Structures and Algorithms:** This is the bedrock. Understand common data structures (arrays, linked lists, trees, graphs, hash tables) and their trade-offs. Be familiar with sorting and searching algorithms and their Big O complexity. *(Visual Suggestion: A simple table comparing the time and space complexity of common data structures and algorithms would be helpful.)*
+1. **Data Structures and Algorithms:** This is the bedrock. Understand common data structures (arrays, linked lists, trees, graphs, hash tables) and their trade-offs. Be familiar with sorting and searching algorithms and their Big O complexity.
 2. **Operating Systems:** Understanding processes, threads, memory management, and concurrency is crucial for building scalable and reliable systems. Knowing how your code interacts with the OS unlocks deeper performance optimization opportunities.
 3. **Databases:** Beyond knowing SQL, understand database normalization, indexing, transactions, and the CAP theorem (see Eric Brewer’s work on CAP theorem). The choices here fundamentally impact your system's scalability and consistency.
 4. **Networking:** Grasp the basics of TCP/IP, HTTP, and DNS. Understanding these protocols enables you to diagnose network-related performance issues and make informed decisions about application architecture.

@@ -28,7 +28,6 @@ I’ve seen the same mistakes repeated time and again. Here are a few to watch o
 * **Ignoring Social Integration:** Focusing solely on technical ramp-up while neglecting social integration can lead to isolation and disengagement.
 * **No Feedback Loop:** Don't assume everything is going smoothly. Regularly check in with the new hire, solicit feedback, and make adjustments to the onboarding process as needed. A simple “How's it going?” check-in each week can make a huge difference.
 
-## A Simple Framework for Tracking Progress (Visual Suggestion: Timeline)
 
 I recommend a simple timeline-based framework to track onboarding progress. Divide the first 90 days into weekly or bi-weekly milestones. For each milestone, define clear objectives and deliverables. Use a tool like Trello or even a shared document to track progress and identify any roadblocks. 
 
@@ -39,12 +38,8 @@ I recommend a simple timeline-based framework to track onboarding progress. Divi
 * **Week 8:** Ownership of a small feature or bug fix, participation in code reviews.
 * **Week 12:** Independent contributor, ability to handle moderately complex tasks.
 
-[Here's a simple visual representation of this timeline](https://example.com/onboarding-timeline-image). (Replace with actual link to image)
-
 ## Beyond 90 Days: Continuous Onboarding
 
 Onboarding isn’t a one-time event. It’s an ongoing process. Continue to provide support, guidance, and opportunities for growth long after the initial 90 days. Encourage continuous learning through mentorship programs, ongoing training opportunities, and clearly defined career development plans. Even for smaller, rapidly growing teams, prioritizing continuous development is key to retaining talent. 
 
 Ultimately, effective onboarding is an investment in your people. We know engineering managers are busy, but dedicating time to a well-structured onboarding process yields significant returns in team performance and long-term sustainability. Don’t treat it as an administrative task; treat it as a strategic priority. 
-
-**Ready to build a more effective onboarding process?** Download our [90-Day Onboarding Plan Template](https://example.com/onboarding-template) to get started. Share this article with your team and begin a discussion about how to improve your onboarding practices.

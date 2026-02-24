@@ -77,5 +77,3 @@ Creating a supportive environment is crucial for the team to function effectivel
 Building an effective rapid response team isn't about creating a separate "elite" group, but rather building a *capability* within your existing organization. By focusing on clear definitions, cross-functional collaboration, regular practice, and a supportive culture, you can equip your team to handle critical issues with confidence and minimize disruption. This investment in resilience will pay dividends in the long run, improving system stability, reducing downtime, and fostering a more confident and capable engineering team.  
 
 To get started, identify potential team members within your organization and schedule a brainstorming session to define scope and triggers.
-
-**(Visual Suggestion: A simple flowchart illustrating the escalation path for incidents, showing when the rapid response team is activated. Alternatively, a diagram illustrating the team's cross-functional composition.)**

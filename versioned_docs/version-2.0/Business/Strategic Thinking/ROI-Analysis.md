@@ -25,8 +25,6 @@ Instead of focusing solely on financial returns, consider a framework encompassi
 * **Strategic Alignment:** How well does this project support the company's long-term vision and strategic goals? (High, Medium, Low)
 * **Learning & Innovation:** Will this project provide opportunities for your team to learn new skills, experiment with new technologies, or foster a culture of innovation?
 
-**[Visual Suggestion: A simple radar chart with these five dimensions as axes can be a powerful way to visualize and compare the ROI of different projects.]**
-
 Here's a simple table summarizing the dimensions:
 
 | Dimension            | Description                                    | Example Metrics                                   |

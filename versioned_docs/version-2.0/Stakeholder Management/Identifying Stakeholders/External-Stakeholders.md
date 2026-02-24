@@ -28,8 +28,7 @@ I’ve found a three-pronged approach is most effective. Think of it as "Govern,
 This is about protection – protecting your team’s bandwidth and ensuring a manageable inflow of requests. Think of this as the “integration layer” – similar to how you’d integrate external APIs.
 
 * **Defined Intake Process:**  Don't accept feature requests via Twitter DMs!  Establish a clear channel – a dedicated forum, a specific GitHub issue label, a support email address – for external input.
-* **Triage & Prioritization:**  Implement a system for categorizing and prioritizing requests. Not everything warrants immediate attention.  Be transparent about the criteria you use. (e.g., impact, feasibility, alignment with roadmap).  A simple “Impact/Effort” matrix can be surprisingly effective. 
-    *[Visual Suggestion: A 2x2 impact/effort matrix diagram]*
+* **Triage & Prioritization:**  Implement a system for categorizing and prioritizing requests. Not everything warrants immediate attention.  Be transparent about the criteria you use. (e.g., impact, feasibility, alignment with roadmap).
 * **Roadmap Transparency:** Share your public roadmap (even if it's high-level). This manages expectations and shows stakeholders that their input is considered within the larger context.
 * **Authentication & Permissions (Where Applicable):** If external stakeholders are contributing code or accessing sensitive data, robust authentication and permission controls are crucial. *Without proper authentication and permissions, sensitive data could be exposed, or malicious code could be introduced into your system.* Think about tools like those offered by Bitrix24 or GForge, offering centralized governance.
 

@@ -52,5 +52,3 @@ Implementing WIP limits will likely face some resistance.
 Managing WIP isn't a one-time fix; it's a continuous process of refinement and adaptation. By consistently focusing on finishing work and limiting the amount in progress, you’ll not only improve your team's throughput but also foster a culture of focus, predictability, and quality.  
 
 Start by visualizing your current workflow and identifying bottlenecks. Then, experiment with WIP limits in a small pilot project.
-
-**[Visual Suggestion]:** A simple diagram showing a workflow with WIP limits visually represented on each stage (e.g., "In Progress: Max 3 Items").

@@ -27,8 +27,6 @@ Instead, shift your focus from *controlling* work to *enabling* it. This means:
 * **Building Trust and Autonomy:** Give your engineers the space to manage their own time and work styles. Trust isn’t given freely; it’s built on consistent delivery of results and open communication. Trust them to deliver, and be available for support when needed. Micromanagement will quickly erode morale and productivity.
 * **Establishing Clear Norms:** While flexibility is key, boundaries are also important. Define clear expectations around response times, meeting attendance, and communication channels. Document these in a team agreement.
 
-**[Visual Suggestion: A simple 2x2 matrix showcasing different levels of "Structure" vs. "Autonomy" in work arrangements. This can visually illustrate how to balance flexibility with accountability.]**
-
 ## Common Challenges & How to Address Them
 
 Flexible work isn't without its hurdles. Here are a few I’ve seen, and how to tackle them:

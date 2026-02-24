@@ -72,7 +72,3 @@ Constantly ask yourself:
 * **Empowerment:** Schedule a blameless postmortem for your most recent incident, focusing on systemic improvements.
 
 By embracing these principles, you can move beyond simply reacting to crises and become a truly proactive engineering leader – building systems and teams that are prepared for anything.
-
-
-
-**(Visual Suggestion: A simple diagram illustrating the three pillars – Robustness, Observability, and Empowerment – forming a triangle with "Crisis Prevention" at the center.)**

@@ -21,7 +21,6 @@ So, how do we do better? Here's a framework I’ve found effective:
 **2. Project-Based Budgeting:** Instead of allocating budgets to departments, tie budgets directly to specific projects or initiatives. This provides greater transparency and accountability. Break down each project into distinct phases with associated costs (personnel, tools, infrastructure, etc.).
 
 **3. Resource Capacity Planning:** This is where it gets real. Before you commit to project budgets, honestly assess your team’s capacity. Overcommitting leads to context switching, reduced quality, and missed deadlines. Use a simple resource allocation chart – a visual representation of who is working on what and their estimated time commitment. A resource heatmap can be particularly effective, showing team member workload at a glance. 
-*(Visual Suggestion: A simple resource heatmap showing team member workload – imagine a table with team members as rows and weeks/sprints as columns, with color-coding indicating workload intensity)*
 
 **4. Contingency Planning (and embracing uncertainty):** Things *will* go wrong. Incorporate a contingency buffer (10-20%) into each project budget to account for unexpected challenges, scope creep, or technical hurdles. Don't treat this as "free money" to be spent; it's insurance against derailment.  More importantly, a contingency buffer *reduces risk* and allows teams to be more innovative – knowing there's some cushion encourages calculated experimentation.
 

@@ -31,8 +31,6 @@ I’ve found a structured approach significantly improves scoping. Here’s a fr
 * **Could have:** Nice-to-haves that add value but aren’t critical.
 * **Won’t have:** Explicitly excluded from the current scope. *This is crucial!* Documenting what *won’t* be done prevents scope creep.
 
-**(Visual Suggestion: A simple 2x2 matrix prioritizing features by impact and effort can be extremely helpful here. [Link to resource on Impact/Effort Matrix](https://www.mindtools.com/pages/article/newTED_06.htm))**
-
 **3. Create User Stories (with Acceptance Criteria):** Translate features into concrete user stories. "As a [user type], I want to [action] so that [benefit]." Crucially, each story needs *clear acceptance criteria* – specific, measurable conditions that define when the story is complete. For example: “As a customer, I want to receive push notifications when my order ships, so that I know when to expect delivery. Acceptance Criteria: Push notification is received within 15 minutes of shipment. Notification includes tracking number and estimated delivery date.”
 
 **4. Estimate Effort (Collaboratively):** Don't fall into the trap of assigning estimates in a vacuum. Involve the team! Techniques like Planning Poker (using story points) can lead to more accurate and realistic estimates. Remember to factor in technical debt, testing, and documentation.
@@ -61,5 +59,3 @@ Mastering project scoping isn't about being a rigid project manager. It’s abou
 *   **Focus on the "Why":**  Clearly define the problem you're solving before diving into features.
 *   **Prioritize Ruthlessly:** Use a framework like MoSCoW to identify and focus on the most essential features.
 *   **Get Stakeholder Buy-In:**  Ensure all stakeholders agree on the scope and are committed to the project's boundaries.
-
-[Download a free Project Scope Document Template](link to template) to help you get started!  I’d love to hear about your experiences with project scoping – share your biggest challenges and successes in the comments below!

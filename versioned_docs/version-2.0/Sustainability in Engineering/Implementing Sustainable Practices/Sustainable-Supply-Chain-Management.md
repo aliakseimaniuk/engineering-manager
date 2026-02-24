@@ -25,7 +25,6 @@ So, how do we move from visibility to action? Here’s a framework, geared speci
    * **Lifecycle Assessment (LCA):** Evaluate the environmental impact of each stage – energy consumption, water usage, waste generation, emissions. LCA isn’t just about measuring impact; it's crucial for identifying hotspots and opportunities for improvement throughout the product lifecycle, informing design choices and material selection.
    * **Risk Assessment:** Identify vulnerabilities – single-source dependencies, geographical concentrations, political instability, ethical concerns, *and* supplier financial stability. Proactive risk assessment is essential for building resilience and avoiding costly disruptions.
 
-**(Visual Suggestion: A layered diagram showing the supply chain with tiers labeled, highlighting areas of high risk and environmental impact.)**
 
 **2. Design for Sustainability (DfS):**  Sustainability needs to be baked into the product design process, not bolted on as an afterthought.
 
@@ -57,5 +56,3 @@ While the recent Macy’s partnership represents a potential turnaround, buildin
 Sustainable supply chain management isn’t just about avoiding negative impacts; it’s about creating a resilient and thriving future.  It’s about building long-term value for your organization, your customers, and the planet. 
 
 As engineering leaders, we have a responsibility to drive this change. By embracing a strategic, data-driven approach, we can build supply chains that are not only efficient and cost-effective but also ethical, sustainable, and resilient. It won't be easy, but the future of our businesses – and our planet – depends on it.
-
-**Start today by conducting a Tier 1 supplier mapping exercise to gain visibility into your immediate supply chain and identify potential risks and opportunities.**

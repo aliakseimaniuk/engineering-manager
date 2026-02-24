@@ -19,13 +19,12 @@ Thinking of availability in this broader sense reframes the problem. It’s not 
 
 As a leader, you need to foster a culture where availability isn't an afterthought. Here’s how:
 
-1. **Define SLOs (Service Level Objectives):** This is non-negotiable. Before you build anything, define what level of availability you're promising to your users. "99.9% uptime" sounds great, but what does that *mean* in terms of acceptable error rates, latency, and data consistency? SLOs should be measurable, meaningful, and tied to the user experience. (A good starting point is Google’s SLO guide: [https://sre.google/sre-practices/defining-slos/](https://sre.google/sre-practices/defining-slos/))
+1. **Define SLOs (Service Level Objectives):** This is non-negotiable. Before you build anything, define what level of availability you're promising to your users. "99.9% uptime" sounds great, but what does that *mean* in terms of acceptable error rates, latency, and data consistency? SLOs should be measurable, meaningful, and tied to the user experience.
 2. **Error Budgets:** SLOs are targets; error budgets are the *allowable* amount of failure. This is a surprisingly powerful concept. It gives teams the freedom to innovate and experiment, *as long as they stay within the budget*. Exceeding the budget triggers a shift towards reliability work. It's a healthy balance between feature development and stability.
-3. **Embrace Failure (Responsibly):** "Fail fast" isn't just a buzzword. Regular chaos engineering exercises (intentionally introducing failures into your system) are invaluable. They reveal weaknesses *before* real users experience them. Start small, but make it a habit. Tools like Gremlin ([https://www.gremlin.com/](https://www.gremlin.com/)) can help automate this process.
+3. **Embrace Failure (Responsibly):** "Fail fast" isn't just a buzzword. Regular chaos engineering exercises (intentionally introducing failures into your system) are invaluable. They reveal weaknesses *before* real users experience them. Start small, but make it a habit.
 4. **Architect for Resilience, Not Just Scalability:** Scalability lets you handle *more* traffic. Resilience lets you survive *failures*. Think about redundancy, circuit breakers, retry mechanisms, and data replication. Consider technologies that can aid in this – for example, utilizing tools like getstream.io for resilient real-time communication channels, or hasura.io to provide a resilient GraphQL API over your existing data sources.
 5. **Prioritize Observability:** You can't improve what you can't measure. Invest in robust monitoring, logging, and tracing. Tools like Prometheus, Grafana, and Jaeger are essential. But observability is more than just tooling; it's about creating a culture where understanding system behavior is a priority. This means empowering engineers to explore data, ask "why" questions, and proactively identify potential issues before they impact users. It’s a shift in mindset, focusing on understanding the *system as a whole*, not just individual components.
 
-**(Visual Suggestion: A diagram illustrating the relationship between SLOs, Error Budgets, and Reliability Work. A simple bar graph showing the error budget depleting over time, triggering a shift from feature development to reliability work.)**
 
 ## Leading by Example: A Personal Anecdote
 
@@ -40,5 +39,3 @@ We took a step back, defined SLOs, and started monitoring our error budget. Sudd
 In today’s world, availability isn't just a technical requirement; it's a *competitive advantage*. Users expect seamless experiences, and they'll quickly abandon services that are unreliable.
 
 As a technical leader, you have a responsibility to build systems that are not just fast and scalable, but also resilient and available. It requires a shift in mindset, a commitment to proactive planning, and a willingness to prioritize reliability alongside feature development. It's not always glamorous, but it’s always the right thing to do. And ultimately, it’s what separates good engineering organizations from truly exceptional ones. 
-
-**To get started, consider defining SLOs for your most critical services and scheduling a team discussion to review your current approach to availability.**

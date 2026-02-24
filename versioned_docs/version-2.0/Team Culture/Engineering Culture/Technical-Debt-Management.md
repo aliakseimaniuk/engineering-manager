@@ -38,8 +38,6 @@ This isn’t about blame; it's about collective ownership and informed decision-
 
 Don’t treat technical debt like a separate, ongoing "cleanup" project.  Allocate a dedicated percentage of each sprint (I’ve found 10-20% to be effective, based on experience with several teams) to addressing known debt. This demonstrates commitment to long-term health and prevents it from spiraling out of control. Treat these tasks with the same priority as new features.
 
-**(Visual Suggestion: A simple burn-down chart showing both new feature delivery and debt reduction over time would be effective here.)**
-
 **3.  Establish Clear Definition of Done:**
 
 This seems obvious, but it's often overlooked.  “Done” shouldn’t just mean “code works.” It should include:

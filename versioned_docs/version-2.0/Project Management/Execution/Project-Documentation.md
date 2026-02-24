@@ -39,10 +39,6 @@ Outdated documentation is *worse* than no documentation. It actively misleads an
 * **Regular Audits:** Schedule periodic reviews to ensure documentation remains accurate and relevant.
 * **Encourage Contribution:**  Make it easy for anyone on the team to contribute to documentation. (A shared repository and clear contribution guidelines are crucial.)
 
-**(Visual Suggestion: A simple diagram illustrating the "Documentation as Code" lifecycle: Code Change -> Documentation Update -> Review -> Commit -> Versioned Repository)**
-
-
-
 ## Tools and Techniques to Help
 
 Here's a quick rundown of tools that can support your documentation efforts:
@@ -68,5 +64,3 @@ In my experience, the teams that prioritize documentation aren’t necessarily w
 We know it’s tempting to put documentation on the back burner when deadlines loom, but consistently prioritizing it yields substantial long-term benefits. 
 
 So, the next time you’re tempted to put off documentation, remember: it’s not just about writing words. It’s about building a more resilient, collaborative, and effective engineering team.
-
-**Start by implementing one of the principles outlined in this article – even a small change can have a big impact.** Consider performing a simple documentation audit to identify areas for improvement.

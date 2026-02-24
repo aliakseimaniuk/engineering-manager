@@ -30,8 +30,6 @@ Effective detection isn’t about generating a million alerts; it’s about surf
 * **Clear Escalation Paths:** Define clear escalation paths for different types of incidents. Who should be contacted first? When should the incident be escalated to a higher level of support? 
 * **Tooling:** Services like Veriphone can be vital for escalating critical issues via phone calls or SMS, ensuring on-call engineers are notified even during outages of primary communication channels.
 
-**(Visual Suggestion: A simple flowchart illustrating the escalation path for a production incident. Showing layers of on-call support and when to involve senior leadership.)**
-
 **3. Response: Efficient Incident Management**
 
 When an incident *does* occur, efficient response is critical.

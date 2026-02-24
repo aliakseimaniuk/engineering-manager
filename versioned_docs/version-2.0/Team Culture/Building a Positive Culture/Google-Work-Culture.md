@@ -12,8 +12,6 @@ Think about this: How likely would it be for a team to propose something genuine
 
 **For Engineering Managers:** This translates to creating an environment where your team feels comfortable challenging assumptions, proposing unconventional solutions, and admitting mistakes *without fear of blame*. Instead of asking “Who messed this up?”, ask "What can we learn from this?". Actively solicit dissenting opinions. Reward experimentation, even if it doesn't yield immediate results. 
 
-**(Visual Suggestion: A simple "Failure Bowler" diagram. Imagine a bowling alley visually representing ideas as pins. Some pins are knocked down (failures), but the focus is on the learning gained from each "strike" or "spare"—highlighting the positive outcomes of experimentation.)**
-
 ## The "20% Time" Myth and the Reality of “Spike Solutions”
 
 You’ve probably heard of Google’s “20% time” – the now-largely-discredited policy that allowed employees to spend 20% of their time on personal projects. While the formal policy has faded – largely due to challenges in aligning individual projects with business goals and demonstrating measurable impact – the *spirit* lives on. Google doesn’t just want employees to *execute* on defined tasks; they want them to *explore* and *discover*.
@@ -45,5 +43,3 @@ Google’s work culture isn’t about ping pong tables and free snacks. It’s a
 As engineering managers, we can learn a lot from Google's approach, even if we can't replicate it exactly. By focusing on the principles of psychological safety, data-driven decision-making, and cross-functional collaboration, we can create teams that are more innovative, more productive, and more engaged.
 
 And in a world that’s changing faster than ever before, that’s a powerful advantage. 
-
-**What small change can you make *today* to foster a more innovative and collaborative environment within your team?** [https://www.google.com/about/culture/](https://www.google.com/about/culture/)

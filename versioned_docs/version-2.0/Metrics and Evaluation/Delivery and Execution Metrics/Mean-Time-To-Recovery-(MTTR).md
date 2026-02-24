@@ -55,9 +55,3 @@ Finally, remember that MTTR isn’t just a technical metric; it’s a reflection
 
 By focusing on MTTR, you’re not just improving the reliability of your systems; you’re building a stronger, more resilient engineering organization. It's a shift in focus that moves us beyond simply *avoiding* failure, and towards *mastering* our ability to respond.
 
-**Start by defining ‘downtime’ for your team and implementing a simple MTTR tracking system. The insights you gain will be invaluable.**
-
-**Visual Suggestions:** 
-
-* A simple bar graph showing MTTR trending downward over time, with annotations highlighting key improvement initiatives. 
-* A flowchart illustrating the post-incident review process.

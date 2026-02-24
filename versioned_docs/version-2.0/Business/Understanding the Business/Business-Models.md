@@ -8,7 +8,7 @@ Over two decades in this field, I've seen brilliant engineering efforts flounder
 
 ## The Core of a Business Model: More Than Just Revenue Streams
 
-Too often, we equate a business model with simply “how we make money.” It’s far more nuanced. Think of it as a system – a set of interconnected elements describing how a company creates, delivers, and captures value. A solid framework to break it down? The Business Model Canvas. ( *Visual Suggestion: Include a simple, labeled diagram of the Business Model Canvas – Key Partners, Key Activities, Key Resources, Value Propositions, Customer Relationships, Channels, Customer Segments, Cost Structure, Revenue Streams*).
+Too often, we equate a business model with simply “how we make money.” It’s far more nuanced. Think of it as a system – a set of interconnected elements describing how a company creates, delivers, and captures value. A solid framework to break it down? The Business Model Canvas.
 
 While the Canvas is excellent for understanding the current state, as engineering leaders, we need to be particularly attuned to how changes to the model will impact our work. Here's how I think about it in practical terms:
 

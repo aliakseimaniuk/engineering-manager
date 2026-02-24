@@ -50,13 +50,3 @@ Mitigating bias isn't easy. It requires consistent effort, self-awareness, and a
 But the payoff is significant: more innovative products, better decision-making, and a more engaged and motivated team. 
 
 As an engineering leader, you’re not just responsible for delivering code; you’re responsible for creating an environment where *everyone* can contribute their best work. And that starts with recognizing and mitigating the silent killer of innovation – bias.
-
-**(Visual Suggestion:** A simple framework outlining the stages of bias mitigation: 1. Awareness, 2. Identification, 3. Mitigation, 4. Continuous Improvement. A circular diagram would emphasize the iterative nature of the process.)
-
-**Take Action This Week:** During your next team retrospective, dedicate 15 minutes to explicitly discuss potential biases that may have influenced your decisions. What assumptions did you make? Whose perspectives were missing? What can you do differently next time?
-
-**Resources for Further Learning:**
-
-*   [Project Implicit](https://implicit.harvard.edu/) - Explore your own unconscious biases.
-*   [Deloitte - Diversity and Inclusion](https://www2.deloitte.com/us/en/pages/diversity-and-inclusion.html) - Insights and resources on building inclusive teams.
-*   [Catalyst - Research on Gender and Workplace Inclusion](https://www.catalyst.org/) - Data-driven research on creating inclusive workplaces.

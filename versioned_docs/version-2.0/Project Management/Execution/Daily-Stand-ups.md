@@ -26,9 +26,6 @@ Even with refined questions, a stand-up can fall flat without a supportive cultu
 
 *   **Timeboxing is Non-Negotiable:** Seriously. 15 minutes, max. If discussions veer into detail, move them to a separate “parking lot” meeting after the stand-up.
 *   **The “Walk the Board” Approach**: Instead of individuals reporting, visualize the work on a Kanban or Scrum board. Each person talks about the work they're actively moving through the board. This provides context and highlights dependencies. 
-
-    ![Kanban Board Example](https://example.com/kanban_board.png) *(Visual Suggestion: A simple Kanban board image showing "To Do", "In Progress", "Blocked", and "Done" columns.)*
-
 *   **Focus on the “We”, Not the “I”**: Encourage team members to frame their updates in terms of the collective effort. “We’re making good progress on the API integration” versus “I finished the integration tests.”
 *   **Lead by Example**: As a manager, don’t dominate the stand-up. Participate as a team member, and focus on facilitating a productive conversation, not dictating it.
 *   **Experiment and Iterate**: What works for one team might not work for another. Regularly solicit feedback and be willing to adjust the format or approach.

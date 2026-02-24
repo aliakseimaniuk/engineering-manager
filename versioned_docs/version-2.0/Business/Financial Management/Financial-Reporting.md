@@ -22,9 +22,6 @@ You don't need an MBA, but familiarity with these concepts will significantly en
 * **Cash Flow:** Profit is an *accounting* concept. Cash flow is *real money*. A company can be profitable on paper but still run out of cash. Understanding the difference is essential for assessing the company’s financial health. *Why this matters to you:*  A strong cash flow ensures your team has the resources it needs to deliver projects without interruption.
 * **Balance Sheet, Income Statement, Cash Flow Statement:** These are the core financial reports. Familiarize yourself with what they show and how they relate to each other. (A simple Google search for “financial statement basics” will provide excellent resources.)
 
-**[Visual Suggestion: A simple diagram showing the relationship between the Balance Sheet, Income Statement, and Cash Flow Statement. A circular flow chart would be effective.]**
-
-
 
 ## How to Apply this Knowledge as an Engineering Manager
 

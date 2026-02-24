@@ -27,9 +27,6 @@ So, how do you cultivate a culture of continuous improvement? Here's a framework
 * **Data-Driven Validation:** As Christen Lassenius's research on team retrospectives demonstrates, it’s not enough to *discuss* improvements. You need to *validate* them. Lassenius’s work emphasizes the importance of *actionable* retrospectives – those that lead to measurable changes and demonstrable results. Track key metrics before and after implementing a change to objectively measure its impact. This moves the conversation from subjective opinions to empirical evidence. 
 
 
-
-**[Visual Suggestion: A simple diagram showing a PDCA (Plan-Do-Check-Act) cycle, emphasizing iterative, small improvements. Or a timeline illustrating a series of small improvements accumulating over time.]**
-
 ## The Importance of Data and Scaling Improvement
 
 It's easy to fall into the trap of thinking you *know* what’s best. But the most effective improvements often come from unexpected places. That's why data-driven validation is so crucial. 
@@ -41,5 +38,3 @@ Furthermore, while team-level retrospectives are valuable, don't stop there. Con
 ## Final Thoughts
 
 Continuous improvement isn’t a destination; it’s a journey. It requires a shift in mindset, a commitment to experimentation, and a relentless focus on small, impactful changes. By empowering your team to identify and implement these changes, you’ll not only improve your engineering processes but also cultivate a more engaged, motivated, and innovative workforce. And that, in the long run, is the most valuable improvement of all.
-
-**To get started, consider scheduling a team brainstorming session focused on identifying small, achievable improvements. Implement a lightweight prioritization system for feedback, and share this article with your team to spark a conversation about continuous improvement.**

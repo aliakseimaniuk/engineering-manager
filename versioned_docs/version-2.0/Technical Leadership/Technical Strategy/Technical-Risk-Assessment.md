@@ -39,8 +39,6 @@ Don't treat all risks equally. Use a simple matrix to score each risk based on:
 
 Focus on the High/High risks *first*. These are the ones that require immediate attention. Medium/High and High/Medium risks should be addressed proactively. Low/Low risks can often be monitored.
 
-**(Visual Suggestion: A simple 3x3 matrix showing Impact vs. Probability. Highlight the top-left quadrant (High Impact/High Probability) in red.)**
-
 **4. Mitigation Strategies – Beyond "Fix It Later"**
 
 Mitigation isn’t about eliminating risk entirely (that’s often impossible and expensive). It’s about reducing the *likelihood* or *impact* of a risk. Examples:

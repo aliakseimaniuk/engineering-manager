@@ -24,8 +24,6 @@ As a leader, you can’t mandate motivation. But you *can* create conditions tha
 * **Reduce Context Switching:**  Multitasking is a myth, a concept disproven by numerous studies in cognitive science. Constant interruptions and context switching drain focus and reduce efficiency.  Protect your team's time.  Minimize meetings, encourage focused work blocks, and establish clear communication channels. Tools that help manage tasks and approvals can help streamline workflows, but they aren't a substitute for thoughtful scheduling and prioritization.
 * **Encourage Self-Motivation:**  This is where it gets really interesting.  Instead of trying to *force* productivity, help your team members find ways to make their work more engaging. Ask them what they find challenging and rewarding.  Provide opportunities for them to learn new skills and explore their interests. For example, consider allocating a percentage of their time to “passion projects” or sponsoring relevant training courses. A disengaged engineer often struggles to maintain high productivity.
 
-**[Visual Suggestion: A simple two-column table. Column 1: "Traditional Focus" (Processes, Tools, Deadlines). Column 2: "Empowerment Focus" (Purpose, Autonomy, Growth). ]**
-
 ## Leading by Example: Your Productivity Matters Too
 
 Don't forget your own productivity. As an engineering leader, you set the tone for the team. If you're constantly overwhelmed and stressed, it will be hard to inspire others to be productive. 
@@ -42,5 +40,3 @@ Don't forget your own productivity. As an engineering leader, you set the tone f
 Productivity isn't about squeezing every last ounce of effort out of your team. It’s about creating a sustainable environment where they can reliably deliver valuable work, feel engaged and motivated, and grow as professionals.  
 
 Focus on empowering your team to find purpose in their work, and the productivity will follow. And remember, sometimes the most productive thing you can do is step back and let your engineers do what they do best: solve problems. 
-
-**This week, identify one task you can delegate more autonomy to, and observe the impact.**

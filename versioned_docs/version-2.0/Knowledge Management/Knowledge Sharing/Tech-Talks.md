@@ -48,6 +48,4 @@ Looking ahead, a basic understanding of technology will become increasingly impo
 
 By investing in knowledge sharing through initiatives like effective Tech Talks, engineering leaders can not only improve the performance of their teams but also contribute to a more technologically literate workforce.
 
-**(Visual Suggestion: A simple infographic illustrating the “Knowledge Sharing Cycle”: Input (Tech Talk) -> Discussion -> Documentation -> Application -> Feedback -> Input.)**
-
 Start small. Identify one area where knowledge sharing is lacking in your team and schedule a targeted Tech Talk. Encourage open discussion and document the key takeaways. You’ll be surprised by the positive impact it can have.

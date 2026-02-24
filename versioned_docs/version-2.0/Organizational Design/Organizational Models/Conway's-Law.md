@@ -38,8 +38,6 @@ While you can’t *eliminate* Conway’s Law, you can mitigate its negative effe
 * **Invest in Shared Libraries & Components:** Identify common functionality and encapsulate it into reusable libraries or components. This reduces duplication and ensures consistency across the system.
 * **Promote “Full-Stack” Teams:** While specialization is important, encourage team members to develop a broad range of skills. This allows them to address problems end-to-end and reduces the need for handoffs.
 
-**[Visual Suggestion: A diagram showing a side-by-side comparison of a traditional hierarchical organization with siloed teams versus a matrixed organization with cross-functional teams.]**
-
 ## Beyond the Code: A Reminder about People
 
 Conway's Law isn’t *just* about architecture. It's a reminder that software development is a deeply human activity. Completely eliminating organizational friction isn’t realistic, but understanding Conway’s Law allows you to mitigate its most damaging effects. As engineering leaders, our job isn't just to write code. It's to create an environment where teams can communicate effectively, collaborate seamlessly, and build great software. Recognizing and addressing the implications of Conway's Law is a crucial step in that direction.

@@ -25,8 +25,6 @@ This is arguably the most important phase. Don't just *ask* people where they wa
 * **Pre-Conference Assignments:**  Have attendees research speakers and sessions beforehand.  Ask them to identify 3-5 key takeaways they want to achieve.  This forces proactive engagement.
 * **Budget & Logistics:**  While mundane, clear budgeting and travel policies prevent headaches.  Consider tools like teamwork.com, which can facilitate task management and expense tracking during conference preparation.
 
-**(Visual Suggestion: A simple table outlining the team’s knowledge gaps, aligned conference topics, and individual attendee goals.)**
-
 | Knowledge Gap | Conference Topic | Attendee | Goals |
 |---|---|---|---|
 | Lack of Knative Expertise | KubeCon | Sarah | Understand pros/cons of Knative, identify POC opportunities |

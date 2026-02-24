@@ -21,8 +21,6 @@ Carol Dweck’s work on growth mindset is foundational here.  As Dweck explains 
 * **Normalize Failure:** Failure is inevitable. A team afraid to fail won’t take risks or experiment. Frame failures as learning opportunities. Conduct post-mortems that focus on *what* went wrong, not *who* to blame. For example, I once saw a team initially resistant to adopting a new testing framework. After a post-mortem focused on learning from a failed implementation, they embraced the framework and significantly improved code quality.
 * **Lead by Example:** This is critical. *You* need to be a lifelong learner. Share your own learning experiences – the things you’re struggling with, the new skills you’re acquiring. Vulnerability fosters trust and encourages others to embrace learning.
 
-**[Visual Suggestion: A simple table contrasting a "Fixed Mindset" vs. "Growth Mindset" with examples of how each responds to challenges. Consider columns for "Belief about Abilities," "Response to Challenges," and "Approach to Failure." ]**
-
 **3. Embrace Small Bets and Rapid Experimentation**
 
 Large, sweeping changes are often paralyzing. Instead, encourage a culture of small bets and rapid experimentation. 

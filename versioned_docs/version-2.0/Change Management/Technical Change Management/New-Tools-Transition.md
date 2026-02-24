@@ -14,8 +14,6 @@ Introducing tools without a clear “why” creates technical debt – not in th
 
 I've found a three-phase framework helps streamline this process: **Evaluate, Experiment, Embed.** 
 
-**(Visual Suggestion: A simple three-circle diagram labeled "Evaluate, Experiment, Embed" with arrows showing progression.)**
-
 **1. Evaluate: The "Why" Phase**
 
 This isn’t about feature comparisons. It’s about deeply understanding the problem you're trying to solve. 

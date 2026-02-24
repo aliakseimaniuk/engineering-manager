@@ -16,8 +16,6 @@ This isn't a failure of individuals; it's a failure of the *system*. We expect p
 
 The traditional “career ladder” implies a single, linear progression. That’s increasingly unrealistic in the rapidly evolving tech landscape. Instead, I encourage thinking in terms of a “career lattice.” 
 
-**(Visual Suggestion: A simple diagram showing a ladder vs. a lattice. The ladder is a straight line. The lattice is a network of interconnected nodes representing different roles, skills, and specializations.)**
-
 A lattice acknowledges that engineers can move horizontally, vertically, or even diagonally. They can deepen their technical expertise, broaden their skillset, move into management, or explore specialized areas like security, data science, or even technical writing. 
 
 **Framework for Proactive Career Development**

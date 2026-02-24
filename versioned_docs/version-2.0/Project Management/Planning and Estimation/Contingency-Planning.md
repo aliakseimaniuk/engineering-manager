@@ -23,7 +23,6 @@ Contingency planning isn’t about predicting *every* possible failure. It's abo
 * **Brainstorm with the Team:** Don’t do this in isolation. Leverage the collective knowledge of your engineers, QA, and product managers. 
 * **Focus on Dependencies:** What external factors could impact your project? Third-party APIs? Hardware availability? Key personnel?
 * **Consider Technical Risks:** What are the most complex or untested parts of the system? What could go wrong during integration or deployment?
-* **Use a simple Risk Assessment Matrix:** (Visual Suggestion: A 2x2 matrix with "Likelihood" on one axis and "Impact" on the other. Categorize risks as Low, Medium, or High based on their placement.) [Here's a resource explaining different risk matrix methodologies](https://www.smartsheet.com/content/risk-assessment-matrix/).
 
 **2. Contingency Development:**
 
@@ -79,5 +78,3 @@ Contingency planning isn’t about being pessimistic; it’s about being *prepar
 * **Focus on the most likely and impactful risks.** You don’t need to plan for everything, but knowing your critical vulnerabilities is key.
 * **Document your contingency plans and ensure team understanding.** A plan is only effective if everyone knows their role.
 * **Regularly review and update your plans.** The risk landscape is constantly evolving, so your plans should too.
-
-**Start today by identifying the three most likely risks to your current project and brainstorming potential responses with your team.**

@@ -18,8 +18,6 @@ Annual engagement surveys are a starting point, but they're often too infrequent
 * **Manager Check-In Quality (Self-Reported):** Ask employees (via anonymous pulse surveys) how helpful and supportive they find their one-on-one meetings. A low score is a huge red flag.
 * **"Micro-Feedback" Cadence:** How frequently do engineers receive (and give) constructive feedback? Regular, specific feedback is vital. Don't rely solely on formal performance reviews. 
 
-**(Visual Suggestion: A simple dashboard graphic showing these metrics with trendlines. Think “traffic light” colors – green for positive trends, yellow for caution, red for areas needing immediate attention.) This dashboard allows leaders to quickly identify areas where engagement is slipping and proactively address potential issues, enabling them to take timely corrective action.**
-
 ## The "Un-Bore" Factor: Fueling Internal Motivation
 
 The core of engagement is *intrinsic motivation*. We’re not trying to *force* people to care; we’re trying to create an environment where they *want* to care. Here’s how:

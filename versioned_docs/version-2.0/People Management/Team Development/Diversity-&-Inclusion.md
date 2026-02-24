@@ -25,8 +25,6 @@ Here's how to cultivate it:
 * **Recognize and reward intellectual humility:** Celebrate team members who are willing to admit they don't have all the answers and are open to learning from others.
 * **Create space for individual contributions:** Don't fall into the trap of expecting everyone to contribute equally on every task. Allow team members to leverage their unique strengths and interests.
 
-**(Visual Suggestion: A simple 2x2 matrix illustrating psychological safety vs. constructive tension.  One axis would represent Psychological Safety (low to high), and the other would represent Constructive Tension (low to high). The ideal scenario resides in the High/High quadrant.)**
-
 ## Beyond Representation: Building a Truly Inclusive Culture
 
 Representation – having a diverse mix of people on your team – is important, but it's just the first step. True inclusion requires actively dismantling the systemic barriers that prevent individuals from thriving. This means:

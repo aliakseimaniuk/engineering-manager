@@ -35,12 +35,8 @@ The sheer volume of online learning resources can be overwhelming. Here are a fe
 * **MIT OpenCourseWare:** Access materials from thousands of MIT courses – a wealth of knowledge at your fingertips.
 * **DeepLearning.AI Short Courses:** Excellent, concise courses on AI and machine learning, ideal for quick upskilling.
 
-**[Visual Suggestion: A simple diagram illustrating a learning cycle: "Identify Skill Gap -> Choose Course -> Dedicated Learning Time -> Share Knowledge -> Repeat"]**
-
 ## Beyond the Tech: Fostering a Growth Mindset
 
 Ultimately, investing in online courses isn’t just about acquiring new skills. It’s about fostering a growth mindset within your team. Encourage engineers to embrace challenges, see failures as learning opportunities, and continuously seek out new knowledge.  We know it’s challenging to prioritize learning amidst competing deadlines, but creating this culture is vital for long-term success.  Applying the knowledge gained from these courses, and sharing those insights with the team, is where the real value lies. 
 
 As engineering leaders, our role isn't just to manage technical execution; it’s to cultivate a learning environment where our teams can thrive and adapt to the ever-changing landscape of our industry. And in today’s world, that means embracing the power of online courses.
-
-**To start, survey your team to identify skill gaps and individual learning goals. Then, dedicate a small portion of your budget to online learning resources.**

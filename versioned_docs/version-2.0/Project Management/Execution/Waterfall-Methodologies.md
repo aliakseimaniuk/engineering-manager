@@ -29,8 +29,6 @@ So, does that mean we should resurrect the rigid, document-heavy Waterfall of th
 * **Frequent Stakeholder Check-ins:** Regular communication with stakeholders throughout the process is crucial for ensuring alignment and addressing any issues early on.
 * **Integrate Continuous Integration/Continuous Delivery (CI/CD):** Even with a more plan-driven approach, you can leverage CI/CD to automate testing and deployment, improving quality and reducing risk.
 
-**(Visual Suggestion: A simple diagram showing a modified Waterfall process with iterative loops within each phase. Label the phases as Requirements, Design, Implementation, Verification, and Maintenance, and add arrows showing feedback loops between phases.)**
-
 ## Beyond Methodology: The Importance of Pragmatism
 
 Ultimately, the most important thing isn't *which* methodology you choose, but *how* you apply it. I've seen brilliant teams make Agile fail spectacularly, and I've seen Waterfall deliver impressive results. The key is to be pragmatic, adaptable, and focused on delivering value to the customer. 

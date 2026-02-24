@@ -23,9 +23,6 @@ The key is to establish a framework that balances autonomy with accountability. 
 * **Regularly Review & Adapt:**  Expense patterns change.  What worked last year might not work this year.  Regularly review your framework and adapt it based on feedback and changing needs.
 
 
-
-**(Visual Suggestion: A simple flowchart illustrating the expense approval process, showing different paths based on expense amount and category. Think "under $X - auto-approved, between $X-$Y - manager approval, over $Y - Finance approval.")**
-
 ## Tools for the Modern Engineering Team
 
 While spreadsheets can work for very small teams, they quickly become unsustainable. Fortunately, there’s a growing number of tools designed to streamline expense management. Here are a few considerations:

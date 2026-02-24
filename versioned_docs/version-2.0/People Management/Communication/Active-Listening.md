@@ -24,8 +24,6 @@ Active listening is more than just being quiet while someone else speaks. It’s
 * **Deferring Judgment:** This is a tough one. Our brains are naturally wired to formulate opinions and solutions. But resist the urge to interrupt or jump to conclusions. Let the speaker finish their thought.
 * **Responding Appropriately:** Your response should be thoughtful and relevant to what was said. Ask clarifying questions. Offer support. Acknowledge their feelings.
 
-**(Visual Suggestion: A simple diagram showing the cycle of active listening: Paying Attention -> Showing Engagement -> Providing Feedback -> Deferring Judgement -> Responding Appropriately. Arrows connecting each step)**
-
 ## Practical Techniques for Engineering Managers
 
 Here's how you can integrate deep listening into your daily interactions:

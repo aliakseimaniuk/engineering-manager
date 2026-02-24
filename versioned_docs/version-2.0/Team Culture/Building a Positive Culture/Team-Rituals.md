@@ -58,7 +58,3 @@ Building a strong team culture is an ongoing process, not a one-time event. By i
 Think beyond the tasks and deadlines. Focus on the *how* – how your team interacts, communicates, and learns. That’s where significant improvements are realized. And remember, the most effective rituals are often the simplest – consistent actions that embody your team’s values and strengthen the bonds between its members.
 
 **What's One Small Ritual Your Team Can Adopt This Week?**  Take a moment to discuss with your team and identify one practice you can implement to strengthen your culture and improve your workflow.  
-
-
-
-**[Visual Suggestion]:** A simple diagram illustrating the relationship between values, rituals, and outcomes. e.g., Values (Transparency, Learning) -> Rituals (Show & Tell, Learning Share) -> Outcomes (Increased Trust, Improved Skills).

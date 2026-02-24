@@ -20,7 +20,6 @@ Understanding *what* biases are at play is the first step toward mitigation. Her
 * **Confirmation Bias:** Seeking out information that confirms pre-existing beliefs and dismissing contradictory evidence. This is especially dangerous when evaluating candidates or performance reviews.
 * **Competency Bias:** Assuming that competence in one area translates to competence in others. "He's a senior backend engineer, so he’ll automatically be a good architect."
 
-**[Visual Suggestion: A simple diagram illustrating these biases with a brief definition and example for each. Think of a “bias radar” with each bias as a spoke.]**
 
 ## What Can *You* Do? Practical Steps for Mitigation
 
@@ -45,9 +44,3 @@ Addressing unconscious bias is not a one-time fix. It requires ongoing self-refl
 It’s natural to feel uncomfortable challenging ingrained assumptions, but creating a safe space for dissenting opinions is crucial. Many engineers strongly believe in meritocracy, and that’s admirable. However, it’s essential to recognize how unconscious biases can undermine even the most well-intentioned meritocratic systems. 
 
 Remember, diverse, equitable, and inclusive teams *are* simply better performing teams. They foster innovation, improve performance, and ultimately, lead to better outcomes for everyone. And as engineering leaders, we have a responsibility to lead the way. Start by auditing your last three hiring decisions. What patterns do you see? What steps can you take to mitigate bias in the future?
-
----
-
-**References:**
-
-[1] Banaji, M. R., & Greenwald, A. G. (2013). Blind spot: Hidden biases of good people. Delacorte Press. (This is just an example; feel free to substitute with a relevant study.)

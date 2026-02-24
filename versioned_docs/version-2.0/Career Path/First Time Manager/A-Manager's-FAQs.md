@@ -28,8 +28,7 @@ This one hits hard. We often celebrate long hours and relentless dedication. But
 
 **The Approach:** Deep listening and proactive support. Consider this scenario: an engineer comes to you, visibly stressed and admitting they’ve been working late every night for weeks. Start by acknowledging their experience: “That sounds incredibly tough. It’s completely understandable to feel that way.” Then, explore the root cause: “What’s contributing to this feeling? Is it workload, lack of clarity, feeling undervalued, something else?” Collaborate on solutions: “What can *we* do to address this? Can we redistribute tasks, prioritize differently, or explore ways to reduce stress?” Finally, encourage utilization of resources. Does your company offer mental health support, Employee Assistance Programs (EAPs), or other resources? 
 
-**Why it Matters:** Showing genuine care builds trust and loyalty. It also forces you to address systemic issues that might be contributing to burnout within the team. (See visual suggestion: a simple flowchart outlining steps to take when a team member expresses burnout.)
-
+**Why it Matters:** Showing genuine care builds trust and loyalty. It also forces you to address systemic issues that might be contributing to burnout within the team.
 
 
 ## FAQ #3: "I'm not sure what my next career step should be."

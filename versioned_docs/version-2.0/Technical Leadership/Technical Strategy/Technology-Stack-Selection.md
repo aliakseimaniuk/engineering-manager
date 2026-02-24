@@ -38,8 +38,6 @@ I've found a four-pronged framework helpful in guiding these conversations with 
    * **Maturity & Stability:**  Established technologies are generally more reliable and well-documented.  
    * **Licensing Costs:** Be aware of any licensing fees or restrictions.
 
-**(Visual Suggestion: A simple pie chart illustrating the weighting of each factor in the framework.)**
-
 ## Beyond the Stack: The Rise of "Generous Free Tier" and the Changing Landscape
 
 We’re seeing a fundamental shift in how software is built and consumed.  “Generous free tiers” (think of services like AWS, Azure, Supabase, or even low-code/no-code platforms) dramatically lower the barrier to entry, empowering a new wave of innovation and allowing non-technical founders to bring their ideas to life.

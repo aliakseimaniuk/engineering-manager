@@ -59,8 +59,6 @@ While data is important, don’t forget the human element. Leading indicators sh
 
 Remember, leading indicators are *predictive*, but they’re not *prescriptive*. They point you in the right direction, but it's up to you and your team to navigate the path to success. 
 
-**[Visual Suggestion]:** A simple chart showing a correlation between a leading indicator (e.g., Pull Request Size) and a lagging indicator (e.g., Bug Count). This visually demonstrates how focusing on the leading indicator can positively impact the lagging indicator.
-
 ## What's Next?
 
 Ready to get started? Begin by selecting just one or two leading indicators that align with your team’s most pressing challenges. Track them consistently for a month, discuss the trends in your next retrospective, and experiment with small changes to improve performance. Review your chosen indicators monthly and adjust your approach as needed. Remember, the goal isn't to create a perfect measurement system, but to build a proactive culture of continuous improvement.

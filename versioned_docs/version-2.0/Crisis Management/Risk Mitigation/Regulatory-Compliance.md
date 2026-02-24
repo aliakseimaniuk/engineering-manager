@@ -21,7 +21,7 @@ So, how do we build a culture of proactive compliance within our engineering tea
 **1. Understand the Landscape (and Document It!)**
 
 * **Regulatory Mapping:** Don't assume you know all the regulations that apply. Conduct a thorough assessment of the regulations impacting your product, industry, and target markets. This isn’t a one-time exercise; regulations change constantly.
-* **Data Flow Diagrams:** Visually map how data enters, flows through, and exits your system. This helps identify potential compliance risks related to data privacy and security. *(Visual Suggestion: A simple data flow diagram illustrating data ingestion, processing, storage, and transmission.)*
+* **Data Flow Diagrams:** Visually map how data enters, flows through, and exits your system. This helps identify potential compliance risks related to data privacy and security.
 * **Compliance Matrix:** Create a matrix linking each regulation to specific features, code components, and teams responsible for compliance. 
 
 **2. Embed Compliance into the Development Lifecycle**

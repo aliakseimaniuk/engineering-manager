@@ -36,8 +36,6 @@ This isn’t about turning engineers into widgets. It’s about gaining a realis
 *   **Focus on Throughput:** Don't get hung up on individual task estimations. Focus on the *team's* overall throughput.
 *   **Account for Interruptions:** A crucial (and often overlooked) factor. Estimate how much time is lost to meetings, support requests, bug fixes, and unplanned work. Based on experience with many teams, I've found 20-30% is a realistic average, but it varies wildly.
 
-**(Visual Suggestion: A simple line graph showing team velocity (story points completed) over several sprints. Highlight the average velocity and note any significant deviations.)**
-
 **2. Map Out Demand: What Needs to Get Done?**
 
 This is where you start collecting all the work requests. 
@@ -57,8 +55,6 @@ Now comes the tricky part. You need to compare your team’s capacity (from Pill
 *   **Prioritization Framework:** Use a clear framework (e.g., RICE scoring, Impact/Effort matrix) to prioritize work. Be ruthless.
 *   **Saying "No" (or "Not Now"):** This is the hardest part, but it’s critical. Be honest with stakeholders about what your team can realistically deliver. Offer alternatives: defer the request, reduce scope, or allocate resources from another team.
 *   **Visualizing the Plan:** Use a Kanban board or similar tool to visualize the workflow and track progress.
-
-**(Visual Suggestion: A simple chart showing Capacity (team's available time) vs. Demand (total work requests). Highlight areas where demand exceeds capacity and flags potential bottlenecks.)**
 
 ## Making it a Habit: The Regular Cadence
 
@@ -84,6 +80,3 @@ Effective capacity planning isn’t about squeezing every last drop of productiv
 *   **Prioritize ruthlessly.** Not all work is created equal—focus on what delivers the most value.
 *   **Prioritize team wellbeing.** A sustainable pace is crucial for long-term success.
 
-**What's Next?**
-
-Share this article with your team and start a conversation about how to improve your capacity planning process. What are your biggest challenges? Share your thoughts in the comments below!
