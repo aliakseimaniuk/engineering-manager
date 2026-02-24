@@ -59,8 +59,8 @@
 - [Customer Needs](<./Business/Understanding the Business/Customer-Needs.md>)
 - [Key Performance Indicators (KPIs)](<./Business/Understanding the Business/Key-Performance-Indicators-(KPIs).md>)
 - [Market Research](<./Business/Understanding the Business/Market-Research.md>)
-- [Objectives and Key Results (OKR)](<./Business/Understanding the Business/Objectives-and-Key-Results-(OKR).md>)
-- [Return on Investment (ROI) Analysis](<./Business/Understanding the Business/Return-on-Investment-(ROI)-Analysis.md>)
+- [Objectives and Key Results OKR](<./Business/Understanding the Business/Objectives-and-Key-Results-OKR.md>)
+- [Return on Investment ROI Analysis](<./Business/Understanding the Business/Return-on-Investment-ROI-Analysis.md>)
 - [SMART Goals](<./Business/Understanding the Business/SMART-Goals.md>)
 
 ## Career Path
@@ -247,10 +247,10 @@
 - [Budget Variance](<./Metrics and Evaluation/Business and Strategic Metrics/Budget-Variance.md>)
 - [Business Alignment Score](<./Metrics and Evaluation/Business and Strategic Metrics/Business-Alignment-Score.md>)
 - [Cost Efficiency](<./Metrics and Evaluation/Business and Strategic Metrics/Cost-Efficiency.md>)
-- [Customer Satisfaction (CSAT)](<./Metrics and Evaluation/Business and Strategic Metrics/Customer-Satisfaction-(CSAT).md>)
+- [Customer Satisfaction CSAT](<./Metrics and Evaluation/Business and Strategic Metrics/Customer-Satisfaction-CSAT.md>)
 - [Experiment Success Rate](<./Metrics and Evaluation/Business and Strategic Metrics/Experiment-Success-Rate.md>)
 - [Feature Adoption](<./Metrics and Evaluation/Business and Strategic Metrics/Feature-Adoption.md>)
-- [Net Promoter Score (NPS)](<./Metrics and Evaluation/Business and Strategic Metrics/Net-Promoter-Score-(NPS).md>)
+- [Net Promoter Score NPS](<./Metrics and Evaluation/Business and Strategic Metrics/Net-Promoter-Score-NPS.md>)
 - [OKR Achievement Rate](<./Metrics and Evaluation/Business and Strategic Metrics/OKR-Achievement-Rate.md>)
 - [ROI](<./Metrics and Evaluation/Business and Strategic Metrics/ROI.md>)
 - [Strategic Initiative Success Rate](<./Metrics and Evaluation/Business and Strategic Metrics/Strategic-Initiative-Success-Rate.md>)
@@ -259,9 +259,9 @@
 ### Defining Metrics
 
 - [Data Collection and Analysis](<./Metrics and Evaluation/Defining Metrics/Data-Collection-and-Analysis.md>)
-- [Key Performance Indicators (KPIs)](<./Metrics and Evaluation/Defining Metrics/Key-Performance-Indicators-(KPIs).md>)
+- [Key Performance Indicators](<./Metrics and Evaluation/Defining Metrics/Key-Performance-Indicators.md>)
 - [Leading vs Lagging Indicators](<./Metrics and Evaluation/Defining Metrics/Leading-vs-Lagging-Indicators.md>)
-- [Objective and Key Results (OKRs)](<./Metrics and Evaluation/Defining Metrics/Objective-and-Key-Results-(OKRs).md>)
+- [Objective and Key Results](<./Metrics and Evaluation/Defining Metrics/Objective-and-Key-Results.md>)
 - [Qualitative vs Quantitative Metrics](<./Metrics and Evaluation/Defining Metrics/Qualitative-vs-Quantitative-Metrics.md>)
 - [Reactive vs Proactive Metrics](<./Metrics and Evaluation/Defining Metrics/Reactive-vs-Proactive-Metrics.md>)
 - [Using Metrics for Improvement](<./Metrics and Evaluation/Defining Metrics/Using-Metrics-for-Improvement.md>)
@@ -276,11 +276,11 @@
 - [Escaped Defects](<./Metrics and Evaluation/Delivery and Execution Metrics/Escaped-Defects.md>)
 - [Flow Efficiency](<./Metrics and Evaluation/Delivery and Execution Metrics/Flow-Efficiency.md>)
 - [Lead Time](<./Metrics and Evaluation/Delivery and Execution Metrics/Lead-Time.md>)
-- [Mean Time To Recovery (MTTR)](<./Metrics and Evaluation/Delivery and Execution Metrics/Mean-Time-To-Recovery-(MTTR).md>)
+- [Mean Time To Recovery](<./Metrics and Evaluation/Delivery and Execution Metrics/Mean-Time-To-Recovery.md>)
 - [On time Delivery Rate](<./Metrics and Evaluation/Delivery and Execution Metrics/On-time-Delivery-Rate.md>)
 - [Sprint Predictability](<./Metrics and Evaluation/Delivery and Execution Metrics/Sprint-Predictability.md>)
 - [Throughput](<./Metrics and Evaluation/Delivery and Execution Metrics/Throughput.md>)
-- [Work In Progress (WIP)](<./Metrics and Evaluation/Delivery and Execution Metrics/Work-In-Progress-(WIP).md>)
+- [Work In Progress](<./Metrics and Evaluation/Delivery and Execution Metrics/Work-In-Progress.md>)
 
 ### Quality and Reliability Metrics
 
@@ -291,9 +291,9 @@
 - [Latency and Performance Indicators](<./Metrics and Evaluation/Quality and Reliability Metrics/Latency-and-Performance-Indicators.md>)
 - [Post Incident Action Item Completion Rates](<./Metrics and Evaluation/Quality and Reliability Metrics/Post-Incident-Action-Item-Completion-Rates.md>)
 - [Quality Scorecards](<./Metrics and Evaluation/Quality and Reliability Metrics/Quality-Scorecards.md>)
-- [Service Level Agreements (SLA)](<./Metrics and Evaluation/Quality and Reliability Metrics/Service-Level-Agreements-(SLA).md>)
-- [Service Level Indicators (SLI)](<./Metrics and Evaluation/Quality and Reliability Metrics/Service-Level-Indicators-(SLI).md>)
-- [Service Level Objectives (SLO)](<./Metrics and Evaluation/Quality and Reliability Metrics/Service-Level-Objectives-(SLO).md>)
+- [Service Level Agreements SLA](<./Metrics and Evaluation/Quality and Reliability Metrics/Service-Level-Agreements-SLA.md>)
+- [Service Level Indicators SLI](<./Metrics and Evaluation/Quality and Reliability Metrics/Service-Level-Indicators-SLI.md>)
+- [Service Level Objectives SLO](<./Metrics and Evaluation/Quality and Reliability Metrics/Service-Level-Objectives-SLO.md>)
 - [Severity and Impact Scores](<./Metrics and Evaluation/Quality and Reliability Metrics/Severity-and-Impact-Scores.md>)
 - [System Availability](<./Metrics and Evaluation/Quality and Reliability Metrics/System-Availability.md>)
 
@@ -432,10 +432,10 @@
 - [Agile Methodologies](<./Project Management/Execution/Agile-Methodologies.md>)
 - [Burndown Charts](<./Project Management/Execution/Burndown-Charts.md>)
 - [Change Management](<./Project Management/Execution/Change-Management.md>)
-- [Critical Path Method (CPM)](<./Project Management/Execution/Critical-Path-Method-(CPM).md>)
+- [Critical Path Method](<./Project Management/Execution/Critical-Path-Method.md>)
 - [Daily Stand ups](<./Project Management/Execution/Daily-Stand-ups.md>)
 - [Dealing with Constraints](<./Project Management/Execution/Dealing-with-Constraints.md>)
-- [Extreme Programming (XP) Practices](<./Project Management/Execution/Extreme-Programming-(XP)-Practices.md>)
+- [Extreme Programming](<./Project Management/Execution/Extreme-Programming.md>)
 - [Issue Resolution](<./Project Management/Execution/Issue-Resolution.md>)
 - [Kanban Practices](<./Project Management/Execution/Kanban-Practices.md>)
 - [Lean Principles](<./Project Management/Execution/Lean-Principles.md>)
@@ -473,7 +473,7 @@
 - [Stakeholder Alignment](<./Project Management/Planning and Estimation/Stakeholder-Alignment.md>)
 - [Time Estimation](<./Project Management/Planning and Estimation/Time-Estimation.md>)
 - [Vendor Management](<./Project Management/Planning and Estimation/Vendor-Management.md>)
-- [Work Breakdown Structure (WBS)](<./Project Management/Planning and Estimation/Work-Breakdown-Structure-(WBS).md>)
+- [Work Breakdown Structure](<./Project Management/Planning and Estimation/Work-Breakdown-Structure.md>)
 
 ## Remote Leadership
 
