@@ -1,4 +1,4 @@
-# Extreme Programming (XP) Practices
+# Extreme Programming (XP)
 
 For two decades, I’ve seen software development methodologies come and go. Waterfall, Scrum, Kanban… the list goes on. And honestly? A senior developer hit the nail on the head years ago when they said methodologies are often just a stick to beat developers with. The *process* isn’t the goal; delivering value is.
 
