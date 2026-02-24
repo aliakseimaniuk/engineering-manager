@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-const docsDir = path.join(process.cwd(), "docs");
+const docsDir = path.join(process.cwd(), "versioned_docs/version-2.0");
 const baseUrl = "https://engineeringmanager.info/docs";
 
 // Remove prefixes like: 11_Delegation → Delegation
