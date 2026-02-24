@@ -27,8 +27,6 @@ Here are some common patterns I've observed, categorized for clarity. Remember, 
 | Negative Attitude | Increased Re-work | Increased Questions |
 | Increased Absenteeism/Lateness | Procrastination | |
 
-**Visual Suggestion:** The table above offers a quick reference for identifying potential issues.
-
 ## The Crucial Conversation: Approaching with Empathy and Curiosity
 
 Once you've identified potential issues, the hardest part begins: having the conversation. It's natural to feel uncomfortable addressing performance concerns, but avoiding these conversations can be more damaging in the long run. Here's how to approach it effectively:

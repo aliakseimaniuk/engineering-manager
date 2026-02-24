@@ -10,8 +10,6 @@ Let’s be honest: leadership changes rarely happen in a vacuum. Often, they’r
 
 Why does this matter to *you*, the engineering manager? Because your team will be dissecting it. They'll be questioning their own value, wondering about the future, and losing faith in the organization. Ignoring this undercurrent is a recipe for disaster. 
 
-**Visual Suggestion:** A simple diagram illustrating the ripple effect of a leadership change: **Leadership Change -> Uncertainty & Fear -> Decreased Morale & Productivity -> Potential Talent Loss.**
-
 ## Beyond "Transparency": Genuine Care is the Foundation
 
 The knee-jerk reaction to a disruptive change is usually “more communication!”  And yes, communication is vital. But simply *telling* people what’s happening isn’t enough. It’s the *how* and the *why* that truly matter. 

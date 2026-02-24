@@ -15,8 +15,6 @@ When a service incident occurs, the immediate impulse is to *fix it*. And yes, r
 
 As illustrated in the 2x2 matrix below, focusing on all four dimensions is critical for effective service recovery.
 
-**Visual Suggestion:** A simple 2x2 matrix with these four dimensions as axes, visually illustrating the areas to focus on during service recovery.
-
 ## A Framework for Effective Service Recovery – The "EARS" Model
 
 I've found a simple mnemonic – **EARS** – helps my teams remember the key elements of effective service recovery. This framework emphasizes a proactive, customer-centric approach beyond simply restoring functionality.
@@ -51,5 +49,3 @@ As leaders, you’re often the first to know when something goes wrong, and the 
 **Remember:** A well-handled service incident can actually *strengthen* customer loyalty. It demonstrates that you’re a responsible and trustworthy provider who cares about their experience. 
 
 By embracing service recovery as an integral part of your engineering leadership, you can turn potential crises into opportunities for growth, innovation, and stronger customer relationships.
-
-**To take the next step, schedule a team discussion this week on crafting effective and blameless postmortems. A great resource for getting started can be found here: [https://www.atlassian.com/teamwork/learning/how-to-write-a-postmortem](https://www.atlassian.com/teamwork/learning/how-to-write-a-postmortem)**

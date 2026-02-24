@@ -66,4 +66,3 @@ Meetings aren’t the enemy. Poorly run meetings are. By adopting a mindful appr
 
 Your team – and your sanity – will thank you.
 
-**Visual Suggestion:** A simple flow chart illustrating the “3 Ps” framework – Purpose -> Participants -> Process – with key questions under each heading. This could be a visual aid for your team to refer to when planning meetings.

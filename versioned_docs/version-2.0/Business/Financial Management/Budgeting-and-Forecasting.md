@@ -10,8 +10,6 @@ We often fall into the trap of optimizing for the *now*. A quick fix here, defer
 
 Tech debt, under-investment in tooling, and neglecting architectural improvements are classic examples. They seem like savings today, but compound exponentially over time. I’ve seen teams crippled by a brittle codebase that took *years* to untangle, ultimately costing far more than proactive investment would have. 
 
-**Visual Suggestion:** A simple line graph showing "Cost of Proactive Investment" versus "Cost of Reactive Fixes" – the proactive line remains relatively stable, while the reactive line spikes dramatically over time.
-
 ## From Requirements to Estimates: The Foundation of a Realistic Budget
 
 The biggest budgeting failures I’ve witnessed stem from treating specifications as *solutions* rather than *problems*. When business requirements dictate *how* something should be built, it removes engineering ownership and inevitably leads to inaccurate estimates. 

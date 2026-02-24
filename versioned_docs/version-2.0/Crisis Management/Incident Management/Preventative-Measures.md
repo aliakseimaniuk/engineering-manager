@@ -10,8 +10,6 @@ It's tempting to believe we can *fully* control complex systems. We strive for z
 
 Instead of chasing impossible perfection, focus on establishing *unfalsifiable principles*. These are guiding beliefs that, while not provable as absolute truths, provide a stable foundation for decision-making. Think of it this way: "Everyone should be treated equally under the law" isn’t a statement *about* the world (it’s a value), making it impossible to definitively disprove. Similarly, in engineering, we can establish principles like "All code changes must be peer-reviewed," or "All code must have unit tests." These aren't predictions about success, but commitments to process that reduce risk.
 
-**Visual Suggestion:** A simple diagram illustrating the difference between falsifiable statements (predictions about the world that can be proven wrong) and unfalsifiable principles (statements of value or process).
-
 ## Freezing Roles and Processes: Defining the Baseline
 
 Before any significant progress can be made – or before a crisis hits – a methodology needs to be established. It’s frustrating how often teams jump into execution *before* solidifying the foundation. Without a clear understanding of *who* does *what* and *how*, ambiguity reigns, mistakes multiply, and crises become more likely.
@@ -35,8 +33,6 @@ Proactive risk management involves:
 * **Assessing the Impact and Probability:** For each risk, determine the potential impact if it materializes and the likelihood of it occurring.
 * **Mitigation Strategies:** Develop strategies to mitigate each risk. This could involve implementing safeguards, adding redundancy, or simplifying the design.
 * **Continuous Monitoring:** Regularly monitor for potential risks and adjust mitigation strategies as needed.
-
-**Visual Suggestion:** A risk assessment matrix (impact vs. probability) to help teams prioritize risks.
 
 ## The Hidden Costs of Infrastructure & Process
 

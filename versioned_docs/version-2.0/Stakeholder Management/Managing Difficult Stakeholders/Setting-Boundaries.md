@@ -29,7 +29,6 @@ Okay, theory is great. But how do you *actually* set boundaries? Here's a framew
 
 * **Strategy:** Implement a change request process. All new requests should be formally documented, estimated, and prioritized against existing work.
 * **Communication:** “We’re committed to delivering [original scope] by [date]. This new request would impact that timeline. Let’s discuss how we can best incorporate it – either by adjusting the scope, timeline, or resources.”
-* **Visual Suggestion:** A simple Kanban board or task tracker shared with stakeholders can visually demonstrate the team's workload and capacity, making it clear when adding new items will impact existing commitments.
 
 **3. Unrealistic Deadlines:** The "we need this yesterday!" scenario.
 
@@ -40,7 +39,6 @@ Okay, theory is great. But how do you *actually* set boundaries? Here's a framew
 
 * **Implement "Focus Time".** Block out dedicated hours on the team calendar where engineers are shielded from meetings and non-urgent communication.
 * **Encourage Asynchronous Communication.** Leverage tools like documentation, shared notes, and well-defined issue trackers to reduce the need for constant back-and-forth.
-* **Visual Suggestion:** A team calendar highlighting "Focus Time" blocks can visually communicate availability and respect for focused work.
 
 ## The Art of Saying "No" (And Why It's Not Rude)
 

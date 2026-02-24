@@ -16,8 +16,6 @@ Too often, architectural decisions are handed down from a principal engineer or 
 * **Embrace "Good Enough" Architecture:**  Perfection is the enemy of shipped features.  Focus on building a system that *can* scale, even if it’s not optimized to the nth degree.  You can always refactor later. As Elad Gil points out in *The High Growth Handbook* regarding the importance of velocity in early stages, speed is often more important than optimization.
 * **Document, But Don’t Fossilize:** Architecture diagrams are great, but they become useless if they don't reflect reality. Encourage continuous updating and versioning, and ensure the documentation is easily accessible. 
 
-**Visual Suggestion:** A simple diagram illustrating the difference between a monolithic architecture and a microservices architecture could be useful here, highlighting the scaling advantages of the latter.  Consider also illustrating how a well-defined API can decouple components and allow for independent scaling.
-
 ## 2. Process Designed for Iteration, Not Just Delivery
 
 Traditional, waterfall-style processes are anathema to scalability.  The complexity of a growing organization (and the associated infrastructure, audit, security, and financial considerations) can quickly strangle innovation.  Instead, focus on processes that enable rapid iteration and learning.
@@ -27,10 +25,8 @@ Traditional, waterfall-style processes are anathema to scalability.  The complex
 * **Post-Mortems & Blameless Culture:**  When things go wrong (and they will), focus on learning from mistakes, not assigning blame. A blameless post-mortem allows the team to identify systemic issues and prevent them from recurring.
 * **Integrate Technical Debt Management:** Don’t treat technical debt as an afterthought. Incorporate dedicated time for addressing it into each sprint. Prioritize debt based on its impact on scalability and maintainability.
 
-**Visual Suggestion:** A comparison of waterfall vs. agile/iterative processes would be beneficial here. Illustrate how iterative processes allow for faster feedback loops and quicker adaptation to changing requirements.
 
 Think of it this way: you’re not building a static fortress, you’re building a ship that needs to be constantly maintained and upgraded while sailing. 
-
 
 
 ## 3. Empowered Teams & Distributed Ownership

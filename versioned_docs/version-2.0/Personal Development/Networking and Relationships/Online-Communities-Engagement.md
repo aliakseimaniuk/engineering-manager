@@ -28,9 +28,6 @@ Here are some examples, paired with the tools that can help bring them to life:
 * **Knowledge Repositories with Built-in Discussion:** Don't just document processes; create a platform where engineers can ask questions, provide feedback, and improve the documentation collectively. **Tools:** Confluence, Notion, dedicated wiki platforms.
 * **"Show & Tell" Platforms:** Dedicate a space for engineers to showcase their side projects, learning experiments, or contributions to open-source. **Tools:** Circle.so, internal blogs integrated with commenting systems like GraphComment.
 
-**Visual Suggestion:** A screenshot of a well-organized Discourse forum showcasing active discussions within a Community of Practice. Another effective visual could be a screenshot of a well-maintained Notion knowledge base with built-in commenting and discussion features.
-
-
 
 ## Choosing the Right Platform
 

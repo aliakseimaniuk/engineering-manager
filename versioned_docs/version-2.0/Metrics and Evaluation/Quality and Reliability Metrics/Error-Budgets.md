@@ -13,8 +13,6 @@ At its core, an Error Budget is the maximum acceptable amount of unreliability y
 
 Think of it like a financial budget. You have a revenue goal (like an SLO). Your expenses (errors) need to stay within budget. If you overspend (exceed your Error Budget), you need to course-correct.
 
-**Visual Suggestion:** A simple bar graph showing SLO (99.9%), Error Budget (0.1%), and a line representing current error rate, visually demonstrating if the team is “in budget” or not. Consider utilizing burn-down charts or SLO attainment graphs for effective visualization.
-
 ## Why Use Error Budgets?
 
 Beyond just having a metric, Error Budgets offer several key benefits:

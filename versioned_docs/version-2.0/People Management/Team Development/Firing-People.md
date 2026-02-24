@@ -31,8 +31,6 @@ Despite your best efforts, sometimes letting someone go is unavoidable. Here's h
 * **Be Prepared for a Reaction:** They may be angry, sad, or in shock. Allow them to express their feelings (within reason) and remain calm and professional.
 * **Document Everything:** Keep a record of the conversation, the reasons for the decision, and any severance agreements.
 
-**Visual Suggestion:** A simple flow chart illustrating the steps for performance management, from initial feedback to PIP implementation, and finally, to termination if necessary, would be helpful.  Consider also incorporating a brief case study or scenario illustrating how these principles play out in a real engineering team.
-
 ## It's Not About Responsibility – It's About Leadership
 
 Firing someone isn’t a victory. It’s a difficult, necessary, and often painful part of the job. But by prioritizing proactive performance management, fostering open communication, and treating your team members with respect and empathy, you can minimize the need for it and create a more positive and productive work environment. 

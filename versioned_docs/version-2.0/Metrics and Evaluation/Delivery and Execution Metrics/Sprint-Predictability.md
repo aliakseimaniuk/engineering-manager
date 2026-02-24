@@ -49,8 +49,6 @@ So, how do you measure if you're actually *improving* predictability? Here are a
 * **Blocker Resolution Time:** How long does it take to resolve blockers? Identify patterns and address root causes. Prolonged blocker resolution times suggest underlying process issues or skill gaps.
 * **Mid-Sprint Scope Change:** Track the number and size of scope changes made mid-sprint.  Frequent or large scope changes erode trust and predictability.
 
-**Visual Suggestion:** Consider a simple “Sprint Predictability Scorecard” that tracks these metrics over time. 
-
 | Metric | Last Sprint | Previous Sprint | Trend |
 |---|---|---|---|
 | Sprint Completion Rate | 85% | 78% | Improving |

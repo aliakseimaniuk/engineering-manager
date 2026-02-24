@@ -35,7 +35,7 @@ So how do you move beyond process and instill a truly customer-centric mindset i
     * **Analyze Support Tickets and Feedback Forms:** Look for patterns and themes in user feedback.
     * **Focus on the “Why” Behind the Numbers:** When you see a drop in usage, don’t just look at the numbers; try to understand *why* it happened.
 
-**Understanding the "Job to Be Done"**: A powerful technique for fostering customer empathy is to focus on the “Job to Be Done” (JTBD). This shifts the focus from *what* the customer wants to *why* they want it. What problem are they trying to solve? What are their underlying motivations? The Jobs to Be Done framework originated with Clayton Christensen and his research on disruptive innovation ([https://www.jobs-to-be-done.com/](https://www.jobs-to-be-done.com/)). For example, people don't *buy* a drill; they *hire* a drill to make a hole. Understanding that fundamental need – the "job" – is far more valuable than simply knowing they need a drill. Encourage your team to think about the "job" their software is being "hired" to do.
+**Understanding the "Job to Be Done"**: A powerful technique for fostering customer empathy is to focus on the “Job to Be Done” (JTBD). This shifts the focus from *what* the customer wants to *why* they want it. What problem are they trying to solve? What are their underlying motivations? The Jobs to Be Done framework originated with Clayton Christensen and his research on disruptive innovation. For example, people don't *buy* a drill; they *hire* a drill to make a hole. Understanding that fundamental need – the "job" – is far more valuable than simply knowing they need a drill. Encourage your team to think about the "job" their software is being "hired" to do.
 
 
 
@@ -44,8 +44,6 @@ So how do you move beyond process and instill a truly customer-centric mindset i
 Building a customer-centric mindset isn’t a one-time fix; it’s an ongoing journey. It requires consistent effort, open communication, and a willingness to learn. 
 
 As engineering leaders, we need to model this behavior ourselves. Show genuine curiosity about our customers, actively seek out their feedback, and make it clear that their needs are our top priority. This also means creating a safe space for your team to challenge assumptions and advocate for the customer, even when it's difficult.
-
-**Visual Suggestion:** A simple diagram illustrating the difference between "customer-focused" (thinking *about* the customer) and "customer-centric" (the customer *at the center* of everything) would be helpful. 
 
 **Key Takeaways:**
 

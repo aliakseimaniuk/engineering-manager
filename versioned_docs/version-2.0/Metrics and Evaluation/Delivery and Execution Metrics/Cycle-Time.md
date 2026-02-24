@@ -28,9 +28,6 @@ Measuring Cycle Time doesn’t require complex tooling, although tooling can hel
 3. **Manual Tracking (Start Simple):**  Initially, use a spreadsheet or even a Kanban board to manually track the start and end dates for each work item. Calculate the difference – that's your Cycle Time.
 4. **Automated Tracking (Scale Up):** As your team matures, leverage tools like Jira, Azure DevOps, or dedicated time tracking apps. Tools like Clockify, Code Time, and Pulse.red can be particularly useful for automating Cycle Time calculation and providing deeper insights into your workflow. I've found integrating these tools with our CI/CD pipeline provides the most accurate data.
 
-**Visual Suggestion:**  A simple Cumulative Flow Diagram (CFD) is incredibly powerful for visualizing Cycle Time and identifying bottlenecks. It shows the number of work items in each state (e.g., To Do, In Progress, Code Review, Testing, Done) over time. By visualizing the flow of work, a CFD can quickly reveal where items are getting stuck, helping you pinpoint specific areas for improvement.
-
-
 
 ## Beyond the Average: Digging into the Data
 

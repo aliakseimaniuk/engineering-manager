@@ -18,8 +18,6 @@ For example, instead of a spec saying “Implement a new caching layer using Red
 
 This approach is particularly vital for migrations. A strict “do this, then that” plan leaves no room for valuable input or consideration of edge cases. By focusing on *what* needs to be achieved, you empower your team to collaboratively design the best solution.
 
-**Visual Suggestion:** 
-
 | Traditional Specs | Business Requirement Specs |
 |---|---|
 | How to implement a new database connection pool | Reduce database query latency by 20% |

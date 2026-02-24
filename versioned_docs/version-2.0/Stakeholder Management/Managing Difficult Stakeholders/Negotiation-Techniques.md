@@ -31,9 +31,6 @@ Notice the shift: it’s no longer a "no," but a trade-off. You've positioned qu
 *   "What resources are available to support this effort?"
 *   "What are the potential risks or consequences of delaying this?"
 
-**Visual Suggestion:** A simple “Impact vs. Effort” matrix can be surprisingly effective in visualizing trade-offs and facilitating constructive conversations.  This matrix plots the potential impact of a task against the effort required to complete it.  High-impact, low-effort items are obvious wins, while low-impact, high-effort items are candidates for deferral or elimination.  
-
-
 
 ## The Power of "Yes, And..."
 

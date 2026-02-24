@@ -28,8 +28,6 @@ This is the foundational tool. Before a single line of code is written, define a
 * **Consulted:** People whose opinions are sought. Two-way communication.
 * **Informed:** People who are kept updated. One-way communication.
 
-**Visual Suggestion:** A simple table format works best. List tasks/deliverables in the rows, and departments/roles in the columns. Fill in the RACI designations accordingly. You can find a free online RACI matrix template [here](https://www.smartsheet.com/free-raci-matrix-template).
-
 **2. The "North Star" Metric & Shared Objectives**
 
 Forget departmental KPIs for a moment. What *single* metric will define the success of this project as a whole? This "North Star" provides a unifying focus and ensures everyone is rowing in the same direction.  Then, clearly articulate 3-5 shared objectives *everyone* understands and buys into. These objectives should be measurable, time-bound, and directly tied to the North Star.

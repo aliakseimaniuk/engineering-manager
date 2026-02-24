@@ -12,12 +12,6 @@ This creates a perverse incentive. It tells the team: “Reactive work is what w
 
 I saw this firsthand at a startup a few years back. A developer who consistently volunteered to take on impossible deadlines and “save the day” was constantly praised in all-hands meetings. Meanwhile, the architect who painstakingly designed a scalable, maintainable system was quietly building the foundation for future growth, but received little public recognition. Unsurprisingly, the architect started looking for other opportunities. The constant pressure and lack of appreciation finally took its toll.
 
-**Visual Suggestion:** A simple 2x2 matrix: 
-* **X-axis:** Impact (Low to High)
-* **Y-axis:** Visibility (Low to High)**
-
-[Imagine a 2x2 matrix here. Tasks falling into the "High Impact, High Visibility" quadrant are ideal. "High Impact, Low Visibility" tasks (like proactive refactoring) are often undervalued and require intentional recognition.  "Low Impact, High Visibility" tasks (like constant firefighting) can be rewarded disproportionately, while "Low Impact, Low Visibility" tasks should likely be minimized or eliminated.]
-
 Consider this matrix when evaluating how your team's contributions are acknowledged.  Prioritize recognizing and valuing work in the "High Impact, Low Visibility" quadrant.
 
 ## Beyond Praise: A Multi-Faceted Approach to Recognition

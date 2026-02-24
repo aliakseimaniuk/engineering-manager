@@ -32,8 +32,6 @@ For example, if you're building a real-time collaboration tool, your North Star 
 * **Error Rate During Collaboration:** How stable is the experience?
 * **Latency of Collaborative Actions:** How responsive is the tool?
 
-**Visual Suggestion:** A simple diagram showing the North Star metric at the center, surrounded by leading indicator metrics. Imagine using this in a team meeting to visually demonstrate how each metric contributes to overall success. Think of it as a cause-and-effect map that everyone can understand.
-
 **Phase 2: Instrument Strategically, Not Exhaustively**
 
 Now that you know *what* to measure, focus on instrumenting your code *specifically* for those metrics. Resist the urge to track everything. Don’t just track errors; track *where* users are encountering them and *how* they're trying to recover. This is where tools like Statsig can be incredibly helpful, allowing you to easily add feature flags and A/B testing capabilities along with robust analytics.

@@ -28,10 +28,6 @@ Here’s how to shift your thinking and build those genuine partnerships:
 
 **3. Collaborative Prioritization, Not Just Requirement Gathering:**  Don’t just passively collect requirements. Engage stakeholders in the prioritization process. Use frameworks like MoSCoW (Must have, Should have, Could have, Won’t have) to facilitate open discussions and trade-off decisions.
 
-   * **Visual Suggestion:** A simple 2x2 Impact/Effort matrix can be incredibly helpful for visually prioritizing features with stakeholders. 
-
-     ![Impact/Effort Matrix](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Impact_effort_matrix.svg/800px-Impact_effort_matrix.svg.png)
-
 **4. Transparency is Key:**  Keep stakeholders informed about progress, challenges, and risks. Use tools to make information accessible (Trello, KanbanFlow, Jira, GForge, or even a shared document).  Don't shy away from bad news – address issues proactively and collaboratively.
 
    * **Pro-Tip:**  Regular, brief status updates (even just a quick email) can go a long way in building trust.

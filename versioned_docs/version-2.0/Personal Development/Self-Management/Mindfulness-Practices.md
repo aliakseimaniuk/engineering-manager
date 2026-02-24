@@ -24,7 +24,6 @@ The good news is you don’t need hours of dedicated meditation to reap the bene
 * **Mindful Communication:** Before responding to an email, jumping into a meeting, or giving feedback, take a breath. Listen actively, and consider the impact of your words. Are you speaking from a place of clarity and empathy, or reactivity?
 * **Retrospective Reflection:** We conduct retrospectives to learn from the past as a team. Extend that principle to *yourself*. At the end of each day or week, reflect on how you handled challenges, where you excelled, and what you can improve. What emotional patterns emerged? Consider how this connects to sprint retrospectives or post-incident reviews – what can you learn about your own reactions and behaviors in challenging situations?
 
-**Visual Suggestion:** A simple framework outlining these practices with a suggested frequency (e.g., "Check-In: 3x Daily," "Single-Tasking: 2x Daily") could be helpful to visualize integration into a workflow.
 
 ## Why Mindfulness Isn’t Just “Self-Care” – It's a Leadership Imperative
 

@@ -46,8 +46,6 @@ Here’s a framework I’ve used to help teams identify the right KPIs:
     * **Feature Adoption Rate:** How many users are actively using new features? (Higher is better)
     * **Time to First Value:** How quickly do new users experience the core value of our product? (Lower is better) – *This often requires cross-functional collaboration with Product & UX.*
 
-**Visual Suggestion:** A simple table mapping Business Objectives -> Key Results -> Engineering KPIs can be incredibly helpful for aligning the team.  *This table should be easily visible to the entire team, perhaps in a shared document or prominently displayed during team meetings.*
-
 ## Avoiding Common KPI Pitfalls
 
 * **Tracking Too Many KPIs:** Less is more. Focus on 3-5 *critical* KPIs per team. Overwhelming your team with data will lead to paralysis.

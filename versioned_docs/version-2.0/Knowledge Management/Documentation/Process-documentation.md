@@ -46,8 +46,6 @@ Investing in process documentation isn't about stifling innovation; it's about c
 
 It requires a shift in mindset – from viewing documentation as an afterthought to recognizing it as an integral part of the engineering process. It's a continuous effort, but the rewards – increased resilience, improved collaboration, and a more empowered team – are well worth the investment.
 
-**Visual Suggestion:** A simple diagram illustrating the difference between a team reliant on “tribal knowledge” (a messy web of connections) and a team with effective process documentation (a clear, well-structured knowledge base).
-
 **Key Takeaways:**
 
 *   **Shift from Reactive to Proactive:** Documentation isn’t about *catching up*; it’s about proactively building a resilient knowledge base.

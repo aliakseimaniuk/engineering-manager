@@ -10,7 +10,6 @@ The sheer number of competing standards can be dizzying – there are often 16 o
 
 I remember leading a team building a data-intensive application. We were initially overwhelmed by the sheer volume of privacy regulations – GDPR, CCPA, HIPAA… it felt impossible. We took a step back and identified the *core* principles underpinning these regulations: data minimization, purpose limitation, and accountability. We then built these principles into our architecture and development practices. It wasn’t about ticking boxes; it was about building privacy *into* the product.
 
-**Visual Suggestion:** A simple diagram showing a pyramid. At the base: Core Principles (Privacy, Security, Accessibility). Middle Layer: Key Regulations (GDPR, CCPA, etc.). Top Layer: Specific Implementation Practices (Data encryption, consent management).
 
 ## Focus Areas for Engineering Leaders
 

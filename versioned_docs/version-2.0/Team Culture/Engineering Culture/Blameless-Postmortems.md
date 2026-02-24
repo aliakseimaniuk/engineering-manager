@@ -20,8 +20,6 @@ Blameless postmortems aren't about letting people off the hook; they’re about 
 * **Encourage Psychological Safety:** Engineers must feel safe sharing what happened, without fear of retribution. This requires active facilitation and a commitment to creating a non-judgmental environment.
 * **Document Everything:** A thorough, written postmortem is a valuable learning artifact. It should include a timeline of events, a root cause analysis, and a clear action plan.
 
-**Visual Suggestion:** A simple diagram illustrating the difference between a “blame-focused” investigation (pointing fingers) and a “system-focused” investigation (analyzing contributing factors).
-
 ## Implementing Blameless Postmortems: A Practical Guide
 
 Here's how to put these principles into practice:

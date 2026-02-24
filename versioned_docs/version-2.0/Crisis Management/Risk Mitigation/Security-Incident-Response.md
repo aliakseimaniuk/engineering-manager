@@ -55,8 +55,5 @@ As an engineering leader, your role extends beyond creating checklists and assig
 * **Communication:** Be transparent with stakeholders about the incident and the steps being taken to resolve it.
 * **Continuous Improvement:** Treat security as an ongoing process, not a one-time project.
 
-**Visual Suggestion:** A simple flowchart illustrating the Incident Response Lifecycle phases (Preparation, Detection/Analysis, Containment/Eradication/Recovery, Post-Incident Activity) would be a helpful visual aid.
 
 Security incidents are inevitable. But by building a resilient security incident response capability, you can minimize the impact of these events and protect your team, your product, and your customers. It's not about *if* something goes wrong, it's about *how* you respond when it does. 
-
-**To get started, download our free incident response plan template [link] and schedule a team workshop to review your current capabilities.**

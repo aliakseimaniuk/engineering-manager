@@ -26,8 +26,6 @@ True ownership at Microsoft goes far beyond simply writing and deploying code. I
 
 One practice I’ve found effective is the "service ownership" model. Each service (or significant feature) has a designated owner – or small team – who are responsible for its health, performance, and evolution. This team isn’t necessarily responsible for *all* the code; they coordinate across different teams and ensure everything is aligned. To visualize this, consider a simple organizational chart where each service is explicitly linked to its owning team.  This clarifies responsibilities and makes accountability visible across the organization.
 
-**Visual Suggestion:** A simple org chart highlighting service ownership can be incredibly effective in clarifying responsibilities and fostering accountability.
-
 **3. Radical Candor & Psychological Safety:**
 
 This is the hardest one, but also the most important. At Microsoft, there's been a concerted effort to cultivate a culture of radical candor – challenging each other directly, but with genuine care and respect. This requires psychological safety – the belief that you can speak up without fear of retribution.

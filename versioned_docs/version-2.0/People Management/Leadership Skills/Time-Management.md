@@ -10,7 +10,6 @@ Let’s be honest. As a leader, obsessing over your own perfectly scheduled day 
 
 I once inherited a team that was consistently missing deadlines. Initial investigations focused on individual performance. But what I discovered wasn’t a lack of skill; it was a constant churn of context switching. Engineers were pulled onto urgent, but ultimately unimportant, tasks – a broken build here, a minor UI tweak there – breaking their concentration and derailing their progress on critical features. This led to delayed product releases and increased frustration within the team. 
 
-**Visual Suggestion:** A simple diagram illustrating “Flow” vs. “Interruptions”. Imagine a typical engineering day – a solid line representing deep work (“Flow”) constantly interrupted by jagged lines representing requests, meetings, and urgent issues. This visual representation emphasizes the disruptive nature of constant interruptions.
 
 ## Shifting Your Focus: From Hours to Outcomes
 

@@ -46,5 +46,3 @@ Ultimately, firing underperforming employees isn't about being “evil” or lac
 Remember, a high-performing team isn't built by tolerating mediocrity. It's built by fostering a culture of excellence, providing consistent feedback, and having the courage to make tough calls. Tolerating underperformance can have serious consequences; covering it up can be even more damaging.  
 
 Start by assessing your team. Identify any potential performance issues and proactively begin having honest, constructive conversations. Remember, addressing underperformance isn’t about being ruthless; it’s about building a thriving team where everyone can succeed.
-
-**Visual Suggestion:** A simple flowchart illustrating the feedback/PIP process, highlighting the key stages and decision points, would be a helpful addition to this post. Consider also a graphic illustrating the ripple effect of underperformance (e.g., a single stone dropped in a pond) to visually reinforce the message.

@@ -55,5 +55,3 @@ Simply *collecting* an NPS score isn't enough. The real value lies in understand
 Think of NPS as a regular check-up for your engineering team’s health. It's a tool that, when used thoughtfully, can help you identify and address issues before they escalate, fostering a more engaged, productive, and thriving engineering culture. It’s not a silver bullet, but it *is* a powerful indicator and a catalyst for positive change.
 
 Start implementing NPS today and begin building a more engaged, productive, and thriving engineering culture.
-
-**Visual Suggestion:** A simple framework illustrating the NPS implementation cycle: “Collect -> Analyze -> Action -> Measure” presented as a circular flow.

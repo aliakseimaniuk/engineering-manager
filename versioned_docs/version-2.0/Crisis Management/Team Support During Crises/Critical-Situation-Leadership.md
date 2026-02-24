@@ -53,8 +53,6 @@ Once the immediate crisis is resolved, it’s crucial to conduct a thorough post
 
 This isn’t about assigning blame; it’s about identifying opportunities for improvement. By taking the time to learn from our mistakes, we can build a more resilient organization and better prepare ourselves for future challenges.
 
-**Visual Suggestion:** A simple flowchart illustrating the escalation path and communication channels during a critical situation would be helpful.
-
 Critical situation leadership isn’t a set of techniques; it’s a mindset. It’s about recognizing the unique demands of a crisis, shifting your leadership style accordingly, and prioritizing the well-being of your team. By embracing this approach, you can navigate even the most challenging situations and emerge stronger on the other side.
 
 **Now, take a moment to reflect:** What crisis has your team recently faced? How could you have better prioritized stabilization and genuine care? Share this post with your team to spark a conversation about critical situation leadership.

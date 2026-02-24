@@ -16,8 +16,6 @@ A good definition of system availability considers:
 
 The "five nines" standard (99.999% availability) translates to roughly 5.26 minutes of downtime *per year*. That sounds great, but consider the cumulative effect of even small outages. A few minutes here and there add up quickly, impacting user trust, revenue, and team morale.
 
-**Visual Suggestion:** A simple graph illustrating the difference between uptime and availability, showing how availability dips even with all servers “up” due to performance degradation.
-
 ## The Hidden Costs of Downtime: It’s Not Just Lost Revenue
 
 We often think of downtime in terms of lost revenue, and that's certainly a factor. But the true cost is far more extensive:

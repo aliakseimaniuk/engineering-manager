@@ -22,11 +22,6 @@ As a leader, you need to establish a clear, shared definition of "done" that *in
 * **Code Review is Part of the Flow:** Integrate code review into the pipeline. No merges without approval.
 * **Infrastructure as Code (IaC):** Treat your infrastructure like code. Version control your infrastructure configurations alongside your application code. This ensures consistency and reproducibility.
 
-**Visual Suggestion:** 
-
-![Definition of Done Flowchart](https://example.com/definition_of_done_flowchart.png)  *(Replace with an actual image link)*
-
-*This flowchart illustrates the “Definition of Done” process: Code Commit -> Automated Tests -> Code Review -> Staging Deployment -> Production Deployment.*
 
 ## 2. Break Down Silos: Ownership & Collaboration
 

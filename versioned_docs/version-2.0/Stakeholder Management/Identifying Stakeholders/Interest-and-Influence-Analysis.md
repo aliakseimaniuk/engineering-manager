@@ -59,8 +59,6 @@ Stakeholder management isn’t a one-time exercise. Interests and influence shif
 
 Think of it as a dynamic, evolving system. The more you invest in understanding your stakeholders, the more effectively you can navigate complex situations, build strong relationships, and deliver impactful results. And remember, the goal isn’t just to *manage* stakeholders; it’s to *collaborate* with them to achieve shared success.
 
-**Visual Suggestion:** A simple 2x2 matrix with “Interest” on one axis and “Influence” on the other is a good starting point. Overlay this with color-coding to indicate the *type* of influence: formal authority (e.g., red), technical expertise (e.g., blue), strong relationships (e.g., green), and potentially negative influence (e.g. orange). Include a small callout box next to each stakeholder’s position on the matrix, capturing their key motivations. For example, a stakeholder in the “High Interest/High Influence” quadrant might have a callout box that says “Cost Optimization” or “Faster Time to Market.”
-
 **Focus on understanding *why* stakeholders care, not just *that* they care.**
 
 This week, identify one stakeholder whose motivations you need to better understand. Apply the “Five Whys” technique to uncover their underlying drivers, and consider how you can align your work with their goals.

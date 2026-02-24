@@ -64,8 +64,7 @@ This means:
 
 By embracing these principles, you can transform your engineering team from a reactive firefighting squad into a proactive, resilient force.
 
-**Visual Suggestion:** A diagram illustrating the Gameday process:
-
+A diagram illustrating the Gameday process:
 
 +---------------------+     +---------------------+     +---------------------+     +---------------------+
 | Scenario Selection  | --> | Exercise Execution  | --> | Post-Game Analysis  | --> | Action Items        |

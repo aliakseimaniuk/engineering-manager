@@ -49,4 +49,3 @@ As leaders, our job is to create an environment where these motivations are ampl
 
 What one barrier to knowledge sharing currently exists within your team, and what small step can you take to address it today?
 
-**Visual Suggestion:** A simple diagram illustrating the "Incentive Loop" - showing how positive incentives (recognition, opportunity for growth) lead to increased knowledge sharing, which in turn leads to improved team performance and innovation.

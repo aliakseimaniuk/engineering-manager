@@ -44,7 +44,3 @@ I often tell my teams: “Never fail CD”. While it sounds harsh, it’s about 
 Building a truly learning culture isn’t easy. It requires a conscious effort, a commitment to psychological safety, and a willingness to embrace vulnerability. But the rewards are substantial: a more innovative, higher-quality, and resilient team. 
 
 Remember, failure isn’t the opposite of success; it’s a stepping stone. The key is to learn from it, adapt, and keep moving forward. 
-
-**Start by facilitating a 'blameless' retrospective focused on identifying systemic issues, not individual mistakes.**
-
-**Visual Suggestion:** A simple diagram illustrating the difference between a "Blame Culture" and a "Learning Culture" could be highly effective. It could show how a blame culture focuses on assigning responsibility while a learning culture focuses on identifying systemic issues and preventing future occurrences.

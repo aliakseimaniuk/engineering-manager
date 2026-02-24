@@ -31,8 +31,6 @@ I worked with a non-profit a few years ago that experienced a significant data b
 
 The result? Donations dropped by 15% in the first week following the breach and volunteer participation decreased by 20%. It wasn't the breach itself that caused the most damage, but the lack of genuine engagement and empathy in their communication. They eventually turned things around by hosting town hall meetings, actively responding to individual concerns on social media, and openly sharing their recovery plan.
 
-**Visual Suggestion:** A simple diagram illustrating the difference between “Communication *to* Stakeholders” (one-way broadcast) and “Engagement *with* Stakeholders” (two-way dialogue with feedback loops).
-
 ## Beyond the Crisis: Building Relationships for Resilience
 
 Effective stakeholder communication isn’t just for crisis management; it’s a foundational element of building trust and resilience. Invest in building relationships *before* a crisis hits. Regular check-ins, open communication channels, and a genuine interest in their needs will pay dividends when the unexpected happens. Remember, building trust *before* a crisis makes navigating one significantly smoother.

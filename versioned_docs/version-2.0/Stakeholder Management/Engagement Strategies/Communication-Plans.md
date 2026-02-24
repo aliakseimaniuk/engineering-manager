@@ -40,10 +40,6 @@ Let's break down each column:
 * **Owner:** Who is responsible for ensuring this communication happens? Accountability is key.
 * **Purpose/Desired Outcome:** This is the “why” behind the communication. What do you want to achieve with this message? Increased understanding? A decision? Support?
 
-**Visual Suggestion:** A simple RACI matrix (Responsible, Accountable, Consulted, Informed) could be overlaid onto the “Owner” column to further clarify roles and responsibilities. 
-
-*(Imagine a screenshot of a very basic version of the above table inserted here for visual aid)*
-
 ## From Plan to Practice: Avoiding Common Pitfalls
 
 Having a plan is one thing; *executing* it is another. Here are a few common pitfalls to avoid:

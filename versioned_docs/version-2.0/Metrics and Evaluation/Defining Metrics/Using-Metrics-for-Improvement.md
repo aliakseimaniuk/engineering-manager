@@ -23,8 +23,6 @@ A helpful framework for thinking about metrics is distinguishing between *lead* 
 
 The key isn't to ditch lag indicators, but to use them to inform your focus on lead indicators. For example, if MTTR is high, don't just accept it. Investigate *why*. Is it because of insufficient test coverage (a lead indicator)? Lack of documentation? Slow build times?
 
-**Visual Suggestion:** Here’s an example of how you might structure a table of lead and lag indicators for your team:
-
 | **Lead Indicator** | **Lag Indicator** |
 |---|---|
 | Code Coverage (%) | Deployment Frequency |

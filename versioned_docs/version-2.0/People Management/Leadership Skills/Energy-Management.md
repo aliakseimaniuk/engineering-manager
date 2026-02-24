@@ -54,7 +54,3 @@ The Enron scandal serves as a stark reminder of what happens when energy – in 
 It’s a core leadership responsibility. And it's important to acknowledge that managing team energy can be challenging, especially when you’re stretched thin yourself. It’s about understanding that your team isn't a collection of code-writing machines; they are *people* with fluctuating energy levels. By paying attention to those levels and taking steps to nurture them, you’ll build a more engaged, productive, and resilient team. 
 
 This week, try incorporating a brief energy check-in into your next team meeting.
-
-
-
-**Visual Suggestion:** A simple 2x2 matrix with “Physical/Emotional” on one axis and “Low/High” on the other. This could visually represent different states of team energy and guide conversations during diagnosis.

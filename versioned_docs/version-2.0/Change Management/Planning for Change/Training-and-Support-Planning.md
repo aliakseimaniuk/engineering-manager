@@ -27,8 +27,6 @@ Instead of focusing on isolated training events, think about building a continuo
 * **Dedicated "Learning Time":**  Protect time for engineers to explore new technologies, read industry articles, or work on personal projects. This fosters innovation and prevents skill stagnation. A simple “20% time” initiative, or a dedicated "Innovation Day" each month, can make a huge difference. It’s important to frame this as *essential* for maintaining a competitive edge, not simply “extra work.”
 * **Microlearning:**  Break down complex topics into smaller, digestible chunks.  Short videos, blog posts, or quick tutorials can be more effective than lengthy documentation.
 
-**Visual Suggestion:** A simple diagram showing a cycle of "Learn - Apply - Share - Repeat" could illustrate this concept effectively.
-
 ## Proactive Support: Building a Safety Net
 
 Continuous learning is great, but it’s useless if engineers are afraid to *apply* what they've learned.  This is where proactive support comes in.  

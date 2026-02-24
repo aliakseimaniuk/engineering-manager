@@ -58,5 +58,3 @@ Just like the tensions inherent in Harari’s concept of “collective fictions�
 **Start Small, Start Now**
 
 To begin, assess your current DEI efforts in one key area – hiring, growth, or psychological safety – and identify one concrete step you can take this week.  
-
-**Visual Suggestion:** A simple diagram illustrating the three pillars (Inclusive Hiring, Equitable Growth, Psychological Safety) with arrows connecting them to a central outcome: "High-Performing, Inclusive Engineering Team".

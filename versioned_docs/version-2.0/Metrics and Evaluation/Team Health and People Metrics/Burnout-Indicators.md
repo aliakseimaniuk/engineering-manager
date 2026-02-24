@@ -47,6 +47,3 @@ Burnout isn’t inevitable. By shifting our focus from *output* to *outcome*, an
 * **Focus on Outcome, Not Just Output:** Shifting the focus from sheer volume of work to meaningful results reduces pressure and fosters a healthier work environment.
 * **Start Small:** Begin by incorporating a quick check-in on wellbeing into your 1:1s. This small step can make a big difference.
 
-
-
-**Visual Suggestion:** A simple “Burnout Indicator Dashboard” graphic showing the key metrics (code churn, communication patterns, etc.) with a color-coded status (green, yellow, red) could be a useful tool for teams to track and discuss their overall health.

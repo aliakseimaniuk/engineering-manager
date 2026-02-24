@@ -14,8 +14,6 @@ We often fall into the trap of optimizing for *output* – how much work we ship
 
 Think about it. If it takes you a month to deliver a seemingly simple feature, but you complete 5 story points in a sprint, that’s still a slow Lead Time. Your velocity looks good on paper, but it’s irrelevant if customers are waiting weeks or months for improvements. The cost of delay isn’t just about missed opportunities; it also impacts team morale and can lead to significant competitive disadvantages.
 
-**Visual Suggestion:** A simple diagram contrasting "Output" (stack of tasks) versus "Throughput" (flowing stream of value).
-
 ## Understanding the Anatomy of Lead Time
 
 To improve Lead Time, you first need to understand its components. Break it down into these key stages:

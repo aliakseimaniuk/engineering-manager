@@ -37,6 +37,5 @@ This proactive approach directly contributes to reducing the need for PIPs. By e
 
 A well-executed PIP isn't about punishment; it’s about providing a last, best chance for an employee to thrive. It’s a testament to good leadership, and a demonstration of your commitment to your team’s success. And ultimately, that's what truly drives high performance. 
 
-**Visual Suggestion:** A simple flow chart illustrating the process: Early Feedback -> Performance Concern -> Informal Coaching -> PIP -> Success/Continued Support / or / Separation. (Consider a visual with branches indicating success paths like "Continued Growth and Development" or "Successful Completion of PIP" and paths leading to separation if goals aren't met.)
 
 Review your team’s current performance management processes. Are you providing regular feedback and addressing issues early? Share this guide with your leadership team to ensure a consistent and supportive approach to performance improvement.

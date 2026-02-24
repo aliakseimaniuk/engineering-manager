@@ -37,5 +37,3 @@ Many see Lean and Agile as competing methodologies. I view them as complementary
 Lean isn't a silver bullet, but it’s a powerful set of principles that can help engineering leaders build better products, more efficiently, and with happier teams. It requires a shift in mindset, a willingness to experiment, and a commitment to continuous improvement.  
 
 **So, what's your first step towards a leaner approach?** Perhaps it's starting with a simple Kanban board for one team, or identifying one area of waste in your current processes. 
-
-**Visual Suggestion:** A simple diagram illustrating the Lean Value Stream, showing the flow of value from concept to customer, with key areas for waste reduction highlighted. Or, a Kanban board example showcasing a visual workflow and WIP limits.

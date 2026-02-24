@@ -63,5 +63,3 @@ Handling low performers isn’t just about dealing with *individual* issues. It�
 It’s uncomfortable. It’s challenging. But it's a fundamental part of being an effective engineering manager.
 
 Proactive performance management is vital. Addressing issues early, providing regular feedback, and fostering a culture of continuous improvement not only benefit individual team members but also contribute to a more engaged, productive, and successful engineering organization.
-
-**Visual Suggestion:** A simple diagram illustrating the "Diagnosis -> Conversation -> Action" framework, with branching paths depending on the outcome of each step.

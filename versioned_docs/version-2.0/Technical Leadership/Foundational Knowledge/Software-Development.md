@@ -27,8 +27,6 @@ Here’s how I’ve found a tweaked waterfall approach to work in practice:
 3. **Iterative Implementation & Verification:** *This* is where you introduce Agile principles. Break the implementation down into smaller, manageable chunks. Focus on delivering working software incrementally, but within the framework established during the design phase. 
 4. **Continuous Refinement & Maintenance:** As always, ongoing maintenance and refinement are crucial.
 
-**Visual Suggestion:** A simple diagram showing a phased approach – Exploratory Requirements -> Architectural Design -> Iterative Implementation & Verification -> Continuous Refinement. Each phase could be represented as a section of a circular flow, emphasizing the iterative nature *within* the defined phases.
-
 ## It's About the Right Tool for the Job
 
 Agile is fantastic, but it’s not a silver bullet. As technical leaders, we need to be pragmatic. We need to understand the strengths and weaknesses of different methodologies and choose the right tool for the job. 
@@ -38,10 +36,3 @@ When building genuinely new things – exploring uncharted territory – a tweak
 Ultimately, the best leaders don't worship methodologies; they *master* them. They understand that the goal isn't to adhere to a specific process; it's to deliver value to the customer. And sometimes, that requires a little bit of old-school thinking. 
 
 The next time you’re leading a project with significant unknowns, don’t dismiss waterfall out of hand. Consider how its principles can provide a stable foundation for innovation.
-
-
-
-**Resources:**
-
-* Kaur R, Sengupta J (2011) Software process models and analysis on failure of software development projects.
-* Drew Procaccino J, Verner JM, Overmyer SP et al (2002) Case study: factors for early prediction of software development success.

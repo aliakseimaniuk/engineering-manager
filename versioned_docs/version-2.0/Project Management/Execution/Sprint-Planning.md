@@ -33,8 +33,6 @@ This isn't about diving straight into the backlog. It’s about setting the cont
 * **Backlog Refinement Recap:** A brief (5-10 minute) summary of recent backlog refinement. What was discussed? What assumptions were made? This ensures everyone has a shared understanding of the stories being considered.
 * **Identify Key Themes:** What are the *major* initiatives or problems this sprint aims to solve?  Rather than just listing stories, articulate the overarching goals. (e.g., “Improve user onboarding experience,” or “Address critical security vulnerabilities”).
 
-**Visual Suggestion:** A simple "Sprint Goal" statement prominently displayed throughout the meeting.
-
 **Phase 2: Estimate – Collaborative Sizing & Risk Assessment (45-60 mins)**
 
 This is where we get into the details, but with a focus on *conversation* not just numbers. 

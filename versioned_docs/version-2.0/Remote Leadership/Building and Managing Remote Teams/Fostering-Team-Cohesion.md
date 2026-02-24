@@ -28,8 +28,6 @@ Remote work can be isolating. Casual water cooler chats don't happen organically
 *   **"Show and Tell" Sessions:** Encourage team members to share hobbies, interests, or personal projects.
 *   **Team-Building Activities:** Explore virtual team-building activities, but choose them thoughtfully. Avoid anything that feels forced or contrived.
 
-**Visual Suggestion:** A simple team "Social Calendar" – a shared document or Trello board – showing planned social activities can help build anticipation and encourage participation.
-
 ## Clear Roles, Shared Ownership, & Radical Transparency
 
 Cohesion suffers when roles are unclear, ownership is ambiguous, and information is siloed. Remote work exacerbates these issues. 

@@ -31,10 +31,6 @@ While "document everything" is unrealistic, here's a breakdown of key areas to p
 * **Troubleshooting & Known Issues:** A repository of common problems and their solutions.
 * **Decision Records:** A brief summary of important technical decisions, including the rationale behind them. This helps prevent “reinventing the wheel” and provides valuable context for future changes.  
 
-**Visual Suggestion:** A simple decision record template could be beneficial here:
-
-| Decision | Date | Owner | Context | Alternatives Considered | Decision | Rationale |
-|---|---|---|---|---|---|---|
 
 ## Embracing Postmortems for Continuous Improvement
 

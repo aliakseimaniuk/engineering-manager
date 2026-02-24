@@ -55,7 +55,4 @@ There are many excellent tools available for building an internal wiki. Some pop
 * **Hashnode:** A blogging platform that can be used as a wiki.
 
 
-
-**Visual Suggestion:** A simple diagram illustrating the flow of knowledge - Tacit Knowledge -> Documentation (Wiki) -> Shared Understanding -> Increased Velocity.
-
 **In conclusion:** Internal wikis aren't a flashy new technology, but they remain a profoundly effective tool for knowledge management. When built and maintained thoughtfully, they can unlock engineering velocity, improve team health, and build a more resilient, scalable organization. Visualize this flow within your team – turning tacit knowledge into shared understanding and unlocking engineering velocity. Don't underestimate the power of a well-curated, accessible, and actively maintained knowledge base.  Start by identifying one key knowledge gap in your organization and documenting it in a shared wiki this week.

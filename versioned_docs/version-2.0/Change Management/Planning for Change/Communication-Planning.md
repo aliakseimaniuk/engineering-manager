@@ -25,7 +25,6 @@ I’ve found a four-phase approach to communication planning particularly effect
 * **Tactics:** All-hands meetings, team emails, dedicated Slack channels. Keep it concise and direct.
 * **Key Message:** "We are embarking on [change]. We will share more details soon."
 * **Example:** "Team, we’re planning to migrate our database to a new provider to improve performance and scalability. We’ll be holding a meeting next week to discuss the details.”
-* **Visual Suggestion:** A simple timeline showing key milestones for the change. This reinforces the upcoming changes and provides a preliminary sense of predictability, helping to reduce initial anxiety.
 
 **2. Understanding (The "Why is This Happening?" Phase)**
 
@@ -33,7 +32,6 @@ I’ve found a four-phase approach to communication planning particularly effect
 * **Tactics:** Detailed presentations, documentation, FAQs. Be prepared to answer tough questions. Encourage open dialogue.
 * **Key Message:** "This change will help us achieve [goal] by [mechanism]. It addresses [problem] and will ultimately benefit [stakeholders].”
 * **Example:** “The database migration is crucial to handle the increasing load and ensure a smooth experience for our users. It also reduces our operational costs and allows us to invest in new features.” 
-* **Visual Suggestion:** A diagram illustrating the current state, the desired state, and how the change bridges the gap. This provides a clear visual representation of the problem the change addresses and the anticipated benefits.
 
 **3. Acceptance (The "What's in it for Me?" Phase)**
 
@@ -41,7 +39,6 @@ I’ve found a four-phase approach to communication planning particularly effect
 * **Tactics:** Small group meetings, one-on-one conversations, dedicated Q&A sessions. Active listening is crucial during this phase.
 * **Core Takeaway:** “We understand this change may require some adjustment. We are committed to providing the resources and support you need to succeed. Here’s how this will benefit you specifically…”
 * **Example:** “The new database technology offers opportunities to learn valuable new skills, making you more marketable and contributing to your professional growth.” 
-* **Visual Suggestion:** A brief summary outlining specific training or support resources available to help team members adapt.
 
 **4. Adoption (The "How Do We Make This Happen?" Phase)**
 

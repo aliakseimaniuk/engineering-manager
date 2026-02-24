@@ -36,8 +36,6 @@ I’ve found a surprisingly effective principle for good people management, and 
 
 This isn’t about being “nice”; it's about building a culture of accountability and trust. When developers know you have their backs and that you prioritize long-term success over short-term gains, they’ll be far more engaged in proactively identifying and addressing risks. 
 
-**Visual Suggestion:** A simple "Risk Radar" diagram. This could visually represent the key risk areas (technical, operational, market, etc.) and how the team is proactively monitoring and mitigating those risks. Teams could use this radar in regular check-ins, noting current risks, mitigation strategies, and owners. 
-
 Ultimately, risk management isn't about checklists or methodologies; it's about leadership, empowerment, and a commitment to building a resilient and successful product. It’s about recognizing that the best way to mitigate risk isn’t to transfer it to your developers, but to own it—and lead your team in addressing it—together.
 
 **Key Principles for Owning Risk:**

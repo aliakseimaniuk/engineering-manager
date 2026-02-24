@@ -42,8 +42,7 @@ Sometimes, the best solution is to *avoid* a committee altogether. Consider thes
 
 * **Consultative Approach:** Instead of forming a committee, identify key stakeholders and consult with them individually. This allows you to gather diverse perspectives without the overhead of a group decision.
 * **DRI (Directly Responsible Individual):** Empower a single person to make the decision, with clear guidelines and expectations. This is the most efficient approach for straightforward decisions.
-* **Two-Pizza Team Rule:** If a team can't be fed with two pizzas, it's too large. Apply this principle to decision-making groups. [https://www.aboutamazon.com/news/company-news/two-pizza-team](https://www.aboutamazon.com/news/company-news/two-pizza-team)
-
+* **Two-Pizza Team Rule:** If a team can't be fed with two pizzas, it's too large. Apply this principle to decision-making groups. 
 
 
 ## Beyond Decision-Making: Retrospective Loops
@@ -55,7 +54,5 @@ The input from these retrospectives will help you refine your processes and ensu
 **In conclusion:** Decision-making committees aren't inherently bad. But they require careful design and a clear understanding of their potential pitfalls. By focusing on accountability, limiting membership, and building feedback loops, you can harness the power of collective intelligence while avoiding the trap of endless debate and diffused responsibility.  
 
 It’s tempting to involve everyone to avoid alienating team members, but that can often lead to indecision and frustration. Remember, clarity and forward momentum are just as important as inclusivity. 
-
-**Visual Suggestion:** A simple diagram illustrating the difference between a well-functioning committee (with a designated decision-maker) and a dysfunctional one (lacking clear ownership).
 
 **Takeaway:** Start by identifying one committee that’s currently causing friction and applying the principles outlined in this article. Consider documenting your results and sharing them with the broader engineering organization to foster a culture of effective decision-making.

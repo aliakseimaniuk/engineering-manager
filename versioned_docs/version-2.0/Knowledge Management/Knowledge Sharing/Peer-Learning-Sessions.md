@@ -50,6 +50,3 @@ While peer learning undoubtedly improves efficiency and reduces knowledge gaps, 
 
 I've seen firsthand how a thriving peer learning culture can transform a good engineering team into a *great* one. It's not about replacing traditional training; it’s about supplementing it with the most valuable resource you already have: the collective intelligence of your team. 
 
-**Visual Suggestion:** A simple diagram showing the cyclical flow of knowledge within a team: "Identify Gap -> Peer Session -> Document/Share -> New Gaps Identified". This visually reinforces the continuous nature of the process.
-
-**Start small—identify one knowledge gap and facilitate a peer learning session this week.**

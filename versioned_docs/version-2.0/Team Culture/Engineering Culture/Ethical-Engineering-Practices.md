@@ -12,8 +12,6 @@ There’s a dangerous tendency in our industry to frame failures as individual d
 
 This isn't necessarily malicious, but it *is* deeply unethical. It creates a culture of fear, where developers are incentivized to hide mistakes rather than learn from them. It absolves managers and leadership from accountability for creating the conditions that led to the failure. 
 
-**Visual Suggestion:** A simple diagram illustrating a failure investigation. One side shows a “blame the developer” approach (a downward arrow pointing at an individual). The other side shows a systemic approach (a circular diagram showing interconnected factors like time, resources, requirements, and process).
-
 ## The Fictions We Build & Maintain
 
 We often *act as if* things exist that don’t. Realistic timelines. Fully-vetted requirements. A stable and predictable infrastructure. These are often fictions we maintain to keep projects moving forward. Runeson and Höst’s work emphasizes the importance of accurately reporting case study research – a point easily extended to all engineering work. If we constantly present an idealized view of progress, we lose sight of the real challenges and the compromises we're making.

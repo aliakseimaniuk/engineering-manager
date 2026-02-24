@@ -14,8 +14,6 @@ Before you formulate a response, diagnose the source. Resistance isn’t monolit
 * **Lack of Trust:** If past changes were poorly executed or didn’t deliver on promises, trust erodes, and resistance hardens.
 * **Genuine Concerns About Feasibility:** Sometimes, the resistance isn’t emotional – it's practical. The proposed change *might* genuinely be a bad idea.
 
-**Visual Suggestion:** A simple "Iceberg" diagram could be helpful here. Above the waterline: visible resistance (complaints, pushback). Below the waterline: hidden fears, anxieties, and concerns.
-
 ## Transforming Resistance into Collaboration: A Framework for Engagement
 
 Once you understand the roots, move beyond simply *addressing* objections to actively *engaging* with those expressing them. Here’s a framework I’ve found effective:

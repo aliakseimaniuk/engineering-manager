@@ -25,8 +25,6 @@ Simply counting the number of incidents isn't enough. You need context. Here's h
 * **Mean Time Between Failures (MTBF):** This metric, while related to availability, provides insight into how reliably a system operates over a period. Tracking MTBF is a proactive approach.
 * **Tools to Help:** There are a number of tools that can automate incident tracking and reporting. Consider exploring services like [honeybadger.io](https://honeybadger.io/), [rollbar.com](https://rollbar.com/), or [sentry.io](https://sentry.io/). They can significantly streamline the process.
 
-**Visual Suggestion:** A simple line graph showing incident rate over time, broken down by severity, can be incredibly effective at highlighting trends. Consider supplementing this with a Pareto chart to visualize the types of incidents contributing most to the overall frequency.
-
 ## Lowering Incident Frequency: Actionable Steps
 
 Okay, you're measuring incident frequency. Now what? Here are some strategies I’ve found to be effective. Let's group these into proactive prevention and reactive improvement:

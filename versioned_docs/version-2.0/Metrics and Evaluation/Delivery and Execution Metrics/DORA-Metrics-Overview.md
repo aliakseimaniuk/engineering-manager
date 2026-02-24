@@ -13,8 +13,6 @@ The DORA (DevOps Research and Assessment) metrics, popularized by the annual [Ac
 * **Change Failure Rate:** What percentage of deployments cause a failure in production requiring immediate remediation (e.g., rollback, hotfix)?
 * **Time to Restore Service:** How long does it take to restore service when a production incident *does* occur? (measured in hours)
 
-**Visual Suggestion:** A simple 2x2 matrix showing these four metrics, categorized by "Speed" (Deployment Frequency, Lead Time) and "Stability" (Change Failure Rate, Time to Restore). This quickly illustrates how they relate to overall performance.
-
 ## Why Should *I* Care as an Engineering Leader?
 
 Many engineering leaders face a constant struggle: balancing the need for speed with the need for stability, and demonstrating value to stakeholders. It’s easy to feel overwhelmed tracking metrics when you’re already juggling multiple priorities. DORA metrics aren’t about adding to that overwhelm—they’re about making your existing work *smarter*. Here’s how:
@@ -33,8 +31,6 @@ Implementing DORA metrics doesn’t require a massive overhaul. Here’s a pract
 3. **Establish Baselines:** Before making any changes, establish a baseline for your current performance. This provides a clear benchmark for measuring improvement.
 4. **Focus on Trends, Not Just Numbers:** A single data point isn't meaningful. Look for trends over time to identify patterns and assess the impact of your improvement efforts.
 5. **Avoid Blame:** This is critical. DORA metrics are *not* about evaluating individual performance. They’re about identifying systemic issues and improving processes. Focus on *what* happened, not *who* is to blame.
-
-**Visual Suggestion:** A simple timeline showing how a team's DORA metrics improved over time after implementing specific changes (e.g., automated testing, improved CI/CD).
 
 ## Beyond the Numbers: Visualizing Your Delivery Pipeline
 

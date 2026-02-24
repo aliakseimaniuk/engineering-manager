@@ -36,8 +36,6 @@ Proactive metrics, on the other hand, aim to *predict* potential issues before t
 
 These metrics aren't necessarily "vanity metrics" (although they can be if not tied to clear outcomes). They’re *indicators* that, when monitored and understood, allow you to proactively address potential problems before they become critical incidents.
 
-**Visual Suggestion:** A simple 2x2 matrix could illustrate this nicely. X-axis: Reactive to Proactive. Y-axis: Leading to Lagging Indicators. Place the example metrics in the appropriate quadrants.
-
 ## Shifting Your Focus: A Practical Approach
 
 Moving from reactive to proactive isn't a flip of a switch. Here's how to start:

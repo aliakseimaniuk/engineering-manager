@@ -45,11 +45,6 @@ Segment.com, in particular, can help translate event data into actionable insigh
 
 
 
-**Visual Suggestion:** A simple framework outlining the "Event ROI Cycle": **Plan (Goals, Selection) -> Attend (Explore, Network) -> Share (Teach Back, Documentation) -> Act (Implementation, Follow-Up)**.
-
-
-
-
 Industry events can be a powerful catalyst for team growth and innovation. But it requires a deliberate, strategic approach. By focusing on team development, actively sharing learnings, and translating insights into action, you can ensure that your event participation delivers a genuine return on investment—one that goes far beyond the swag and the spectacle. 
 
 To start, identify one upcoming event and consider how you can apply the principles outlined in this article to maximize its value for your team.

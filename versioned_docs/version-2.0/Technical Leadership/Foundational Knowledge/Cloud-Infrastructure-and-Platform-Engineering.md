@@ -14,8 +14,6 @@ The core issue? We've often asked developers to be generalists, expecting them t
 
 Platform Engineering isn’t about *replacing* DevOps. It’s about *evolving* it. Think of it as a specialization *within* DevOps. It’s the practice of building *internal developer platforms* (IDPs) – self-service tools and automated workflows that abstract away the complexity of the underlying infrastructure.
 
-**Visual Suggestion:** A simple diagram showing: *Traditional DevOps* (Developers - Operations) evolving into *Platform Engineering* (Developers - Platform Team - Operations). The Platform Team acts as an abstraction layer.
-
 The goal? To give developers the tools and automation they need to deploy, manage, and scale their applications *without* needing deep expertise in cloud infrastructure. This frees them to focus on what they do best: writing code that delivers business value.
 
 ## What Does a Platform Team Actually *Do*?

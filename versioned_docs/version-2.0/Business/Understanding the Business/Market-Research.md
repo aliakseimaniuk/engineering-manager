@@ -26,8 +26,6 @@ Here’s how to think about it:
 
 Many startups fail because they chase a massive TAM, only to realize their SAM and SOM are tiny. Focus on identifying a *specific* niche where you can dominate. This is where focused market research is key.
 
-**Visual Suggestion:** A Venn diagram illustrating TAM, SAM, and SOM, showing how the SOM is the sweet spot for initial focus.
-
 ## Practical Market Research for Engineering Leaders
 
 So how do you actually *do* market research as an engineering leader? Here are a few practical techniques:

@@ -49,8 +49,6 @@ These technical integrations are most effective when paired with a culture that 
 
 Customer support isn't a cost center; it’s a critical source of feedback and a powerful lever for improving product quality. By treating support integration as a core engineering responsibility – both technically and culturally – you can unlock significant benefits: faster resolution times, happier customers, and a more efficient development process.
 
-**Visual Suggestion:** A simple diagram showing the traditional "throw it over the wall" support process versus an integrated process with clear feedback loops and communication channels.
-
 Don't just *receive* tickets. *Connect* with your support team. You’ll be surprised by what you learn.
 
 **Next Step:** Start by mapping your current support workflow and identifying one area where you can begin to integrate engineering more closely.

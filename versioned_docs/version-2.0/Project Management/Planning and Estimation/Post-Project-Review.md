@@ -24,8 +24,6 @@ I've found a simple framework consistently delivers the most valuable results. I
 2. **What Could Be Improved?** (Focus on *processes* and *systems*, not individuals. Frame this as “what obstacles did we encounter?”)
 3. **Action Items:** (Specific, measurable, achievable, relevant, and time-bound (SMART) steps to address the improvements.)
 
-**Visual Suggestion:** A simple 3-column table is excellent for capturing this information. 
-
 | What Went Well | What Could Be Improved | Action Items |
 |---|---|---|
 | Automated testing significantly reduced bug count | Code review process was rushed due to tight deadlines | Allocate dedicated time for thorough code reviews in future sprints |

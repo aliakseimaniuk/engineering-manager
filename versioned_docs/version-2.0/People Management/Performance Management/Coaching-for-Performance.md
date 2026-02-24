@@ -49,5 +49,3 @@ I remember a junior engineer, David, who consistently struggled with estimating 
 ## Final Thoughts
 
 Coaching isn’t about being a therapist or a mentor. It’s about creating a supportive environment where engineers can learn, grow, and reach their full potential. It requires intentionality, active listening, and a mindset shift – from “doing” to “developing.”  It’s also important to acknowledge that coaching initially requires more time and effort than simply *telling* someone what to do. However, the long-term benefits – a more engaged, empowered, and skilled team – are well worth the investment. Start by scheduling a dedicated coaching conversation with one team member this week.
-
-**Visual Suggestion:** A simple diagram illustrating the GROW model as a cyclical process, showing how each stage builds upon the others. Alternatively, a visual contrasting "Feedback" vs. "Coaching" – perhaps a seesaw with "Empowerment" on the Coaching side and "Direction" on the Feedback side.

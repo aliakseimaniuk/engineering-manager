@@ -74,8 +74,6 @@ Tools are important, but they’re only part of the equation.  Many engineers se
 
 ## Visualizing Success: Tools, Process, and Culture
 
-[**Visual Suggestion:** A simple diagram illustrating the relationship between tools, process, and culture. Think of three overlapping circles labeled "Tools," "Process," and "Culture." The area where all three circles overlap represents "Effective Knowledge Sharing." ]
-
 Ultimately, successful knowledge sharing is about creating an environment where learning, collaboration, and documentation are valued and integrated into the daily work of your engineering team. It requires a commitment to both the right tools *and* the right culture. 
 
 **Key Takeaways:**

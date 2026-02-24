@@ -19,14 +19,6 @@ Before you start chasing a higher percentage, you need to understand *why* your 
 * **Unexpected Issues/Blockers:** Even with the best planning, unexpected issues arise. Is your team resilient enough to handle them effectively? Do you have a clear process for identifying and resolving blockers?
 * **Capacity & Resource Constraints:** Are your team members overloaded? Do they have the necessary skills and tools to complete the work?
 
-**Visual Suggestion:** A fishbone diagram (Ishikawa diagram) is a powerful way to visually represent these potential root causes and brainstorm solutions. 
-
-
-
-![Fishbone Diagram Example](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ishikawa_diagram.svg/640px-Ishikawa_diagram.svg.png)
-
-*This is a simplified example of a Fishbone Diagram.  Use it to visually map out the potential root causes of your delivery delays.*
-
 ## Actionable Strategies for Improvement
 
 Once you’ve identified the root causes, you can start implementing strategies to improve your OTDR. Here are a few that have worked for me:

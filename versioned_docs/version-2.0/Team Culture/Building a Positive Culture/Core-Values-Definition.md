@@ -40,8 +40,6 @@ Here’s a simple framework:
 | **Ruthless Prioritization** | Focusing on the highest-impact features, saying "no" to low-priority requests, regularly re-evaluating priorities. | Trying to do everything at once, getting bogged down in details, being afraid to drop features. |
 | **Continuous Learning** | Dedicate time for tech talks, encourage experimentation, proactively share knowledge. | Relying on outdated skills, resisting new technologies, hoarding information. |
 
-**Visual Suggestion:** A table like the one above, prominently displayed (e.g., in a team wiki or shared document).
-
 ## Reinforcing Values: Leading by Example (and Addressing Violations)
 
 Values aren’t worth much if they’re not consistently reinforced. This means:

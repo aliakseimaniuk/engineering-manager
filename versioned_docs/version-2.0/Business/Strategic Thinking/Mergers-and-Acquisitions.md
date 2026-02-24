@@ -23,8 +23,6 @@ You’ll likely be asked to assess the technical viability of the target company
 * **Key Personnel:** Identify the critical engineers at the target company. Retention is paramount. Understand their motivations and what it will take to keep them engaged.
 * **Process Alignment:** How do their processes (Agile, Waterfall, etc.) align with yours?
 
-**Visual Suggestion:** A simple matrix comparing your current tech stack, processes, and culture with the target company. Highlight areas of overlap and potential conflict. Consider including data points like: programming languages used, project management tools, code repository systems, and development methodologies.
-
 **2. Post-Announcement & Integration (If You're Being Acquired)**
 
 This is where leadership is *most* critical. Uncertainty breeds anxiety. Your job is to:

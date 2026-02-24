@@ -25,8 +25,6 @@ Let's say a team member, Alex, consistently dominates discussions in code review
 * **Poor Feedback:** “Alex, you need to let others speak more during code review. You're being too assertive.”
 * **SBI Feedback:** “During this morning’s code review (Situation), you interrupted several team members and redirected the conversation back to your own suggestions (Behavior), which made it difficult for others to share their perspectives and slowed down the review process (Impact)."
 
-**Visual Suggestion:** A simple diagram illustrating the SBI framework with each element clearly defined would be beneficial.
-
 ## Beyond SBI: Principles for Maximizing Feedback Effectiveness
 
 SBI is a powerful tool, but it’s not a magic bullet. These principles will help you maximize its effectiveness:

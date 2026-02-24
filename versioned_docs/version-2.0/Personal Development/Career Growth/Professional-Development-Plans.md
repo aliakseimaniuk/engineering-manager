@@ -74,6 +74,4 @@ Software developers, by their very nature, often don't have a rigid roadmap. Bec
 
 As a manager, your role isn’t to *dictate* their development path, but to *facilitate* their growth. Provide the resources, support, and encouragement they need to unlock their full potential. Research shows that employees with robust development plans are up to 24% more engaged. By investing in their professional development, you're not just building a better team—you're building a more engaged, motivated, and innovative workforce.  
 
-**Visual Suggestion:** A simple framework outlining the four pillars (Assessment, Goal Setting, Action Planning, Ongoing Support) could be a useful infographic to accompany this article. Or, a timeline visualizing the process from initial assessment to goal achievement would also be effective.
-
 This week, schedule a one-on-one with your team to discuss their career aspirations and begin the process of building effective Professional Development Plans.

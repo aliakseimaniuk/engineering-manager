@@ -29,12 +29,6 @@ Here's how to shift from simply *seeing* what's happening to *verifying* the hea
 * **Establish Clear Ownership & Permissions:** Who has access to what data? Who is responsible for maintaining which systems? Clear ownership and permissions are essential for accountability.
 
 
-
-**Visual Suggestion:** A simple flowchart illustrating the data flow of an audit system: *System Events -> Logging -> Monitoring -> Analysis -> Action/Remediation*.  Crucially, the "Action/Remediation" step should trigger automated alerts, rollbacks, or other corrective measures when anomalies are detected.
-
-
-
-
 ## The Cost of Neglect: Lessons from the Past – and a Path Forward
 
 The failures of Enron and WorldCom serve as cautionary tales. These companies prioritized short-term gains over long-term sustainability, and they created cultures where transparency and accountability were lacking. The consequences were devastating, including bankruptcies, job losses, and a loss of public trust.

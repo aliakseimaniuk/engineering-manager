@@ -61,10 +61,6 @@ This is where empathy and transparency are crucial. Ignoring perceived injustice
 
 Throughout all these interactions, there’s a common thread: *genuine support*. It's about seeing your team members as individuals, understanding their motivations, and supporting their growth. It’s not about being their friend, but about leading *as a human*. 
 
-I recently came across a powerful quote by Maya Angelou: “People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” [https://www.brainyquote.com/quotes/maya_angelou_385839](https://www.brainyquote.com/quotes/maya_angelou_385839) As managers, we’re not just responsible for delivering results; we’re responsible for shaping the experiences of the people who help us achieve those results. And that’s a responsibility worth taking seriously. 
+I recently came across a powerful quote by Maya Angelou: “People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” As managers, we’re not just responsible for delivering results; we’re responsible for shaping the experiences of the people who help us achieve those results. And that’s a responsibility worth taking seriously. 
 
 It’s easy to get caught up in deadlines and deliverables, but intentionally investing in your team’s well-being is crucial for both their success and the success of your organization. 
-
-**Visual Suggestion:** A diagram illustrating the difference between "managing" (directing, controlling) and "leading" (empowering, supporting). 
-
-**What's one small step you can take this week to show your team you care? Share your experiences with these challenges in the comments below.**

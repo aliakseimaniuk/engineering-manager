@@ -30,9 +30,6 @@ Uptime monitoring (tools like UptimeToolbox.com, Xitoring.com, or UptimeObserver
 *   **Saturation (CPU, Memory, Disk I/O):** These metrics tell you how close your resources are to their limits. High saturation often precedes performance degradation.
 *   **Database Performance (Query Latency, Connection Pool Usage):** Database bottlenecks are common culprits for slow applications. Track query performance and ensure your connection pool is appropriately sized.
 
-**Visual Suggestion:** A simple dashboard displaying these key metrics over time. 
-![Example Dashboard](https://via.placeholder.com/600x300/007bff/ffffff?text=Example+Performance+Dashboard) 
-
 ## From Data to Action: Building a Performance-Focused Culture
 
 Tracking metrics is useless without a plan for action. Here’s how to build a performance-focused culture within your team:

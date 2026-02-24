@@ -41,8 +41,5 @@ Finally, remember that performance tuning is an ongoing process. Building a data
 * **Analyze Performance Data:** Use performance monitoring tools to identify bottlenecks and areas for improvement.
 * **Iterate and Refine:** Implement changes, measure the results, and iterate until you achieve the desired performance levels.
 
-**Visual Suggestion:** A simple diagram showing the shift-left approach: "Traditional: Code -> Test -> Deploy -> Monitor" versus "Shift Left: Define SLOs -> Performance Budgeting -> Performance Tests in CI/CD -> Code -> Deploy -> Monitor"
 
 By prioritizing performance, fostering a culture of continuous improvement, and empowering your team to take ownership, you can deliver efficient, scalable applications that delight your users and drive business success. 
-
-**This week, start a conversation with your team about defining SLOs for your critical services.  Scheduling a brainstorming session to discuss integrating performance testing into your CI/CD pipeline is another great next step.**

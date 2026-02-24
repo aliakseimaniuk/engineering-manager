@@ -22,7 +22,6 @@ Here are three pillars to build a foundation for proactive infrastructure scalin
 * **Design for Failure:** Assume things *will* break. Implement robust error handling, retries, and circuit breakers. Redundancy is crucial. Think about how your system will degrade gracefully under load.
 * **Consider Serverless:** Don’t underestimate the power of serverless technologies. They can drastically reduce operational overhead and automatically scale based on demand. It’s not a silver bullet, but it's worth exploring.
 
-**Visual Suggestion:** A simple diagram illustrating a monolithic architecture vs. a microservices architecture, highlighting the independent scalability of the latter.
 
 **2. Observability & Monitoring – The Early Warning System**
 

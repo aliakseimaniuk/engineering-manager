@@ -53,5 +53,3 @@ It’s tempting to focus solely on “outputs” (number of events held, members
 Supporting ERGs isn't just about "doing the right thing." It's a strategic investment in your people, your products, and your future. As engineering leaders, we have a responsibility to create inclusive environments where everyone can thrive. By truly partnering with ERGs, we can unlock the full potential of our ERGs and build truly diverse and innovative engineering teams.
 
 **Start Today:** Schedule a meeting with your ERG leaders this week to understand their current priorities and how you can best support them. 
-
-**Visual Suggestion:** A simple diagram showing the relationship between ERG investment (budget, time, support) and positive outcomes (retention, engagement, innovation). This could be a circular diagram with arrows illustrating the flow of investment leading to desired outcomes.

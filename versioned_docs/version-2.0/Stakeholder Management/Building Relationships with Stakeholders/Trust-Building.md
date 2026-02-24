@@ -47,11 +47,3 @@ This is perhaps the hardest one. Share your own challenges and mistakes. Admit w
 Building trust takes time and effort. There are no shortcuts. But the payoff is enormous. A team built on trust is more innovative, more resilient, and more capable of achieving great things. 
 
 I often think back to a saying I recall reading regarding the importance of a strong foundation: "You do not measure the water in the well by drinking it, but by building the well." (Source currently being researched). Trust is like that well. Invest in building it, and you’ll have a source of strength and resilience that will serve you and your team for years to come. 
-
-
-
-**Visual Suggestion:** A simple diagram showing a foundation with pillars representing competence, transparency, delivery, and advocacy – all supporting a roof representing team success.
-
-**References:**
-
-Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–384.

@@ -22,8 +22,6 @@ So, how do you build that intrinsic motivation? I've found it rests on three cor
 
 * **Mastery: Fostering Continuous Growth**  Engineers thrive on learning and improving their skills. Stagnation breeds boredom and disengagement. Provide opportunities for growth – through training courses, conference attendance, mentorship programs, or simply by assigning challenging projects that stretch their abilities.
 
-    **Visual Suggestion:** Consider a "Skills Matrix" for your team. Visually map out individual skills and areas for growth. This helps identify training opportunities and ensures skill gaps are addressed.
-
     **Actionable Tip:** Encourage (and budget for) "spike" projects - dedicated time for engineers to explore new technologies or approaches, even if they don't directly contribute to the current sprint.
 
 * **Purpose: Connecting Work to Impact**  Engineers want to know that their work matters. It's not enough to just ship features; they need to understand *why* those features are important and *who* they impact. Regularly connect the team's work to the larger company vision and customer needs.

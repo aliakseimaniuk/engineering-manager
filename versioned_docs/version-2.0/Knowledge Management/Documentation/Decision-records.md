@@ -24,8 +24,6 @@ A decision record isn’t a massive document. It’s a concise, structured summa
 * **What are the consequences of this decision?** (Short-term and long-term impacts, risks, and potential mitigations.)
 * **Who was involved?** (List key stakeholders and decision-makers.)
 
-**Visual Suggestion:** A simple table format works perfectly for a decision record. 
-
 | Question                     | Answer                                             |
 | ---------------------------- | -------------------------------------------------- |
 | **What was the decision?**   | Choose database X over database Y                 |

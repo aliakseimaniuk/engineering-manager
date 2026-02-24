@@ -20,8 +20,6 @@ I once worked with a team that was obsessed with increasing their deployment fre
 
 This exemplifies optimizing a metric without understanding its drivers. It created a sense of false progress and masked deeper problems with their development process. 
 
-**Visual Suggestion:** A simple graph showing “Deployment Frequency” on the Y-axis and “Value Delivered” on the X-axis.  Highlight a curve where increasing frequency *doesn’t* correlate with increased value.
-
 ## Beyond the Frequency: Focusing on Lead Time & Change Failure Rate
 
 While deployment frequency is useful, consider it alongside two other key metrics:

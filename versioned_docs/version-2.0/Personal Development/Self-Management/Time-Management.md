@@ -26,7 +26,6 @@ Many engineering managers find that simply being “important” isn’t enough.
 
 Prioritize tasks with high Leverage, even if Reach or Impact are moderate. Investing in team processes, unblocking engineers, or clarifying requirements will yield a far greater return than single-handedly tackling a complex feature.
 
-**Visual Suggestion:**  Consider creating a simple 2x2 matrix with "Leverage" on the X-axis and "Impact" on the Y-axis to visually map your tasks and identify priorities. (Here's a basic example you can create in Google Sheets: [Link to simple example - replace with actual link if available])
 
 ## The Power of Asynchronous Communication
 

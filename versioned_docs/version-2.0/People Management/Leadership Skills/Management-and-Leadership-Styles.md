@@ -39,7 +39,6 @@ Consider these factors:
 * **Urgency:** In crisis situations, a more directive approach may be necessary.
 * **Individual Needs:** Some team members thrive with autonomy, while others need more support.
 
-[**Visual Suggestion:** A simple 2x2 matrix with ‘Team Maturity’ on one axis and ‘Project Complexity’ on the other, indicating suitable management styles for each quadrant.]
 
 ## The Power of Retrospectives: Learning and Adapting
 

@@ -47,13 +47,8 @@ There will be pushback, and that’s okay. Common concerns include:
 * **"How do I justify this to my boss?"** – Prepare a clear explanation of the benefits: increased skill development, improved team morale, and a contribution to the broader tech community. Highlight that this isn’t just a perk, but a strategic investment in your team’s future.
 
 
-
-**Visual Suggestion:** A simple graph illustrating skill improvement or a metric for team engagement before/after implementing the program would be a helpful addition to this post. A flowchart illustrating the open source contribution workflow - from idea generation to pull request submission and acceptance – would also be beneficial.
-
 ## Beyond the Code: Investing in Your Team's Future
 
 Encouraging open source contribution isn’t just about writing code. It's about fostering a culture of learning, collaboration, and giving back. It’s about investing in your team's growth, attracting top talent, and building a more engaged and motivated workforce. 
 
 And, in today’s community-driven software landscape, encouraging open-source contribution is a strategic investment for the future of your organization.
-
-**To get started, schedule a team brainstorm to identify potential open-source projects and allocate a small percentage of time for exploration.**

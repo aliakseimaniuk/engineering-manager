@@ -10,7 +10,6 @@ Imagine this: a seemingly minor disagreement over API design escalates, landing 
 
 The core problem is *lack of clarity*. If specifications conflict, who is responsible for raising the issue? If a critical decision impacts multiple teams, who owns the communication? If these questions aren't answered *before* conflict arises, the burden inevitably falls on someone who is least equipped to handle it. This cascading effect doesn’t just impact individual engineers; it slows down development, erodes trust, and stifles innovation.
 
-**Visual Suggestion:** A simple flowchart illustrating how ambiguity in role definitions leads to escalations and ultimately impacts the "coder" would be effective.
 
 ## Beyond "Win-Win": Understanding the Root Cause
 

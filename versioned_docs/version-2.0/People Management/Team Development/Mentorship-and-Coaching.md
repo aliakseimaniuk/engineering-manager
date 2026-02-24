@@ -69,7 +69,4 @@ Effective leadership requires adapting your approach to different situations. Ju
 Sometimes, the line blurs. However, consider this: if someone is struggling with a specific skill or behavior, *coach* them. If they're unsure about their career path or need guidance navigating the company, *mentor* them. And remember, *you* don't need to have all the answers. Sometimes, the most valuable thing you can do is help someone *discover* the answers themselves.
 
 
-
-**Visual Suggestion:** A simple 2x2 matrix contrasting Mentorship vs. Coaching, and short-term vs. long-term development would be a helpful visual aid for this post.
-
 **Final Thought:** Investing in mentorship and coaching isn’t about being a “nice” manager; it’s about being an *effective* one. It's about unlocking the potential of your team, fostering a culture of growth, and building a sustainable, high-performing engineering organization. To start, schedule a dedicated 1:1 with each team member focused on their career goals and development needs. And as a leader, that's a truly rewarding outcome.

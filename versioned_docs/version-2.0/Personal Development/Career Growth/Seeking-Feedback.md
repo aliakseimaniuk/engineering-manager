@@ -70,6 +70,3 @@ As an engineering manager, your actions speak louder than words. If you want to 
 
 What’s one small step *you* can take today to create a more open and honest feedback loop on your team?
 
-
-
-**Visual Suggestion:** A simple diagram showing a feedback loop:  "Ask -> Listen -> Act -> Follow Up" with arrows connecting each step. This visually reinforces the iterative nature of seeking and acting on feedback.

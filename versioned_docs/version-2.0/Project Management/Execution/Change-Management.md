@@ -20,10 +20,6 @@ So how do we do better? Here's a framework, built around a few key principles:
 
 **1. Early Involvement & Feasibility Studies:** Don’t present a solution; present a *problem* and involve your team in exploring solutions. Before committing to a change, dedicate timeboxed explorations. Instead of "We're switching to React," try "We're seeing performance issues with the current frontend. Let's spend a week exploring potential solutions, including evaluating React, Vue, and Angular, and identify the trade-offs." These explorations aren't just technical; they should include estimates of effort, impact on existing systems, and potential risks. 
 
-**Visual Suggestion:** A simple timeline showing phases of Exploration -> Evaluation -> Proposal -> Implementation can be highly effective.
-
-[Here's a basic example of that timeline:](https://i.imgur.com/exampletimeline.png) *(Replace with an actual image or link to a visual)*
-
 **2. Define Business Requirements, Not Implementation Details:** Specs should outline *what* needs achieving, not *how*. Avoid dictating specific technologies or architectural patterns. Give your engineers the autonomy to choose the best tools and approaches to solve the problem. I've found that clear business requirements unlock creativity and lead to more innovative solutions.
 
 **3. Genuine Care & Psychological Safety:** This is the foundation of everything. Creating a safe space where engineers feel comfortable voicing concerns, challenging assumptions, and suggesting alternative solutions is critical. If someone feels they'll be penalized for speaking up, the entire process is compromised. Remember, a single person consistently blocked due to bad management is a glaring signal of a systemic problem. It’s also important to acknowledge that change itself can be stressful for engineers. Recognizing the emotional toll and offering support can build trust and foster a more positive environment.

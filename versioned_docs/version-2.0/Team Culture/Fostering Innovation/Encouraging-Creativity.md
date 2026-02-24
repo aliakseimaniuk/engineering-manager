@@ -38,8 +38,6 @@ Building a truly creative engineering team isn’t a quick fix. It’s a cultura
 
 As the opening quote suggests, focusing on doing great work—work that expands possibilities—is the ultimate driver of creativity. It’s about creating an environment where people are inspired, motivated, and empowered to bring their best ideas to life.
 
-**Visual Suggestion:** A simple diagram illustrating the shift from “Innovation Events” (isolated bursts) to “Everyday Creativity” (a continuous flow). This could be a timeline or a flowchart demonstrating the integration of creative practices into the daily workflow. Place this diagram after the "Shifting from Innovation Events..." section to visually reinforce the concept.
-
 **Key Takeaways:**
 
 *   **Embrace Small Bets:** Dedicate a portion of time for exploratory projects.

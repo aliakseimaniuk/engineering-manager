@@ -20,7 +20,6 @@ I’ve found it helpful to categorize change into four broad types, acknowledgin
 * **Impact on Engineering:** Relatively low disruption. Can be implemented through existing Agile sprints. Requires strong processes for capturing feedback and prioritizing improvements. 
 * **Leadership Approach:** Facilitative. Empower teams to identify and implement improvements. Focus on providing resources and removing roadblocks.  
 * **Example:** Adopting a new testing framework that improves code coverage without fundamentally altering the application’s architecture.
-* **Visual Suggestion:** A simple Kanban board tracking incremental improvements and their status. Tools like Trello or Jira can be helpful for creating and managing these boards.
 
 **2. Tactical Change (Process Optimization)**
 
@@ -28,7 +27,6 @@ I’ve found it helpful to categorize change into four broad types, acknowledgin
 * **Impact on Engineering:** Moderate disruption. Requires training, process documentation, and potentially a temporary dip in velocity. Clear communication is vital to address concerns about job roles or new workflows.
 * **Leadership Approach:** Directive with collaboration. You need to make decisions about the change, but involve the team in the implementation details and address their concerns. Timeboxed explorations – short, focused investigations – of feasibility are *critical* here. Don't dictate solutions; understand the impact on existing workflows. 
 * **Example:** Switching from manual deployments to a fully automated CI/CD pipeline.
-* **Visual Suggestion:** A process flow diagram illustrating the “before” and “after” states of the new process. Lucidchart and Miro are good options for creating these diagrams.
 
 **3. Strategic Change (Business Model Transformation)**
 

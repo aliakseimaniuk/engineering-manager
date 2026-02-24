@@ -24,8 +24,6 @@ While velocity and throughput are important, they don't tell the whole story whe
 * **Refactor Ratio:** Track the percentage of engineering time spent on refactoring versus new feature development. A high refactor ratio suggests a potential problem with technical debt.
 * **Deployment Frequency & Lead Time:** Faster, more frequent deployments reduce risk and allow for quicker feedback loops. A slow, manual deployment process is a significant cost.
 
-**Visual Suggestion:** A simple dashboard visualizing these metrics alongside standard velocity/throughput measures can be extremely powerful. Prioritize visualizing Cost Per Feature, Cost Per Bug, and Refactor Ratio alongside throughput to get a holistic view of value delivery and cost. 
-
 **Example:** Tracking "Cost Per Bug" could reveal that bugs fixed in production are significantly more expensive than those caught in testing, justifying investment in more robust testing procedures.
 
 ## Building a Cost-Conscious Culture

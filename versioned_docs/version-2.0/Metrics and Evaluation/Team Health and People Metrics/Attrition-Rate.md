@@ -16,8 +16,6 @@ Instead, slice and dice the data. Here are a few critical questions to ask:
 * **Reason for Leaving:** Exit interviews offer valuable insights, but responses can sometimes be filtered. Look for consistent themes. Is it consistently about career growth, work-life balance, or compensation?
 * **Role/Level:** Are you losing more junior engineers, or are senior leaders jumping ship? This reveals gaps in your career progression pathways.
 
-**Visual Suggestion:** A simple table or chart showing attrition rate broken down by tenure, performance level, and team can quickly highlight problem areas.  Imagine a bar graph with these categories on the x-axis and attrition percentage on the y-axis – a clear visual indicator of where to focus your efforts.
-
 ## Moving from Reactive to Proactive: A Three-Pronged Approach
 
 Once you understand *where* the attrition is happening, you can start addressing the *why*. I've found a three-pronged approach to be most effective. 

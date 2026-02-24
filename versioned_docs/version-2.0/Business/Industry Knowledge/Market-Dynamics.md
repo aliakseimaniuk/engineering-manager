@@ -32,11 +32,3 @@ How do you translate this understanding into practical actions? I’ve found tha
 ## Beyond the Code: Leading with a Market-Minded Approach
 
 Being a successful engineering manager isn’t just about writing great code or building high-performing teams. It's about understanding the forces that shape your company's destiny. By embracing a market-minded approach, you can ensure your team focuses on solving the right problems, building the right products, and creating lasting value. 
-
-**Visual Suggestion:**  Consider how a simple 2x2 matrix can help prioritize projects. Here’s an example of how you might visualize Market Growth vs. Competitive Intensity:
-
-![2x2 Matrix Example](https://miro.com/app/files/team-files/cid=c8c984f5-e06b-43b2-a46f-360989f7519d?w=800&t=yU777yU7WJ0b0S3G9)
-
-*(This is a simplified example; a real matrix would be tailored to your specific market and competitive landscape.)*
-
-What’s one question you can start asking your product team this week to better understand the market context? Share your own experiences with aligning engineering efforts with market dynamics in the comments below!

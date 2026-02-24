@@ -32,8 +32,6 @@ Here’s a breakdown of components, grouped by category. I recommend starting wi
     * **Mean Time To Recovery (MTTR):** How quickly can you restore service after an incident? MTTR measures restoration time and reflects operational quality and resilience.
     * **Customer Satisfaction (CSAT) related to quality:** Directly measures how your customers perceive the quality of your product. (This can be a survey question integrated into your feedback loop).
 
-**Visual Suggestion:** A simple table or a radar chart can be effective. A radar chart visually highlights areas where you are strong or weak. When using a radar chart, plot each indicator as an axis and the team's current performance as a point on that axis. This makes it easy to quickly identify areas needing improvement. Consider including trend lines to show progress over time.
-
 ## From Data to Action: Making the Scorecard Meaningful
 
 A beautiful scorecard is useless if it doesn't drive improvement. Here's how to make it actionable:

@@ -75,6 +75,3 @@ I’ve learned over the years that the most successful onboarding programs are t
 
 Investing in a robust onboarding program with clearly defined success metrics isn't just a nice-to-have; it’s a strategic imperative.  Start by identifying three key metrics to track in the first month. By focusing on outcomes, tracking progress, and continuously refining your process, you can dramatically improve the performance, engagement, and retention of your engineering teams.  What steps will *you* take this week to improve your onboarding process?
 
-
-
-**Visual Suggestion:** A simple graphic showing the four tiers of the framework, visually representing the progression from foundational elements to long-term engagement. Could also be a timeline illustrating the expected milestones for each tier.

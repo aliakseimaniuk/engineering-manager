@@ -42,6 +42,4 @@ Fostering a culture of ethical choice isn’t a one-time fix. It’s an ongoing 
 
 The best "methodology" isn’t a set of rigid procedures; it’s a commitment to doing the right thing, even when it's hard – and empowering others to do the same.
 
-**Visual Suggestion:** A simple diagram illustrating the shift from "Compliance-Based Ethics" (Rules -> Enforcement -> Punishment) to "Choice-Based Ethics" (Values -> Discussion -> Empowerment) would visually reinforce the key message of the article.
-
 **Now, let's challenge ourselves:** Share this article with your team and start a discussion about how you can collectively foster a stronger culture of ethical choice within your organization.  Evaluate your current processes to identify areas where you can empower your team to make more informed and ethical decisions.

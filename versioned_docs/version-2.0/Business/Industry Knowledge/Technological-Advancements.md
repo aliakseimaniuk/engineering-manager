@@ -14,10 +14,6 @@ Think about the smartphone. It wasn’t just a faster phone; it fundamentally al
 
 As engineering leaders, we need to push our teams *beyond* incremental improvements and encourage them to explore genuinely breakthrough technologies. This requires fostering a culture of experimentation, embracing failure as a learning opportunity, and – crucially – asking the hard questions about potential societal impact *before* we ship. It’s also why chasing patent potential – beyond simply protecting IP – is important.  A defensible invention *suggests* a true breakthrough, something that moves the needle.
 
-**Visual Suggestion:** A simple 2x2 matrix: X-axis: "Innovation Type" (Incremental vs. Breakthrough). Y-axis: "Market Impact" (Low vs. High). This illustrates how most effort goes into incremental improvements with low market impact, while breakthrough innovations are rarer but exponentially more impactful.  Most companies operate in the "Incremental, Low Impact" quadrant. Breakthrough innovations, while riskier, are where true value – and significant societal impact – reside. Understanding this distribution is crucial for strategically allocating resources and encouraging bolder experimentation.
-
-
-
 ## The Cultural Shift: "Doing Tech" in the 21st Century
 
 The line between “tech” as a profession and other established fields (law, medicine, engineering, even music) is blurring.  This isn’t just about job titles; it’s about a fundamental shift in how we define work, skillsets, and value. 

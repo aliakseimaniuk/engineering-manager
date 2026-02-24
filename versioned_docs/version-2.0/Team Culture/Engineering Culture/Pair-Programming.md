@@ -21,8 +21,6 @@ Here's how to make the roles more effective:
 * **Strongly Encourage "Rubber Duck Debugging" within the Pair:** Encourage the navigator to actively ask “What are you thinking?” or “Why did you choose that approach?” This forces the driver to articulate their reasoning, often revealing errors in their thought process.
 * **Navigator as "Strategic Planner":** The navigator shouldn't just be looking for syntax errors. They should be thinking about the bigger picture: “How does this fit into the overall architecture?” “Are there any edge cases we haven't considered?” “What impact will this have on other modules or future scalability?”
 
-**Visual Suggestion:** A simple diagram showing the driver/navigator roles with arrows indicating the flow of communication and responsibility.
-
 ## Beyond Driver-Navigator: Different Pairing Styles
 
 The driver-navigator model isn't the only way to pair. Consider these variations:

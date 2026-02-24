@@ -61,9 +61,6 @@ The most important thing you can do as an engineering leader is to *model* async
 * **Respond thoughtfully:**  Take the time to craft well-considered responses to messages.
 * **Resist the urge to schedule unnecessary meetings:**  Challenge yourself to solve problems asynchronously whenever possible.
 
-**Visual Suggestion:** 
-
-![Decision Flowchart: Need to communicate? -> Is it truly urgent? -> Yes: Direct Message/Call -> No: Document & Assign.](https://example.com/async-flowchart.png)  *(Replace with actual image URL)*
 
 ## The Payoff: A More Resilient & Engaged Team
 

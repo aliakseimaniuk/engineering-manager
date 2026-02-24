@@ -40,7 +40,6 @@ Here’s what I’ve learned:
 
 Celebrating successes isn't a one-time event; it's an ongoing investment in your team's culture. It requires intentionality, empathy, and a genuine appreciation for the hard work and dedication of your engineers. It's also important to acknowledge that leaders are often stretched thin, so starting small—even with a simple daily acknowledgment—is better than aiming for grand gestures and falling short. By moving beyond superficial gestures and focusing on what truly matters, you can build a team that is motivated, engaged, and capable of achieving extraordinary things.
 
-**Visual Suggestion:** 
 
 Here's a 2x2 matrix visualizing the different levels of recognition:
 

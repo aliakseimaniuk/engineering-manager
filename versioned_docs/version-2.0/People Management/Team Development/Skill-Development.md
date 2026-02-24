@@ -39,7 +39,6 @@ Okay, so how do we, as managers, foster these often-overlooked skills? Recognizi
 
 I've seen teams become paralyzed by process – rigidly adhering to methodologies without understanding *why*. As Jørgensen and Sjøberg pointed out years ago, teams often focus on *doing things right* instead of *doing the right things*.  They found that an overemphasis on process can stifle innovation and lead to inefficient workflows. We need to empower engineers to adapt methodologies to the specific needs of the project, not the other way around.  This means encouraging experimentation, fostering open communication about what's working and what's not, and being willing to adjust the process as needed.
 
-**Visual Suggestion:** A simple 2x2 matrix with axes labeled "Technical Skill" and "Soft Skill" could illustrate the importance of developing both. Or a diagram showing the feedback loop between "Problem Definition" -> "Exploration" -> "Learning" -> "Improved Problem Definition".
 
 Ultimately, skill development isn’t just about keeping up with the latest technology. It’s about fostering a culture of continuous learning, critical thinking, and collaboration. It’s about empowering engineers to become well-rounded problem-solvers who can thrive in a rapidly changing world. And it’s a responsibility that falls squarely on the shoulders of engineering leaders.
 

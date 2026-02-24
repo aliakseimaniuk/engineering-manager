@@ -30,8 +30,6 @@ CPM isn’t just about identifying the longest path; it's about proactive risk m
 * **Fast Tracking & Crashing:** CPM helps you evaluate the impact of "fast tracking" (doing tasks in parallel that were originally sequential) or “crashing” (adding resources to shorten task duration). You can quickly assess if these options are worth the cost and risk.
 * **What-If Analysis:** CPM allows you to simulate different scenarios. “What if a key engineer gets sick? What if a third-party API changes?” This helps you develop contingency plans.
 
-**Visual Suggestion:** Consider a simple risk matrix overlaid on your CPM diagram. Plot critical path activities on the matrix, assessing their probability of delay and potential impact. This visually highlights the areas that require the most attention.
-
 ## Empowering the Team: Transparency, Collaboration, and Support
 
 CPM, when implemented correctly, should empower your team, not add more pressure.  Implementing CPM effectively requires an upfront investment of time, but the long-term benefits in predictability and risk mitigation are significant. 

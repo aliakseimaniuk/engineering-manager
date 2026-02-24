@@ -20,10 +20,6 @@ The solution isn't to over-communicate every minor detail. It's about establishi
 * **Monthly Deep Dive:** A longer meeting (30-60 minutes) for a more detailed discussion, including demos, Q&A, and strategic alignment. This is where you can surface more complex issues and solicit feedback.
 * **"In-Flight" Notifications (Strategic Use):** Don't flood stakeholders, but proactively flag significant changes or risks *as they emerge*. A quick heads-up is far better than a surprise later.
 
-**Visual Suggestion:** A simple timeline showing the cadence of these updates can be highly effective. A visual reminder of when to expect communication helps build trust and anticipation. 
-
-![Sample Communication Timeline](https://example.com/communication-timeline.png) 
-*(Replace with an actual image or link to a visual example)*
 
 ## Why This Works: The Psychology of Trust
 

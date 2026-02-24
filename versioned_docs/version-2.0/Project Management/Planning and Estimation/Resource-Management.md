@@ -26,7 +26,6 @@ Moving to a proactive approach requires two core components: **Capacity Planning
 * **Track Ongoing Commitments:** Beyond current projects, know what each engineer is committed to in the near future. This includes on-call rotations, code reviews, and mentorship responsibilities.
 * **Forecast Future Needs:** Collaborate with product and stakeholders to get a realistic roadmap. Even a high-level understanding of upcoming projects allows you to anticipate resource constraints.  Regularly scheduled roadmap refinement meetings, or even a shared document outlining priorities, can greatly facilitate this collaboration.
 
-**Visual Suggestion:** A simple Gantt chart or Kanban board visualizing team capacity and commitments can be incredibly helpful. Consider using color-coding to visually represent workload or skill sets directly on the visualization.
 
 **2. Skill Matrix:** This is a table mapping your team’s skills to specific areas of expertise. It doesn't need to be overly complex; a simple rating system (e.g., Beginner, Intermediate, Expert) is sufficient. 
 

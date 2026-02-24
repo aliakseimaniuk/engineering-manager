@@ -18,8 +18,6 @@ The proliferation of standards isn’t necessarily a bad thing. It reflects expe
 
 These challenges underscore the importance of thoughtful consideration and strategic decision-making. It’s not simply about choosing *a* standard; it’s about choosing the standard that best aligns with your team's goals, resources, and long-term vision.
 
-**Visual Suggestion:** A simple diagram showing a spectrum ranging from "Highly Standardized" to "Highly Innovative" with pros and cons listed under each. This helps illustrate the trade-offs inherent in standardization.
-
 ## Leading Through the Messiness
 
 So, what can an engineering leader do? Here's how to navigate the world of technical standards effectively:

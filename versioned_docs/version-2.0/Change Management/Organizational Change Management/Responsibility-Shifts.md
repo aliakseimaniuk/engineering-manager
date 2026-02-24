@@ -16,9 +16,6 @@ This isn’t malicious intent. It's a symptom of pressure, tight deadlines, and 
 
 The input correctly highlights that tighter role definitions – often touted as benefits of certain methodologies – can *exacerbate* this. When everyone is narrowly defined, *someone* has to bridge the gaps, resolve conflicts, and absorb the risk. And too often, that “someone” is the person closest to the code.
 
-**Visual Suggestion:** A simple diagram showing a downward arrow labeled "Responsibility" starting at the 'Stakeholder/Management' level and ending at the 'Developer' level. Each level could have a small icon representing the type of task being pushed down (e.g., question mark for ambiguous requirements, wrench for bug fixes).
-
-
 
 ## The Illusion of Methodology
 

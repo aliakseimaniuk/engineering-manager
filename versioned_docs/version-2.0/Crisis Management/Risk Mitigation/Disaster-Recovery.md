@@ -45,5 +45,3 @@ I’ve seen firsthand that organizations that prioritize resilience aren’t jus
 * **Embrace Blameless Postmortems:** Foster a culture of learning from failures, not assigning blame.
 * **Invest in Cross-Functional Training:** Broaden understanding across teams to improve response times and reduce single points of failure.
 * **Continuously Improve:** Disaster recovery is an ongoing process, not a one-time project.
-
-**Visual Suggestion:** A simple diagram illustrating the shift from traditional "reactive" DR to a "proactive" resilience model, showing feedback loops for learning and improvement. A visual could also depict the layers of resilience – people, processes, and technology – working together.

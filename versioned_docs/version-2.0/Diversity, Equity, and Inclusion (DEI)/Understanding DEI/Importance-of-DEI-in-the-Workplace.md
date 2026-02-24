@@ -14,8 +14,6 @@ A homogenous team, however brilliant, will inevitably miss crucial perspectives.
 
 I remember a project early in my career where we were building a scheduling tool. The team, largely comprised of people who worked traditional 9-to-5 jobs, built a system heavily reliant on standard work hours. It took a new team member – a parent juggling childcare and a partner with a non-traditional work schedule – to point out the glaring limitations and advocate for features that accommodated diverse lifestyles. That single voice saved us from launching a product that would have alienated a significant portion of our target audience.
 
-**Visual Suggestion:** A simple diagram illustrating the concept of blind spots. Think of a circle representing a team’s collective knowledge, with shaded areas representing blind spots – areas of knowledge or perspective they lack.
-
 ## Equity: Beyond Equal Opportunity
 
 Diversity is about *who* is on the team. Inclusion is about making sure everyone has a voice. But *equity* is about acknowledging that not everyone starts from the same place and providing the support and resources needed to level the playing field.
@@ -32,8 +30,6 @@ This translates into things like:
 I've seen equity in action transform careers. A talented engineer on my team, a single mother returning to the workforce after a career break, was initially hesitant to take on challenging projects. Through a combination of mentorship, flexible work arrangements, and intentional opportunities to showcase her skills, she not only excelled but became a technical leader on the team. 
 
 It’s important to acknowledge that even well-intentioned programs like mentorship and sponsorship can fall short if not implemented thoughtfully. Tokenism, where individuals are selected for visibility without genuine support, and overburdening mentors with unrealistic expectations, can undermine the effectiveness of these initiatives. Careful planning and ongoing evaluation are critical.
-
-**Visual Suggestion:** A simple graphic illustrating the difference between mentorship and sponsorship.  (e.g. Mentorship - guiding, advising; Sponsorship - advocating, opening doors)
 
 ## The "Coder" and the Burden of Undefined Responsibilities
 

@@ -74,7 +74,3 @@ So, how do you increase velocity without sacrificing quality? Here’s what I’
 Hiring velocity isn’t about reaching a certain number of hires per month. It’s about building a high-performing engineering team that can consistently deliver value. 
 
 Focus on building a robust, efficient hiring process, measuring quality *alongside* speed, and creating a culture that attracts and retains top talent. This isn't a sprint; it's a marathon. 
-
-**Visual Suggestion:** A simple graph showing "Hiring Velocity" on the Y-axis and "Quality of Hire" on the X-axis. This visually emphasizes that the goal isn't just speed; it’s a combination of both. A sweet spot would be top-right, indicating high velocity *and* high quality.
-
-**To start improving your team's hiring velocity, begin by refining your ideal candidate profile, and schedule a meeting with your team to discuss the skills and experience that are *absolutely* essential.**

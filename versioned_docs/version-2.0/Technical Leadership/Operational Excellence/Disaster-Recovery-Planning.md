@@ -19,7 +19,6 @@ Most teams immediately jump to thinking about data loss or server outages. Those
 
 Understanding *all* potential failure points is the first step. Consider a simple risk assessment for each, rating the probability and potential impact.
 
-**Visual Suggestion:** A simple 2x2 matrix (Probability vs. Impact) can quickly highlight the highest priority disaster scenarios to focus on.
 
 ## 2. RTO and RPO: The Core of Your Plan
 

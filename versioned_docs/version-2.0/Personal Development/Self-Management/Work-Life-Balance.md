@@ -42,7 +42,3 @@ Understanding your own energy levels throughout the day and scheduling demanding
 As a final thought, remember this: doing great work isn't just about being productive; it's about being *sustainable*. By embracing the focus-relax cycle, we can build engineering teams that are not only high-performing but also happy, healthy, and resilient. 
 
 What's one small step you can take this week to protect your team's focus time?
-
-
-
-**Visual Suggestion:** A simple diagram illustrating the ebb and flow of the focus-relax cycle. A sine wave or cyclical chart could effectively convey the idea of alternating periods of intense work and deliberate recovery, visually representing fluctuating energy levels with each phase.

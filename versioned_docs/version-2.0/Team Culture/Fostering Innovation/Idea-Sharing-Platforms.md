@@ -80,7 +80,3 @@ Implementing an idea-sharing platform isn’t about adding another tool to your 
 By combining the right tools with a culture of psychological safety and open communication, you can transform your team from a group of individuals into a powerful engine of innovation. And that, ultimately, is the most valuable investment you can make.
 
 **To get started today, schedule a 30-minute team brainstorm to identify pain points in your current idea-sharing process and discuss what a better system might look like.**
-
-[Image: A simple cartoon depicting a lost idea – perhaps a lightbulb fading away in the darkness – to visually reinforce the problem.]
-
-**Visual Suggestion:** A simple flowchart showing the lifecycle of an idea: Idea Submission -> Review/Discussion -> Prioritization -> Implementation -> Outcome Analysis. This could be shared alongside the article to illustrate the process.

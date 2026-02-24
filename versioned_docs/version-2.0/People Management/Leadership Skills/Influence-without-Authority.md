@@ -56,5 +56,3 @@ Ultimately, the most powerful influence comes from building genuine connections 
 Influence without authority isn’t a tactic; it’s a leadership philosophy. It requires patience, empathy, and a genuine commitment to helping others succeed. It's about creating a culture where people *want* to follow you, not because they *have* to, but because they believe in your vision and respect your character. 
 
 Start by identifying one small way you can build greater connection with your team this week, and observe the impact it has on your ability to influence outcomes.
-
-**Visual Suggestion:** A simple diagram illustrating the three pillars (Credibility, Connection, Contribution) as overlapping circles, with "Influence" at the intersection. This visually reinforces the idea that these elements work together to create lasting impact.

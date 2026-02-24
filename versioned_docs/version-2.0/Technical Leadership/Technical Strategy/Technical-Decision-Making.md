@@ -26,7 +26,7 @@ I've found a four-step process consistently delivers better results. It's not ov
 *   **Risk:** What are the potential failure points, and how likely are they?
 *   **Alignment:** How well does the solution align with the overall technical strategy and business goals?
 
-   **Visual Suggestion:** A simple decision matrix, listing options as rows and criteria as columns, with ratings (e.g., 1-5) for each cell, can be incredibly helpful. Here’s a simplified example:
+   A simple decision matrix, listing options as rows and criteria as columns, with ratings (e.g., 1-5) for each cell, can be incredibly helpful. Here’s a simplified example:
 
    | Option | Cost (1-5) | Complexity (1-5) | Scalability (1-5) | Total |
    |---|---|---|---|---|

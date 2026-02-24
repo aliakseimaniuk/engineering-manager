@@ -24,8 +24,6 @@ Instead, shift your focus to **outcomes**. What demonstrable benefit will this w
 * **Track Key Metrics:** Identify the metrics that indicate whether you’re achieving your objectives. This could be daily active users, error rates, or revenue.
 * **Celebrate Impact, Not Just Output:** Recognize and reward the team for delivering tangible results, not just for completing tasks.
 
-**Visual Suggestion:** Consider a simple "Impact/Effort" matrix to prioritize features and track their actual impact after release.
-
 ## The Power of Incremental Advances (and Detecting Stalls)
 
 As the input mentions, making "incremental advances" is vital. Big bang releases are risky and delay feedback. (As highlighted in Lean principles) Break down large features into smaller, deliverable increments. This allows you to:

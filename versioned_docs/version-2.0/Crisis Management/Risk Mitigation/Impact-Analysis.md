@@ -57,15 +57,3 @@ Implementing Impact Analysis isn’t always straightforward. Common obstacles in
 Impact Analysis isn't about predicting the future; it’s about preparing for it. By shifting from a reactive, firefighting mindset to a proactive, preventative approach, you can significantly reduce the risk of crises, improve system reliability, and build a more resilient engineering organization. It’s an investment in long-term stability and a critical component of effective crisis management. 
 
 **To get started, pick one critical service and map out its dependencies as a first step.** This small action can have a significant impact on your organization’s resilience.
-
-
-
-**Visual Suggestion:** A diagram illustrating the ripple effect of a change, showing the various services and stakeholders affected, and the severity of the impact on each. Alternatively, a flowchart outlining the Impact Analysis framework described above.
-
----
-
-**References:**
-
-*   Keil, T., Grinter, R., & Johnson, P. (1998). Understanding software project risks: A practical guide for project managers. *IEEE Software, 15*(5), 52–61.
-*   Lehtinen, E. (2011). Root cause analysis: A handbook. CRC press.
-*   Lehtinen, E. (2014). Practical root cause analysis: A definitive guide to identifying and fixing real problems. ASQ Quality Press.

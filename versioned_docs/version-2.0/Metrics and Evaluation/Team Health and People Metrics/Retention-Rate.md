@@ -23,8 +23,6 @@ Retention isn't a single number. It’s crucial to segment it for meaningful ins
 * **Cohort Analysis:** *This is where it gets really interesting*. Track retention rates for groups of users who signed up during the same period (e.g., users who signed up in January). This reveals how changes to your product impact different groups of users over time.
 * **Feature-Based Retention:** Are users who adopt a specific feature more likely to stick around? This highlights features driving long-term value.
 
-**Visual Suggestion:** A cohort analysis graph showing retention curves for different cohorts (e.g., before/after a major feature release) would visually demonstrate the power of this technique.
-
 ## What Engineering Managers Can Do: Building a Retention-Focused Culture
 
 Here’s how you can move beyond simply reporting the retention number to *actively influencing* it:

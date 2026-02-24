@@ -22,8 +22,6 @@ The 17 SDGs cover a broad spectrum – from poverty and hunger to climate action
 * **SDG 12: Responsible Consumption and Production:** This is about minimizing waste and maximizing resource efficiency. For engineering, it means optimizing code for performance, reducing server costs (and energy consumption), and designing for longevity and maintainability.
 * **SDG 13: Climate Action:** This goal is increasingly urgent. Consider the carbon footprint of your infrastructure, optimize algorithms for energy efficiency, and explore opportunities to leverage data for environmental monitoring and conservation. 
 
-**Visual Suggestion:** A simple matrix mapping each SDG to potential engineering-focused initiatives could be a valuable tool for brainstorming.  Consider categorizing initiatives by development phase (Design, Development, Testing) within the matrix for greater structure.
-
 ## A Framework for Integrating SDGs into Your Team’s Workflow
 
 Here's a practical, phased approach to help your team integrate SDGs:

@@ -26,8 +26,6 @@ Throughput offers a more tangible and reliable way to measure team performance. 
 
 The key is to choose a unit of work that directly reflects *value delivered* to the end user or the business. It’s important to define these "units of work" clearly as discrete, measurable deliverables.
 
-**Visual Suggestion:** A simple line graph charting throughput (units of work completed) over time. This immediately shows trends and helps identify potential bottlenecks or improvements. Look for plateaus indicating bottlenecks, or dips correlating with specific events.
-
 ## How to Implement Throughput Tracking
 
 1. **Define Your Units of Work:**  Be specific and consistent. Avoid ambiguity. "Feature" is too broad; "Implemented user authentication with two-factor support" is better.

@@ -12,8 +12,6 @@ This is flawed. The diversity *is* valuable, but it’s only a benefit if the te
 
 Think about a recent experience I had. We were launching a new feature and assembled a cross-functional team. Initial meetings were frustrating. The marketing team kept focusing on crafting the perfect launch message, while engineering wrestled with technical feasibility, and product championed a long list of desired features. It felt like everyone was talking *at* each other, not *with* each other. It wasn’t until we reframed the goal – not as “launching a feature,” but as “reducing user onboarding friction” – that things clicked. Suddenly, we weren't just talking *at* each other; we were collectively brainstorming how to solve a *specific* user pain point.
 
-**Visual Suggestion:** A simple diagram contrasting a "siloed" approach (departments working independently) with a truly cross-functional approach (a team focused on a shared problem).
-
 ## Building the Foundation: Trust, Clarity, and Shared Ownership
 
 So, how do you move beyond the buzzword and build teams that actually function? Here are three key principles:

@@ -39,14 +39,3 @@ Automation is *essential*, but it's a means to an end, not the end itself. Here 
 Don't fall into the trap of chasing the latest shiny tools. Focus on building a culture of collaboration, shared responsibility, and continuous learning. That's the real power of DevOps. 
 
 To start, assess your current team structure and identify opportunities to foster shared responsibility.  Consider how you can break down silos and align metrics – these are the foundations of a truly effective DevOps practice.  A quick win is to schedule a cross-functional working session to map out the current deployment process and identify areas where handoffs create friction.
-
-
-
-**Visual Suggestion:** A simple diagram illustrating the shift from traditional silos to a cross-functional, collaborative DevOps model. Emphasize communication flow rather than just team shapes to highlight the importance of collaboration.
-
-**Resources:**
-
-* [DevOps is a Myth](http://otomato.link/devops-is-a-myth/)
-* [Pantheon.io](https://pantheon.io/)
-* [Dev.to](https://dev.to/)
-* [Flightcontrol.dev](https://flightcontrol.dev/)

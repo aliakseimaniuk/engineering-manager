@@ -55,7 +55,6 @@ While tools like MeisterTask, Ora, Teaminal, or even integration with GitHub/Tre
 
 I also believe in the power of retrospectives. Not just sprint retrospectives, but *team-level* retrospectives focused on how the team collaborates, communicates, and coordinates.  What specific questions should these retrospectives address? Consider focusing on questions like: “How effectively are we communicating across teams? What roadblocks are hindering our collaboration?” Further research could help us identify which retrospective practices have the biggest impact on team coordination. 
 
-**Visual Suggestion:** A simple diagram contrasting “Coordination Friction” (lots of arrows going every which way, representing interruptions and miscommunication) with “Smooth Coordination” (clear, direct lines of communication and shared understanding).
 
 ## Final Thoughts
 

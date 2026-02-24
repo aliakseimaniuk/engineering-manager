@@ -8,7 +8,6 @@ This article focuses on going beyond the surface-level ‘how-to’ of remote wo
 
 The biggest hurdle in remote management isn't technology; it’s *proximity bias*. When we're co-located, we naturally gravitate towards those we see most often. Information flows more freely, and unconscious assumptions about contribution and engagement form quickly. Remote work eliminates those casual interactions, making it far easier for individuals to become ‘out of sight, out of mind.’ This can lead to unequal opportunities, overlooked contributions, and ultimately, disengagement. 
 
-**Visual Suggestion:** A simple two-column graphic. One column labeled “Co-Located” showing people visibly interacting. The other labeled “Remote” showing fragmented shapes or disconnected lines representing communication breakdown, rather than just dots. This visually emphasizes the potential for disconnection and communication loss.
 
 ## Building Trust – The Foundation of Remote Success
 

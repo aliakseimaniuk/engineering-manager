@@ -28,8 +28,6 @@ Before scheduling *any* meeting, ask yourself:
 
 If you can't clearly articulate the purpose and outcome, *don't schedule the meeting*. It's that simple. 
 
-**Visual Suggestion:** A simple "Meeting Brief" template:
-
 | **Meeting Title:** | **Date/Time:** |
 |---|---|
 | **Purpose:** | **Desired Outcome:** |

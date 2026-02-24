@@ -34,5 +34,3 @@ So, what can you *do*? Here's a framework focusing on empowerment, technical hea
 There's a temptation to implement complex wellness programs or elaborate tracking systems. But sometimes, the most effective solutions are the simplest ones: *listen to your people, empower them, and prioritize their well-being.* 
 
 Burnout isn’t just a human resources problem; it’s a leadership challenge. By proactively addressing the root causes of burnout, you’ll create a more engaged, productive, and sustainable engineering team. And that, ultimately, is the best way to build a successful product.
-
-**Visual Suggestion:** A simple 2x2 matrix illustrating the “Burnout Prevention Quadrants” – Agency/Ownership vs. Technical Health/Sustainability. This would visually represent the key areas leaders should focus on. Each quadrant could include example actions leaders can take to address issues within that area.

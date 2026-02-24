@@ -28,8 +28,6 @@ Yes, tracking demographic data is still crucial. But go deeper.
 * **Intersectionality:** Don't just look at single dimensions of diversity. How do different identities intersect and create unique experiences?  
 * **Distribution Across Roles:**  Are diverse engineers concentrated in certain roles or levels?  A lack of diversity in leadership positions is a critical signal. 
 
-**Visual Suggestion:** A stacked bar chart showing the demographic distribution across different job levels (e.g., junior, mid-level, senior, manager, director). This quickly highlights imbalances.
-
 **2. Belonging – The Hardest Metric to Capture**
 
 This is where things get tricky. Belonging is subjective, but it’s arguably the *most* important indicator of a healthy and inclusive culture. How do you measure something you can’t see?
@@ -45,7 +43,7 @@ Representation is only meaningful if diverse engineers have equal opportunities 
 
 * **Promotion Rates:**  Are promotion rates equitable across all demographic groups?  Investigate any disparities.
 * **Access to High-Visibility Projects:**  Are diverse engineers being given opportunities to work on challenging and impactful projects that will advance their careers?
-* **Mentorship & Sponsorship:**  Are there robust mentorship and sponsorship programs to support the development of diverse engineers? (Sponsorship is *different* from mentorship – sponsors actively advocate for their proteges; learn more about the distinction from resources like this Harvard Business Review article: [https://hbr.org/2013/07/how-sponsorship-works](https://hbr.org/2013/07/how-sponsorship-works)).
+* **Mentorship & Sponsorship:**  Are there robust mentorship and sponsorship programs to support the development of diverse engineers?
 * **Participation in leadership development programs:** Ensure diverse engineers are nominated for and participate in leadership development programs.
 
 

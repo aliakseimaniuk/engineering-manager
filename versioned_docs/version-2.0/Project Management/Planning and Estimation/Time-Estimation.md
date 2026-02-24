@@ -24,7 +24,6 @@ Gut feeling has its place, especially for experienced engineers, but it shouldn'
 * **Three-Point Estimation (PERT):** This technique takes into account best-case, worst-case, and most likely estimates. The formula is: `(Optimistic + 4 * Most Likely + Pessimistic) / 6`. It forces you to consider potential roadblocks and provides a more robust estimate. It’s not just about doing the math; it’s about proactively identifying what could go wrong and building that uncertainty into your forecast.
 * **Buffer for the Unknown:** Always add a buffer to your estimates. This isn't about padding the numbers; it's about acknowledging the inherent uncertainty in software development and responsible planning. A 10-20% buffer is a good starting point, but adjust based on the project's risk profile.
 
-**Visual Suggestion:** A simple chart comparing estimates generated with a single point estimate vs. a three-point estimate. Show the range and how it can lead to more realistic expectations. Consider also illustrating the impact of *not* using ranges – a graph showing a project timeline with optimistic vs. realistic (range-based) estimates would be powerful.
 
 ## Managing Expectations: The Real Challenge
 

@@ -14,7 +14,6 @@ I've found this isn’t something you *achieve*, but something you *engineer* in
 
 Think of it like a factory. If the machines run constantly at max capacity, they break down. Scheduled maintenance, even short breaks, are essential. Similarly, *you* need scheduled "maintenance" – time for true disengagement, recharging, and perspective. 
 
-**Visual Suggestion:** A simple sine wave graph. The x-axis represents time. The y-axis represents "Energy/Focus". The wave peaks and troughs illustrate the natural cycle of focused work and restorative relaxation. This visualization helps to emphasize that dips in energy are *natural and necessary* for sustained performance, not signs of weakness.
 
 ## Engineering Your Routine: Practical Steps
 
@@ -37,11 +36,3 @@ This experience reinforced the importance of the post-incident reflection loop. 
 The engineering manager's role is inherently dynamic. Crises are inevitable. Instead of striving for an impossible state of constant calm, focus on building a resilient routine that allows you to navigate stress effectively.  
 
 Embrace the focus-relax cycle.  Learn from your mistakes.  And remember that a truly effective leader doesn’t just extinguish fires; they build a system that’s less likely to ignite in the first place.
-
-**To get started, this week, block out 30 minutes for deliberate recovery each day. Start small, and build from there.**
-
-**Resources for Further Learning:**
-
-*   **"Antifragile" by Nassim Nicholas Taleb:** A foundational text on building resilience.
-*   **"The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford:** A novel illustrating DevOps principles and incident response.
-*   **Root Cause Analysis Resources:** [https://www.reliablemd.com/root-cause-analysis/](https://www.reliablemd.com/root-cause-analysis/)

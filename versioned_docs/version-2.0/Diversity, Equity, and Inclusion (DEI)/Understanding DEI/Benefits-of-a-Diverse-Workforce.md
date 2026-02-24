@@ -14,9 +14,6 @@ Homogenous teams – those lacking diversity in background, experience, and thou
 
 I remember leading a team building a mobile application. The team was overwhelmingly composed of developers who had previously worked on similar apps. We hit a roadblock with user accessibility. It wasn’t a technical challenge; it was a lack of perspective. We hadn't adequately considered the needs of users with visual or motor impairments.  We were so focused on building a technically elegant solution, that we overlooked a crucial segment of our potential user base.  Bringing in a consultant with expertise in accessibility and a different lived experience was a turning point.  She didn’t just identify the technical issues; she fundamentally changed how we approached the problem. She facilitated a workshop where we *experienced* the challenges faced by users with disabilities, leading to a redesigned interface that significantly improved usability for *all* users. 
 
-**Visual Suggestion:** A diagram contrasting a homogenous team (circles all the same color, closely clustered) with a diverse team (circles of varying colors, overlapping and connected, with lines indicating more frequent and varied communication) to illustrate the flow of ideas.
-
-
 
 ## Beyond Demographics: The Different Dimensions of Diversity
 

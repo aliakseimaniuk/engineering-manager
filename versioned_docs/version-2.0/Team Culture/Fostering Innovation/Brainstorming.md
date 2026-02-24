@@ -24,7 +24,6 @@ Here are a few techniques I’ve found significantly more effective with enginee
 **1. Brainwriting (6-3-5 Method):** This is my go-to. Each participant writes down three ideas on a piece of paper in five minutes.  Then, they pass their paper to the next person, who builds *on* those ideas. Repeat until everyone has contributed to every paper.  
 
 * **Why it works:**  It levels the playing field, forces building on existing concepts (encouraging iteration), and generates a surprisingly large number of ideas quickly.  It’s also less intimidating for introverted team members. This anonymity also fosters psychological safety, encouraging broader participation.
-* **Visual Suggestion:** A simple diagram showing the paper passing sequence can help visualize the iterative process and keeps everyone engaged.
 
 **2.  Worst Possible Idea:**  Start by asking the team to brainstorm the *worst* possible solutions to the problem. This seemingly counterintuitive approach removes the pressure of coming up with “good” ideas and unlocks creativity.  Often, in the process of identifying bad ideas, surprisingly good ones emerge.
 
@@ -34,7 +33,6 @@ Here are a few techniques I’ve found significantly more effective with enginee
 **3.  SCAMPER:** A checklist that prompts you to think about how to improve an existing product or solution by asking questions related to: **S**ubstitute, **C**ombine, **A**dapt, **M**odify/Magnify/Minimize, **P**ut to other uses, **E**liminate, **R**everse. 
 
 * **Why it works:** Provides a structured framework to systematically explore different improvement avenues.  Especially useful when you’re stuck in a rut.
-* **Visual Suggestion:** A simple SCAMPER grid or checklist.
 
 **4.  Silent Brainstorming + Dot Voting:**  Have everyone silently write down their ideas on sticky notes for a set amount of time. Then, each person gets a limited number of "dots" (stickers or markers) to vote for the ideas they think have the most potential.
 

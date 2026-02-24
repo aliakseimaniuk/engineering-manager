@@ -14,8 +14,6 @@ The first challenge is defining what "sustainability" *means* for your team. It'
 * **Product Longevity & Circularity:** Are we designing products for durability, repairability, and eventual reuse or recycling?
 * **Social Impact:** How does our work impact the communities we serve, both positively and negatively?
 
-**Visual Suggestion:** A simple radar chart with these pillars as axes can be a powerful way to visualize your team's current state and track progress over time. Consider creating a baseline chart for your team to highlight areas for improvement.
-
 ## Beyond Vanity Metrics: What to Measure (and Why)
 
 Once you’ve identified your key areas, you need to define *how* you’ll measure progress. Avoid focusing solely on “vanity metrics” – numbers that look good but don't reflect real impact. For example, reporting the number of “eco-friendly” features implemented is less meaningful than tracking the actual reduction in energy consumption those features achieve. Here are a few actionable examples, tailored for engineering teams:
@@ -34,7 +32,7 @@ Once you’ve identified your key areas, you need to define *how* you’ll measu
 Collecting data is only half the battle. You need to report it in a way that’s clear, concise, and actionable. Here’s where many organizations fall short:
 
 * **Internal Reporting:** Don't bury sustainability data in lengthy reports. Use dashboards and visualizations to highlight key trends and areas for improvement. Share this information with the entire team to foster a culture of sustainability.
-* **External Reporting:** Be transparent about your efforts. Publish a sustainability report that outlines your goals, progress, and challenges. Consider adopting a recognized reporting framework like the Global Reporting Initiative (GRI) ([https://www.globalreporting.org/](https://www.globalreporting.org/)) or the Sustainability Accounting Standards Board (SASB) ([https://www.sasb.org/](https://www.sasb.org/)). Avoid greenwashing – be honest about areas where you need to improve.
+* **External Reporting:** Be transparent about your efforts. Publish a sustainability report that outlines your goals, progress, and challenges.
 * **The Power of Retrospectives:** Integrate sustainability considerations into your regular sprint retrospectives. Ask questions like: "What could we have done differently to reduce waste?" or "How can we improve the energy efficiency of our processes?"
 
 ## The Pitfalls to Avoid

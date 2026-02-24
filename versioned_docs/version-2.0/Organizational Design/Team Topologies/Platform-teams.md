@@ -28,10 +28,6 @@ So, how do you identify those genuine pain points? Here's a framework I’ve fou
 
 3. **Prioritize Based on Impact & Frequency:** Focus on the problems that impact the most teams and consume the most time.  A good rule of thumb is to prioritize issues that could potentially free up at least 20% of engineers’ time, though this will vary depending on the context.
 
-**Visual Suggestion:** A simple Pareto chart illustrating the frequency of different toil categories can be a powerful communication tool.
-
-
-
 ## Defining the Scope of Your Platform Team
 
 Once you’ve identified the problems, it’s time to define the scope of your platform team. This is critical. Resist the urge to boil the ocean. Start small and iterate.  

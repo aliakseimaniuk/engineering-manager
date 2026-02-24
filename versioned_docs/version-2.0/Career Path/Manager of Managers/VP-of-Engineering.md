@@ -12,8 +12,6 @@ Becoming a VP shifts *again*. Now, your primary goal isn't *what* gets built, bu
 
 I remember early in my career, obsessing over a particularly tricky bug fix. It consumed me for a weekend. As a VP, that same situation would require me to ask: "What systemic issue allowed this bug to reach production? What processes need improvement? What training do our engineers need?" The focus shifts from *solving* the problem to *preventing* it.
 
-**Visual Suggestion:** A simple diagram contrasting the responsibilities of an individual contributor, an engineering manager, and a VP of Engineering, highlighting the increasing focus on systems and organization.
-
 ## The Core Competencies: Beyond Technical Prowess
 
 Technical skill is a baseline requirement. A VP of Engineering *needs* to understand the technical landscape, but their core competencies lie elsewhere. Let's break down what those are:

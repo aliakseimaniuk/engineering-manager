@@ -32,8 +32,6 @@ The foundation is a detailed skill matrix. Don’t just list technologies; map *
 
 This isn't about ranking people; it’s about understanding *who knows what*, and *who can quickly ramp up* on a critical system. This allows you to assemble the right response team quickly. Crucially, maintaining this matrix is an ongoing effort. Skills evolve, people join and leave, and systems change.  Plan for quarterly updates and dedicate time to ensure its accuracy.
 
-**Visual Suggestion:** A heatmap visualization of the skill matrix, with color intensity representing expertise level, can quickly highlight critical skill gaps.
-
 **2. Optimized On-Call Rotation: Beyond “It’s Your Turn”**
 
 On-call is often seen as a necessary evil. A well-structured rotation is crucial for emergency response. Here’s where we go beyond simply rotating through the team:
@@ -62,8 +60,6 @@ Effective incident response requires the right tools and clear communication cha
 * **Incident Management Platform:** Tools like PagerDuty, Opsgenie, or even basic ticketing systems are crucial for tracking and resolving incidents. Consider how these tools integrate with your on-call rotation and communication channels.
 * **Communication Channels:**  Establish clear communication channels (Slack, dedicated incident channels) for rapid response. Ensure everyone knows *where* to go for critical updates.
 * **Runbooks:**  Develop "runbooks" – step-by-step guides for common incidents. These should be easily accessible and regularly updated.
-
-
 
 
 **Free Plan Considerations:** When selecting tools, be mindful of scalability. Free plans can be a good starting point, but may lack features needed for robust incident management as your team grows.

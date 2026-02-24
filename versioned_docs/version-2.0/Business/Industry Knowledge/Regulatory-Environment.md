@@ -36,10 +36,6 @@ I've found that a layered approach works best:
 
 This approach connects directly to translating regulations into technical requirements; the central policy defines *what* needs to be compliant, while shared services and team ownership determine *how* to achieve compliance through technical implementation.
 
-**Visual Suggestion:** A simple diagram illustrating the layered governance model: a central "Regulatory Policy" layer, a "Shared Services" layer providing tools, and multiple "Team" layers responsible for implementation. (See diagram below)
-
-[Diagram would be inserted here - depicting layered governance] 
-
 ## Beyond Compliance: The Opportunity for Competitive Advantage
 
 Treating regulation as merely a cost center is a mistake. Increasingly, compliance can be a *competitive differentiator*. Companies that proactively embrace regulation and build trust with their customers are more likely to succeed in the long run. 

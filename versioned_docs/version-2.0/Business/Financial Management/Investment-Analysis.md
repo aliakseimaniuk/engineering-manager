@@ -26,7 +26,6 @@ Let’s break down the core concepts without getting lost in complex formulas.
 * **Market Segmentation:** Understanding your target audience and the size of the potential market. For startups, dominating a niche market (e.g., a specific type of embedded system) can be more strategic than trying to be everything to everyone. Focus on capturing a significant share of a smaller market before expanding.
 * **Control vs. Wealth:** This distinction, often discussed in venture capital circles, is critical. Are you building a company to maintain control (often leading to slower but more stable growth), or to maximize wealth through a rapid exit (like an acquisition)? This significantly impacts investment decisions. A company prioritizing control might focus on long-term sustainability, while one seeking wealth might prioritize rapid growth and scalability.
 
-**Visual Suggestion:** A simple table comparing projects based on ROI, Payback Period, and potential impact on strategic goals.
 
 ## Applying Investment Analysis to Engineering Decisions
 
